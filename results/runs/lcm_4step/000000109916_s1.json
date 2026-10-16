@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_4step",
+    "method": "lcm",
+    "steps": 4,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "9ec22cf595f8b833bea186b1ab867b1ae0fab3debca422e4ad0a7028793290a0",
+  "image_id": 109916,
+  "seed_index": 1,
+  "seed": 2245833,
+  "prompt": "Twp cake pans sitting and cooling on the stove",
+  "path": "results/runs/lcm_4step/000000109916_s1.png",
+  "sha256": "7a046a2f9d77e36afad540e2389436fe26ad84f45d1c372c91b9c8f3529da4c7",
+  "latency_s": 1.834384098998271,
+  "peak_allocated_mib": 9947.8427734375,
+  "peak_reserved_mib": 12650.0
+}

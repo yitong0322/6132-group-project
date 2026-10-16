@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_2step",
+    "method": "lightning",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "c9f1d7562e2c721c6f9d933bd0ebaabec8feb143758b08fb930248cd7d3e3ae6",
+  "image_id": 58384,
+  "seed_index": 0,
+  "seed": 2142768,
+  "prompt": "A herd of elephants standing next to each other.",
+  "path": "results/runs/lightning_2step/000000058384_s0.png",
+  "sha256": "690305c90c1aac279e384465fe77060a8ea21f5591c29c1c982b7ca05b5ca4de",
+  "latency_s": 1.4446024270000635,
+  "peak_allocated_mib": 9948.2958984375,
+  "peak_reserved_mib": 12632.0
+}

@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_clean",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "clean",
+    "strength": 1.5
+  },
+  "config_hash": "66b43ec0d0e6b23b0522fd655cf1655236bdd2a53d75e7fff42de6022e9c484b",
+  "image_id": 546826,
+  "seed_index": 1,
+  "seed": 3119653,
+  "prompt": "A pink and green marker, next to another object. ",
+  "path": "results/runs/controlnet_clean/000000546826_s1.png",
+  "sha256": "8e28dab65f0326b541b9c99073068a15a4d41c8a270a939319ed1776814d13f4",
+  "latency_s": 2.7407231940014753,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

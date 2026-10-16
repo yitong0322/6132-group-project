@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase50",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "896b5ee20f16dbe54a8a8a0f8cbb30f7dfda77457ef77ac9d5f01f8363335ce2",
+  "image_id": 236845,
+  "seed_index": 1,
+  "seed": 2499691,
+  "prompt": "a red and white sign a car and some buildings",
+  "path": "results/runs/adapter_erase50/000000236845_s1.png",
+  "sha256": "44daf5f92d9d32e2005ac035b3c17af19a82dc978a739f7eb3af6218f7138a41",
+  "latency_s": 1.9877422809950076,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

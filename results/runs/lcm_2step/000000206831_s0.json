@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_2step",
+    "method": "lcm",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "662eb0b62259031ebfd05061cc22cf9622a52f075eeb20943184e3e52cfbc947",
+  "image_id": 206831,
+  "seed_index": 0,
+  "seed": 2439662,
+  "prompt": "A large brown dog holding a neon frisbee in his mouth.",
+  "path": "results/runs/lcm_2step/000000206831_s0.png",
+  "sha256": "fd15959466ac072be9c3f2236014d64b3d8f0424c9235bc9da829bd1c217ffc5",
+  "latency_s": 1.4457999559963355,
+  "peak_allocated_mib": 9948.0927734375,
+  "peak_reserved_mib": 12650.0
+}

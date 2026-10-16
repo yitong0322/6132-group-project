@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_8step",
+    "method": "lcm",
+    "steps": 8,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "feddce4cdbe9647508117b127ff6e71f47b840f02764b4ba859667a4e90c6edf",
+  "image_id": 260925,
+  "seed_index": 1,
+  "seed": 2547851,
+  "prompt": "A cat sitting on the hood of a car.",
+  "path": "results/runs/lcm_8step/000000260925_s1.png",
+  "sha256": "717a5f63cfacb477d0dd02a68144086ec29b2bcf00ce687d63dc447f211e414a",
+  "latency_s": 2.608255493993056,
+  "peak_allocated_mib": 9947.3427734375,
+  "peak_reserved_mib": 12650.0
+}

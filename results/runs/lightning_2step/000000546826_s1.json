@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_2step",
+    "method": "lightning",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "c9f1d7562e2c721c6f9d933bd0ebaabec8feb143758b08fb930248cd7d3e3ae6",
+  "image_id": 546826,
+  "seed_index": 1,
+  "seed": 3119653,
+  "prompt": "A pink and green marker, next to another object. ",
+  "path": "results/runs/lightning_2step/000000546826_s1.png",
+  "sha256": "b014867aefc35f21cb163d9e18514fef192492441d05e7501168c8bca70a7356",
+  "latency_s": 1.445029643989983,
+  "peak_allocated_mib": 9948.7958984375,
+  "peak_reserved_mib": 12632.0
+}

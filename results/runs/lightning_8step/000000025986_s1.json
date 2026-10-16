@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_8step",
+    "method": "lightning",
+    "steps": 8,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "711af09a6d55e6cffce394b70a1f925c5621329067c780a2ae6a492787f97d3f",
+  "image_id": 25986,
+  "seed_index": 1,
+  "seed": 2077973,
+  "prompt": "A bunch of items that are on a counter.",
+  "path": "results/runs/lightning_8step/000000025986_s1.png",
+  "sha256": "18766d26e07a38ff325eb9311dea1668b621310c604a645fb9ce23354a3a84b0",
+  "latency_s": 2.589178249996621,
+  "peak_allocated_mib": 9950.5458984375,
+  "peak_reserved_mib": 12632.0
+}

@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_4step",
+    "method": "lcm",
+    "steps": 4,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "9ec22cf595f8b833bea186b1ab867b1ae0fab3debca422e4ad0a7028793290a0",
+  "image_id": 343561,
+  "seed_index": 1,
+  "seed": 2713123,
+  "prompt": "there are many bike riders racing in a street race",
+  "path": "results/runs/lcm_4step/000000343561_s1.png",
+  "sha256": "e8bec1b35e6f59e40f48c42f29f19b6bbcf99ed8783684e4035625e677619ea5",
+  "latency_s": 1.8461712849966716,
+  "peak_allocated_mib": 9947.5927734375,
+  "peak_reserved_mib": 12650.0
+}

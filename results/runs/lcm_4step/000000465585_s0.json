@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_4step",
+    "method": "lcm",
+    "steps": 4,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "9ec22cf595f8b833bea186b1ab867b1ae0fab3debca422e4ad0a7028793290a0",
+  "image_id": 465585,
+  "seed_index": 0,
+  "seed": 2957170,
+  "prompt": "An aluminum pan full of chopped broccoli and carrots.",
+  "path": "results/runs/lcm_4step/000000465585_s0.png",
+  "sha256": "a734f613ccc1c01a48f62a3931ca88a2f451b8a660aa6a5e899e6e7e15e51b8b",
+  "latency_s": 1.8350611409987323,
+  "peak_allocated_mib": 9948.8427734375,
+  "peak_reserved_mib": 12648.0
+}

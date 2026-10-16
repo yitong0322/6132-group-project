@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_2step",
+    "method": "lcm",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "662eb0b62259031ebfd05061cc22cf9622a52f075eeb20943184e3e52cfbc947",
+  "image_id": 416885,
+  "seed_index": 1,
+  "seed": 2859771,
+  "prompt": "Three pastry desserts and two glasses of wine are on a table. ",
+  "path": "results/runs/lcm_2step/000000416885_s1.png",
+  "sha256": "e8f9f31278f1cfdbc19d3efe0e45067aba7cac37de26eb2c0db6b26bd9b079fa",
+  "latency_s": 1.44526625200524,
+  "peak_allocated_mib": 9947.8427734375,
+  "peak_reserved_mib": 12650.0
+}

@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_sparse",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "88986ea6e18a64cdcc4d2f2c7c574e63ac06733272a42dfa6d44b4ea528ac428",
+  "image_id": 99039,
+  "seed_index": 0,
+  "seed": 2224078,
+  "prompt": "Plates  of food and glasses of wine sitting on a table",
+  "path": "results/runs/controlnet_sparse/000000099039_s0.png",
+  "sha256": "ded3b98f40c35d42f5f4b1e27dd513f04ddee372c20d384cf0e72cf93e41ed8c",
+  "latency_s": 2.7367251130053774,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

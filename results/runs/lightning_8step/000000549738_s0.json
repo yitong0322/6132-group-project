@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_8step",
+    "method": "lightning",
+    "steps": 8,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "711af09a6d55e6cffce394b70a1f925c5621329067c780a2ae6a492787f97d3f",
+  "image_id": 549738,
+  "seed_index": 0,
+  "seed": 3125476,
+  "prompt": "A kite is flying in a clear sky.",
+  "path": "results/runs/lightning_8step/000000549738_s0.png",
+  "sha256": "b68a5b574c531b774221404377187dd24f79b4ee3c3c48ab14c176288c9a6981",
+  "latency_s": 2.5980215900053736,
+  "peak_allocated_mib": 9950.5458984375,
+  "peak_reserved_mib": 12632.0
+}

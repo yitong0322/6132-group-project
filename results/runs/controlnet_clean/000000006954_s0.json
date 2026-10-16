@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_clean",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "clean",
+    "strength": 1.5
+  },
+  "config_hash": "66b43ec0d0e6b23b0522fd655cf1655236bdd2a53d75e7fff42de6022e9c484b",
+  "image_id": 6954,
+  "seed_index": 0,
+  "seed": 2039908,
+  "prompt": "A group of young children sitting in the grass.",
+  "path": "results/runs/controlnet_clean/000000006954_s0.png",
+  "sha256": "f71c16679a7ebcd5a7daf307e719d20451ce89dfdc60ae481a17082479ff46c6",
+  "latency_s": 2.73996922900551,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

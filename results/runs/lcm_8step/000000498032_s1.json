@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_8step",
+    "method": "lcm",
+    "steps": 8,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "feddce4cdbe9647508117b127ff6e71f47b840f02764b4ba859667a4e90c6edf",
+  "image_id": 498032,
+  "seed_index": 1,
+  "seed": 3022065,
+  "prompt": "A person standing in a room with a remote.",
+  "path": "results/runs/lcm_8step/000000498032_s1.png",
+  "sha256": "936f1344cccc474465f1f5df8e6bd457253e4a4e8c9a06991affbee1dec8b6c1",
+  "latency_s": 2.599095835001208,
+  "peak_allocated_mib": 9948.3427734375,
+  "peak_reserved_mib": 12650.0
+}

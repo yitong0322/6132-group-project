@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase50",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "896b5ee20f16dbe54a8a8a0f8cbb30f7dfda77457ef77ac9d5f01f8363335ce2",
+  "image_id": 25986,
+  "seed_index": 1,
+  "seed": 2077973,
+  "prompt": "A bunch of items that are on a counter.",
+  "path": "results/runs/adapter_erase50/000000025986_s1.png",
+  "sha256": "455fa22e0eee9cea4daf66c38f43364cdea1a7d0883b9475e85804e0c9c716e4",
+  "latency_s": 1.9892605670029297,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "sd15_30step",
+    "method": "sd15",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "none"
+  },
+  "config_hash": "50a25ea0626a66bb0ec90a9954c0e8703317fb3903621c472f0b82bcf8c26228",
+  "image_id": 159791,
+  "seed_index": 1,
+  "seed": 2345583,
+  "prompt": "A white refrigerator freezer covered in magnets and pictures.",
+  "path": "results/runs/sd15_30step/000000159791_s1.png",
+  "sha256": "5bced2526f5ace26a5c1165812cda6a7448f87b47e418f7cedecb446956034ef",
+  "latency_s": 1.9831106479978189,
+  "peak_allocated_mib": 2675.13818359375,
+  "peak_reserved_mib": 3238.0
+}

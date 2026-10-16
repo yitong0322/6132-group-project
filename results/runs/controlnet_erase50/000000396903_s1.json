@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_erase50",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "22aaf1199ae8d9bf147f8b71f7b2196b68dded76b271f6f12b37f1a8956cefe6",
+  "image_id": 396903,
+  "seed_index": 1,
+  "seed": 2819807,
+  "prompt": "Small red propeller airplane sitting on an airport runway. ",
+  "path": "results/runs/controlnet_erase50/000000396903_s1.png",
+  "sha256": "647171bc50426fc231135b970d034f857865065099de02c1359f4071d016032f",
+  "latency_s": 2.7385614310042,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

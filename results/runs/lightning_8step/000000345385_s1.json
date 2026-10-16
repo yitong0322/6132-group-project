@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_8step",
+    "method": "lightning",
+    "steps": 8,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "711af09a6d55e6cffce394b70a1f925c5621329067c780a2ae6a492787f97d3f",
+  "image_id": 345385,
+  "seed_index": 1,
+  "seed": 2716771,
+  "prompt": "Young couple happily snuggling on their bed together",
+  "path": "results/runs/lightning_8step/000000345385_s1.png",
+  "sha256": "c6073bcac2bbb1bb4047a5ddfc8fb06be235cc2b52750e151e57d47669740c3d",
+  "latency_s": 2.596636225003749,
+  "peak_allocated_mib": 9949.0458984375,
+  "peak_reserved_mib": 12632.0
+}

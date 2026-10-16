@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_clean",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "clean",
+    "strength": 1.5
+  },
+  "config_hash": "66b43ec0d0e6b23b0522fd655cf1655236bdd2a53d75e7fff42de6022e9c484b",
+  "image_id": 343561,
+  "seed_index": 1,
+  "seed": 2713123,
+  "prompt": "there are many bike riders racing in a street race",
+  "path": "results/runs/controlnet_clean/000000343561_s1.png",
+  "sha256": "7fbc04488cfae8ccbfc8788c6de36d165440e86225302c0ea48d0faebe754db7",
+  "latency_s": 2.738659832000849,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

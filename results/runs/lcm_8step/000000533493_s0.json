@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_8step",
+    "method": "lcm",
+    "steps": 8,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "feddce4cdbe9647508117b127ff6e71f47b840f02764b4ba859667a4e90c6edf",
+  "image_id": 533493,
+  "seed_index": 0,
+  "seed": 3092986,
+  "prompt": "Three men celebrating some kind of personal victory.",
+  "path": "results/runs/lcm_8step/000000533493_s0.png",
+  "sha256": "3fe2d144cb7b6374b627e97a3b0bcdce4b8734d7851442f3cae6e1dd126f7e84",
+  "latency_s": 2.6094054879940813,
+  "peak_allocated_mib": 9947.8427734375,
+  "peak_reserved_mib": 12650.0
+}

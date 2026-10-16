@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase25",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase25",
+    "strength": 1.5
+  },
+  "config_hash": "80d457176300f341e45e2f76b044a50c847f1e3c3c84309a1df5ae1d17c970c5",
+  "image_id": 533493,
+  "seed_index": 0,
+  "seed": 3092986,
+  "prompt": "Three men celebrating some kind of personal victory.",
+  "path": "results/runs/adapter_erase25/000000533493_s0.png",
+  "sha256": "e7b588729f4d62d5deedabf6d83f0da549237bf5e6183baef371d49e5cdf4ca9",
+  "latency_s": 1.9928735499997856,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

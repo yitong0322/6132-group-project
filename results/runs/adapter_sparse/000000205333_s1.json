@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_sparse",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "e591437800140077d0a3adb6b23eea9fd6dac35575bed9dfa31bd71572efb58f",
+  "image_id": 205333,
+  "seed_index": 1,
+  "seed": 2436667,
+  "prompt": "A pair of skiers on the top of a ski slope with clouds and large mountain in the background.",
+  "path": "results/runs/adapter_sparse/000000205333_s1.png",
+  "sha256": "19080bfc50dd465719a9def88061e29b610a8e745ee59b7507a94f74d21f638c",
+  "latency_s": 1.98991767600819,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

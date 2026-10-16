@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_clean",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "clean",
+    "strength": 1.5
+  },
+  "config_hash": "66b43ec0d0e6b23b0522fd655cf1655236bdd2a53d75e7fff42de6022e9c484b",
+  "image_id": 348481,
+  "seed_index": 1,
+  "seed": 2722963,
+  "prompt": "A desk with various items that include cellphone, mouse and pocket change.",
+  "path": "results/runs/controlnet_clean/000000348481_s1.png",
+  "sha256": "f33c18a49590df2f08855731eca10ac760eb55fce934e5d3c5e4ca7119c34db8",
+  "latency_s": 2.737976314005209,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

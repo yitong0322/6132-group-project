@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "sdxl_30step",
+    "method": "sdxl",
+    "steps": 30,
+    "resolution": 1024,
+    "guidance": 5.0,
+    "condition": "none"
+  },
+  "config_hash": "7f2ff1a362b25ed9a421756a7624dd1129e6797ecf34a7ec1fc39f2ba5c3a6df",
+  "image_id": 549738,
+  "seed_index": 1,
+  "seed": 3125477,
+  "prompt": "A kite is flying in a clear sky.",
+  "path": "results/runs/sdxl_30step/000000549738_s1.png",
+  "sha256": "4c7d241aae8281416ab921ff9c4f2d62cc1a31df80c6b5c63fc57a05dd3d473b",
+  "latency_s": 11.764566594007192,
+  "peak_allocated_mib": 9946.52978515625,
+  "peak_reserved_mib": 12896.0
+}

@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_4step",
+    "method": "lightning",
+    "steps": 4,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "16ac80513f831abd97c3f2a5ff13092269bfbb5f3406b2a8d454fc9d71c49fcd",
+  "image_id": 358427,
+  "seed_index": 1,
+  "seed": 2742855,
+  "prompt": "Two pieces of broccoli being held up on a fork",
+  "path": "results/runs/lightning_4step/000000358427_s1.png",
+  "sha256": "639c8203fb31b28f5aa90a42102f966f45b477ca54141c899413f247c8c01771",
+  "latency_s": 1.825420370005304,
+  "peak_allocated_mib": 9950.2958984375,
+  "peak_reserved_mib": 12632.0
+}

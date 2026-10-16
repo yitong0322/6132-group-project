@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_2step",
+    "method": "lightning",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "c9f1d7562e2c721c6f9d933bd0ebaabec8feb143758b08fb930248cd7d3e3ae6",
+  "image_id": 213816,
+  "seed_index": 1,
+  "seed": 2453633,
+  "prompt": "a close up of a public transit train with its doors open",
+  "path": "results/runs/lightning_2step/000000213816_s1.png",
+  "sha256": "dfa89c15a9c59292a7845d3fc3eb5c12562793866a3c5a355758e1fc30df9e06",
+  "latency_s": 1.445028642003308,
+  "peak_allocated_mib": 9949.5458984375,
+  "peak_reserved_mib": 12632.0
+}

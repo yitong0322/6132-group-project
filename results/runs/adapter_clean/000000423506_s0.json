@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_clean",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "clean",
+    "strength": 1.5
+  },
+  "config_hash": "9ba657d5c560196238df271ac941213dbe52470be0b52f57afa1fe86ef55ed19",
+  "image_id": 423506,
+  "seed_index": 0,
+  "seed": 2873012,
+  "prompt": "Two men smiling and taking a picture together. ",
+  "path": "results/runs/adapter_clean/000000423506_s0.png",
+  "sha256": "50006ff1205aabb759ac14b0b56df223c5c6f9b2db467f3732ff61ad275b3485",
+  "latency_s": 1.9905564499931643,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_erase25",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase25",
+    "strength": 1.5
+  },
+  "config_hash": "8fb8a2754192714bc32db360b571eff94829570c7be658ef8572cbbfe9dfb389",
+  "image_id": 119088,
+  "seed_index": 1,
+  "seed": 2264177,
+  "prompt": "The men are up to their knees in the water.",
+  "path": "results/runs/controlnet_erase25/000000119088_s1.png",
+  "sha256": "dc2171f5ab89a5207edc2cbeca2dc605ec2b9b44d9d87700f256651fab46c667",
+  "latency_s": 2.7380647329991916,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

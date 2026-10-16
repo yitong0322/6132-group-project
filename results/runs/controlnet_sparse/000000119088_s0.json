@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_sparse",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "88986ea6e18a64cdcc4d2f2c7c574e63ac06733272a42dfa6d44b4ea528ac428",
+  "image_id": 119088,
+  "seed_index": 0,
+  "seed": 2264176,
+  "prompt": "The men are up to their knees in the water.",
+  "path": "results/runs/controlnet_sparse/000000119088_s0.png",
+  "sha256": "131ff96d5b393c04950e5573f5005688bf0c82b983847bbd6f8f7a8c70e4a3d8",
+  "latency_s": 2.7342585279984633,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

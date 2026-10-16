@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase50",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "896b5ee20f16dbe54a8a8a0f8cbb30f7dfda77457ef77ac9d5f01f8363335ce2",
+  "image_id": 439854,
+  "seed_index": 1,
+  "seed": 2905709,
+  "prompt": "A man riding a skateboard along a sandy beach.",
+  "path": "results/runs/adapter_erase50/000000439854_s1.png",
+  "sha256": "ab6345edfe1ff0ca046ef36e6a433ed5e7aeff64c946bbf0ba5ffd5a71107582",
+  "latency_s": 1.9897021270007826,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_erase50",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "22aaf1199ae8d9bf147f8b71f7b2196b68dded76b271f6f12b37f1a8956cefe6",
+  "image_id": 115898,
+  "seed_index": 0,
+  "seed": 2257796,
+  "prompt": "A man in black wetsuit on white surfboard riding wave.",
+  "path": "results/runs/controlnet_erase50/000000115898_s0.png",
+  "sha256": "5c1dba176c04cbce52216b41466fd86a70e71b88760418d48eb8f4c8e11bb4e8",
+  "latency_s": 2.7349126409972087,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

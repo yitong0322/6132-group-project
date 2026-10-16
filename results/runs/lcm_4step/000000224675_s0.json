@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_4step",
+    "method": "lcm",
+    "steps": 4,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "9ec22cf595f8b833bea186b1ab867b1ae0fab3debca422e4ad0a7028793290a0",
+  "image_id": 224675,
+  "seed_index": 0,
+  "seed": 2475350,
+  "prompt": "A woman standing next to a man kneeling down on the ground.",
+  "path": "results/runs/lcm_4step/000000224675_s0.png",
+  "sha256": "fab7f1f635752752a6274fcfa760a6e12fd1becab8094f1be73b874a210c5041",
+  "latency_s": 1.8351641330082202,
+  "peak_allocated_mib": 9948.3427734375,
+  "peak_reserved_mib": 12650.0
+}

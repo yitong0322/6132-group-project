@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_erase50",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "22aaf1199ae8d9bf147f8b71f7b2196b68dded76b271f6f12b37f1a8956cefe6",
+  "image_id": 533493,
+  "seed_index": 0,
+  "seed": 3092986,
+  "prompt": "Three men celebrating some kind of personal victory.",
+  "path": "results/runs/controlnet_erase50/000000533493_s0.png",
+  "sha256": "d484d26b2125839e1cd411c6511b815f7950112c37971dc01d0b7d4f1d60b68a",
+  "latency_s": 2.7510015130101237,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

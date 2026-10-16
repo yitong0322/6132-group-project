@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_dense",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "114bbb8b7de882aa24fc41d9ba598b03037e7e4fd05b317cde3dc9b41adcdaad",
+  "image_id": 205333,
+  "seed_index": 0,
+  "seed": 2436666,
+  "prompt": "A pair of skiers on the top of a ski slope with clouds and large mountain in the background.",
+  "path": "results/runs/adapter_dense/000000205333_s0.png",
+  "sha256": "3616d8c5d314ad3a215cfb454a2e3d07ade1309fa929d70da7ad06874416dd2e",
+  "latency_s": 1.9887067480012774,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

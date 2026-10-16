@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_dense",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "114bbb8b7de882aa24fc41d9ba598b03037e7e4fd05b317cde3dc9b41adcdaad",
+  "image_id": 119088,
+  "seed_index": 1,
+  "seed": 2264177,
+  "prompt": "The men are up to their knees in the water.",
+  "path": "results/runs/adapter_dense/000000119088_s1.png",
+  "sha256": "763eff298ec26bdb8b158874e5de4c97e5177ba39b07c0b843dc51d8e914fe51",
+  "latency_s": 1.9884213010082021,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

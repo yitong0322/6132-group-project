@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_dense",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "114bbb8b7de882aa24fc41d9ba598b03037e7e4fd05b317cde3dc9b41adcdaad",
+  "image_id": 7108,
+  "seed_index": 1,
+  "seed": 2040217,
+  "prompt": "A herd of elephants walking away from a watering hole.",
+  "path": "results/runs/adapter_dense/000000007108_s1.png",
+  "sha256": "0ac3b9a9e34b28e241d0cfaa5b02ced905cf6d959c1bc868d3f8f8e4471aa950",
+  "latency_s": 1.9889554969995515,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

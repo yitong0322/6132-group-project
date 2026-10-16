@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_sparse",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "e591437800140077d0a3adb6b23eea9fd6dac35575bed9dfa31bd71572efb58f",
+  "image_id": 203294,
+  "seed_index": 1,
+  "seed": 2432589,
+  "prompt": "A tour bus with a cats face painted on the front of it",
+  "path": "results/runs/adapter_sparse/000000203294_s1.png",
+  "sha256": "a412291bf4e625ba86c7544476e5c763dea3a088b0ff91f46026b14342499997",
+  "latency_s": 1.9912265919992933,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

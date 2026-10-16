@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "sdxl_30step",
+    "method": "sdxl",
+    "steps": 30,
+    "resolution": 1024,
+    "guidance": 5.0,
+    "condition": "none"
+  },
+  "config_hash": "7f2ff1a362b25ed9a421756a7624dd1129e6797ecf34a7ec1fc39f2ba5c3a6df",
+  "image_id": 563702,
+  "seed_index": 0,
+  "seed": 3153404,
+  "prompt": "A fire fire truck parked in a parking lot.",
+  "path": "results/runs/sdxl_30step/000000563702_s0.png",
+  "sha256": "9dbe3d8839249a6e147678a530400779a5fe83858b256bd8207614b328dc133b",
+  "latency_s": 11.759559288009768,
+  "peak_allocated_mib": 9946.52978515625,
+  "peak_reserved_mib": 12896.0
+}

@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_sparse",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "e591437800140077d0a3adb6b23eea9fd6dac35575bed9dfa31bd71572efb58f",
+  "image_id": 407646,
+  "seed_index": 1,
+  "seed": 2841293,
+  "prompt": "A man playing tennis who is about to return a serve.",
+  "path": "results/runs/adapter_sparse/000000407646_s1.png",
+  "sha256": "ccd154b4bc8a0f29d7e62efa8272d3e7d8209e8d8bd6c3d772fe6df16ac24ada",
+  "latency_s": 1.9882500270032324,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

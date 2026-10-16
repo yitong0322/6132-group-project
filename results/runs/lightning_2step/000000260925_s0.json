@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_2step",
+    "method": "lightning",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "c9f1d7562e2c721c6f9d933bd0ebaabec8feb143758b08fb930248cd7d3e3ae6",
+  "image_id": 260925,
+  "seed_index": 0,
+  "seed": 2547850,
+  "prompt": "A cat sitting on the hood of a car.",
+  "path": "results/runs/lightning_2step/000000260925_s0.png",
+  "sha256": "df88d8806d30d457e73129fa7cba5498d79463f888447f694da169fdd5d7ce01",
+  "latency_s": 1.4445865719899302,
+  "peak_allocated_mib": 9948.5458984375,
+  "peak_reserved_mib": 12632.0
+}

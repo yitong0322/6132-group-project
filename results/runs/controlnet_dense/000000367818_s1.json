@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_dense",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "f25fcf61e38298c2c82909b445848fd59f39f4565e113adeded45d7fab51ac96",
+  "image_id": 367818,
+  "seed_index": 1,
+  "seed": 2761637,
+  "prompt": "A woman in tight blue jeans standing next to a brown horse.",
+  "path": "results/runs/controlnet_dense/000000367818_s1.png",
+  "sha256": "7f443e96227c629ff060c345312c9b3081e15edbaaca04e9008e08461d932751",
+  "latency_s": 2.735172741988208,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

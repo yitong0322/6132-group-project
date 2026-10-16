@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_clean",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "clean",
+    "strength": 1.5
+  },
+  "config_hash": "66b43ec0d0e6b23b0522fd655cf1655236bdd2a53d75e7fff42de6022e9c484b",
+  "image_id": 503855,
+  "seed_index": 0,
+  "seed": 3033710,
+  "prompt": "A grass yard area that has several open umbrellas laid on the grass and various people around the roadway area.\n\n",
+  "path": "results/runs/controlnet_clean/000000503855_s0.png",
+  "sha256": "c827e3ee750b6125b19c28728866aeb6cea0222e5ab5361df945ae8ccf4243d2",
+  "latency_s": 2.7410493459901772,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

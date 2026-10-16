@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase50",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "896b5ee20f16dbe54a8a8a0f8cbb30f7dfda77457ef77ac9d5f01f8363335ce2",
+  "image_id": 190753,
+  "seed_index": 1,
+  "seed": 2407507,
+  "prompt": "There is a group of four men sitting on park benches.",
+  "path": "results/runs/adapter_erase50/000000190753_s1.png",
+  "sha256": "f09d716f5dd5070f43f3529ebf1a2c65010f4481f3fcad9b913dbc3a9892f5b7",
+  "latency_s": 1.9884323720034445,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

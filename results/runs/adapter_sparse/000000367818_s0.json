@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_sparse",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "e591437800140077d0a3adb6b23eea9fd6dac35575bed9dfa31bd71572efb58f",
+  "image_id": 367818,
+  "seed_index": 0,
+  "seed": 2761636,
+  "prompt": "A woman in tight blue jeans standing next to a brown horse.",
+  "path": "results/runs/adapter_sparse/000000367818_s0.png",
+  "sha256": "f11ac356326fa278c1c6786a786f1d7464ff2311125b09b699971317ee66d013",
+  "latency_s": 1.988333113011322,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

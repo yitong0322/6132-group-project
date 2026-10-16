@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_dense",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "114bbb8b7de882aa24fc41d9ba598b03037e7e4fd05b317cde3dc9b41adcdaad",
+  "image_id": 38210,
+  "seed_index": 1,
+  "seed": 2102421,
+  "prompt": "a skier is prepared to go down a mountain.",
+  "path": "results/runs/adapter_dense/000000038210_s1.png",
+  "sha256": "46a2d3d22d8b44c658dfea3b4751675269641f1048211211a4bbd01135de7390",
+  "latency_s": 1.9897628519975115,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

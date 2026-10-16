@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_sparse",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "e591437800140077d0a3adb6b23eea9fd6dac35575bed9dfa31bd71572efb58f",
+  "image_id": 379533,
+  "seed_index": 0,
+  "seed": 2785066,
+  "prompt": "A zebra grazing on a dry grass field next to elephants.",
+  "path": "results/runs/adapter_sparse/000000379533_s0.png",
+  "sha256": "de07bc23f8c73a58e317889d7f9656ac3ae005393bf521bd5c5a9d0e9e9f221e",
+  "latency_s": 1.9903694419917883,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

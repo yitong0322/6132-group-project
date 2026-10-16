@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_8step",
+    "method": "lightning",
+    "steps": 8,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "711af09a6d55e6cffce394b70a1f925c5621329067c780a2ae6a492787f97d3f",
+  "image_id": 6012,
+  "seed_index": 0,
+  "seed": 2038024,
+  "prompt": "There are bananas around another piece of fruit. ",
+  "path": "results/runs/lightning_8step/000000006012_s0.png",
+  "sha256": "2a675d137e1adae9e8000cb1d4f3f6bdb0df1a9153f0d84912e5b8131cbf6d55",
+  "latency_s": 2.58848718299123,
+  "peak_allocated_mib": 9948.7958984375,
+  "peak_reserved_mib": 12632.0
+}

@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_8step",
+    "method": "lightning",
+    "steps": 8,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "711af09a6d55e6cffce394b70a1f925c5621329067c780a2ae6a492787f97d3f",
+  "image_id": 167159,
+  "seed_index": 1,
+  "seed": 2360319,
+  "prompt": "a doll with a bonnet and a book on a pillow",
+  "path": "results/runs/lightning_8step/000000167159_s1.png",
+  "sha256": "bee26b6befc0305dc439685897786d18461302d4584a9c9488b04d510b4e0e96",
+  "latency_s": 2.5880111519945785,
+  "peak_allocated_mib": 9949.5458984375,
+  "peak_reserved_mib": 12632.0
+}

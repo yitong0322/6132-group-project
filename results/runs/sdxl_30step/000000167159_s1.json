@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "sdxl_30step",
+    "method": "sdxl",
+    "steps": 30,
+    "resolution": 1024,
+    "guidance": 5.0,
+    "condition": "none"
+  },
+  "config_hash": "7f2ff1a362b25ed9a421756a7624dd1129e6797ecf34a7ec1fc39f2ba5c3a6df",
+  "image_id": 167159,
+  "seed_index": 1,
+  "seed": 2360319,
+  "prompt": "a doll with a bonnet and a book on a pillow",
+  "path": "results/runs/sdxl_30step/000000167159_s1.png",
+  "sha256": "1977bfaf23682c2d6cce8618b6f239d5e02d3ba8e83e3238cf6d9bc90bba5d2a",
+  "latency_s": 11.76570296799764,
+  "peak_allocated_mib": 9946.52978515625,
+  "peak_reserved_mib": 12896.0
+}

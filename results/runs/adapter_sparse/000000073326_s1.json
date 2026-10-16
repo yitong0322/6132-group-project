@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_sparse",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "e591437800140077d0a3adb6b23eea9fd6dac35575bed9dfa31bd71572efb58f",
+  "image_id": 73326,
+  "seed_index": 1,
+  "seed": 2172653,
+  "prompt": "An open refrigerator including bottles of various food.",
+  "path": "results/runs/adapter_sparse/000000073326_s1.png",
+  "sha256": "6d36b3659b022f7fb7982feb2a15164fabc87be4fe1fa4e45014703339ef6548",
+  "latency_s": 1.9897289849905064,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

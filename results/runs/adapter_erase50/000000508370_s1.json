@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase50",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "896b5ee20f16dbe54a8a8a0f8cbb30f7dfda77457ef77ac9d5f01f8363335ce2",
+  "image_id": 508370,
+  "seed_index": 1,
+  "seed": 3042741,
+  "prompt": "A bicycle parked on top of a baby dolls head.",
+  "path": "results/runs/adapter_erase50/000000508370_s1.png",
+  "sha256": "dc049ea235a6c3cd01e60aa67e50ff912f844fb7ee14489bfe6d5022e9a5ae65",
+  "latency_s": 1.9892533469974296,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

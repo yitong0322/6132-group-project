@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_dense",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "f25fcf61e38298c2c82909b445848fd59f39f4565e113adeded45d7fab51ac96",
+  "image_id": 404678,
+  "seed_index": 0,
+  "seed": 2835356,
+  "prompt": "A family sitting down at a table for a meal.",
+  "path": "results/runs/controlnet_dense/000000404678_s0.png",
+  "sha256": "4cdb77b1978e359826919d0c7e6b41e8dfc25f6139a281b02dc0371565880b05",
+  "latency_s": 2.7330011570011266,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

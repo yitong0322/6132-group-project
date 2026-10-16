@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_8step",
+    "method": "lightning",
+    "steps": 8,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "711af09a6d55e6cffce394b70a1f925c5621329067c780a2ae6a492787f97d3f",
+  "image_id": 19109,
+  "seed_index": 1,
+  "seed": 2064219,
+  "prompt": "Many small motorbikes are parked along the street. ",
+  "path": "results/runs/lightning_8step/000000019109_s1.png",
+  "sha256": "364959dc5c38fb82ee4c95d4b7c42f80d6bbea3fa185d1d6a2d38b843491c402",
+  "latency_s": 2.5870338230015477,
+  "peak_allocated_mib": 9948.2958984375,
+  "peak_reserved_mib": 12632.0
+}

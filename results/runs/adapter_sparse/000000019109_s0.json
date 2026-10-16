@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_sparse",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "e591437800140077d0a3adb6b23eea9fd6dac35575bed9dfa31bd71572efb58f",
+  "image_id": 19109,
+  "seed_index": 0,
+  "seed": 2064218,
+  "prompt": "Many small motorbikes are parked along the street. ",
+  "path": "results/runs/adapter_sparse/000000019109_s0.png",
+  "sha256": "e02c683d207a55971f34a3bc58a4e1a0f320d3187566d3f80014fe155dfe0828",
+  "latency_s": 1.9891257410054095,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

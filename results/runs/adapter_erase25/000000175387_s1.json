@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase25",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase25",
+    "strength": 1.5
+  },
+  "config_hash": "80d457176300f341e45e2f76b044a50c847f1e3c3c84309a1df5ae1d17c970c5",
+  "image_id": 175387,
+  "seed_index": 1,
+  "seed": 2376775,
+  "prompt": "Bathroom stall with green door in commercial business.",
+  "path": "results/runs/adapter_erase25/000000175387_s1.png",
+  "sha256": "8c4910cac823e093497ecda392d0831592e9db8b3e970418a2770354218c2175",
+  "latency_s": 1.9878060970077058,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

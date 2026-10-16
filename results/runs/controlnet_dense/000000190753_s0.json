@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_dense",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "f25fcf61e38298c2c82909b445848fd59f39f4565e113adeded45d7fab51ac96",
+  "image_id": 190753,
+  "seed_index": 0,
+  "seed": 2407506,
+  "prompt": "There is a group of four men sitting on park benches.",
+  "path": "results/runs/controlnet_dense/000000190753_s0.png",
+  "sha256": "5c627f1c4fbcf79d93302ba8be927dfd8c7f7c032518ddbd669977ed936bd675",
+  "latency_s": 2.7331291740119923,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

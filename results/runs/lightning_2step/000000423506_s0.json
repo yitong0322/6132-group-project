@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_2step",
+    "method": "lightning",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "c9f1d7562e2c721c6f9d933bd0ebaabec8feb143758b08fb930248cd7d3e3ae6",
+  "image_id": 423506,
+  "seed_index": 0,
+  "seed": 2873012,
+  "prompt": "Two men smiling and taking a picture together. ",
+  "path": "results/runs/lightning_2step/000000423506_s0.png",
+  "sha256": "a0d6e93c7d68eb1219f90c40adb22f9f6e4ec4582b02c9a7068ef35a608b53c3",
+  "latency_s": 1.4461940879991744,
+  "peak_allocated_mib": 9949.0458984375,
+  "peak_reserved_mib": 12632.0
+}

@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_4step",
+    "method": "lcm",
+    "steps": 4,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "9ec22cf595f8b833bea186b1ab867b1ae0fab3debca422e4ad0a7028793290a0",
+  "image_id": 439854,
+  "seed_index": 0,
+  "seed": 2905708,
+  "prompt": "A man riding a skateboard along a sandy beach.",
+  "path": "results/runs/lcm_4step/000000439854_s0.png",
+  "sha256": "bec9f94d8068ea6c4e06393754eec0e431597ed0b432ac0708df2c6fa784d534",
+  "latency_s": 1.8454799690080108,
+  "peak_allocated_mib": 9948.3427734375,
+  "peak_reserved_mib": 12650.0
+}

@@ -1,0 +1,35 @@
+{
+  "scheduler_class": "DDIMScheduler",
+  "scheduler_config": {
+    "num_train_timesteps": 1000,
+    "beta_start": 0.00085,
+    "beta_end": 0.012,
+    "beta_schedule": "scaled_linear",
+    "trained_betas": null,
+    "clip_sample": false,
+    "set_alpha_to_one": false,
+    "steps_offset": 1,
+    "prediction_type": "epsilon",
+    "thresholding": false,
+    "dynamic_thresholding_ratio": 0.995,
+    "clip_sample_range": 1.0,
+    "sample_max_value": 1.0,
+    "timestep_spacing": "leading",
+    "rescale_betas_zero_snr": false,
+    "_use_default_values": [
+      "sample_max_value",
+      "prediction_type",
+      "thresholding",
+      "clip_sample_range",
+      "timestep_spacing",
+      "rescale_betas_zero_snr",
+      "dynamic_thresholding_ratio"
+    ],
+    "skip_prk_steps": true,
+    "_class_name": "DDIMScheduler",
+    "_diffusers_version": "0.6.0"
+  },
+  "source_sha256": "54c8b1b06371b569a0e50f35bb8d18413b08ba727bd5693b79a901a58b471c2c",
+  "manifest_sha256": "c80448b54398c85edfba31eefbae477f0cb7380bc5d79e18e7cdcf0e4b49eab9",
+  "config_hash": "114bbb8b7de882aa24fc41d9ba598b03037e7e4fd05b317cde3dc9b41adcdaad"
+}

@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_dense",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "114bbb8b7de882aa24fc41d9ba598b03037e7e4fd05b317cde3dc9b41adcdaad",
+  "image_id": 224675,
+  "seed_index": 0,
+  "seed": 2475350,
+  "prompt": "A woman standing next to a man kneeling down on the ground.",
+  "path": "results/runs/adapter_dense/000000224675_s0.png",
+  "sha256": "749f04b5a1a949434a800ba9d12fd5822c48a91087eab51d2dc444bb363b07db",
+  "latency_s": 1.9884698270034278,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

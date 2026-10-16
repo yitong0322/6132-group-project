@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_clean",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "clean",
+    "strength": 1.5
+  },
+  "config_hash": "9ba657d5c560196238df271ac941213dbe52470be0b52f57afa1fe86ef55ed19",
+  "image_id": 434204,
+  "seed_index": 0,
+  "seed": 2894408,
+  "prompt": "A man riding on a skateboard on the sidewalk.",
+  "path": "results/runs/adapter_clean/000000434204_s0.png",
+  "sha256": "a4c0e184bc6bbfda4dd565d2fd3d4d50ce5d12910aa75e083cc9528fb47fd7f4",
+  "latency_s": 1.9908402590081096,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

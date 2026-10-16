@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_dense",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "f25fcf61e38298c2c82909b445848fd59f39f4565e113adeded45d7fab51ac96",
+  "image_id": 106235,
+  "seed_index": 1,
+  "seed": 2238471,
+  "prompt": "A living room featuring a comfortable seating arrangement of chairs and tables.",
+  "path": "results/runs/controlnet_dense/000000106235_s1.png",
+  "sha256": "05e6536f124f0aae80cb0cd52b135ca26205709f48f6bc4dcf45b8efcba3a7b5",
+  "latency_s": 2.7328242660005344,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

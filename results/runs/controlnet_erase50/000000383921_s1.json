@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_erase50",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "22aaf1199ae8d9bf147f8b71f7b2196b68dded76b271f6f12b37f1a8956cefe6",
+  "image_id": 383921,
+  "seed_index": 1,
+  "seed": 2793843,
+  "prompt": "A herd of elephants walking across a body of water.",
+  "path": "results/runs/controlnet_erase50/000000383921_s1.png",
+  "sha256": "716d9d58f72d6cb90c2039d2bc085e14b0f9b8e681be416a496785c0a0dab32c",
+  "latency_s": 2.7394636569952127,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

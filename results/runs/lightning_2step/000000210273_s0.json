@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_2step",
+    "method": "lightning",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "c9f1d7562e2c721c6f9d933bd0ebaabec8feb143758b08fb930248cd7d3e3ae6",
+  "image_id": 210273,
+  "seed_index": 0,
+  "seed": 2446546,
+  "prompt": "Buses and cars on interstate going both ways. ",
+  "path": "results/runs/lightning_2step/000000210273_s0.png",
+  "sha256": "c05a591a2e51a6cbf76211afcdc3a27dbd357de46baf1c4b8f1aa8778d2ad596",
+  "latency_s": 1.4473467440111563,
+  "peak_allocated_mib": 9949.0458984375,
+  "peak_reserved_mib": 12632.0
+}

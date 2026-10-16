@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_sparse",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "88986ea6e18a64cdcc4d2f2c7c574e63ac06733272a42dfa6d44b4ea528ac428",
+  "image_id": 367818,
+  "seed_index": 1,
+  "seed": 2761637,
+  "prompt": "A woman in tight blue jeans standing next to a brown horse.",
+  "path": "results/runs/controlnet_sparse/000000367818_s1.png",
+  "sha256": "60882220332c5db5f0c8a77c9a837045deaecf0d0bd87343b45e334d5ccea140",
+  "latency_s": 2.7419289290119195,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

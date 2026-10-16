@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_clean",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "clean",
+    "strength": 1.5
+  },
+  "config_hash": "9ba657d5c560196238df271ac941213dbe52470be0b52f57afa1fe86ef55ed19",
+  "image_id": 3661,
+  "seed_index": 1,
+  "seed": 2033323,
+  "prompt": "A bunch of bananas sitting on top of a wooden table.",
+  "path": "results/runs/adapter_clean/000000003661_s1.png",
+  "sha256": "625bb3426fe5740165049e7b78a06883fcdb01c3a3088cd7d0ac7d6bd85ddc0b",
+  "latency_s": 1.992549753995263,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

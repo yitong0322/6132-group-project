@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase50",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "896b5ee20f16dbe54a8a8a0f8cbb30f7dfda77457ef77ac9d5f01f8363335ce2",
+  "image_id": 367818,
+  "seed_index": 0,
+  "seed": 2761636,
+  "prompt": "A woman in tight blue jeans standing next to a brown horse.",
+  "path": "results/runs/adapter_erase50/000000367818_s0.png",
+  "sha256": "ac17f3aa20be799a78de3703f7f532f110c27b6728e05400986531e96728fb6c",
+  "latency_s": 1.988125140996999,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

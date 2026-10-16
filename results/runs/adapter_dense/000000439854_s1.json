@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_dense",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "114bbb8b7de882aa24fc41d9ba598b03037e7e4fd05b317cde3dc9b41adcdaad",
+  "image_id": 439854,
+  "seed_index": 1,
+  "seed": 2905709,
+  "prompt": "A man riding a skateboard along a sandy beach.",
+  "path": "results/runs/adapter_dense/000000439854_s1.png",
+  "sha256": "dba3748b7b32fbcbd60df069e802f86091e1c1808c1f3e077fdb231c3b754ee5",
+  "latency_s": 1.9884911730041495,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

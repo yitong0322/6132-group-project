@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_2step",
+    "method": "lcm",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "662eb0b62259031ebfd05061cc22cf9622a52f075eeb20943184e3e52cfbc947",
+  "image_id": 407574,
+  "seed_index": 0,
+  "seed": 2841148,
+  "prompt": "A green stand holding several bananas for sale. ",
+  "path": "results/runs/lcm_2step/000000407574_s0.png",
+  "sha256": "ee2a1cd59908ddd6e2763ed80d80806704a3cc10484bff762e843beb3fdbdd9d",
+  "latency_s": 1.4501177110068966,
+  "peak_allocated_mib": 9947.8427734375,
+  "peak_reserved_mib": 12650.0
+}

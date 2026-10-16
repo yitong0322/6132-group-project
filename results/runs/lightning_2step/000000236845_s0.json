@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_2step",
+    "method": "lightning",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "c9f1d7562e2c721c6f9d933bd0ebaabec8feb143758b08fb930248cd7d3e3ae6",
+  "image_id": 236845,
+  "seed_index": 0,
+  "seed": 2499690,
+  "prompt": "a red and white sign a car and some buildings",
+  "path": "results/runs/lightning_2step/000000236845_s0.png",
+  "sha256": "4efea0a3eb2cb2a88a3f1a5d0d77c58ecd861993c5a6632eb9808edce1ad53ed",
+  "latency_s": 1.4462838059989735,
+  "peak_allocated_mib": 9949.5458984375,
+  "peak_reserved_mib": 12632.0
+}

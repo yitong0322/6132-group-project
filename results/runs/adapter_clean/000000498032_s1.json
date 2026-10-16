@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_clean",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "clean",
+    "strength": 1.5
+  },
+  "config_hash": "9ba657d5c560196238df271ac941213dbe52470be0b52f57afa1fe86ef55ed19",
+  "image_id": 498032,
+  "seed_index": 1,
+  "seed": 3022065,
+  "prompt": "A person standing in a room with a remote.",
+  "path": "results/runs/adapter_clean/000000498032_s1.png",
+  "sha256": "b92cfad61c8a6a5b8a571c4997f2d129f14ba356729f60e5e092851da35ae03d",
+  "latency_s": 1.990495505000581,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

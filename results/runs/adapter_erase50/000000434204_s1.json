@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase50",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "896b5ee20f16dbe54a8a8a0f8cbb30f7dfda77457ef77ac9d5f01f8363335ce2",
+  "image_id": 434204,
+  "seed_index": 1,
+  "seed": 2894409,
+  "prompt": "A man riding on a skateboard on the sidewalk.",
+  "path": "results/runs/adapter_erase50/000000434204_s1.png",
+  "sha256": "12f488559bdd106e61308800fbfa55c00e36b880255ee8849faf3a83ac6ef328",
+  "latency_s": 1.988533580006333,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

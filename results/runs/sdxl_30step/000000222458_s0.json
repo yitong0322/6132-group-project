@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "sdxl_30step",
+    "method": "sdxl",
+    "steps": 30,
+    "resolution": 1024,
+    "guidance": 5.0,
+    "condition": "none"
+  },
+  "config_hash": "7f2ff1a362b25ed9a421756a7624dd1129e6797ecf34a7ec1fc39f2ba5c3a6df",
+  "image_id": 222458,
+  "seed_index": 0,
+  "seed": 2470916,
+  "prompt": "A woman in a coat walks along a snow covered sidewalk. ",
+  "path": "results/runs/sdxl_30step/000000222458_s0.png",
+  "sha256": "75de9b7a6a0c049993ff335ac311444871d1572d4ce58e944aa2a1a76284bc01",
+  "latency_s": 11.763015357995755,
+  "peak_allocated_mib": 9946.52978515625,
+  "peak_reserved_mib": 12896.0
+}

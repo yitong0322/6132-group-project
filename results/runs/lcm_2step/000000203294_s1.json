@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_2step",
+    "method": "lcm",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "662eb0b62259031ebfd05061cc22cf9622a52f075eeb20943184e3e52cfbc947",
+  "image_id": 203294,
+  "seed_index": 1,
+  "seed": 2432589,
+  "prompt": "A tour bus with a cats face painted on the front of it",
+  "path": "results/runs/lcm_2step/000000203294_s1.png",
+  "sha256": "773aa684c88b3564a20d0ff0201bd95c098cfd5f9ae3552536d7b8048062c397",
+  "latency_s": 1.4489295260136714,
+  "peak_allocated_mib": 9948.8427734375,
+  "peak_reserved_mib": 12650.0
+}

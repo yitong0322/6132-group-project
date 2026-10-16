@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_dense",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "114bbb8b7de882aa24fc41d9ba598b03037e7e4fd05b317cde3dc9b41adcdaad",
+  "image_id": 6954,
+  "seed_index": 0,
+  "seed": 2039908,
+  "prompt": "A group of young children sitting in the grass.",
+  "path": "results/runs/adapter_dense/000000006954_s0.png",
+  "sha256": "5f31380e9eeb697459c1737e69a4f899897210977c4560c2ad09499deecbfc97",
+  "latency_s": 1.9880058609996922,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

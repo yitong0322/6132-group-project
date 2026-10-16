@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_2step",
+    "method": "lightning",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "c9f1d7562e2c721c6f9d933bd0ebaabec8feb143758b08fb930248cd7d3e3ae6",
+  "image_id": 468925,
+  "seed_index": 0,
+  "seed": 2963850,
+  "prompt": "a plate with bacon, eggs and hamburger topped with bananas",
+  "path": "results/runs/lightning_2step/000000468925_s0.png",
+  "sha256": "fecbdcc635c8123316d65282f8a447d203eeb42ede9500692437b32f26f13952",
+  "latency_s": 1.4437370619998546,
+  "peak_allocated_mib": 9949.5458984375,
+  "peak_reserved_mib": 12632.0
+}

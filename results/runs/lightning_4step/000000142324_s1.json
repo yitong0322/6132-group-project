@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_4step",
+    "method": "lightning",
+    "steps": 4,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "16ac80513f831abd97c3f2a5ff13092269bfbb5f3406b2a8d454fc9d71c49fcd",
+  "image_id": 142324,
+  "seed_index": 1,
+  "seed": 2310649,
+  "prompt": "A person on a motor bike on a street.",
+  "path": "results/runs/lightning_4step/000000142324_s1.png",
+  "sha256": "ef91844787788c186105a8eed4da9b506dbbae359acbe31accaacad682f549fa",
+  "latency_s": 1.8301882700034184,
+  "peak_allocated_mib": 9948.5458984375,
+  "peak_reserved_mib": 12632.0
+}

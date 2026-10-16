@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_clean",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "clean",
+    "strength": 1.5
+  },
+  "config_hash": "66b43ec0d0e6b23b0522fd655cf1655236bdd2a53d75e7fff42de6022e9c484b",
+  "image_id": 73326,
+  "seed_index": 0,
+  "seed": 2172652,
+  "prompt": "An open refrigerator including bottles of various food.",
+  "path": "results/runs/controlnet_clean/000000073326_s0.png",
+  "sha256": "1c30571326a1f9b63dfea3384ab801ded964a436cd4965d2af7fbe95f0222f8c",
+  "latency_s": 2.739165458988282,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

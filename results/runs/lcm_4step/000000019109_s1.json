@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_4step",
+    "method": "lcm",
+    "steps": 4,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "9ec22cf595f8b833bea186b1ab867b1ae0fab3debca422e4ad0a7028793290a0",
+  "image_id": 19109,
+  "seed_index": 1,
+  "seed": 2064219,
+  "prompt": "Many small motorbikes are parked along the street. ",
+  "path": "results/runs/lcm_4step/000000019109_s1.png",
+  "sha256": "1cd05f26c1ff52bcb95e0df65861b5b546248de8bef0e1eb6e80a43f148acffd",
+  "latency_s": 1.840159447005135,
+  "peak_allocated_mib": 9948.0927734375,
+  "peak_reserved_mib": 12650.0
+}

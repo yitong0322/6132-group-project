@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_4step",
+    "method": "lightning",
+    "steps": 4,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "16ac80513f831abd97c3f2a5ff13092269bfbb5f3406b2a8d454fc9d71c49fcd",
+  "image_id": 38210,
+  "seed_index": 1,
+  "seed": 2102421,
+  "prompt": "a skier is prepared to go down a mountain.",
+  "path": "results/runs/lightning_4step/000000038210_s1.png",
+  "sha256": "c1eb6ca03d694c4e4f21425a9d81472634890c51c0dc8af930c2e3b1df1c09b5",
+  "latency_s": 1.829268814995885,
+  "peak_allocated_mib": 9949.0458984375,
+  "peak_reserved_mib": 12632.0
+}

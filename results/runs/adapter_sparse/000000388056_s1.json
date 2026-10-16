@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_sparse",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "e591437800140077d0a3adb6b23eea9fd6dac35575bed9dfa31bd71572efb58f",
+  "image_id": 388056,
+  "seed_index": 1,
+  "seed": 2802113,
+  "prompt": "A baseball player holding a bat and getting ready for the pitch.",
+  "path": "results/runs/adapter_sparse/000000388056_s1.png",
+  "sha256": "7fe7d457abb557761c48bc30fb3a5d02e17fe3df0445b47c1313b199d204877f",
+  "latency_s": 1.9879427830019267,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

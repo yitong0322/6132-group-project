@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_4step",
+    "method": "lcm",
+    "steps": 4,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "9ec22cf595f8b833bea186b1ab867b1ae0fab3debca422e4ad0a7028793290a0",
+  "image_id": 468925,
+  "seed_index": 1,
+  "seed": 2963851,
+  "prompt": "a plate with bacon, eggs and hamburger topped with bananas",
+  "path": "results/runs/lcm_4step/000000468925_s1.png",
+  "sha256": "81d0d5e34ec35ca256e6abebd2985c707eb2902716ff98a2637e57f22f2b51c8",
+  "latency_s": 1.8346499210019829,
+  "peak_allocated_mib": 9948.3427734375,
+  "peak_reserved_mib": 12650.0
+}

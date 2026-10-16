@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_dense",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "114bbb8b7de882aa24fc41d9ba598b03037e7e4fd05b317cde3dc9b41adcdaad",
+  "image_id": 508370,
+  "seed_index": 1,
+  "seed": 3042741,
+  "prompt": "A bicycle parked on top of a baby dolls head.",
+  "path": "results/runs/adapter_dense/000000508370_s1.png",
+  "sha256": "b112e9263e12385d5d1b3b21ae53178d323ca9d69c70774dce36008f3bc8ff1d",
+  "latency_s": 1.988424044000567,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

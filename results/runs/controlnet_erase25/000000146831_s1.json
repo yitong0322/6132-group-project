@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_erase25",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase25",
+    "strength": 1.5
+  },
+  "config_hash": "8fb8a2754192714bc32db360b571eff94829570c7be658ef8572cbbfe9dfb389",
+  "image_id": 146831,
+  "seed_index": 1,
+  "seed": 2319663,
+  "prompt": "A person is riding a skateboard on a curved ramp.",
+  "path": "results/runs/controlnet_erase25/000000146831_s1.png",
+  "sha256": "11afb5b92ab15da512e91c0c148a6e2ace313dff9016dbe464eedf0722f04bd6",
+  "latency_s": 2.73738425099873,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

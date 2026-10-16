@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_sparse",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "e591437800140077d0a3adb6b23eea9fd6dac35575bed9dfa31bd71572efb58f",
+  "image_id": 50943,
+  "seed_index": 0,
+  "seed": 2127886,
+  "prompt": "A person riding a wave on top of a surfboard.",
+  "path": "results/runs/adapter_sparse/000000050943_s0.png",
+  "sha256": "dd1c0cbd9e1fb2fdc7ec7c7a6a2da7b92ded87b1fe721e866a5bde1e3150e5ef",
+  "latency_s": 1.9888038139906712,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase25",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase25",
+    "strength": 1.5
+  },
+  "config_hash": "80d457176300f341e45e2f76b044a50c847f1e3c3c84309a1df5ae1d17c970c5",
+  "image_id": 38210,
+  "seed_index": 0,
+  "seed": 2102420,
+  "prompt": "a skier is prepared to go down a mountain.",
+  "path": "results/runs/adapter_erase25/000000038210_s0.png",
+  "sha256": "cc70569ee2a5eed083811833df99dd7627dd9e3da5d0ffa9f48f2ef1c20f22a0",
+  "latency_s": 1.9878221639955882,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

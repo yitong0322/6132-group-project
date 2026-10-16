@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_sparse",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "88986ea6e18a64cdcc4d2f2c7c574e63ac06733272a42dfa6d44b4ea528ac428",
+  "image_id": 3661,
+  "seed_index": 1,
+  "seed": 2033323,
+  "prompt": "A bunch of bananas sitting on top of a wooden table.",
+  "path": "results/runs/controlnet_sparse/000000003661_s1.png",
+  "sha256": "699b862fbd1bc593a0215b1f4306eb3f87af413418c9e6625b18fe7f8b50ae9f",
+  "latency_s": 2.7399528700043447,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

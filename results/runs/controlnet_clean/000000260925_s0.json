@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_clean",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "clean",
+    "strength": 1.5
+  },
+  "config_hash": "66b43ec0d0e6b23b0522fd655cf1655236bdd2a53d75e7fff42de6022e9c484b",
+  "image_id": 260925,
+  "seed_index": 0,
+  "seed": 2547850,
+  "prompt": "A cat sitting on the hood of a car.",
+  "path": "results/runs/controlnet_clean/000000260925_s0.png",
+  "sha256": "cf685f016b744c11b7344d63fef68e88b91f4520d5aeec9f715263ca9818abea",
+  "latency_s": 2.740942159012775,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

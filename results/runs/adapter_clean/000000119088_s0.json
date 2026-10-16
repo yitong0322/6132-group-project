@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_clean",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "clean",
+    "strength": 1.5
+  },
+  "config_hash": "9ba657d5c560196238df271ac941213dbe52470be0b52f57afa1fe86ef55ed19",
+  "image_id": 119088,
+  "seed_index": 0,
+  "seed": 2264176,
+  "prompt": "The men are up to their knees in the water.",
+  "path": "results/runs/adapter_clean/000000119088_s0.png",
+  "sha256": "1f20762fab4c2f8ecaea6b6d8748f0fe403a8aa7d674ae2a8af9d8511bcbd017",
+  "latency_s": 1.9918230559997028,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

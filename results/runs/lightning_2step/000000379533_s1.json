@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_2step",
+    "method": "lightning",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "c9f1d7562e2c721c6f9d933bd0ebaabec8feb143758b08fb930248cd7d3e3ae6",
+  "image_id": 379533,
+  "seed_index": 1,
+  "seed": 2785067,
+  "prompt": "A zebra grazing on a dry grass field next to elephants.",
+  "path": "results/runs/lightning_2step/000000379533_s1.png",
+  "sha256": "66fc0f3e95237581c7ed22446c55ce05c680959fc943ab78bddc13567adaba09",
+  "latency_s": 1.4443876179866493,
+  "peak_allocated_mib": 9949.5458984375,
+  "peak_reserved_mib": 12632.0
+}

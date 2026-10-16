@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "sdxl_30step",
+    "method": "sdxl",
+    "steps": 30,
+    "resolution": 1024,
+    "guidance": 5.0,
+    "condition": "none"
+  },
+  "config_hash": "7f2ff1a362b25ed9a421756a7624dd1129e6797ecf34a7ec1fc39f2ba5c3a6df",
+  "image_id": 203389,
+  "seed_index": 1,
+  "seed": 2432779,
+  "prompt": "A group of young people riding motorcycles near a river.",
+  "path": "results/runs/sdxl_30step/000000203389_s1.png",
+  "sha256": "daa2ba434de9aae6678f3a8e285b1eaa0e428a1f296f35907a3238cbebbea146",
+  "latency_s": 11.764918485001544,
+  "peak_allocated_mib": 9946.52978515625,
+  "peak_reserved_mib": 12896.0
+}

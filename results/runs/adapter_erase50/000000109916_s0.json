@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase50",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "896b5ee20f16dbe54a8a8a0f8cbb30f7dfda77457ef77ac9d5f01f8363335ce2",
+  "image_id": 109916,
+  "seed_index": 0,
+  "seed": 2245832,
+  "prompt": "Twp cake pans sitting and cooling on the stove",
+  "path": "results/runs/adapter_erase50/000000109916_s0.png",
+  "sha256": "4d16b183ecc43ea620b0301af37c1e2f8c3b3129afa4e1bd9773178a73bd0f65",
+  "latency_s": 1.9877801919938065,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

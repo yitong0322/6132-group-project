@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_erase25",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase25",
+    "strength": 1.5
+  },
+  "config_hash": "8fb8a2754192714bc32db360b571eff94829570c7be658ef8572cbbfe9dfb389",
+  "image_id": 7108,
+  "seed_index": 0,
+  "seed": 2040216,
+  "prompt": "A herd of elephants walking away from a watering hole.",
+  "path": "results/runs/controlnet_erase25/000000007108_s0.png",
+  "sha256": "d3ddcc47caa9909533d348f8ddaa5da9054ed8d8168968c0f2401d86bd581477",
+  "latency_s": 2.739044289002777,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

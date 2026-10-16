@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "sd15_30step",
+    "method": "sd15",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "none"
+  },
+  "config_hash": "50a25ea0626a66bb0ec90a9954c0e8703317fb3903621c472f0b82bcf8c26228",
+  "image_id": 117374,
+  "seed_index": 1,
+  "seed": 2260749,
+  "prompt": "Two cats sitting in the dirt under a tree.",
+  "path": "results/runs/sd15_30step/000000117374_s1.png",
+  "sha256": "bd9d38e6d7427cd27166e5817f9d5bbea558be8e8683d10cb28809151045b1c9",
+  "latency_s": 1.983412966990727,
+  "peak_allocated_mib": 2675.13818359375,
+  "peak_reserved_mib": 3238.0
+}

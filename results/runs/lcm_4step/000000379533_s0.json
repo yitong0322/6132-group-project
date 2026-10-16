@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_4step",
+    "method": "lcm",
+    "steps": 4,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "9ec22cf595f8b833bea186b1ab867b1ae0fab3debca422e4ad0a7028793290a0",
+  "image_id": 379533,
+  "seed_index": 0,
+  "seed": 2785066,
+  "prompt": "A zebra grazing on a dry grass field next to elephants.",
+  "path": "results/runs/lcm_4step/000000379533_s0.png",
+  "sha256": "2a1737f248b2ec2810f8e6ec431405ce9a542fef27b5bd3b37e2e5a18bb2e62c",
+  "latency_s": 1.8394339730002685,
+  "peak_allocated_mib": 9947.8427734375,
+  "peak_reserved_mib": 12650.0
+}

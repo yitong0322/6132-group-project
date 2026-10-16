@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_dense",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "114bbb8b7de882aa24fc41d9ba598b03037e7e4fd05b317cde3dc9b41adcdaad",
+  "image_id": 434204,
+  "seed_index": 1,
+  "seed": 2894409,
+  "prompt": "A man riding on a skateboard on the sidewalk.",
+  "path": "results/runs/adapter_dense/000000434204_s1.png",
+  "sha256": "88aab1173e2e50e7f49cd4950573de5a18a731c93ce43460116914298599627c",
+  "latency_s": 1.9875622210092843,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

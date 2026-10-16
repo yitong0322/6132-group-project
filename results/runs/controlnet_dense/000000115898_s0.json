@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_dense",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "f25fcf61e38298c2c82909b445848fd59f39f4565e113adeded45d7fab51ac96",
+  "image_id": 115898,
+  "seed_index": 0,
+  "seed": 2257796,
+  "prompt": "A man in black wetsuit on white surfboard riding wave.",
+  "path": "results/runs/controlnet_dense/000000115898_s0.png",
+  "sha256": "968569e450879d24581e773ba35b07818daf565201c5d27b004a22cb36eabf5a",
+  "latency_s": 2.733428071005619,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

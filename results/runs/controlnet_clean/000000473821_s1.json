@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_clean",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "clean",
+    "strength": 1.5
+  },
+  "config_hash": "66b43ec0d0e6b23b0522fd655cf1655236bdd2a53d75e7fff42de6022e9c484b",
+  "image_id": 473821,
+  "seed_index": 1,
+  "seed": 2973643,
+  "prompt": "A red couch next to a brown chair in a living room.",
+  "path": "results/runs/controlnet_clean/000000473821_s1.png",
+  "sha256": "a36a3271fb8b6bb87d7e058a0aad27f238dcba9dcc488b8b406e843e3373c8e6",
+  "latency_s": 2.738483767010621,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

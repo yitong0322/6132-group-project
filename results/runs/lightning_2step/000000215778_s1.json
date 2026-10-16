@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_2step",
+    "method": "lightning",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "c9f1d7562e2c721c6f9d933bd0ebaabec8feb143758b08fb930248cd7d3e3ae6",
+  "image_id": 215778,
+  "seed_index": 1,
+  "seed": 2457557,
+  "prompt": "There is a lap top computer on the desk",
+  "path": "results/runs/lightning_2step/000000215778_s1.png",
+  "sha256": "7fd7f9acb7981e1bb03fe352dc4c3400918670c77d9b31075d573a6dc2ee99fc",
+  "latency_s": 1.4464353910007048,
+  "peak_allocated_mib": 9949.0458984375,
+  "peak_reserved_mib": 12632.0
+}

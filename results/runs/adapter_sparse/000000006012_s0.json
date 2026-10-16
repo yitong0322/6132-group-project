@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_sparse",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "e591437800140077d0a3adb6b23eea9fd6dac35575bed9dfa31bd71572efb58f",
+  "image_id": 6012,
+  "seed_index": 0,
+  "seed": 2038024,
+  "prompt": "There are bananas around another piece of fruit. ",
+  "path": "results/runs/adapter_sparse/000000006012_s0.png",
+  "sha256": "479100a073042d7789d2b399464c5160b65fed0ec010016fa8b66848560c0159",
+  "latency_s": 1.9902216820046306,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

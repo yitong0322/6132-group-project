@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_sparse",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "e591437800140077d0a3adb6b23eea9fd6dac35575bed9dfa31bd71572efb58f",
+  "image_id": 172571,
+  "seed_index": 1,
+  "seed": 2371143,
+  "prompt": "A very thick pizza is on a plate with one piece taken.",
+  "path": "results/runs/adapter_sparse/000000172571_s1.png",
+  "sha256": "197e0df80a2b904dd3054f95ecd7fcfd0bda01cf4cb6eb2e24cab29e9e3e915d",
+  "latency_s": 1.9885200959979557,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

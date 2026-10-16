@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_clean",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "clean",
+    "strength": 1.5
+  },
+  "config_hash": "9ba657d5c560196238df271ac941213dbe52470be0b52f57afa1fe86ef55ed19",
+  "image_id": 407574,
+  "seed_index": 0,
+  "seed": 2841148,
+  "prompt": "A green stand holding several bananas for sale. ",
+  "path": "results/runs/adapter_clean/000000407574_s0.png",
+  "sha256": "1af6a02fcf44738821780757055356bf40e03c4b3f57ad87914ed03242847c82",
+  "latency_s": 1.991185986000346,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

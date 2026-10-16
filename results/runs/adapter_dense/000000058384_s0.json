@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_dense",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "114bbb8b7de882aa24fc41d9ba598b03037e7e4fd05b317cde3dc9b41adcdaad",
+  "image_id": 58384,
+  "seed_index": 0,
+  "seed": 2142768,
+  "prompt": "A herd of elephants standing next to each other.",
+  "path": "results/runs/adapter_dense/000000058384_s0.png",
+  "sha256": "4de268e5868f514a07f36eb68185874ff98783a4b1cebc20a681301a3fe79496",
+  "latency_s": 1.988853556002141,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

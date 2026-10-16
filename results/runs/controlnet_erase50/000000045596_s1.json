@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_erase50",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "22aaf1199ae8d9bf147f8b71f7b2196b68dded76b271f6f12b37f1a8956cefe6",
+  "image_id": 45596,
+  "seed_index": 1,
+  "seed": 2117193,
+  "prompt": "A view A large metal structure near the side of a building",
+  "path": "results/runs/controlnet_erase50/000000045596_s1.png",
+  "sha256": "cf7cc6739cb53071f4ff686994ba442eb12e5f11e51affff9f877d0d13f0c03a",
+  "latency_s": 2.733708685002057,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

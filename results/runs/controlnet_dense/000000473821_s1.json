@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_dense",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "f25fcf61e38298c2c82909b445848fd59f39f4565e113adeded45d7fab51ac96",
+  "image_id": 473821,
+  "seed_index": 1,
+  "seed": 2973643,
+  "prompt": "A red couch next to a brown chair in a living room.",
+  "path": "results/runs/controlnet_dense/000000473821_s1.png",
+  "sha256": "6087460d2a22b16cb9ef9d50b2bd4961b7c8432d2c2a4a0b142c3072ba9faadf",
+  "latency_s": 2.73271301999921,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

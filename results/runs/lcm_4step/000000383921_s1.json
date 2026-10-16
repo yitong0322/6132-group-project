@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_4step",
+    "method": "lcm",
+    "steps": 4,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "9ec22cf595f8b833bea186b1ab867b1ae0fab3debca422e4ad0a7028793290a0",
+  "image_id": 383921,
+  "seed_index": 1,
+  "seed": 2793843,
+  "prompt": "A herd of elephants walking across a body of water.",
+  "path": "results/runs/lcm_4step/000000383921_s1.png",
+  "sha256": "344085bad585fb50f4ff664e0cda30324b4bc6b33bf6e0d2546b5d61d3e8676b",
+  "latency_s": 1.841739196999697,
+  "peak_allocated_mib": 9947.3427734375,
+  "peak_reserved_mib": 12650.0
+}

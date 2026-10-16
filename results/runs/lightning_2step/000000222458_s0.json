@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_2step",
+    "method": "lightning",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "c9f1d7562e2c721c6f9d933bd0ebaabec8feb143758b08fb930248cd7d3e3ae6",
+  "image_id": 222458,
+  "seed_index": 0,
+  "seed": 2470916,
+  "prompt": "A woman in a coat walks along a snow covered sidewalk. ",
+  "path": "results/runs/lightning_2step/000000222458_s0.png",
+  "sha256": "e0fdf2acb50b3d5010f7f8b2245a3fed2cff5b5abee7c133e24f7c3bbbb5c71b",
+  "latency_s": 1.4446986449911492,
+  "peak_allocated_mib": 9949.5458984375,
+  "peak_reserved_mib": 12632.0
+}

@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "sdxl_30step",
+    "method": "sdxl",
+    "steps": 30,
+    "resolution": 1024,
+    "guidance": 5.0,
+    "condition": "none"
+  },
+  "config_hash": "7f2ff1a362b25ed9a421756a7624dd1129e6797ecf34a7ec1fc39f2ba5c3a6df",
+  "image_id": 6012,
+  "seed_index": 1,
+  "seed": 2038025,
+  "prompt": "There are bananas around another piece of fruit. ",
+  "path": "results/runs/sdxl_30step/000000006012_s1.png",
+  "sha256": "355bf5936288e76cb76ba050150d6a1758a949050cab0d40cd7276fc0ad94f0a",
+  "latency_s": 11.7643256670126,
+  "peak_allocated_mib": 9946.52978515625,
+  "peak_reserved_mib": 12896.0
+}

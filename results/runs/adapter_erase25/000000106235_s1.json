@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase25",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase25",
+    "strength": 1.5
+  },
+  "config_hash": "80d457176300f341e45e2f76b044a50c847f1e3c3c84309a1df5ae1d17c970c5",
+  "image_id": 106235,
+  "seed_index": 1,
+  "seed": 2238471,
+  "prompt": "A living room featuring a comfortable seating arrangement of chairs and tables.",
+  "path": "results/runs/adapter_erase25/000000106235_s1.png",
+  "sha256": "12db0584d3145629c797809fc3cfe5225514113429e09daaec19343b7b0321b2",
+  "latency_s": 1.9887511049892055,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

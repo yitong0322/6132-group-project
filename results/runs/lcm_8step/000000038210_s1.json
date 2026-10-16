@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_8step",
+    "method": "lcm",
+    "steps": 8,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "feddce4cdbe9647508117b127ff6e71f47b840f02764b4ba859667a4e90c6edf",
+  "image_id": 38210,
+  "seed_index": 1,
+  "seed": 2102421,
+  "prompt": "a skier is prepared to go down a mountain.",
+  "path": "results/runs/lcm_8step/000000038210_s1.png",
+  "sha256": "e1ccc229374c8301f03012265d36d6bdcf163c9d2e206a8cff16dfb1eac05754",
+  "latency_s": 2.601361771012307,
+  "peak_allocated_mib": 9948.0927734375,
+  "peak_reserved_mib": 12650.0
+}

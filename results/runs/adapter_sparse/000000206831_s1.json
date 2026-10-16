@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_sparse",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "e591437800140077d0a3adb6b23eea9fd6dac35575bed9dfa31bd71572efb58f",
+  "image_id": 206831,
+  "seed_index": 1,
+  "seed": 2439663,
+  "prompt": "A large brown dog holding a neon frisbee in his mouth.",
+  "path": "results/runs/adapter_sparse/000000206831_s1.png",
+  "sha256": "1d609d120f8d64d37fc8308c41270bc9d6e6809f5e3f6b43b13dcb244dabd540",
+  "latency_s": 1.989120358004584,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

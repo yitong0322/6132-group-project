@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_erase25",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase25",
+    "strength": 1.5
+  },
+  "config_hash": "8fb8a2754192714bc32db360b571eff94829570c7be658ef8572cbbfe9dfb389",
+  "image_id": 546826,
+  "seed_index": 0,
+  "seed": 3119652,
+  "prompt": "A pink and green marker, next to another object. ",
+  "path": "results/runs/controlnet_erase25/000000546826_s0.png",
+  "sha256": "4f2b33fe6ce469274b6a21af6b8b4f1d2b7e281028a905d4320cdbdc75bfa6bc",
+  "latency_s": 2.7404056459927233,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

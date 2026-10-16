@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_4step",
+    "method": "lcm",
+    "steps": 4,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "9ec22cf595f8b833bea186b1ab867b1ae0fab3debca422e4ad0a7028793290a0",
+  "image_id": 146831,
+  "seed_index": 0,
+  "seed": 2319662,
+  "prompt": "A person is riding a skateboard on a curved ramp.",
+  "path": "results/runs/lcm_4step/000000146831_s0.png",
+  "sha256": "8df57b6a412e08998b97dfb32fac3ee57efef62a3ed224844dcf31fd7c3c9e1a",
+  "latency_s": 1.8329531550116371,
+  "peak_allocated_mib": 9947.8427734375,
+  "peak_reserved_mib": 12650.0
+}

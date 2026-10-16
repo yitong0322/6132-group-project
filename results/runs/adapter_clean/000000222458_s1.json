@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_clean",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "clean",
+    "strength": 1.5
+  },
+  "config_hash": "9ba657d5c560196238df271ac941213dbe52470be0b52f57afa1fe86ef55ed19",
+  "image_id": 222458,
+  "seed_index": 1,
+  "seed": 2470917,
+  "prompt": "A woman in a coat walks along a snow covered sidewalk. ",
+  "path": "results/runs/adapter_clean/000000222458_s1.png",
+  "sha256": "83269087db1e84141f1df7a0ef49ba3b6dd934ed488dd3ae20857520242200f5",
+  "latency_s": 1.9935979540023254,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

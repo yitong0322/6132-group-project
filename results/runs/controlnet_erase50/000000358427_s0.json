@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_erase50",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "22aaf1199ae8d9bf147f8b71f7b2196b68dded76b271f6f12b37f1a8956cefe6",
+  "image_id": 358427,
+  "seed_index": 0,
+  "seed": 2742854,
+  "prompt": "Two pieces of broccoli being held up on a fork",
+  "path": "results/runs/controlnet_erase50/000000358427_s0.png",
+  "sha256": "768bacfcbd922ae21f8c7445bfb02537e0cbd10e43f3d9895f401a9b5d11fe16",
+  "latency_s": 2.73436090600444,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

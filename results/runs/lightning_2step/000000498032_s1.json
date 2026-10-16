@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_2step",
+    "method": "lightning",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "c9f1d7562e2c721c6f9d933bd0ebaabec8feb143758b08fb930248cd7d3e3ae6",
+  "image_id": 498032,
+  "seed_index": 1,
+  "seed": 3022065,
+  "prompt": "A person standing in a room with a remote.",
+  "path": "results/runs/lightning_2step/000000498032_s1.png",
+  "sha256": "98ef1f76be070fc80b510e0b9b5a68f4e7d038633b2c818e35d00eeb70a1f601",
+  "latency_s": 1.443413472006796,
+  "peak_allocated_mib": 9949.2958984375,
+  "peak_reserved_mib": 12632.0
+}

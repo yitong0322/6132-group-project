@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_2step",
+    "method": "lightning",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "c9f1d7562e2c721c6f9d933bd0ebaabec8feb143758b08fb930248cd7d3e3ae6",
+  "image_id": 484893,
+  "seed_index": 1,
+  "seed": 2995787,
+  "prompt": "A couple of kids petting sheep inside of a corral",
+  "path": "results/runs/lightning_2step/000000484893_s1.png",
+  "sha256": "13980b9923b4d05d9fd9018c8a7885f98e09049d5f736b058ef78028282f5b4e",
+  "latency_s": 1.4442281700030435,
+  "peak_allocated_mib": 9949.0458984375,
+  "peak_reserved_mib": 12632.0
+}

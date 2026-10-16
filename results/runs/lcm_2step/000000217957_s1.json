@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_2step",
+    "method": "lcm",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "662eb0b62259031ebfd05061cc22cf9622a52f075eeb20943184e3e52cfbc947",
+  "image_id": 217957,
+  "seed_index": 1,
+  "seed": 2461915,
+  "prompt": "A clock is shown with gold detailing around it.",
+  "path": "results/runs/lcm_2step/000000217957_s1.png",
+  "sha256": "dbdab47452d4af18daadb843f50c0213431c1fc7a5071be3cacafa985e489a55",
+  "latency_s": 1.4494594949937891,
+  "peak_allocated_mib": 9948.0927734375,
+  "peak_reserved_mib": 12650.0
+}

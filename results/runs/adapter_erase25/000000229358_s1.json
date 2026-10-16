@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase25",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase25",
+    "strength": 1.5
+  },
+  "config_hash": "80d457176300f341e45e2f76b044a50c847f1e3c3c84309a1df5ae1d17c970c5",
+  "image_id": 229358,
+  "seed_index": 1,
+  "seed": 2484717,
+  "prompt": "A man standing in front of a mirror in a room.",
+  "path": "results/runs/adapter_erase25/000000229358_s1.png",
+  "sha256": "8f69140460b82a712266255b5c6517354ff10622e73ec9a67f81ec786ac64934",
+  "latency_s": 1.9915904789959313,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

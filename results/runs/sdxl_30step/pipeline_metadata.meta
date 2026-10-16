@@ -1,0 +1,40 @@
+{
+  "scheduler_class": "EulerDiscreteScheduler",
+  "scheduler_config": {
+    "num_train_timesteps": 1000,
+    "beta_start": 0.00085,
+    "beta_end": 0.012,
+    "beta_schedule": "scaled_linear",
+    "trained_betas": null,
+    "prediction_type": "epsilon",
+    "interpolation_type": "linear",
+    "use_karras_sigmas": false,
+    "use_exponential_sigmas": false,
+    "use_beta_sigmas": false,
+    "sigma_min": null,
+    "sigma_max": null,
+    "timestep_spacing": "leading",
+    "timestep_type": "discrete",
+    "steps_offset": 1,
+    "rescale_betas_zero_snr": false,
+    "final_sigmas_type": "zero",
+    "_use_default_values": [
+      "use_beta_sigmas",
+      "timestep_type",
+      "use_exponential_sigmas",
+      "final_sigmas_type",
+      "sigma_max",
+      "rescale_betas_zero_snr",
+      "sigma_min"
+    ],
+    "_class_name": "EulerDiscreteScheduler",
+    "_diffusers_version": "0.19.0.dev0",
+    "clip_sample": false,
+    "sample_max_value": 1.0,
+    "set_alpha_to_one": false,
+    "skip_prk_steps": true
+  },
+  "source_sha256": "54c8b1b06371b569a0e50f35bb8d18413b08ba727bd5693b79a901a58b471c2c",
+  "manifest_sha256": "c80448b54398c85edfba31eefbae477f0cb7380bc5d79e18e7cdcf0e4b49eab9",
+  "config_hash": "7f2ff1a362b25ed9a421756a7624dd1129e6797ecf34a7ec1fc39f2ba5c3a6df"
+}

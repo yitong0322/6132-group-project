@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_erase25",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase25",
+    "strength": 1.5
+  },
+  "config_hash": "8fb8a2754192714bc32db360b571eff94829570c7be658ef8572cbbfe9dfb389",
+  "image_id": 345385,
+  "seed_index": 0,
+  "seed": 2716770,
+  "prompt": "Young couple happily snuggling on their bed together",
+  "path": "results/runs/controlnet_erase25/000000345385_s0.png",
+  "sha256": "03672a6ac9822813274114bd34501450881a05922d49311978648caaa8333f47",
+  "latency_s": 2.7394512400060194,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

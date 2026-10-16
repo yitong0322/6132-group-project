@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_dense",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "f25fcf61e38298c2c82909b445848fd59f39f4565e113adeded45d7fab51ac96",
+  "image_id": 493286,
+  "seed_index": 0,
+  "seed": 3012572,
+  "prompt": "an old car in front of an old air plane",
+  "path": "results/runs/controlnet_dense/000000493286_s0.png",
+  "sha256": "8184a148d9acaf96746f7360a682f90c82dfc3ef3eef461e4e082f753acac2b9",
+  "latency_s": 2.7334036319953157,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase50",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "896b5ee20f16dbe54a8a8a0f8cbb30f7dfda77457ef77ac9d5f01f8363335ce2",
+  "image_id": 45596,
+  "seed_index": 1,
+  "seed": 2117193,
+  "prompt": "A view A large metal structure near the side of a building",
+  "path": "results/runs/adapter_erase50/000000045596_s1.png",
+  "sha256": "ab941a31fbdceeee29ce3927ae195683eef91555775f17ede355bff8b9499c34",
+  "latency_s": 1.989572098987992,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

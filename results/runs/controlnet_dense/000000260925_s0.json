@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_dense",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "f25fcf61e38298c2c82909b445848fd59f39f4565e113adeded45d7fab51ac96",
+  "image_id": 260925,
+  "seed_index": 0,
+  "seed": 2547850,
+  "prompt": "A cat sitting on the hood of a car.",
+  "path": "results/runs/controlnet_dense/000000260925_s0.png",
+  "sha256": "e86e9422e77f15df3dc1bdf2be775e2b8fb18e4341a4478339e0622f2ae1a0fe",
+  "latency_s": 2.7337876680103363,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

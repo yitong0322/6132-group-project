@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_dense",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "114bbb8b7de882aa24fc41d9ba598b03037e7e4fd05b317cde3dc9b41adcdaad",
+  "image_id": 503855,
+  "seed_index": 1,
+  "seed": 3033711,
+  "prompt": "A grass yard area that has several open umbrellas laid on the grass and various people around the roadway area.\n\n",
+  "path": "results/runs/adapter_dense/000000503855_s1.png",
+  "sha256": "8414a1262eba1c2c171b1eb158490bc7bd9153eea6499a9be03e421c78189ee9",
+  "latency_s": 1.9883965730114141,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

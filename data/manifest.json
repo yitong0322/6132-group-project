@@ -1,0 +1,2410 @@
+{
+  "subset_id": "coco-val2017-new-seed2026-v1",
+  "original_report_subset_recovered": false,
+  "sampling": "Python random.Random(2026).shuffle(sorted(images, key=id)); first 20 dev, next 100 test; lowest annotation id caption; no output-dependent exclusions",
+  "annotations_md5": "f4bbac642086de4f52a3fdda2de5fa2c",
+  "annotations_sha256": "afe3b30e403dd7f228e2373023abbd60042a6e10ec6874d3652df034d289ebb9",
+  "preprocessing": "PIL ImageOps.fit center square, Lanczos; same spatial crop at 512 and 1024; captions not manually screened",
+  "rows": [
+    {
+      "image_id": 478721,
+      "split": "dev",
+      "caption": "Two people carrying a kite to be flown later.",
+      "caption_id": 711912,
+      "original": "data/originals/000000478721.jpg",
+      "original_sha256": "e3c8cdfe51d598c74a760009a489ebf59a5672e97475dcce9268e846f2f64cc6",
+      "reference_512": "data/reference_512/000000478721.png",
+      "reference_1024": "data/reference_1024/000000478721.png",
+      "reference_512_sha256": "b7c63a819800de550028f166a24e2f1fa9ebcfc37af2fd6b5f7b4639622f279f",
+      "reference_1024_sha256": "cb13c96c8c9b04b841ddc549367bc28ce146fdb45644516b525df63b08472137",
+      "seeds": [
+        2983442,
+        2983443
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2521222881873162,
+        "50": 0.5018032514009876
+      }
+    },
+    {
+      "image_id": 377946,
+      "split": "dev",
+      "caption": "A yellow food truck parked close to a car",
+      "caption_id": 89465,
+      "original": "data/originals/000000377946.jpg",
+      "original_sha256": "85dd1fc393009264d88be57018aa813c3412fbbe5258af6fd2732552e92433a7",
+      "reference_512": "data/reference_512/000000377946.png",
+      "reference_1024": "data/reference_1024/000000377946.png",
+      "reference_512_sha256": "022d2bb18de41fd4b28066313ff028e002bc5f807e4c3f48d48e71cd7c4ddbd9",
+      "reference_1024_sha256": "0e19f23f04541349f54f7842f04d579a3f19a7aa4a578a8e2cd8e22b9db0eee5",
+      "seeds": [
+        2781892,
+        2781893
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2503555409692594,
+        "50": 0.5007110819385188
+      }
+    },
+    {
+      "image_id": 89761,
+      "split": "dev",
+      "caption": "A toilet seat behind a tree in the open outdoor.",
+      "caption_id": 411869,
+      "original": "data/originals/000000089761.jpg",
+      "original_sha256": "77578f52ee4644ec8ff4d8ffd712116b2ce0a498ae7ed5bd5430dec7b784cdc5",
+      "reference_512": "data/reference_512/000000089761.png",
+      "reference_1024": "data/reference_1024/000000089761.png",
+      "reference_512_sha256": "b1a0533bf5932cc9c2774785e5b15ac60cbe1adf10cab69fd3443082b25abb4e",
+      "reference_1024_sha256": "3647e7effda058a405e2eca9eadea974ecf982f2925b6ae9b170683c0a41feb9",
+      "seeds": [
+        2205522,
+        2205523
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2503238747962723,
+        "50": 0.5006477495925447
+      }
+    },
+    {
+      "image_id": 356427,
+      "split": "dev",
+      "caption": "A man standing next to train tracks with bags of luggage.",
+      "caption_id": 108498,
+      "original": "data/originals/000000356427.jpg",
+      "original_sha256": "a56e6d03e3390fae54ef3a1eff49116a31eea935a3caf8636327af7550f074a9",
+      "reference_512": "data/reference_512/000000356427.png",
+      "reference_1024": "data/reference_1024/000000356427.png",
+      "reference_512_sha256": "2ec2167dd1aae67c43d65d792d00d8bd3d518b375a37fb525be8ff07258beb15",
+      "reference_1024_sha256": "d4d809dd6e043184cc29126a722bfa26e17ce6d276ae95d7af61e7cb608975a7",
+      "seeds": [
+        2738854,
+        2738855
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2515964725558765,
+        "50": 0.5001900562566519
+      }
+    },
+    {
+      "image_id": 462614,
+      "split": "dev",
+      "caption": "A bathroom filled with fixtures and a shower.",
+      "caption_id": 201615,
+      "original": "data/originals/000000462614.jpg",
+      "original_sha256": "a62b0455cf18a765b1966e6128614136c86bf8a470f38d91d1c4a0e9510eee74",
+      "reference_512": "data/reference_512/000000462614.png",
+      "reference_1024": "data/reference_1024/000000462614.png",
+      "reference_512_sha256": "5a5096684fd215dfef4651eb61e88b6b1dd498694bf4bb81f12686134f4cd5a4",
+      "reference_1024_sha256": "ca638dfc6e98496808f9f90481dad7716149a49c3b18bbd50129c02f23a466c6",
+      "seeds": [
+        2951228,
+        2951229
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2519365199319856,
+        "50": 0.5005667863215568
+      }
+    },
+    {
+      "image_id": 55002,
+      "split": "dev",
+      "caption": "A metallic toilet sitting in a small bathroom.",
+      "caption_id": 88270,
+      "original": "data/originals/000000055002.jpg",
+      "original_sha256": "df75b3c0b09e519fa531f8bb57d27bb6eb86f0e2a951c47c8defe593746fef77",
+      "reference_512": "data/reference_512/000000055002.png",
+      "reference_1024": "data/reference_1024/000000055002.png",
+      "reference_512_sha256": "ca51d8edb219b9a822b41cbc00e8adb356addb7bb772ff7cc4497de81c95a9b0",
+      "reference_1024_sha256": "8616960e6ebdfeb6815b1c41e91e549360927ab4a7d6b60017aaf7a817b701b1",
+      "seeds": [
+        2136004,
+        2136005
+      ],
+      "erased_edge_fraction": {
+        "25": 0.25079770261646456,
+        "50": 0.5006381620931717
+      }
+    },
+    {
+      "image_id": 423798,
+      "split": "dev",
+      "caption": "A street at night is lit up by streetlights.",
+      "caption_id": 39861,
+      "original": "data/originals/000000423798.jpg",
+      "original_sha256": "b56d20c765424ac5d6a21f9896b796d30c97e747fee50ed4b01bcd105732f911",
+      "reference_512": "data/reference_512/000000423798.png",
+      "reference_1024": "data/reference_1024/000000423798.png",
+      "reference_512_sha256": "b3e4982d8a93f3c477378adfd249872ef6d18e39b2104452e5d954b8eefda039",
+      "reference_1024_sha256": "c80c18588f65bf424286df47bcfd565d2b9fdcd96e7c2dd051ba92d0d043199e",
+      "seeds": [
+        2873596,
+        2873597
+      ],
+      "erased_edge_fraction": {
+        "25": 0.250996015936255,
+        "50": 0.502921646746348
+      }
+    },
+    {
+      "image_id": 2923,
+      "split": "dev",
+      "caption": "A marsh area with egrets and shrimp boats",
+      "caption_id": 398820,
+      "original": "data/originals/000000002923.jpg",
+      "original_sha256": "46d2a5feb3f953b59316daee47b45332f07ebde1f88eb361f29b35c1fbbb62e0",
+      "reference_512": "data/reference_512/000000002923.png",
+      "reference_1024": "data/reference_1024/000000002923.png",
+      "reference_512_sha256": "664e19617abe532745eb617b15ff5e2a5e956f72ecb5628aac757ef82ab05e39",
+      "reference_1024_sha256": "2332c4966b5ead898adc013152c0d76ceb996bb2550858db98ab59e910e78eb0",
+      "seeds": [
+        2031846,
+        2031847
+      ],
+      "erased_edge_fraction": {
+        "25": 0.25216469340872943,
+        "50": 0.5013253224951405
+      }
+    },
+    {
+      "image_id": 411665,
+      "split": "dev",
+      "caption": "A cat playing with it's reflection in a mirror.",
+      "caption_id": 167140,
+      "original": "data/originals/000000411665.jpg",
+      "original_sha256": "062326d314aaea6fc36f5d3c2472bfb4359a8acbff9ce72c866e94687d78f072",
+      "reference_512": "data/reference_512/000000411665.png",
+      "reference_1024": "data/reference_1024/000000411665.png",
+      "reference_512_sha256": "cad447071635392936ee013aacaec3fefcb83efcdd0465631747de071c1a7a40",
+      "reference_1024_sha256": "9bdfa7b54df17c824317f8cf641c8f6b6cdb2b6a15dc72b31eb1dd9144d36f6e",
+      "seeds": [
+        2849330,
+        2849331
+      ],
+      "erased_edge_fraction": {
+        "25": 0.25050709939148075,
+        "50": 0.5015212981744422
+      }
+    },
+    {
+      "image_id": 32811,
+      "split": "dev",
+      "caption": "A bird resting outside of a boat window. ",
+      "caption_id": 34624,
+      "original": "data/originals/000000032811.jpg",
+      "original_sha256": "bee917a2ebb2c2a35fab43f9673164e64b1512c846bdca19bdb629611b80fb04",
+      "reference_512": "data/reference_512/000000032811.png",
+      "reference_1024": "data/reference_1024/000000032811.png",
+      "reference_512_sha256": "987eef74f21cec30cd60bb728db3f1ab259bbe066b2bb58ab3cd1a01751d7d7c",
+      "reference_1024_sha256": "debe18f1f0c1c89c478715c22da715de07b912fe9570c606ef4f66a32a6ba5be",
+      "seeds": [
+        2091622,
+        2091623
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2507165739335694,
+        "50": 0.5014331478671388
+      }
+    },
+    {
+      "image_id": 128112,
+      "split": "dev",
+      "caption": "a man that is on a snowy trail",
+      "caption_id": 679485,
+      "original": "data/originals/000000128112.jpg",
+      "original_sha256": "39bfc0d7dee7c2751679be04277e653b7305a86f055d7145e9a5173fbd40e40e",
+      "reference_512": "data/reference_512/000000128112.png",
+      "reference_1024": "data/reference_1024/000000128112.png",
+      "reference_512_sha256": "600616087d4b54bbdc6bedea5522eecce784ee302c1144fc3e3851ef8cf9b9c3",
+      "reference_1024_sha256": "43c3afe9da42c2b68eb5c00be62be32f11acc0658542315c6baa521bbce57e97",
+      "seeds": [
+        2282224,
+        2282225
+      ],
+      "erased_edge_fraction": {
+        "25": 0.25062417388750186,
+        "50": 0.5003671611102952
+      }
+    },
+    {
+      "image_id": 163314,
+      "split": "dev",
+      "caption": "People are walking in front of some shops.",
+      "caption_id": 426573,
+      "original": "data/originals/000000163314.jpg",
+      "original_sha256": "1d7f57a5231af28a959bbdd27e822219ab0805a8ef3e9ee507153928084ccef0",
+      "reference_512": "data/reference_512/000000163314.png",
+      "reference_1024": "data/reference_1024/000000163314.png",
+      "reference_512_sha256": "64477c918dfae111c676a827767ede8ab09ab06cae6b9beff637bf279a1fc2b6",
+      "reference_1024_sha256": "e784b76bbd27e1e4b843278fae68c3d31f1e01bc4dcda55043d7f974d2888a5a",
+      "seeds": [
+        2352628,
+        2352629
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2507910304030816,
+        "50": 0.5006190672719769
+      }
+    },
+    {
+      "image_id": 279927,
+      "split": "dev",
+      "caption": "A group of people standing next to each other near a ground of people on a green patch fo grass.",
+      "caption_id": 603642,
+      "original": "data/originals/000000279927.jpg",
+      "original_sha256": "7b93a53ec3c3b64f60e8fc54bdf918e43ef75abfc72083756184f9ae083d90a5",
+      "reference_512": "data/reference_512/000000279927.png",
+      "reference_1024": "data/reference_1024/000000279927.png",
+      "reference_512_sha256": "8b996145a37978ab35f37f68a895c723ecc9f41f4f194d78c95d9a4645a2d881",
+      "reference_1024_sha256": "2f76d2ed5abd6f5909037c17e1bd669d99c14fa420b4511c42670111a0f8b7de",
+      "seeds": [
+        2585854,
+        2585855
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2503454918547678,
+        "50": 0.500020938900289
+      }
+    },
+    {
+      "image_id": 343976,
+      "split": "dev",
+      "caption": "A city street lit up in a night scene with cars in the background. ",
+      "caption_id": 5019,
+      "original": "data/originals/000000343976.jpg",
+      "original_sha256": "3485f9355b88cddf7a0a0f8a3aa1ea6301cd613a80731323c3cb83253459bdea",
+      "reference_512": "data/reference_512/000000343976.png",
+      "reference_1024": "data/reference_1024/000000343976.png",
+      "reference_512_sha256": "b0e6c538a3948121299ad56a5d2ce7abcccf6f8820bcfbcc60f4de903edf1836",
+      "reference_1024_sha256": "90f036bc32c812c254e1aa60f3998cba9719bc2f21bb3712d71346bf6b934b06",
+      "seeds": [
+        2713952,
+        2713953
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2521358159912377,
+        "50": 0.5000365096750639
+      }
+    },
+    {
+      "image_id": 76468,
+      "split": "dev",
+      "caption": "Two tennis players shaking hands on the court ",
+      "caption_id": 483419,
+      "original": "data/originals/000000076468.jpg",
+      "original_sha256": "ffc672262fe65dfaa7c8ffd499dbb40b06e699aafdf041db3ec50f615fd33436",
+      "reference_512": "data/reference_512/000000076468.png",
+      "reference_1024": "data/reference_1024/000000076468.png",
+      "reference_512_sha256": "ddb66d48ec68db57cf7538de4bdc82562ef7127bc82932fbccd80b89367c66ac",
+      "reference_1024_sha256": "1b6a8166e08d81f514b34f22260f969d4180db7c729786d5b9740fdd2856e56e",
+      "seeds": [
+        2178936,
+        2178937
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2500483839752274,
+        "50": 0.5001935359009096
+      }
+    },
+    {
+      "image_id": 67213,
+      "split": "dev",
+      "caption": "A lot of people that are looking at a pool.",
+      "caption_id": 146258,
+      "original": "data/originals/000000067213.jpg",
+      "original_sha256": "7c456c6e20d11fa40248d67b7d816d0aaf8106b1635243bdd1ba044245f05f8e",
+      "reference_512": "data/reference_512/000000067213.png",
+      "reference_1024": "data/reference_1024/000000067213.png",
+      "reference_512_sha256": "f41ba3e88610914cdd6a0cf2537518e3e3f349de8e1358f670b362d00174998a",
+      "reference_1024_sha256": "8999e2ecfff56a650333a70631811111036c46db4fedf1ec032ff9b3bcd3b76c",
+      "seeds": [
+        2160426,
+        2160427
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2500919756366758,
+        "50": 0.500102195151862
+      }
+    },
+    {
+      "image_id": 551660,
+      "split": "dev",
+      "caption": "A bowl of broccoli and apples with a utensil.",
+      "caption_id": 62601,
+      "original": "data/originals/000000551660.jpg",
+      "original_sha256": "f6d755ee329fe20ca03fadb4d0bc03afdf3b7f1b0c6e4864dc7266cc724e270a",
+      "reference_512": "data/reference_512/000000551660.png",
+      "reference_1024": "data/reference_1024/000000551660.png",
+      "reference_512_sha256": "c83ef1c73a6b0c6fb29181475fb819b93c5c389ae7a72096c8d6bc68409ebf30",
+      "reference_1024_sha256": "b678654a1af2f265edc73385112006ec8fbc233fd5d6bbf0bf031dc657b688dd",
+      "seeds": [
+        3129320,
+        3129321
+      ],
+      "erased_edge_fraction": {
+        "25": 0.251306711269078,
+        "50": 0.5025437312704718
+      }
+    },
+    {
+      "image_id": 190756,
+      "split": "dev",
+      "caption": "A man flying through the air while riding a bike.",
+      "caption_id": 496016,
+      "original": "data/originals/000000190756.jpg",
+      "original_sha256": "bf0912b5588750086467ccc832942bced9380771fcf057add3fb1e67d6b2e95a",
+      "reference_512": "data/reference_512/000000190756.png",
+      "reference_1024": "data/reference_1024/000000190756.png",
+      "reference_512_sha256": "a1d2a17569ec3168ca03626e0de18364af28f50b9a04f128206eb447e045f218",
+      "reference_1024_sha256": "73d83ec02ca2d31d3f733b334ffa86bf468555a2ded38a3077586594dcb5afe3",
+      "seeds": [
+        2407512,
+        2407513
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2504922874958976,
+        "50": 0.5
+      }
+    },
+    {
+      "image_id": 392722,
+      "split": "dev",
+      "caption": "A group of people standing next to a double decker bus.",
+      "caption_id": 691408,
+      "original": "data/originals/000000392722.jpg",
+      "original_sha256": "137bbeb12ff0d4152279be001c8c5e59b03e2aac88a939db1a3667fd4aac72c6",
+      "reference_512": "data/reference_512/000000392722.png",
+      "reference_1024": "data/reference_1024/000000392722.png",
+      "reference_512_sha256": "33717354bd3527742dd875cea7950c209b2fa960d7f986141e31b333272ae561",
+      "reference_1024_sha256": "54f14ec88e0029dab402a73d1d8da31c4eaba20f735f08a97588f2c7ac6138c5",
+      "seeds": [
+        2811444,
+        2811445
+      ],
+      "erased_edge_fraction": {
+        "25": 0.25135045015005003,
+        "50": 0.5016338779593198
+      }
+    },
+    {
+      "image_id": 18380,
+      "split": "dev",
+      "caption": "a group of people sit around a big table ",
+      "caption_id": 774077,
+      "original": "data/originals/000000018380.jpg",
+      "original_sha256": "5f019938d891305fab6ae0d0e9edc79e0d74407cdbd0ecce324aada0ab93a86e",
+      "reference_512": "data/reference_512/000000018380.png",
+      "reference_1024": "data/reference_1024/000000018380.png",
+      "reference_512_sha256": "1aff7247bd8aead48df90049f0953783c3f60c4bc07456b7b9a52eb26c1662eb",
+      "reference_1024_sha256": "473a6e3b4723aa183078e8e7cade9385ec150b3fd2ae844fda9087a158ebec66",
+      "seeds": [
+        2062760,
+        2062761
+      ],
+      "erased_edge_fraction": {
+        "25": 0.25071800872247635,
+        "50": 0.5010459880154593
+      }
+    },
+    {
+      "image_id": 313130,
+      "split": "test",
+      "caption": "a silver fridge sits in a room next to a microwave ",
+      "caption_id": 321041,
+      "original": "data/originals/000000313130.jpg",
+      "original_sha256": "3572b83c43004ac3616ffc05705971f62da2a35c4031efaae6ffe52d9bafa109",
+      "reference_512": "data/reference_512/000000313130.png",
+      "reference_1024": "data/reference_1024/000000313130.png",
+      "reference_512_sha256": "737195f6cbd7a6fc89962b6b6c950d6ca68ed71107d308e85be4636738ad576e",
+      "reference_1024_sha256": "ca844b6d998286053d4fca2d5686a43f78f8cfb70f92866f77e385467134b8bb",
+      "seeds": [
+        2652260,
+        2652261
+      ],
+      "erased_edge_fraction": {
+        "25": 0.25084384437733165,
+        "50": 0.500266477171789
+      }
+    },
+    {
+      "image_id": 533493,
+      "split": "test",
+      "caption": "Three men celebrating some kind of personal victory.",
+      "caption_id": 96924,
+      "original": "data/originals/000000533493.jpg",
+      "original_sha256": "70ce085b852201411730b097046ca4196457395b7d612b5f3282ca0768ac2c2b",
+      "reference_512": "data/reference_512/000000533493.png",
+      "reference_1024": "data/reference_1024/000000533493.png",
+      "reference_512_sha256": "dd73df147e079c98455b3a31807ad75a382277ac2775bb68124f485c1248b71c",
+      "reference_1024_sha256": "b57c612feb16f729339acdc9bd911973c2462f17f8a7b1b1841cf923c672c6ee",
+      "seeds": [
+        3092986,
+        3092987
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2519221331588418,
+        "50": 0.5040078521184361
+      }
+    },
+    {
+      "image_id": 370999,
+      "split": "test",
+      "caption": "some little stones sitting around a dime ",
+      "caption_id": 630988,
+      "original": "data/originals/000000370999.jpg",
+      "original_sha256": "174fc27563ff6cb874ccea6f13014c75ae71fd98966c2c407d9ae36114bee32d",
+      "reference_512": "data/reference_512/000000370999.png",
+      "reference_1024": "data/reference_1024/000000370999.png",
+      "reference_512_sha256": "3f44bc95abad6420157de3a28db3beb6f77d13c01e4fbd4d72cca7214d7a01bb",
+      "reference_1024_sha256": "90d9e984278d2b21e892aebc19791cfd305d0cf7354bb8c794aa1266ebfb44a6",
+      "seeds": [
+        2767998,
+        2767999
+      ],
+      "erased_edge_fraction": {
+        "25": 0.25035280835450185,
+        "50": 0.5004233700254022
+      }
+    },
+    {
+      "image_id": 484893,
+      "split": "test",
+      "caption": "A couple of kids petting sheep inside of a corral",
+      "caption_id": 222164,
+      "original": "data/originals/000000484893.jpg",
+      "original_sha256": "68058b8b452972d82df6c310fe796e7ece73e7110b683a73e2666a6bb863be58",
+      "reference_512": "data/reference_512/000000484893.png",
+      "reference_1024": "data/reference_1024/000000484893.png",
+      "reference_512_sha256": "6959a59febd77c9c5579307b7a0b3a41e5a55a335b98715de32dca97db0db2d4",
+      "reference_1024_sha256": "452d6a9c2547ad57160e78e4748a51358efc065c8aa1c5d52a72d20dcacbe6d8",
+      "seeds": [
+        2995786,
+        2995787
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2512840774397471,
+        "50": 0.5014392955918044
+      }
+    },
+    {
+      "image_id": 99039,
+      "split": "test",
+      "caption": "Plates  of food and glasses of wine sitting on a table",
+      "caption_id": 681377,
+      "original": "data/originals/000000099039.jpg",
+      "original_sha256": "03b7ba8aac61bb08650f9fb4bb0aad823e81e49156c2b5d15fdfb2d78fd4c3cc",
+      "reference_512": "data/reference_512/000000099039.png",
+      "reference_1024": "data/reference_1024/000000099039.png",
+      "reference_512_sha256": "72565fa50a29edea42bfbf3b9810880f8732407991870de0dafab29092e2bb07",
+      "reference_1024_sha256": "b45a3b196236ab1d10929b15c7c73c22286bfee0a0cc69513769910fcf3ad3f9",
+      "seeds": [
+        2224078,
+        2224079
+      ],
+      "erased_edge_fraction": {
+        "25": 0.25033256742048615,
+        "50": 0.5000604668037247
+      }
+    },
+    {
+      "image_id": 213816,
+      "split": "test",
+      "caption": "a close up of a public transit train with its doors open",
+      "caption_id": 162431,
+      "original": "data/originals/000000213816.jpg",
+      "original_sha256": "bb6a26d8f3db02eab804606cafc4ccb43cf71d4cd41a9b328c830e87372aa40e",
+      "reference_512": "data/reference_512/000000213816.png",
+      "reference_1024": "data/reference_1024/000000213816.png",
+      "reference_512_sha256": "a1298a33717393f1a27158de42b80607585972def8eb4d57bcf57acf8d850a58",
+      "reference_1024_sha256": "d77f71b573c62a2983201b2ab90002f14d2b2c1a78102b9d57b23659fce70325",
+      "seeds": [
+        2453632,
+        2453633
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2513851653261841,
+        "50": 0.5005361930294906
+      }
+    },
+    {
+      "image_id": 465585,
+      "split": "test",
+      "caption": "An aluminum pan full of chopped broccoli and carrots.",
+      "caption_id": 640111,
+      "original": "data/originals/000000465585.jpg",
+      "original_sha256": "e3f134c23b12cbf26929e4de7e89dcfdea55b63c6294367c73d6ba1a554176a3",
+      "reference_512": "data/reference_512/000000465585.png",
+      "reference_1024": "data/reference_1024/000000465585.png",
+      "reference_512_sha256": "86322f0f10355c0452cadf0c9e36f61cfe5b1e3f782eba97e56dc73c644d83ff",
+      "reference_1024_sha256": "cc5bb693d09ed5074d9c3c5d30d6f4b323377d752cb650fd74a8999c0be41de9",
+      "seeds": [
+        2957170,
+        2957171
+      ],
+      "erased_edge_fraction": {
+        "25": 0.25140882109850476,
+        "50": 0.5004883913141484
+      }
+    },
+    {
+      "image_id": 468925,
+      "split": "test",
+      "caption": "a plate with bacon, eggs and hamburger topped with bananas",
+      "caption_id": 476779,
+      "original": "data/originals/000000468925.jpg",
+      "original_sha256": "5cb62bc7b2d250fb3a142b6683f3e66db80fbff1714ec67e21899a2fc57d87d3",
+      "reference_512": "data/reference_512/000000468925.png",
+      "reference_1024": "data/reference_1024/000000468925.png",
+      "reference_512_sha256": "25a07f5da6463617ad871d59459eac0b43e9b3773d0d42a2949789ee46d02ad9",
+      "reference_1024_sha256": "b5c3798a775803f70147663b272ad7d216914906c778103709eb0ece3c9a06bc",
+      "seeds": [
+        2963850,
+        2963851
+      ],
+      "erased_edge_fraction": {
+        "25": 0.25035415325177074,
+        "50": 0.5010946555054733
+      }
+    },
+    {
+      "image_id": 546826,
+      "split": "test",
+      "caption": "A pink and green marker, next to another object. ",
+      "caption_id": 474240,
+      "original": "data/originals/000000546826.jpg",
+      "original_sha256": "4a4089c8b04a04facaaa44cef49aeb2b2897fbaabfa221442ce50e7e67c521ab",
+      "reference_512": "data/reference_512/000000546826.png",
+      "reference_1024": "data/reference_1024/000000546826.png",
+      "reference_512_sha256": "c9f132062d1494887159a4c298beef22d382a628ae71047da70b80b7e30c507d",
+      "reference_1024_sha256": "8507ece47a1b32d7ee82a038d871211df083b6593fd87267ae3441825236a996",
+      "seeds": [
+        3119652,
+        3119653
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2512232157921377,
+        "50": 0.5010966762274338
+      }
+    },
+    {
+      "image_id": 283412,
+      "split": "test",
+      "caption": "A little poodle puppy laying near a newspaper with a look of guilt.",
+      "caption_id": 245420,
+      "original": "data/originals/000000283412.jpg",
+      "original_sha256": "ecff06907a7898f62175cdebf1108b752e085d9b53a4806869c6b4df508d6602",
+      "reference_512": "data/reference_512/000000283412.png",
+      "reference_1024": "data/reference_1024/000000283412.png",
+      "reference_512_sha256": "5c741126bab6ee2fa17341be9a6ebe78a2eb239a43ae827a0eef59d5127ed64c",
+      "reference_1024_sha256": "daff3ba27803ede083bb7f823df2bd0486e89172aa71c6d836efd985a998dccc",
+      "seeds": [
+        2592824,
+        2592825
+      ],
+      "erased_edge_fraction": {
+        "25": 0.25075452716297786,
+        "50": 0.5047786720321932
+      }
+    },
+    {
+      "image_id": 375015,
+      "split": "test",
+      "caption": "A baby brown bear standing on top of a rock.",
+      "caption_id": 547568,
+      "original": "data/originals/000000375015.jpg",
+      "original_sha256": "bfd4e93b74ce2c550c825edbd7960ff29b269873d1ba44a22a621b2af46318e3",
+      "reference_512": "data/reference_512/000000375015.png",
+      "reference_1024": "data/reference_1024/000000375015.png",
+      "reference_512_sha256": "e210d71d95839fcdeb3ad6308db57d50c66773c1ef1fc8b8a804af9fd24ded06",
+      "reference_1024_sha256": "ea364cac2bec813e31bfbb07bc17cb80aeb18e4fba3939656e9033f905f5bce7",
+      "seeds": [
+        2776030,
+        2776031
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2501254390366282,
+        "50": 0.5007526342197692
+      }
+    },
+    {
+      "image_id": 498286,
+      "split": "test",
+      "caption": "a vety cute furry dog posing near a big sign.",
+      "caption_id": 434825,
+      "original": "data/originals/000000498286.jpg",
+      "original_sha256": "3253772566d47969b4ca29bdd608d84b9876a09ec6b25435ff00c27bf9c1b207",
+      "reference_512": "data/reference_512/000000498286.png",
+      "reference_1024": "data/reference_1024/000000498286.png",
+      "reference_512_sha256": "816b413c34d054b70f83ecd7224a9b1be439505c3dc8371586bb4c8aa7a37989",
+      "reference_1024_sha256": "b4d445c497ddcce354c720873cc92b3c7e355b2302c87735e5efabd800366629",
+      "seeds": [
+        3022572,
+        3022573
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2505715011430023,
+        "50": 0.5030480060960122
+      }
+    },
+    {
+      "image_id": 146831,
+      "split": "test",
+      "caption": "A person is riding a skateboard on a curved ramp.",
+      "caption_id": 648715,
+      "original": "data/originals/000000146831.jpg",
+      "original_sha256": "ab896be1be3a812e60c2303e5525d0fc506d7e1c541324fc9d68614a26cea337",
+      "reference_512": "data/reference_512/000000146831.png",
+      "reference_1024": "data/reference_1024/000000146831.png",
+      "reference_512_sha256": "47bbca4c794a935ebeff0e2725760360d6818ac1b5b81143cd1a86bbe27652ad",
+      "reference_1024_sha256": "d3396476a6f2bc85733cc9bc9bbdb655fbc41989522529f1fd42efc00fca2f56",
+      "seeds": [
+        2319662,
+        2319663
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2511810178226326,
+        "50": 0.5015031135924415
+      }
+    },
+    {
+      "image_id": 477288,
+      "split": "test",
+      "caption": "Several men in costume gather together under their umbrellas.",
+      "caption_id": 75173,
+      "original": "data/originals/000000477288.jpg",
+      "original_sha256": "b03abc9ddfb262030d239d7052951a776df42761d7d89cd598af9c434cfce94f",
+      "reference_512": "data/reference_512/000000477288.png",
+      "reference_1024": "data/reference_1024/000000477288.png",
+      "reference_512_sha256": "63d0fd1f6850bf3fce6c72d6e3730460e50a4b27bae157a10d44e154465ac421",
+      "reference_1024_sha256": "b181583ea16b902a09ff46af52fab4d9a442600c9ac47908d5e0c233170d33ec",
+      "seeds": [
+        2980576,
+        2980577
+      ],
+      "erased_edge_fraction": {
+        "25": 0.25135794020786106,
+        "50": 0.5021171036311535
+      }
+    },
+    {
+      "image_id": 2149,
+      "split": "test",
+      "caption": "A large white bowl of many green apples. ",
+      "caption_id": 289168,
+      "original": "data/originals/000000002149.jpg",
+      "original_sha256": "3ef0da375244c3fdbb45bcfe5689e8e46fb616c00250f9dce6aa34d301801ac5",
+      "reference_512": "data/reference_512/000000002149.png",
+      "reference_1024": "data/reference_1024/000000002149.png",
+      "reference_512_sha256": "88dd8da1a70de141aa117bcee030c161a488982dd9bfe54c173b7698fda8cecb",
+      "reference_1024_sha256": "838f5daef54e593f11495aaa139a18c4c2997d6914408a1ba51b2f268269150f",
+      "seeds": [
+        2030298,
+        2030299
+      ],
+      "erased_edge_fraction": {
+        "25": 0.25068418171866447,
+        "50": 0.5035577449370553
+      }
+    },
+    {
+      "image_id": 38210,
+      "split": "test",
+      "caption": "a skier is prepared to go down a mountain.",
+      "caption_id": 658263,
+      "original": "data/originals/000000038210.jpg",
+      "original_sha256": "0317a0094f357ea07c293ee9c32e58a87e5e0a5438c6d9c09250266df1249a00",
+      "reference_512": "data/reference_512/000000038210.png",
+      "reference_1024": "data/reference_1024/000000038210.png",
+      "reference_512_sha256": "e7c23ce874c16568db191df98c7e39cbfc96137255918ed7d06a8f05bf05c0ac",
+      "reference_1024_sha256": "84fad116a2c34d096eb7a14621e472604999eb9acae633b800dc1cd3041b0d01",
+      "seeds": [
+        2102420,
+        2102421
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2502685003274394,
+        "50": 0.5012442698100852
+      }
+    },
+    {
+      "image_id": 117374,
+      "split": "test",
+      "caption": "Two cats sitting in the dirt under a tree.",
+      "caption_id": 141269,
+      "original": "data/originals/000000117374.jpg",
+      "original_sha256": "d5af6e66ee264eae5e041c5894be1ff7d78141b1aeccc13b7115cf4bd96ebfcb",
+      "reference_512": "data/reference_512/000000117374.png",
+      "reference_1024": "data/reference_1024/000000117374.png",
+      "reference_512_sha256": "340816defa0fc5ab9b4b53570a5d2bd9a9652c7c4521caa2f66a0da9a160d395",
+      "reference_1024_sha256": "0795c561ca450c52e92f3db3fac4ce5b0a440bc64e652a01af03838e4eaa2c29",
+      "seeds": [
+        2260748,
+        2260749
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2508465608465609,
+        "50": 0.5005820105820106
+      }
+    },
+    {
+      "image_id": 416885,
+      "split": "test",
+      "caption": "Three pastry desserts and two glasses of wine are on a table. ",
+      "caption_id": 129919,
+      "original": "data/originals/000000416885.jpg",
+      "original_sha256": "f9d0c193c7049951383bef4d39cf979223080e871e257d44e261c24899855ec1",
+      "reference_512": "data/reference_512/000000416885.png",
+      "reference_1024": "data/reference_1024/000000416885.png",
+      "reference_512_sha256": "9cb6ec5414e7ebae13c3713731bc55a06a8f3833df2fb400db04627ffd4fd113",
+      "reference_1024_sha256": "275abd16cd046850166fb283441a2cf30a47d668da47f26863024159ecf6c9b5",
+      "seeds": [
+        2859770,
+        2859771
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2503955000878889,
+        "50": 0.5004394445420988
+      }
+    },
+    {
+      "image_id": 377393,
+      "split": "test",
+      "caption": "Looking down at a beach area and boardwalk that has a circular walkway and clock tower.",
+      "caption_id": 724356,
+      "original": "data/originals/000000377393.jpg",
+      "original_sha256": "92959854e6f57534858455ae370cb6c0ec8a5bfc274c7f3a5fe628b5a3827ff8",
+      "reference_512": "data/reference_512/000000377393.png",
+      "reference_1024": "data/reference_1024/000000377393.png",
+      "reference_512_sha256": "3d1e9e4d859b933ad1f928b12c677e899aa81717028e414517ca9be3f948ea2b",
+      "reference_1024_sha256": "6443d7745f02ffee638bae83bba7db2ac70b1c66f60fbc6cfb806ea352818080",
+      "seeds": [
+        2780786,
+        2780787
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2507342804052029,
+        "50": 0.5005095006893244
+      }
+    },
+    {
+      "image_id": 359540,
+      "split": "test",
+      "caption": "A baseball player swinging and missing the ball.",
+      "caption_id": 632854,
+      "original": "data/originals/000000359540.jpg",
+      "original_sha256": "2ece7b29647033b99b7f4b215017d7825811c035ac303a405b809a96f9f83b94",
+      "reference_512": "data/reference_512/000000359540.png",
+      "reference_1024": "data/reference_1024/000000359540.png",
+      "reference_512_sha256": "4cbd379edffac77e6b37d99c6855da8c0279ab39fc15f60b20e66b4f8d7c401e",
+      "reference_1024_sha256": "31f8fd248169f6cdde89aada9af1a20c0dbff89dde5576a36dd0dd2afc2c93dd",
+      "seeds": [
+        2745080,
+        2745081
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2509080748812517,
+        "50": 0.5002328397131415
+      }
+    },
+    {
+      "image_id": 16502,
+      "split": "test",
+      "caption": "A sheep standing on top of a rock. ",
+      "caption_id": 600200,
+      "original": "data/originals/000000016502.jpg",
+      "original_sha256": "171ce16f5646725403aed126091a0e3c88333a6fe4ea5c36f7c9b21ccfe2b30c",
+      "reference_512": "data/reference_512/000000016502.png",
+      "reference_1024": "data/reference_1024/000000016502.png",
+      "reference_512_sha256": "515e2c756da771d8ab6c2ba4533141e5bb926897c1e86d629894b700708ba262",
+      "reference_1024_sha256": "b629e5b032b7c9429701503afb010deca44c1e3908f783e054dd7befee43aca2",
+      "seeds": [
+        2059004,
+        2059005
+      ],
+      "erased_edge_fraction": {
+        "25": 0.25640405993233445,
+        "50": 0.5012083131947801
+      }
+    },
+    {
+      "image_id": 45596,
+      "split": "test",
+      "caption": "A view A large metal structure near the side of a building",
+      "caption_id": 396897,
+      "original": "data/originals/000000045596.jpg",
+      "original_sha256": "6067fb9c3fc361df097d97cfce2bbfb895929b74cfe5ced4759445f8acdc5159",
+      "reference_512": "data/reference_512/000000045596.png",
+      "reference_1024": "data/reference_1024/000000045596.png",
+      "reference_512_sha256": "65fad8692a69d8235be208b63d44b6feb729ee35a83b0bd3bbc40c3b7fed56fe",
+      "reference_1024_sha256": "40c394d4708569ffbc5931b78d3582131b06fbc4625c4b7c3d979b53add1f81e",
+      "seeds": [
+        2117192,
+        2117193
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2520902588898962,
+        "50": 0.5018636043114738
+      }
+    },
+    {
+      "image_id": 383921,
+      "split": "test",
+      "caption": "A herd of elephants walking across a body of water.",
+      "caption_id": 354270,
+      "original": "data/originals/000000383921.jpg",
+      "original_sha256": "47d0789cad227b92ec4921f9f77f4d896c0bc013c1c3602e40c40dba2a7b91c2",
+      "reference_512": "data/reference_512/000000383921.png",
+      "reference_1024": "data/reference_1024/000000383921.png",
+      "reference_512_sha256": "67016e37779e057ed32eeafe9b2d6f2055134517a9e4ed308c5943071697565e",
+      "reference_1024_sha256": "7477f12c33499e1fb3dbbac624224ca5ae93edc144f49b17e714cf000728f902",
+      "seeds": [
+        2793842,
+        2793843
+      ],
+      "erased_edge_fraction": {
+        "25": 0.25214808528694177,
+        "50": 0.5009547045719741
+      }
+    },
+    {
+      "image_id": 229358,
+      "split": "test",
+      "caption": "A man standing in front of a mirror in a room.",
+      "caption_id": 456629,
+      "original": "data/originals/000000229358.jpg",
+      "original_sha256": "2c8d100ab71de8b3ef22f3d0999aec2174bf10a911712e1d7bb3de1e2def6eb7",
+      "reference_512": "data/reference_512/000000229358.png",
+      "reference_1024": "data/reference_1024/000000229358.png",
+      "reference_512_sha256": "f98a21f84ca63ebf925a988002cefa248c4d1fc519833467f5d1dc60364a8dcb",
+      "reference_1024_sha256": "5bcb9a6f22a65b6f41fc2f23715b4960ce45ecd9dfeb2c39c059f4f2f1b8bcfa",
+      "seeds": [
+        2484716,
+        2484717
+      ],
+      "erased_edge_fraction": {
+        "25": 0.25,
+        "50": 0.5006242197253433
+      }
+    },
+    {
+      "image_id": 407646,
+      "split": "test",
+      "caption": "A man playing tennis who is about to return a serve.",
+      "caption_id": 175937,
+      "original": "data/originals/000000407646.jpg",
+      "original_sha256": "ab26f465308cd7c891d1f5693ebf60e7b1eabd16fb60d9757ca0a9d0a3cba71d",
+      "reference_512": "data/reference_512/000000407646.png",
+      "reference_1024": "data/reference_1024/000000407646.png",
+      "reference_512_sha256": "955caa9a1f01231d793154acfd4c1004debea2d2f7e8268859e9caa87da61679",
+      "reference_1024_sha256": "5f8e80ef265da00f797e2193e6377c01bf3b3803138b21dfc76d3da459f46a92",
+      "seeds": [
+        2841292,
+        2841293
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2515656512047553,
+        "50": 0.5006899479885363
+      }
+    },
+    {
+      "image_id": 563702,
+      "split": "test",
+      "caption": "A fire fire truck parked in a parking lot.",
+      "caption_id": 672044,
+      "original": "data/originals/000000563702.jpg",
+      "original_sha256": "4f874927c52b52ccbea9d74202fba956222195b63cf8aa3074afb77df08890f8",
+      "reference_512": "data/reference_512/000000563702.png",
+      "reference_1024": "data/reference_1024/000000563702.png",
+      "reference_512_sha256": "b5f0d3f0d6b4f1ccab30ab6631db53267011c5833c30e59f4d447d95dd9b018f",
+      "reference_1024_sha256": "bee9ff7e1ec17f83956c99c1385a32eac41603a3fcae0c2ec6f79c08e2ab2532",
+      "seeds": [
+        3153404,
+        3153405
+      ],
+      "erased_edge_fraction": {
+        "25": 0.25008857758033304,
+        "50": 0.500340683001281
+      }
+    },
+    {
+      "image_id": 388056,
+      "split": "test",
+      "caption": "A baseball player holding a bat and getting ready for the pitch.",
+      "caption_id": 444695,
+      "original": "data/originals/000000388056.jpg",
+      "original_sha256": "dae09ddbc116e2ffde1150640de08298620b6bef5e39e2caddbf16d6dadf4a2a",
+      "reference_512": "data/reference_512/000000388056.png",
+      "reference_1024": "data/reference_1024/000000388056.png",
+      "reference_512_sha256": "5f81f2d33359b99c890651a83c20b8bbb530c4112b8da1cfbb35168ff514ab6d",
+      "reference_1024_sha256": "d71e0f5760d42a98b3e7322e8678b43df395c3bac99d87664d4d4325f2fb6673",
+      "seeds": [
+        2802112,
+        2802113
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2514251004579011,
+        "50": 0.5013550135501355
+      }
+    },
+    {
+      "image_id": 159791,
+      "split": "test",
+      "caption": "A white refrigerator freezer covered in magnets and pictures.",
+      "caption_id": 586426,
+      "original": "data/originals/000000159791.jpg",
+      "original_sha256": "064a1dbf3418a71218e85213d4f990b6e7e2bbdf3ca980d3f86f8969e8101002",
+      "reference_512": "data/reference_512/000000159791.png",
+      "reference_1024": "data/reference_1024/000000159791.png",
+      "reference_512_sha256": "344121d862d4615745cbd5dea736b55611c9aca03adbcbbf7892ef9bab37d283",
+      "reference_1024_sha256": "feabcf40bbf30b0a542c3160fdb157f9422ffd21afe705575f0c7af2750da182",
+      "seeds": [
+        2345582,
+        2345583
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2518332781378625,
+        "50": 0.5014902777120689
+      }
+    },
+    {
+      "image_id": 380203,
+      "split": "test",
+      "caption": "A white horse is out eating in a field",
+      "caption_id": 763064,
+      "original": "data/originals/000000380203.jpg",
+      "original_sha256": "aa273f525d420f231aa4d8ffe3f8cc6ad8e9162a878ada41bc5032613d50ac1e",
+      "reference_512": "data/reference_512/000000380203.png",
+      "reference_1024": "data/reference_1024/000000380203.png",
+      "reference_512_sha256": "c7ea991bc7cecf0a1eb442679d61e8d6c0d9e9463118bf643da1d5585d83d9f1",
+      "reference_1024_sha256": "94bf4c70e09ce84b0ab4c4df8984ea46a347a6101af1f491269051809911edb9",
+      "seeds": [
+        2786406,
+        2786407
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2500840336134454,
+        "50": 0.5010644257703081
+      }
+    },
+    {
+      "image_id": 25986,
+      "split": "test",
+      "caption": "A bunch of items that are on a counter.",
+      "caption_id": 571761,
+      "original": "data/originals/000000025986.jpg",
+      "original_sha256": "721b718fe15a4f3739c0673acde4fa224ae7839f9317e7e66d256653551ea23b",
+      "reference_512": "data/reference_512/000000025986.png",
+      "reference_1024": "data/reference_1024/000000025986.png",
+      "reference_512_sha256": "434bd5a4f93b5fd00e1634bb51aaf25f2bed614c640f05bd7443747ca0952361",
+      "reference_1024_sha256": "3ce28aad513aaf27902629775c02ed34d634587abc1e90641e8090a043b12b3b",
+      "seeds": [
+        2077972,
+        2077973
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2513438670793289,
+        "50": 0.500570125427594
+      }
+    },
+    {
+      "image_id": 215778,
+      "split": "test",
+      "caption": "There is a lap top computer on the desk",
+      "caption_id": 600991,
+      "original": "data/originals/000000215778.jpg",
+      "original_sha256": "37486e1ac89a7860c4721892f3b56d8acde342a62dd211eba10a3128a9c1655c",
+      "reference_512": "data/reference_512/000000215778.png",
+      "reference_1024": "data/reference_1024/000000215778.png",
+      "reference_512_sha256": "841619e97f61533db43d9f5f2bd1eff21398ab0749aef342acc54c548753d20c",
+      "reference_1024_sha256": "4dfd1c8799756395bddc9c6eb1f0d54923809e70e49c33446d1e83fa0cb436f4",
+      "seeds": [
+        2457556,
+        2457557
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2501737317581654,
+        "50": 0.5004343293954134
+      }
+    },
+    {
+      "image_id": 367818,
+      "split": "test",
+      "caption": "A woman in tight blue jeans standing next to a brown horse.",
+      "caption_id": 131886,
+      "original": "data/originals/000000367818.jpg",
+      "original_sha256": "47d1e607d2b623aa2e55dce0fa64f4ac66dc03f2611d4375caffe84358728a2d",
+      "reference_512": "data/reference_512/000000367818.png",
+      "reference_1024": "data/reference_1024/000000367818.png",
+      "reference_512_sha256": "470433f36b885f3c5d63f3f0425a3c49e50772ba94fdd13f2db2a3a77f0cd932",
+      "reference_1024_sha256": "918a0b229c45c8c1eff6dd410bb0bb45a51429c1c449814e5c75d2978462d207",
+      "seeds": [
+        2761636,
+        2761637
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2509333857339359,
+        "50": 0.500196502259776
+      }
+    },
+    {
+      "image_id": 237118,
+      "split": "test",
+      "caption": "A middle aged man takes a selfie in a mirror.",
+      "caption_id": 522526,
+      "original": "data/originals/000000237118.jpg",
+      "original_sha256": "82469ac1ca0c41f0a44a2c069234346343a4c8230bda2d83a440c561f45c8ecc",
+      "reference_512": "data/reference_512/000000237118.png",
+      "reference_1024": "data/reference_1024/000000237118.png",
+      "reference_512_sha256": "e7ed35215ca7e085bd9a41de160f1e595fb4b2e1a04517d5fa9a9136392d3e90",
+      "reference_1024_sha256": "41ecf31575ecf7596d344e8dec51933f0e5a585f45aa2089d6f6279bc527e7f7",
+      "seeds": [
+        2500236,
+        2500237
+      ],
+      "erased_edge_fraction": {
+        "25": 0.25049603174603174,
+        "50": 0.5072751322751323
+      }
+    },
+    {
+      "image_id": 58384,
+      "split": "test",
+      "caption": "A herd of elephants standing next to each other.",
+      "caption_id": 268163,
+      "original": "data/originals/000000058384.jpg",
+      "original_sha256": "cbf40f1bc228f949f3a64280a44f6a57f8f796d0817bd7093d93e453271cd460",
+      "reference_512": "data/reference_512/000000058384.png",
+      "reference_1024": "data/reference_1024/000000058384.png",
+      "reference_512_sha256": "ac58fd0e5e73bc8475bc27354c7d075f83de830ca2ff87d25a1015e6ef57e4ad",
+      "reference_1024_sha256": "ffe92acda854fdd66dd279a92e49a38189c6fe7396f5f7a99f0be8ed46481837",
+      "seeds": [
+        2142768,
+        2142769
+      ],
+      "erased_edge_fraction": {
+        "25": 0.25043290043290045,
+        "50": 0.5025974025974026
+      }
+    },
+    {
+      "image_id": 115898,
+      "split": "test",
+      "caption": "A man in black wetsuit on white surfboard riding wave.",
+      "caption_id": 471833,
+      "original": "data/originals/000000115898.jpg",
+      "original_sha256": "187740b4473819afd200aa960bba2b19a4c925ec6f95d267862fc2f411903d10",
+      "reference_512": "data/reference_512/000000115898.png",
+      "reference_1024": "data/reference_1024/000000115898.png",
+      "reference_512_sha256": "f405aad8050771d4416007a7d1d5ca2aa63539bfedec5f09d6a94e8d2b7197f3",
+      "reference_1024_sha256": "5d6109904567b4242bb8e4036a68722f43abf5e3a8cf4d07128f54e9eebf40a5",
+      "seeds": [
+        2257796,
+        2257797
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2503562099263833,
+        "50": 0.5001187366421278
+      }
+    },
+    {
+      "image_id": 6012,
+      "split": "test",
+      "caption": "There are bananas around another piece of fruit. ",
+      "caption_id": 626831,
+      "original": "data/originals/000000006012.jpg",
+      "original_sha256": "7cd0d627b15c09f373aa613d013fb2d8ae6bd20bcce0d98aa31b963e6bcca495",
+      "reference_512": "data/reference_512/000000006012.png",
+      "reference_1024": "data/reference_1024/000000006012.png",
+      "reference_512_sha256": "38785121e19771d0a74a930152ebbb7c3c74684d8d2542d005c42158c8d3504d",
+      "reference_1024_sha256": "e2b27baa6a4b8bef94b357fe4bba5d27573c2cb37dd483aa1126d11cfcc6a84e",
+      "seeds": [
+        2038024,
+        2038025
+      ],
+      "erased_edge_fraction": {
+        "25": 0.25036280569739316,
+        "50": 0.500403117441548
+      }
+    },
+    {
+      "image_id": 508586,
+      "split": "test",
+      "caption": "Herd of zebra grazing on dried grasses in open field.",
+      "caption_id": 422569,
+      "original": "data/originals/000000508586.jpg",
+      "original_sha256": "117f82048a7c23b47dfb51eb930d9377a0c5a6795e1f9438be3d52f8be274577",
+      "reference_512": "data/reference_512/000000508586.png",
+      "reference_1024": "data/reference_1024/000000508586.png",
+      "reference_512_sha256": "ae38df94eaa83337371386b17aabb4c9a0c46434178a6da4f4096790a7bcbba5",
+      "reference_1024_sha256": "d62eb9aa6d7e081e150956954c0462e332ca37a06fb986cbceff90a67d3ed348",
+      "seeds": [
+        3043172,
+        3043173
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2504854368932039,
+        "50": 0.5009708737864078
+      }
+    },
+    {
+      "image_id": 142324,
+      "split": "test",
+      "caption": "A person on a motor bike on a street.",
+      "caption_id": 438435,
+      "original": "data/originals/000000142324.jpg",
+      "original_sha256": "6d28aca076f309360f392b53b4e9a85ec7ec3ee524cba7f8dac52e50d85dcc36",
+      "reference_512": "data/reference_512/000000142324.png",
+      "reference_1024": "data/reference_1024/000000142324.png",
+      "reference_512_sha256": "56ab4795f1d5c290fca7a82b86d8312a24240645c86de328b120e845416d00b9",
+      "reference_1024_sha256": "757c2d3e0059ce90ff9b35a6d57464186e19720ba4ea41b5b4f48c7bf67562ad",
+      "seeds": [
+        2310648,
+        2310649
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2503706237883453,
+        "50": 0.5012544189759379
+      }
+    },
+    {
+      "image_id": 206831,
+      "split": "test",
+      "caption": "A large brown dog holding a neon frisbee in his mouth.",
+      "caption_id": 714576,
+      "original": "data/originals/000000206831.jpg",
+      "original_sha256": "f4daecc1eb377c6041b63547ef627f9c4f450f6998664eaba788a103943b3f81",
+      "reference_512": "data/reference_512/000000206831.png",
+      "reference_1024": "data/reference_1024/000000206831.png",
+      "reference_512_sha256": "3472b6652d18290b55f9421e2f0c805c58f2ada28f8721a378b7389c97ba5f35",
+      "reference_1024_sha256": "d44dea0740e5b2cf5b08bfb389a8de082e5ba274a7d1aa43c7be4ae3fd6b3f56",
+      "seeds": [
+        2439662,
+        2439663
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2500855578370979,
+        "50": 0.5026522929500342
+      }
+    },
+    {
+      "image_id": 203389,
+      "split": "test",
+      "caption": "A group of young people riding motorcycles near a river.",
+      "caption_id": 587817,
+      "original": "data/originals/000000203389.jpg",
+      "original_sha256": "eb7fba75eaa1e49014f1fe81dfef9561478502347d8fc60c90a131d0cb8815bc",
+      "reference_512": "data/reference_512/000000203389.png",
+      "reference_1024": "data/reference_1024/000000203389.png",
+      "reference_512_sha256": "757ec8246f1b4aa23ce02398aab407502e70676b370e4c827dcf21fac4578d13",
+      "reference_1024_sha256": "1e2124ffa8597907ef00b9258294cc71b543ab3a44a4f007ada5f77abcc47574",
+      "seeds": [
+        2432778,
+        2432779
+      ],
+      "erased_edge_fraction": {
+        "25": 0.25209511480547797,
+        "50": 0.5003066021666553
+      }
+    },
+    {
+      "image_id": 203294,
+      "split": "test",
+      "caption": "A tour bus with a cats face painted on the front of it",
+      "caption_id": 93787,
+      "original": "data/originals/000000203294.jpg",
+      "original_sha256": "c5d43fb94e11fae1e3bf97b08bebb4a96d7735bb92a6bab8bf8618000208ef9c",
+      "reference_512": "data/reference_512/000000203294.png",
+      "reference_1024": "data/reference_1024/000000203294.png",
+      "reference_512_sha256": "6e89b8acb3230c14d9db3c3460b6860aa4c53f2e377414dec989271fec3c06f8",
+      "reference_1024_sha256": "b9dc386642ec0230f817e026e3c4d11034efc6c5573427dbe7425993d838a73a",
+      "seeds": [
+        2432588,
+        2432589
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2504013832283562,
+        "50": 0.5005557613931085
+      }
+    },
+    {
+      "image_id": 408830,
+      "split": "test",
+      "caption": "a colorful motorcycle sitting next to a fence ",
+      "caption_id": 628374,
+      "original": "data/originals/000000408830.jpg",
+      "original_sha256": "a74acfa520a4671317fab07f68c63abf714dce2e438788c20119689f31714276",
+      "reference_512": "data/reference_512/000000408830.png",
+      "reference_1024": "data/reference_1024/000000408830.png",
+      "reference_512_sha256": "6d25311e2d6af9545e4f7176377fb7eccc465bc28e00e8c2a88f3ef9fdadb811",
+      "reference_1024_sha256": "150c34560395b25127d223f080b9cedf7f499cd835871efe1d741b83da302f2b",
+      "seeds": [
+        2843660,
+        2843661
+      ],
+      "erased_edge_fraction": {
+        "25": 0.25078561452513964,
+        "50": 0.5010474860335196
+      }
+    },
+    {
+      "image_id": 434204,
+      "split": "test",
+      "caption": "A man riding on a skateboard on the sidewalk.",
+      "caption_id": 290343,
+      "original": "data/originals/000000434204.jpg",
+      "original_sha256": "b0580bb47eee47184ec9aeef06ff9c7fd9e4b17c1187343069245d3e425e9744",
+      "reference_512": "data/reference_512/000000434204.png",
+      "reference_1024": "data/reference_1024/000000434204.png",
+      "reference_512_sha256": "5642cd2d9eaa93ac1e347aa5dba59eea9c5fa78eb226e82bc3b92cca5317b827",
+      "reference_1024_sha256": "fbe2b7a029b67ab9f8822faf15fae6c88c60d9223efbf88db308a3222bf712a4",
+      "seeds": [
+        2894408,
+        2894409
+      ],
+      "erased_edge_fraction": {
+        "25": 0.25191310787459886,
+        "50": 0.5027153789187855
+      }
+    },
+    {
+      "image_id": 193743,
+      "split": "test",
+      "caption": "A man standing on a tennis court waves to someone. ",
+      "caption_id": 112318,
+      "original": "data/originals/000000193743.jpg",
+      "original_sha256": "bc14d363c9f99e5fe67c311c007789b06bf7faba1e0ec3940d7b946eddcf3e75",
+      "reference_512": "data/reference_512/000000193743.png",
+      "reference_1024": "data/reference_1024/000000193743.png",
+      "reference_512_sha256": "cbc59cd41769bcd925e92b42c5d518c8ebc7a3d0dd14c6f0348a59baf96670b4",
+      "reference_1024_sha256": "7346e6b2240c710d2eb370270968bd56954cde784a258c0d6bed83f8f9783108",
+      "seeds": [
+        2413486,
+        2413487
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2501558279659256,
+        "50": 0.5019738209017245
+      }
+    },
+    {
+      "image_id": 19109,
+      "split": "test",
+      "caption": "Many small motorbikes are parked along the street. ",
+      "caption_id": 164607,
+      "original": "data/originals/000000019109.jpg",
+      "original_sha256": "5469f123ab838c9fdcc567c13148399dcb4cfa4eeee80e6e56a13627808a6d54",
+      "reference_512": "data/reference_512/000000019109.png",
+      "reference_1024": "data/reference_1024/000000019109.png",
+      "reference_512_sha256": "b510b77279a055d7eb9baec5554fe0b25e10bf0a4af9a923f403dd4db5ba8b15",
+      "reference_1024_sha256": "a491f9c9deb9f71dcaaf8561ed2389a5cf35ca8078aeba6b18ce11cd03ee0b1d",
+      "seeds": [
+        2064218,
+        2064219
+      ],
+      "erased_edge_fraction": {
+        "25": 0.25108889794127787,
+        "50": 0.5000783379813869
+      }
+    },
+    {
+      "image_id": 190753,
+      "split": "test",
+      "caption": "There is a group of four men sitting on park benches.",
+      "caption_id": 22434,
+      "original": "data/originals/000000190753.jpg",
+      "original_sha256": "44e80dccef157b3c8db7096d10e78386c29d96bc901564a6fb9f43ed915c3b4e",
+      "reference_512": "data/reference_512/000000190753.png",
+      "reference_1024": "data/reference_1024/000000190753.png",
+      "reference_512_sha256": "f1d1555c8d23ffa7f158b015fa11fd824fa526831016f0df19d5300205947edd",
+      "reference_1024_sha256": "e967dce4fba9f8bed771b54401f820ae55333c5950af9c73cb0b641283183e5d",
+      "seeds": [
+        2407506,
+        2407507
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2503643960742396,
+        "50": 0.5001943445729278
+      }
+    },
+    {
+      "image_id": 345385,
+      "split": "test",
+      "caption": "Young couple happily snuggling on their bed together",
+      "caption_id": 801551,
+      "original": "data/originals/000000345385.jpg",
+      "original_sha256": "e4d18bda0d6e3e7c0c174fd540876b039d886a266b3b61bef8aa0cb7d01e8798",
+      "reference_512": "data/reference_512/000000345385.png",
+      "reference_1024": "data/reference_1024/000000345385.png",
+      "reference_512_sha256": "9c76acec55dabb3c8e6202a35f5189dda2719258c1fdf2b30718688c9fee1461",
+      "reference_1024_sha256": "465112606bafb38dcd935e3cf827c2ba5f627bacb76385a07a504fbc77136e5c",
+      "seeds": [
+        2716770,
+        2716771
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2505662176659912,
+        "50": 0.5007748241745142
+      }
+    },
+    {
+      "image_id": 3661,
+      "split": "test",
+      "caption": "A bunch of bananas sitting on top of a wooden table.",
+      "caption_id": 95784,
+      "original": "data/originals/000000003661.jpg",
+      "original_sha256": "8746b068c166782f4b4fb7e6be9d16e5311e9c15bc867e21409b7f5d2eddefb4",
+      "reference_512": "data/reference_512/000000003661.png",
+      "reference_1024": "data/reference_1024/000000003661.png",
+      "reference_512_sha256": "30908c01d828812252ce2100883fb0dfb8355b1c5a516f3dc4f012248a088c8e",
+      "reference_1024_sha256": "8e3631899a63476d5b028b095a18460623a85b393280b86da6edb88b930fe3db",
+      "seeds": [
+        2033322,
+        2033323
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2560735390676297,
+        "50": 0.5003282994090611
+      }
+    },
+    {
+      "image_id": 404678,
+      "split": "test",
+      "caption": "A family sitting down at a table for a meal.",
+      "caption_id": 28014,
+      "original": "data/originals/000000404678.jpg",
+      "original_sha256": "69222a4d5fa8683df106b54073c9897b0b4994e4bda56442886816bc08528d9b",
+      "reference_512": "data/reference_512/000000404678.png",
+      "reference_1024": "data/reference_1024/000000404678.png",
+      "reference_512_sha256": "0353bd0230aad3021c098fd3d0aaa79a5afe577685aaa8562195c339e5251e0f",
+      "reference_1024_sha256": "4ac14d22105b59544a30f94fff61884bc949c9cfec9d8277f8522b201e100b8b",
+      "seeds": [
+        2835356,
+        2835357
+      ],
+      "erased_edge_fraction": {
+        "25": 0.25026504521359527,
+        "50": 0.5002182725288432
+      }
+    },
+    {
+      "image_id": 167159,
+      "split": "test",
+      "caption": "a doll with a bonnet and a book on a pillow",
+      "caption_id": 570554,
+      "original": "data/originals/000000167159.jpg",
+      "original_sha256": "80852258acdde20a64ea977b3e992dbf72111cd3b5750b2a611f34a3b552b8c5",
+      "reference_512": "data/reference_512/000000167159.png",
+      "reference_1024": "data/reference_1024/000000167159.png",
+      "reference_512_sha256": "8bf1979afd13fc721b397a126c65e1254f57cf2d7e2e5b677f75c75e037f777e",
+      "reference_1024_sha256": "82c173869e85ab09efa09d34dbcff462976ce5d242b06bad046acf7a0bc8459e",
+      "seeds": [
+        2360318,
+        2360319
+      ],
+      "erased_edge_fraction": {
+        "25": 0.25054216098992216,
+        "50": 0.5010843219798443
+      }
+    },
+    {
+      "image_id": 60932,
+      "split": "test",
+      "caption": "A group of people standing in a room.",
+      "caption_id": 456526,
+      "original": "data/originals/000000060932.jpg",
+      "original_sha256": "5dc30fc8cef779e2e4905235a08bddf1116dadc659356238293e2ac90792a7ed",
+      "reference_512": "data/reference_512/000000060932.png",
+      "reference_1024": "data/reference_1024/000000060932.png",
+      "reference_512_sha256": "a10c7994edc798c75b37f355781d5a493f766157badd7b1bd6ebfd2b1f1fb4f5",
+      "reference_1024_sha256": "733d5758f3438c5d36a59192f9fb0b413c477d25e1d6705c359451212ef6c352",
+      "seeds": [
+        2147864,
+        2147865
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2532079274437353,
+        "50": 0.5013100436681223
+      }
+    },
+    {
+      "image_id": 493286,
+      "split": "test",
+      "caption": "an old car in front of an old air plane",
+      "caption_id": 487544,
+      "original": "data/originals/000000493286.jpg",
+      "original_sha256": "7610385fe1a4819702e3f027396998018f681b1b845351c3c345c80d8ca50d45",
+      "reference_512": "data/reference_512/000000493286.png",
+      "reference_1024": "data/reference_1024/000000493286.png",
+      "reference_512_sha256": "7059315ee401c354d36794e95a993f7e98576fce4efe42332f3d6ebc0d41d72a",
+      "reference_1024_sha256": "48b76e86573168faa22e8706770f9ade129ac0ef218137592fe9684014d56f7d",
+      "seeds": [
+        3012572,
+        3012573
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2508790072388831,
+        "50": 0.5005860048259221
+      }
+    },
+    {
+      "image_id": 131386,
+      "split": "test",
+      "caption": "A group of airplanes in the sky in formation. ",
+      "caption_id": 789471,
+      "original": "data/originals/000000131386.jpg",
+      "original_sha256": "57a16d027e0cc4cbac2a9f444df930cfa4acc95a34ef6cd378fae5877d1e389a",
+      "reference_512": "data/reference_512/000000131386.png",
+      "reference_1024": "data/reference_1024/000000131386.png",
+      "reference_512_sha256": "bb11ae1b44061af0593c502161e2c817ad473f1ee8aa018c193793192446be5d",
+      "reference_1024_sha256": "59b45490ae3c50f224efbe142b6a8ef86a76b568100f24c33c906b31c194a4d9",
+      "seeds": [
+        2288772,
+        2288773
+      ],
+      "erased_edge_fraction": {
+        "25": 0.25,
+        "50": 0.502046783625731
+      }
+    },
+    {
+      "image_id": 551794,
+      "split": "test",
+      "caption": "A man riding a motorcycle on the side of a road.",
+      "caption_id": 734247,
+      "original": "data/originals/000000551794.jpg",
+      "original_sha256": "4742da4db578ed6cdcb557661c7cff1e53e974d6c43762b324d904ba64e05a5d",
+      "reference_512": "data/reference_512/000000551794.png",
+      "reference_1024": "data/reference_1024/000000551794.png",
+      "reference_512_sha256": "c0c35bcb91512c71d2346616abf4a842d72e3857fbcd5962ef8d4c62e4363c6a",
+      "reference_1024_sha256": "f93177a4e90b6a67b3824afde07e3489649c48fd3f43ec15e8234ffa99c40495",
+      "seeds": [
+        3129588,
+        3129589
+      ],
+      "erased_edge_fraction": {
+        "25": 0.25091087443946186,
+        "50": 0.5014013452914798
+      }
+    },
+    {
+      "image_id": 236845,
+      "split": "test",
+      "caption": "a red and white sign a car and some buildings",
+      "caption_id": 809954,
+      "original": "data/originals/000000236845.jpg",
+      "original_sha256": "fac9633f1a2667d635c668fe7481db95032a4838df255844cfec143c11ddb3a8",
+      "reference_512": "data/reference_512/000000236845.png",
+      "reference_1024": "data/reference_1024/000000236845.png",
+      "reference_512_sha256": "f87158ae9c1384ed4b386448132e9c31a84b1b79da0d86e86795b240e720c670",
+      "reference_1024_sha256": "b516a932773216f3902a0a61a14ee04ceeccff41e966c75b4b3b5858d7fae22d",
+      "seeds": [
+        2499690,
+        2499691
+      ],
+      "erased_edge_fraction": {
+        "25": 0.25052734058088594,
+        "50": 0.5006490345610903
+      }
+    },
+    {
+      "image_id": 482800,
+      "split": "test",
+      "caption": "an image of three people playing Frisbee outside",
+      "caption_id": 224219,
+      "original": "data/originals/000000482800.jpg",
+      "original_sha256": "06d730d8b8e3175f8b3ff03ec402ff479f0eb5e78d2ca70f02251a38570db006",
+      "reference_512": "data/reference_512/000000482800.png",
+      "reference_1024": "data/reference_1024/000000482800.png",
+      "reference_512_sha256": "e22bed55c1254d125389be9a32fae1d06c8a476e192b10f743e6be67142ebe1d",
+      "reference_1024_sha256": "6793f9138893b89fa42bbec461b45dafcc33017578cfa11e960b5f9d8a8570fd",
+      "seeds": [
+        2991600,
+        2991601
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2510306917086578,
+        "50": 0.503527256069629
+      }
+    },
+    {
+      "image_id": 210273,
+      "split": "test",
+      "caption": "Buses and cars on interstate going both ways. ",
+      "caption_id": 704016,
+      "original": "data/originals/000000210273.jpg",
+      "original_sha256": "3ec23de63592c1eef86740fd46fed2cb66170fca02b695d37e6ae379dcee4355",
+      "reference_512": "data/reference_512/000000210273.png",
+      "reference_1024": "data/reference_1024/000000210273.png",
+      "reference_512_sha256": "e6d2da6122c445cc4e59c4c97600c104686e07052c504562ab6ac2ba5d60d8e2",
+      "reference_1024_sha256": "1d29e198848ce227938c0239d5d8f40aad036920a5a58979ad1cd004b58f361d",
+      "seeds": [
+        2446546,
+        2446547
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2504324078288575,
+        "50": 0.5004096495220756
+      }
+    },
+    {
+      "image_id": 555050,
+      "split": "test",
+      "caption": "A car driving in an intersection, past a furniture shop. ",
+      "caption_id": 32095,
+      "original": "data/originals/000000555050.jpg",
+      "original_sha256": "ed39786969f33646d5cafcca041df8c684dbdc17359fc7244a833d8738baa8f8",
+      "reference_512": "data/reference_512/000000555050.png",
+      "reference_1024": "data/reference_1024/000000555050.png",
+      "reference_512_sha256": "7a63721325ac8f108fddf2cf957bd2890b011c46e34181cc06662f8d4643a216",
+      "reference_1024_sha256": "88adf77088e656a35852a10b46826fcf1570daf462e94379b36be416fcc56422",
+      "seeds": [
+        3136100,
+        3136101
+      ],
+      "erased_edge_fraction": {
+        "25": 0.250098231827112,
+        "50": 0.5024066797642436
+      }
+    },
+    {
+      "image_id": 172856,
+      "split": "test",
+      "caption": "a stop sign and two brown and white street signs ",
+      "caption_id": 459338,
+      "original": "data/originals/000000172856.jpg",
+      "original_sha256": "672c6731fe24b8ed25bea74b97eebc376a34fb70f6c2ea7eddf7e301534e2c99",
+      "reference_512": "data/reference_512/000000172856.png",
+      "reference_1024": "data/reference_1024/000000172856.png",
+      "reference_512_sha256": "1add6759689337ccc10e0814e96e9a6f45c0d4dd2e3135e6e6c9ae32e9d927e6",
+      "reference_1024_sha256": "17646ed7e8126343c243cbe599afc206112df84f83ed35f93e0ee1487d9f7eff",
+      "seeds": [
+        2371712,
+        2371713
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2513988808952838,
+        "50": 0.5002997601918465
+      }
+    },
+    {
+      "image_id": 400044,
+      "split": "test",
+      "caption": "A person riding a snowboard into the air next to a tall building.",
+      "caption_id": 150088,
+      "original": "data/originals/000000400044.jpg",
+      "original_sha256": "1ce72fe605a2e1fa219fa4307d59c77841d21bbb8c5048e406e398c4339cc573",
+      "reference_512": "data/reference_512/000000400044.png",
+      "reference_1024": "data/reference_1024/000000400044.png",
+      "reference_512_sha256": "1503bf69b1fcc845c47bc4f99de6ee43b3553511c53fabcafdf42d8c26e1c508",
+      "reference_1024_sha256": "d6c4d2d4c4cff0e574d365dedde9538ac9116f6c49f7426d5363e22d51ca9748",
+      "seeds": [
+        2826088,
+        2826089
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2505587840858292,
+        "50": 0.5004470272686634
+      }
+    },
+    {
+      "image_id": 508370,
+      "split": "test",
+      "caption": "A bicycle parked on top of a baby dolls head.",
+      "caption_id": 314849,
+      "original": "data/originals/000000508370.jpg",
+      "original_sha256": "4af9bc633d283db371ce038596f8dd9e50befa6be51d863c92223b2bab5def60",
+      "reference_512": "data/reference_512/000000508370.png",
+      "reference_1024": "data/reference_1024/000000508370.png",
+      "reference_512_sha256": "6493e4732c2d2158613c2f117194cb9a9a7bfbcb14137bfa0bc12c5ff9382833",
+      "reference_1024_sha256": "ddba92289e43c309d45f7113ee24c9c84d933c51d354876bcbe1abe1547634f8",
+      "seeds": [
+        3042740,
+        3042741
+      ],
+      "erased_edge_fraction": {
+        "25": 0.25097422330270636,
+        "50": 0.5000536269707911
+      }
+    },
+    {
+      "image_id": 205333,
+      "split": "test",
+      "caption": "A pair of skiers on the top of a ski slope with clouds and large mountain in the background.",
+      "caption_id": 144314,
+      "original": "data/originals/000000205333.jpg",
+      "original_sha256": "f63a76e52e5c8d30444893a91c94f5738a6c6d044bffb8485fe937fc2c9dea7c",
+      "reference_512": "data/reference_512/000000205333.png",
+      "reference_1024": "data/reference_1024/000000205333.png",
+      "reference_512_sha256": "5b405e7a8131f3f9fec1546fbb6a971ab2599a4ba102d407ae4f679ec220713f",
+      "reference_1024_sha256": "94560b9567e364598e2bae90e409822cffc6779f461fde28b7577b63faddeb0c",
+      "seeds": [
+        2436666,
+        2436667
+      ],
+      "erased_edge_fraction": {
+        "25": 0.25025227043390513,
+        "50": 0.5001681802892701
+      }
+    },
+    {
+      "image_id": 121153,
+      "split": "test",
+      "caption": "A white road sign suspended over a highway.",
+      "caption_id": 335450,
+      "original": "data/originals/000000121153.jpg",
+      "original_sha256": "e32144eabe58a6c0b4a6f124f233653d301d76a7e169435950be420c9354b7f0",
+      "reference_512": "data/reference_512/000000121153.png",
+      "reference_1024": "data/reference_1024/000000121153.png",
+      "reference_512_sha256": "6a4e651b2d8c3efccce4281bf680f16ed3ab60b90594d8e49c7c751a0297194f",
+      "reference_1024_sha256": "79353ff5487334f0a83deef71f8f742e691229645764189695231a6d87318088",
+      "seeds": [
+        2268306,
+        2268307
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2513361926756846,
+        "50": 0.5046519300560871
+      }
+    },
+    {
+      "image_id": 498032,
+      "split": "test",
+      "caption": "A person standing in a room with a remote.",
+      "caption_id": 438819,
+      "original": "data/originals/000000498032.jpg",
+      "original_sha256": "278fe7fbd0cbd99cf92132484659c115390436a2955695f0842933e5d954dc98",
+      "reference_512": "data/reference_512/000000498032.png",
+      "reference_1024": "data/reference_1024/000000498032.png",
+      "reference_512_sha256": "b5bda6430faa7532bf092f53722f3ab571dfa8619f7bb2dc89ea85687b5b3fd4",
+      "reference_1024_sha256": "f2b575cb8f54835a01a6aafd9fffb318eccdb086857710281c451362556a6ea8",
+      "seeds": [
+        3022064,
+        3022065
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2505502567865004,
+        "50": 0.5003668378576669
+      }
+    },
+    {
+      "image_id": 439854,
+      "split": "test",
+      "caption": "A man riding a skateboard along a sandy beach.",
+      "caption_id": 381132,
+      "original": "data/originals/000000439854.jpg",
+      "original_sha256": "d6e7d64034450928727ac679856ac954dd617129144f713e29beb0cf619b5e16",
+      "reference_512": "data/reference_512/000000439854.png",
+      "reference_1024": "data/reference_1024/000000439854.png",
+      "reference_512_sha256": "937024c64e175b62186a54d15d243e84721eac65aa9120fe3924895e37728aaf",
+      "reference_1024_sha256": "a1b8db6d1de57df600194ccbe444e1e59ce0baa937a10491d6de150fc33b3274",
+      "seeds": [
+        2905708,
+        2905709
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2562589698612662,
+        "50": 0.5003986605007176
+      }
+    },
+    {
+      "image_id": 549738,
+      "split": "test",
+      "caption": "A kite is flying in a clear sky.",
+      "caption_id": 110800,
+      "original": "data/originals/000000549738.jpg",
+      "original_sha256": "85083d6ecfa1a80e5cde5c0eae4a7efe7c319fc112f0dda986cc9e20a04e6262",
+      "reference_512": "data/reference_512/000000549738.png",
+      "reference_1024": "data/reference_1024/000000549738.png",
+      "reference_512_sha256": "377095e06593f914c3795c91a33999f4ac6f35cae40cc3181204156bb9090b2d",
+      "reference_1024_sha256": "10664bcf28dcf84c880c96d0ead55a1dd431ebde235b4e525f88d3575e8cce2a",
+      "seeds": [
+        3125476,
+        3125477
+      ],
+      "erased_edge_fraction": {
+        "25": 0.25045372050816694,
+        "50": 0.5015673981191222
+      }
+    },
+    {
+      "image_id": 100510,
+      "split": "test",
+      "caption": "an equestrian riding a horse jumping an obstacle ",
+      "caption_id": 58765,
+      "original": "data/originals/000000100510.jpg",
+      "original_sha256": "a2e2766e27122461d4770e240c9f9fd3e443fb369fd892703df1d8b2171dabe4",
+      "reference_512": "data/reference_512/000000100510.png",
+      "reference_1024": "data/reference_1024/000000100510.png",
+      "reference_512_sha256": "83332ef997ae184a6f9b21e9cb53b2d84884856856a20f28bad8b5b8c3708b06",
+      "reference_1024_sha256": "653c9a1ee796ec349e59f2e71a8977e724e4069f717d3aeae6041868e8b69d7c",
+      "seeds": [
+        2227020,
+        2227021
+      ],
+      "erased_edge_fraction": {
+        "25": 0.25011555646859435,
+        "50": 0.5019259411432386
+      }
+    },
+    {
+      "image_id": 224675,
+      "split": "test",
+      "caption": "A woman standing next to a man kneeling down on the ground.",
+      "caption_id": 429235,
+      "original": "data/originals/000000224675.jpg",
+      "original_sha256": "45ab6d1c49e081bede2f1e84365bb756c1f165c022b3b24f0338e0eaf971ee66",
+      "reference_512": "data/reference_512/000000224675.png",
+      "reference_1024": "data/reference_1024/000000224675.png",
+      "reference_512_sha256": "6549bd75ef0451b916655864e409140e8e88aea4c722ddc300a6a65ef1902454",
+      "reference_1024_sha256": "dd02ece8e04cab3fdaa15ca2978f6eea31f0aaea6b9c28cabc693af1d5c3a267",
+      "seeds": [
+        2475350,
+        2475351
+      ],
+      "erased_edge_fraction": {
+        "25": 0.25140809011776755,
+        "50": 0.5011520737327189
+      }
+    },
+    {
+      "image_id": 109916,
+      "split": "test",
+      "caption": "Twp cake pans sitting and cooling on the stove",
+      "caption_id": 130754,
+      "original": "data/originals/000000109916.jpg",
+      "original_sha256": "b8409b5137f8653727eed92c375318c1c947cc2bb0cf75cc972d2293aacd9323",
+      "reference_512": "data/reference_512/000000109916.png",
+      "reference_1024": "data/reference_1024/000000109916.png",
+      "reference_512_sha256": "14fb2c874a9e8ba861098be619e80a22c1a3d77fa3889440dbf93b8313393480",
+      "reference_1024_sha256": "f0b84a23da5101b764142bc7d48ac7666723855ef92ed195957e93470cacfe18",
+      "seeds": [
+        2245832,
+        2245833
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2511724288362962,
+        "50": 0.5067073835750899
+      }
+    },
+    {
+      "image_id": 106235,
+      "split": "test",
+      "caption": "A living room featuring a comfortable seating arrangement of chairs and tables.",
+      "caption_id": 477787,
+      "original": "data/originals/000000106235.jpg",
+      "original_sha256": "525a4c70b1b323f85f2e61be1ada0c8b705ee7385aacfe88863a3fe8c738f62f",
+      "reference_512": "data/reference_512/000000106235.png",
+      "reference_1024": "data/reference_1024/000000106235.png",
+      "reference_512_sha256": "0362d3ed30971e120f38c60c93a0b87bed74e57a756f8bc9b62648ab7c002a21",
+      "reference_1024_sha256": "19ce4a56043ab6503a23ba2dccda5a649b53d279394d151d50f442d41569b0fc",
+      "seeds": [
+        2238470,
+        2238471
+      ],
+      "erased_edge_fraction": {
+        "25": 0.25082844761661993,
+        "50": 0.5034412439459597
+      }
+    },
+    {
+      "image_id": 175387,
+      "split": "test",
+      "caption": "Bathroom stall with green door in commercial business.",
+      "caption_id": 588566,
+      "original": "data/originals/000000175387.jpg",
+      "original_sha256": "86133820deb61a320d8ed39e4122b109c5d9c4fbf2398c86b4ebcc27dcb5110f",
+      "reference_512": "data/reference_512/000000175387.png",
+      "reference_1024": "data/reference_1024/000000175387.png",
+      "reference_512_sha256": "cbefc0c26172eed378bcdbbfbdfa169cad72f80c692fbcbf33213103ff1e2077",
+      "reference_1024_sha256": "13a26670e3897f2f78cba3bb24bda478fdc82e8f1db4e855b1202d3aa44a3425",
+      "seeds": [
+        2376774,
+        2376775
+      ],
+      "erased_edge_fraction": {
+        "25": 0.25705857564264645,
+        "50": 0.5012642225031606
+      }
+    },
+    {
+      "image_id": 379533,
+      "split": "test",
+      "caption": "A zebra grazing on a dry grass field next to elephants.",
+      "caption_id": 319727,
+      "original": "data/originals/000000379533.jpg",
+      "original_sha256": "1ae5c58f3c865066c4731ff6379d8781da8a25986b8c1c6c9028e7293a04ab51",
+      "reference_512": "data/reference_512/000000379533.png",
+      "reference_1024": "data/reference_1024/000000379533.png",
+      "reference_512_sha256": "12f89dee3d4663b2d7afb3dc7333c24b7fe310fbace9201fc1825a3b594f68ba",
+      "reference_1024_sha256": "3a71534b90de45a6cee158f4faa9f23aeafc1b2b3046582d4cd973b08975ab18",
+      "seeds": [
+        2785066,
+        2785067
+      ],
+      "erased_edge_fraction": {
+        "25": 0.25219133483596295,
+        "50": 0.5032556974705735
+      }
+    },
+    {
+      "image_id": 407614,
+      "split": "test",
+      "caption": "A smaller kitchen with a very decorated fridge. ",
+      "caption_id": 360774,
+      "original": "data/originals/000000407614.jpg",
+      "original_sha256": "dd3bddaa96d4d0beb4d8770a77dd76cbd9507f771e9d3c301ef84199ab8c083c",
+      "reference_512": "data/reference_512/000000407614.png",
+      "reference_1024": "data/reference_1024/000000407614.png",
+      "reference_512_sha256": "2a6ece8fdaea37c5ffa1560684d35dbdd4a18042899158296ccaf886b313b99b",
+      "reference_1024_sha256": "bc4d98e36b01e3c7456114b34a31d0adaf8235a0a7af06f6794439fcf18d45d3",
+      "seeds": [
+        2841228,
+        2841229
+      ],
+      "erased_edge_fraction": {
+        "25": 0.25160335471139617,
+        "50": 0.5013155730965302
+      }
+    },
+    {
+      "image_id": 423506,
+      "split": "test",
+      "caption": "Two men smiling and taking a picture together. ",
+      "caption_id": 538713,
+      "original": "data/originals/000000423506.jpg",
+      "original_sha256": "cf770793ec543c39c2c6331e6658a08738d0a576cc9f1fe8995d711eae97ce71",
+      "reference_512": "data/reference_512/000000423506.png",
+      "reference_1024": "data/reference_1024/000000423506.png",
+      "reference_512_sha256": "75e9b49217b8cb54928b191d39715a2fac63cb3dd918f4849dfdb06016911dc4",
+      "reference_1024_sha256": "c878aa5b83bd59a606235cf29f2b9552b9a1cf78a2d97a3600133ccb422e14ee",
+      "seeds": [
+        2873012,
+        2873013
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2501032346868548,
+        "50": 0.5032346868547832
+      }
+    },
+    {
+      "image_id": 7108,
+      "split": "test",
+      "caption": "A herd of elephants walking away from a watering hole.",
+      "caption_id": 808212,
+      "original": "data/originals/000000007108.jpg",
+      "original_sha256": "fe22617b02d85f3d180db14af3c300e95d259ae81035452a03f57b79e056fb78",
+      "reference_512": "data/reference_512/000000007108.png",
+      "reference_1024": "data/reference_1024/000000007108.png",
+      "reference_512_sha256": "f1f9acff62fb13865813eeef25b2318630018218d43cc617297b48f1e4ead26a",
+      "reference_1024_sha256": "12807870d868bbcf48805cfb45d91bdc7d409bc9f194371c1f1db64f79085243",
+      "seeds": [
+        2040216,
+        2040217
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2517291972332844,
+        "50": 0.5005239991616014
+      }
+    },
+    {
+      "image_id": 381639,
+      "split": "test",
+      "caption": "A little girl walking along a row of orange cones.",
+      "caption_id": 682018,
+      "original": "data/originals/000000381639.jpg",
+      "original_sha256": "bc465a20b1eca9900919e9948da70ab4590d1436ac80763dbafa8bf9f12da630",
+      "reference_512": "data/reference_512/000000381639.png",
+      "reference_1024": "data/reference_1024/000000381639.png",
+      "reference_512_sha256": "64aa9228014243554174b92d62666626f23494fbab5c2d4441d428e1f3c31095",
+      "reference_1024_sha256": "8b5ad6c282bf5264ea3be0c37ac007b040daa02a331dda69b8f059dd85729fad",
+      "seeds": [
+        2789278,
+        2789279
+      ],
+      "erased_edge_fraction": {
+        "25": 0.25049037798865503,
+        "50": 0.5148173673328739
+      }
+    },
+    {
+      "image_id": 344909,
+      "split": "test",
+      "caption": "A red and gold painted fire hydrant on the street",
+      "caption_id": 420103,
+      "original": "data/originals/000000344909.jpg",
+      "original_sha256": "963758fe1359544f537414afa68230ac2a6043ceb37347f157d95416beef18d4",
+      "reference_512": "data/reference_512/000000344909.png",
+      "reference_1024": "data/reference_1024/000000344909.png",
+      "reference_512_sha256": "da7046188c8fd6e3ff3bd77f4e4eca96810e14ee17966fda026ff2c89d55182a",
+      "reference_1024_sha256": "3cdca94b26ac6f2534187f0280f478b758dbf85ca1098a4f1a3b58e477c9ba21",
+      "seeds": [
+        2715818,
+        2715819
+      ],
+      "erased_edge_fraction": {
+        "25": 0.25027096265641935,
+        "50": 0.5007389890629619
+      }
+    },
+    {
+      "image_id": 73326,
+      "split": "test",
+      "caption": "An open refrigerator including bottles of various food.",
+      "caption_id": 277296,
+      "original": "data/originals/000000073326.jpg",
+      "original_sha256": "1b86fe2c81d8c089b47f5b2cc763275e6caffdbc516801d5eff711841a39efc6",
+      "reference_512": "data/reference_512/000000073326.png",
+      "reference_1024": "data/reference_1024/000000073326.png",
+      "reference_512_sha256": "34623ba884ef1a87f0454827060f5f9de4fce5083814bfb6d22d6ad147afbe1e",
+      "reference_1024_sha256": "cbb98fb512d3e7b4b5c26d5d0b97408724bf2413dba66ceaedbb1b5c8987aec6",
+      "seeds": [
+        2172652,
+        2172653
+      ],
+      "erased_edge_fraction": {
+        "25": 0.250057497700092,
+        "50": 0.5009199632014719
+      }
+    },
+    {
+      "image_id": 65350,
+      "split": "test",
+      "caption": "Kids are skateboarding at a skate park and one them has fallen down.",
+      "caption_id": 281409,
+      "original": "data/originals/000000065350.jpg",
+      "original_sha256": "963a129714e3675b99b6a405a2cb46eca5678241358bb6b6bbefc3c3f1943ae0",
+      "reference_512": "data/reference_512/000000065350.png",
+      "reference_1024": "data/reference_1024/000000065350.png",
+      "reference_512_sha256": "38de94bdb845659f570ee93482f93405eba7a75c7124b0c41cfb7c18c8f3ea2c",
+      "reference_1024_sha256": "8adca7aca28162882105efef1a6733791bf077c0756109ba540036715455f60b",
+      "seeds": [
+        2156700,
+        2156701
+      ],
+      "erased_edge_fraction": {
+        "25": 0.25137903861308114,
+        "50": 0.5
+      }
+    },
+    {
+      "image_id": 503855,
+      "split": "test",
+      "caption": "A grass yard area that has several open umbrellas laid on the grass and various people around the roadway area.\n\n",
+      "caption_id": 772472,
+      "original": "data/originals/000000503855.jpg",
+      "original_sha256": "6ed91b6f613307e43f26c70a60065e5e8d2d41afe965911283f0f32ffa570153",
+      "reference_512": "data/reference_512/000000503855.png",
+      "reference_1024": "data/reference_1024/000000503855.png",
+      "reference_512_sha256": "d5db1921cb05ae365ad644bf0d019709cd79ebf2d788a4fbc94778a7bfbc9517",
+      "reference_1024_sha256": "5e5d0dd606d8d1e1fa52b0cfa27c2f5209d2d1dfae614053e12556c179194494",
+      "seeds": [
+        3033710,
+        3033711
+      ],
+      "erased_edge_fraction": {
+        "25": 0.25040216017465244,
+        "50": 0.5019246236929794
+      }
+    },
+    {
+      "image_id": 407574,
+      "split": "test",
+      "caption": "A green stand holding several bananas for sale. ",
+      "caption_id": 324743,
+      "original": "data/originals/000000407574.jpg",
+      "original_sha256": "0518c35b7359ef5fb2d882dd2c61d95898f413a93307dcd240fe010b3ed771b4",
+      "reference_512": "data/reference_512/000000407574.png",
+      "reference_1024": "data/reference_1024/000000407574.png",
+      "reference_512_sha256": "7043c38b0d836a6cffad9ffac37124bde345ef3fbbb54aa01c8680a1245bfd6d",
+      "reference_1024_sha256": "40ffd5f89c95a8a577a64c02ece185d5fda097668e66279e0273a4da598f2de0",
+      "seeds": [
+        2841148,
+        2841149
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2501710256275325,
+        "50": 0.5018681260853549
+      }
+    },
+    {
+      "image_id": 473821,
+      "split": "test",
+      "caption": "A red couch next to a brown chair in a living room.",
+      "caption_id": 533336,
+      "original": "data/originals/000000473821.jpg",
+      "original_sha256": "d7d522cf0ac9ed2615c1b572836aaa3d062f25f73b82acbbfb49f076521be5ba",
+      "reference_512": "data/reference_512/000000473821.png",
+      "reference_1024": "data/reference_1024/000000473821.png",
+      "reference_512_sha256": "9de181c794bac1158fd592f46dbdbb17036ad1d25011d4a2597d4fef3d3cc600",
+      "reference_1024_sha256": "9959567caf87bd4a1e677738d7ecfdcd901473307986a6663be322571ef4b4da",
+      "seeds": [
+        2973642,
+        2973643
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2523413797652025,
+        "50": 0.5003297717979158
+      }
+    },
+    {
+      "image_id": 260925,
+      "split": "test",
+      "caption": "A cat sitting on the hood of a car.",
+      "caption_id": 573568,
+      "original": "data/originals/000000260925.jpg",
+      "original_sha256": "772da4e47a7ec53f1ca83ca29f92fccc426e03be39641aa5fafb6db5fc913240",
+      "reference_512": "data/reference_512/000000260925.png",
+      "reference_1024": "data/reference_1024/000000260925.png",
+      "reference_512_sha256": "2273f494aedf4a16e89b561e4d0c7185bf4787c7f092a9a2781f8b4e3b0c3838",
+      "reference_1024_sha256": "f2bf15433f9317f1bf61fa54cda47565c2d1baa0dbc62dfb6f05652b27fa8bbe",
+      "seeds": [
+        2547850,
+        2547851
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2506246876561719,
+        "50": 0.5039980009995002
+      }
+    },
+    {
+      "image_id": 384350,
+      "split": "test",
+      "caption": "a white and red plane parked on a tarmac",
+      "caption_id": 475478,
+      "original": "data/originals/000000384350.jpg",
+      "original_sha256": "39cfdb31443de71adc046b7c8e9680d7eb91726e01e003078d8705cf9291eda1",
+      "reference_512": "data/reference_512/000000384350.png",
+      "reference_1024": "data/reference_1024/000000384350.png",
+      "reference_512_sha256": "db2a8d76e1ff5bd90a4421862aefc56d6fa8c2245c8840afcc529a1adba9cb15",
+      "reference_1024_sha256": "b1b6228d923ddd9a1bb7b017873a2cf87eda8988e1b3095c891ff0331d3a316d",
+      "seeds": [
+        2794700,
+        2794701
+      ],
+      "erased_edge_fraction": {
+        "25": 0.26055220564900033,
+        "50": 0.5001586797841955
+      }
+    },
+    {
+      "image_id": 6954,
+      "split": "test",
+      "caption": "A group of young children sitting in the grass.",
+      "caption_id": 507154,
+      "original": "data/originals/000000006954.jpg",
+      "original_sha256": "59471a9bed5c28ac2f3ad56af1799340d6acb90f7c87d1f60360d1a9466e89ea",
+      "reference_512": "data/reference_512/000000006954.png",
+      "reference_1024": "data/reference_1024/000000006954.png",
+      "reference_512_sha256": "ce337da0bc1ae640b2cec69d4552295b369d8d6fd2ac60b0174bf5f1d255202f",
+      "reference_1024_sha256": "df0967d6b66337e755bcd10b7caed658d54dd711c582a3eb4c6eba52dae45b69",
+      "seeds": [
+        2039908,
+        2039909
+      ],
+      "erased_edge_fraction": {
+        "25": 0.25019488222335196,
+        "50": 0.5014065412641925
+      }
+    },
+    {
+      "image_id": 506004,
+      "split": "test",
+      "caption": "The ferris wheel is located in the middle of the water.",
+      "caption_id": 629451,
+      "original": "data/originals/000000506004.jpg",
+      "original_sha256": "0cf9b305f6274e6f88c377a24a236437324e75e77800065f86bad0c582ce419c",
+      "reference_512": "data/reference_512/000000506004.png",
+      "reference_1024": "data/reference_1024/000000506004.png",
+      "reference_512_sha256": "4ebf9a51d1532ae14a28cd4830055ee9046de6a8627fd214890d10d3e85b9dba",
+      "reference_1024_sha256": "68562fba7cb26f8ccaca2f497cfb435aa83356d12230456a2a83db3f747fbd56",
+      "seeds": [
+        3038008,
+        3038009
+      ],
+      "erased_edge_fraction": {
+        "25": 0.25,
+        "50": 0.5003322259136213
+      }
+    },
+    {
+      "image_id": 50943,
+      "split": "test",
+      "caption": "A person riding a wave on top of a surfboard.",
+      "caption_id": 556672,
+      "original": "data/originals/000000050943.jpg",
+      "original_sha256": "e3b0b34cf67c4db9ce9c92f4877d5c7c2f326109f02b6d2ea42c51b78a3748fa",
+      "reference_512": "data/reference_512/000000050943.png",
+      "reference_1024": "data/reference_1024/000000050943.png",
+      "reference_512_sha256": "d3842a4e49c48ae05c3bc7641d99685110a57aae8df73c4a85057a6a88787752",
+      "reference_1024_sha256": "b4207f5250c45a2dc4317776871987a507c7ca0145c9dba7fe9e8633d3d73e9a",
+      "seeds": [
+        2127886,
+        2127887
+      ],
+      "erased_edge_fraction": {
+        "25": 0.25178713264495634,
+        "50": 0.5067513899920572
+      }
+    },
+    {
+      "image_id": 172571,
+      "split": "test",
+      "caption": "A very thick pizza is on a plate with one piece taken.",
+      "caption_id": 17694,
+      "original": "data/originals/000000172571.jpg",
+      "original_sha256": "7357af1c648b48951ddf27801e0b94a2f829cdfff0f7ebabb37ab5a145126e3c",
+      "reference_512": "data/reference_512/000000172571.png",
+      "reference_1024": "data/reference_1024/000000172571.png",
+      "reference_512_sha256": "18695c969e991ce1853eacf7543dba079e518b3bd12fcef15b126bfac4edc03c",
+      "reference_1024_sha256": "50d909c36bdcec8d5584a524d3c5c3fd67a04eac9c45c5417ea4b35c3260f688",
+      "seeds": [
+        2371142,
+        2371143
+      ],
+      "erased_edge_fraction": {
+        "25": 0.25203573405012253,
+        "50": 0.5007510475136374
+      }
+    },
+    {
+      "image_id": 57760,
+      "split": "test",
+      "caption": "many people on a beach with a kite flying in the sky",
+      "caption_id": 291058,
+      "original": "data/originals/000000057760.jpg",
+      "original_sha256": "7a3e5dbc421994faf67f6e6183eed727eba075b0eff6446b623544a4ce5f740b",
+      "reference_512": "data/reference_512/000000057760.png",
+      "reference_1024": "data/reference_1024/000000057760.png",
+      "reference_512_sha256": "19a4dfd8e2d72e3a52c2a374dd1af08ebe1782627f108a84d9c68a0aab4da317",
+      "reference_1024_sha256": "ffd23e49ed0754ebc3ffec6dfee83cfd559f488a28d7a76cdc88d90bef6a41bd",
+      "seeds": [
+        2141520,
+        2141521
+      ],
+      "erased_edge_fraction": {
+        "25": 0.25481826413141895,
+        "50": 0.5096365282628379
+      }
+    },
+    {
+      "image_id": 358427,
+      "split": "test",
+      "caption": "Two pieces of broccoli being held up on a fork",
+      "caption_id": 50935,
+      "original": "data/originals/000000358427.jpg",
+      "original_sha256": "075b357e2d31b1bc48489a7d8cbe18473e6b4801472b8306365f68a37ae1030f",
+      "reference_512": "data/reference_512/000000358427.png",
+      "reference_1024": "data/reference_1024/000000358427.png",
+      "reference_512_sha256": "b5d1e22388dbc30fd4e202d0669d34da434be4eb065c2220f5481ed10f7ebbe8",
+      "reference_1024_sha256": "1f5ef0649f1f4c5d1208034574e24bd897980a4de56cf48e54d27dca618fd5b4",
+      "seeds": [
+        2742854,
+        2742855
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2509191176470588,
+        "50": 0.5018382352941176
+      }
+    },
+    {
+      "image_id": 119088,
+      "split": "test",
+      "caption": "The men are up to their knees in the water.",
+      "caption_id": 293,
+      "original": "data/originals/000000119088.jpg",
+      "original_sha256": "21ef6c68c76d2430c3d2a51ed3d1566c653061835842ebc74cf5820bd79015f6",
+      "reference_512": "data/reference_512/000000119088.png",
+      "reference_1024": "data/reference_1024/000000119088.png",
+      "reference_512_sha256": "b4673aed8eeb1a7471547d3ac697f8d5df4bc59061c71ffb3cc4f1fb0d76c7c9",
+      "reference_1024_sha256": "e90965c0d71f5673c7870f792472cec546cad0a441521ed87ddc6abc1d73cdd1",
+      "seeds": [
+        2264176,
+        2264177
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2509732081520495,
+        "50": 0.5021754064575223
+      }
+    },
+    {
+      "image_id": 222458,
+      "split": "test",
+      "caption": "A woman in a coat walks along a snow covered sidewalk. ",
+      "caption_id": 83831,
+      "original": "data/originals/000000222458.jpg",
+      "original_sha256": "b66a00bd95713529ea1ad346549d625019db4dc74b4082ef4f000da89778ac05",
+      "reference_512": "data/reference_512/000000222458.png",
+      "reference_1024": "data/reference_1024/000000222458.png",
+      "reference_512_sha256": "becadad3959e39377aee25375265a905e48f7edaa78b5eb54b28b1bcf30c43b8",
+      "reference_1024_sha256": "117d6991eed689ac851791586b22af56a0b7f959cb424be888153e48f0a7d11c",
+      "seeds": [
+        2470916,
+        2470917
+      ],
+      "erased_edge_fraction": {
+        "25": 0.25060805731216557,
+        "50": 0.5008402246495379
+      }
+    },
+    {
+      "image_id": 348481,
+      "split": "test",
+      "caption": "A desk with various items that include cellphone, mouse and pocket change.",
+      "caption_id": 382711,
+      "original": "data/originals/000000348481.jpg",
+      "original_sha256": "7b4434ecb88a7379cd6d8327692ce2a1255100ef66bebd602b680e00b5a4206a",
+      "reference_512": "data/reference_512/000000348481.png",
+      "reference_1024": "data/reference_1024/000000348481.png",
+      "reference_512_sha256": "30962ec141fcd02f50dbca267fd9bb2be7dbecb8e3b0d17f11178ed391920485",
+      "reference_1024_sha256": "334b0dd0c00330c453e7c6864c0d934dd0e394336b0d6750f950198a7929d670",
+      "seeds": [
+        2722962,
+        2722963
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2511664074650078,
+        "50": 0.5007776049766719
+      }
+    },
+    {
+      "image_id": 462576,
+      "split": "test",
+      "caption": "a plate of breakfast food sits on a table",
+      "caption_id": 190268,
+      "original": "data/originals/000000462576.jpg",
+      "original_sha256": "dd50fa5167dce75df729637cf24efb78d8d75548e0d6fbfdcc9a8c62d97257bd",
+      "reference_512": "data/reference_512/000000462576.png",
+      "reference_1024": "data/reference_1024/000000462576.png",
+      "reference_512_sha256": "c27d7a2c82f1bdb18dbef14ef712c9f6938ff89ace5b91d13a4c0203f301c8d4",
+      "reference_1024_sha256": "3a259775bcf0f459f31ad83d7760540c0b0b725ddcd7a9dac3fbdfeb8665f9f4",
+      "seeds": [
+        2951152,
+        2951153
+      ],
+      "erased_edge_fraction": {
+        "25": 0.25455505677317136,
+        "50": 0.5017163982043834
+      }
+    },
+    {
+      "image_id": 343561,
+      "split": "test",
+      "caption": "there are many bike riders racing in a street race",
+      "caption_id": 497464,
+      "original": "data/originals/000000343561.jpg",
+      "original_sha256": "419354910c2d301ff5d82f5dfcd3480ca12cd15f3381aa5a7adfa0b94bae5ee5",
+      "reference_512": "data/reference_512/000000343561.png",
+      "reference_1024": "data/reference_1024/000000343561.png",
+      "reference_512_sha256": "1753362bc55f571a6d1dc691026d71812ca2538a1a632a241b1fabab73cdea9a",
+      "reference_1024_sha256": "55f0a5ee8bd43b0ab7573aa6952fe28149a8f8a00616f82b03f21d5970fdf897",
+      "seeds": [
+        2713122,
+        2713123
+      ],
+      "erased_edge_fraction": {
+        "25": 0.25033904264403034,
+        "50": 0.5013310563061931
+      }
+    },
+    {
+      "image_id": 15517,
+      "split": "test",
+      "caption": "Buses parked on a road outside a large bus station. ",
+      "caption_id": 672529,
+      "original": "data/originals/000000015517.jpg",
+      "original_sha256": "db13a24631806ad53b865d8edb4926d455cf54ae60e72b45778e5e58fb164369",
+      "reference_512": "data/reference_512/000000015517.png",
+      "reference_1024": "data/reference_1024/000000015517.png",
+      "reference_512_sha256": "f1ac15a003d80bf0b4b1fce2334569493533d51eb61dc1cba82289d5c3fa369d",
+      "reference_1024_sha256": "7a32ba49413ebb617b1725093963e97807bd871134506d8c94c7b2a566df607a",
+      "seeds": [
+        2057034,
+        2057035
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2515798001620308,
+        "50": 0.5013772616797192
+      }
+    },
+    {
+      "image_id": 217957,
+      "split": "test",
+      "caption": "A clock is shown with gold detailing around it.",
+      "caption_id": 654141,
+      "original": "data/originals/000000217957.jpg",
+      "original_sha256": "6a52648c51cf7465f1290920b5d9a48ba467f75c6a6bd3b4fe584f7862d8c27a",
+      "reference_512": "data/reference_512/000000217957.png",
+      "reference_1024": "data/reference_1024/000000217957.png",
+      "reference_512_sha256": "cec2a6b75604f81333d5303c3e71e0471626e4a2077b24f685a153c0389f2d98",
+      "reference_1024_sha256": "0c5e973afba542b2b2e964952229d95134cc8b614593182deae3a3c5c2ec8080",
+      "seeds": [
+        2461914,
+        2461915
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2502038819115968,
+        "50": 0.5005980536073507
+      }
+    },
+    {
+      "image_id": 187144,
+      "split": "test",
+      "caption": " A white bus parked at a stop next to a crowd.",
+      "caption_id": 186258,
+      "original": "data/originals/000000187144.jpg",
+      "original_sha256": "ecda88adbae1ca905ecf37007ef2ce11013109523964dca9bf1ed856f26cbcfb",
+      "reference_512": "data/reference_512/000000187144.png",
+      "reference_1024": "data/reference_1024/000000187144.png",
+      "reference_512_sha256": "b31a2189497c458862ae0dd6bfe454407779a86e5c8ea1fb3dadea1b5295202d",
+      "reference_1024_sha256": "7b19bfd22e152c9ff3d7986e120c7971dd9c62868f0de53ca30fcc585d5a41c9",
+      "seeds": [
+        2400288,
+        2400289
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2522375132326051,
+        "50": 0.5005293042055625
+      }
+    },
+    {
+      "image_id": 396903,
+      "split": "test",
+      "caption": "Small red propeller airplane sitting on an airport runway. ",
+      "caption_id": 384244,
+      "original": "data/originals/000000396903.jpg",
+      "original_sha256": "bba5cfd5761b87880d5e939b101e86285ee58bc22a52e8eb01a5badda5e7962d",
+      "reference_512": "data/reference_512/000000396903.png",
+      "reference_1024": "data/reference_1024/000000396903.png",
+      "reference_512_sha256": "b035f9c27b37a4f65cca5d20db6ed7b89004cb9e77e72c9ab4b77c305f1d9107",
+      "reference_1024_sha256": "2fb9bb96902b8937c0abca6fc99fad70c06e00485786ac3564f474304a1279a1",
+      "seeds": [
+        2819806,
+        2819807
+      ],
+      "erased_edge_fraction": {
+        "25": 0.2571258021190867,
+        "50": 0.5020146246828832
+      }
+    },
+    {
+      "image_id": 3553,
+      "split": "test",
+      "caption": "a person skating on some pieces of wood ",
+      "caption_id": 144708,
+      "original": "data/originals/000000003553.jpg",
+      "original_sha256": "4286197d2b6fc18809a37a4ef3035109509fcf52782fb83894835faaa5743bea",
+      "reference_512": "data/reference_512/000000003553.png",
+      "reference_1024": "data/reference_1024/000000003553.png",
+      "reference_512_sha256": "16f3992459f6142ff9ff274d9a0ad070ddf4e2190ad77af2019fda83770429e9",
+      "reference_1024_sha256": "f16ab9a48d5b5d2e88d4ef554da209806706823fd784b0441b6729f62cba3ead",
+      "seeds": [
+        2033106,
+        2033107
+      ],
+      "erased_edge_fraction": {
+        "25": 0.25049818309694055,
+        "50": 0.5004102684327746
+      }
+    }
+  ]
+}

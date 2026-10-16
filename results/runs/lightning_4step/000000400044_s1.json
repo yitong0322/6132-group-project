@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_4step",
+    "method": "lightning",
+    "steps": 4,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "16ac80513f831abd97c3f2a5ff13092269bfbb5f3406b2a8d454fc9d71c49fcd",
+  "image_id": 400044,
+  "seed_index": 1,
+  "seed": 2826089,
+  "prompt": "A person riding a snowboard into the air next to a tall building.",
+  "path": "results/runs/lightning_4step/000000400044_s1.png",
+  "sha256": "196690a32a98177cd8ecd83d5098e6a6ee7663a6c4cd943fd9d5645f6adad1c4",
+  "latency_s": 1.8257153669983381,
+  "peak_allocated_mib": 9949.5458984375,
+  "peak_reserved_mib": 12632.0
+}

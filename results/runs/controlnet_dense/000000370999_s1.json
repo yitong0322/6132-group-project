@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_dense",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "f25fcf61e38298c2c82909b445848fd59f39f4565e113adeded45d7fab51ac96",
+  "image_id": 370999,
+  "seed_index": 1,
+  "seed": 2767999,
+  "prompt": "some little stones sitting around a dime ",
+  "path": "results/runs/controlnet_dense/000000370999_s1.png",
+  "sha256": "7820873c09cd29cd4843cdc16314657b01ccce4258752cc8a65e296f9b93fbae",
+  "latency_s": 2.7347584599920083,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

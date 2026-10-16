@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_erase50",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "22aaf1199ae8d9bf147f8b71f7b2196b68dded76b271f6f12b37f1a8956cefe6",
+  "image_id": 203294,
+  "seed_index": 0,
+  "seed": 2432588,
+  "prompt": "A tour bus with a cats face painted on the front of it",
+  "path": "results/runs/controlnet_erase50/000000203294_s0.png",
+  "sha256": "00f307d4c3eee621c6177d90ede79ceefc724d841aeceb3ae5d1fab7114b3117",
+  "latency_s": 2.73584830800246,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

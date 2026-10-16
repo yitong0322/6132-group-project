@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase50",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "896b5ee20f16dbe54a8a8a0f8cbb30f7dfda77457ef77ac9d5f01f8363335ce2",
+  "image_id": 167159,
+  "seed_index": 1,
+  "seed": 2360319,
+  "prompt": "a doll with a bonnet and a book on a pillow",
+  "path": "results/runs/adapter_erase50/000000167159_s1.png",
+  "sha256": "3a7c29fb04cb4acff657d6b8136194ced9728cbbe2027887e22a7f7ea877124b",
+  "latency_s": 1.9898759429925121,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

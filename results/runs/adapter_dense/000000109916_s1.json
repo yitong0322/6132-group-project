@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_dense",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "114bbb8b7de882aa24fc41d9ba598b03037e7e4fd05b317cde3dc9b41adcdaad",
+  "image_id": 109916,
+  "seed_index": 1,
+  "seed": 2245833,
+  "prompt": "Twp cake pans sitting and cooling on the stove",
+  "path": "results/runs/adapter_dense/000000109916_s1.png",
+  "sha256": "c91b6f13bc0b678c34fd94839b6dde537b3e105c9c91eb293b64a01ba4945eea",
+  "latency_s": 1.9887763820006512,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

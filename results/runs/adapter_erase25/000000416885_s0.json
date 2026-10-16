@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase25",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase25",
+    "strength": 1.5
+  },
+  "config_hash": "80d457176300f341e45e2f76b044a50c847f1e3c3c84309a1df5ae1d17c970c5",
+  "image_id": 416885,
+  "seed_index": 0,
+  "seed": 2859770,
+  "prompt": "Three pastry desserts and two glasses of wine are on a table. ",
+  "path": "results/runs/adapter_erase25/000000416885_s0.png",
+  "sha256": "96060862639ad0a2029be7a833428f981f7e3568aeab461583ee8d107c0f7d51",
+  "latency_s": 1.9901866849977523,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

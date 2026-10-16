@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_erase25",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase25",
+    "strength": 1.5
+  },
+  "config_hash": "8fb8a2754192714bc32db360b571eff94829570c7be658ef8572cbbfe9dfb389",
+  "image_id": 222458,
+  "seed_index": 0,
+  "seed": 2470916,
+  "prompt": "A woman in a coat walks along a snow covered sidewalk. ",
+  "path": "results/runs/controlnet_erase25/000000222458_s0.png",
+  "sha256": "d727b99f3ae1f95fba4300bc857288919a73ff4d570ae019d9d63ddcca60c5d5",
+  "latency_s": 2.73859558798722,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

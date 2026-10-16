@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_clean",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "clean",
+    "strength": 1.5
+  },
+  "config_hash": "66b43ec0d0e6b23b0522fd655cf1655236bdd2a53d75e7fff42de6022e9c484b",
+  "image_id": 210273,
+  "seed_index": 1,
+  "seed": 2446547,
+  "prompt": "Buses and cars on interstate going both ways. ",
+  "path": "results/runs/controlnet_clean/000000210273_s1.png",
+  "sha256": "c0e5c20615e431287ccacfdd72256fb86c8b1d07e7d6467848d311da701ebaad",
+  "latency_s": 2.739068485010648,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_8step",
+    "method": "lcm",
+    "steps": 8,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "feddce4cdbe9647508117b127ff6e71f47b840f02764b4ba859667a4e90c6edf",
+  "image_id": 203389,
+  "seed_index": 1,
+  "seed": 2432779,
+  "prompt": "A group of young people riding motorcycles near a river.",
+  "path": "results/runs/lcm_8step/000000203389_s1.png",
+  "sha256": "76e1c98b350e032dea1fd903933efec54ebe62ec583ae90be7b371c0620f4aa1",
+  "latency_s": 2.6087483419978525,
+  "peak_allocated_mib": 9947.0927734375,
+  "peak_reserved_mib": 12650.0
+}

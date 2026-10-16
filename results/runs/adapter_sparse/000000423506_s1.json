@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_sparse",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "e591437800140077d0a3adb6b23eea9fd6dac35575bed9dfa31bd71572efb58f",
+  "image_id": 423506,
+  "seed_index": 1,
+  "seed": 2873013,
+  "prompt": "Two men smiling and taking a picture together. ",
+  "path": "results/runs/adapter_sparse/000000423506_s1.png",
+  "sha256": "e41a722793d90718e7ef3b436fe343cd7c5fa6457fcae59dd357ae0d7962a013",
+  "latency_s": 1.9898119059944293,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

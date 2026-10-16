@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_sparse",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "e591437800140077d0a3adb6b23eea9fd6dac35575bed9dfa31bd71572efb58f",
+  "image_id": 396903,
+  "seed_index": 1,
+  "seed": 2819807,
+  "prompt": "Small red propeller airplane sitting on an airport runway. ",
+  "path": "results/runs/adapter_sparse/000000396903_s1.png",
+  "sha256": "71b57e7d49a731669e7f0aef3d409b2e93c9a94978cd0b62c677b9f194b36992",
+  "latency_s": 1.9901078330003656,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

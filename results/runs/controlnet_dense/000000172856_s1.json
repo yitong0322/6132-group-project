@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_dense",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "f25fcf61e38298c2c82909b445848fd59f39f4565e113adeded45d7fab51ac96",
+  "image_id": 172856,
+  "seed_index": 1,
+  "seed": 2371713,
+  "prompt": "a stop sign and two brown and white street signs ",
+  "path": "results/runs/controlnet_dense/000000172856_s1.png",
+  "sha256": "167b12e6e0233826675f77c324470179f03c64ca8c238aae87064d91366f7ac9",
+  "latency_s": 2.734273451991612,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

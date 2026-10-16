@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_erase50",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "22aaf1199ae8d9bf147f8b71f7b2196b68dded76b271f6f12b37f1a8956cefe6",
+  "image_id": 100510,
+  "seed_index": 1,
+  "seed": 2227021,
+  "prompt": "an equestrian riding a horse jumping an obstacle ",
+  "path": "results/runs/controlnet_erase50/000000100510_s1.png",
+  "sha256": "17ce3117869cf3112603db159c23751dfe4ba7c14560f31a662ee918cdb62f8a",
+  "latency_s": 2.734647325996775,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

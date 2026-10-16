@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "sd15_30step",
+    "method": "sd15",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "none"
+  },
+  "config_hash": "50a25ea0626a66bb0ec90a9954c0e8703317fb3903621c472f0b82bcf8c26228",
+  "image_id": 146831,
+  "seed_index": 0,
+  "seed": 2319662,
+  "prompt": "A person is riding a skateboard on a curved ramp.",
+  "path": "results/runs/sd15_30step/000000146831_s0.png",
+  "sha256": "74276cff01c51375696f45dec5c7452b476247f2c5a51cff3290b28547a19f4b",
+  "latency_s": 1.9833277980069397,
+  "peak_allocated_mib": 2675.13818359375,
+  "peak_reserved_mib": 3238.0
+}

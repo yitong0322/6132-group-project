@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_8step",
+    "method": "lcm",
+    "steps": 8,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "feddce4cdbe9647508117b127ff6e71f47b840f02764b4ba859667a4e90c6edf",
+  "image_id": 388056,
+  "seed_index": 1,
+  "seed": 2802113,
+  "prompt": "A baseball player holding a bat and getting ready for the pitch.",
+  "path": "results/runs/lcm_8step/000000388056_s1.png",
+  "sha256": "c01547e29c167fe9b791705ba4107f90bb131bd03f323bb4c36f4c213af44160",
+  "latency_s": 2.60140525099996,
+  "peak_allocated_mib": 9948.2177734375,
+  "peak_reserved_mib": 12650.0
+}

@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_dense",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "114bbb8b7de882aa24fc41d9ba598b03037e7e4fd05b317cde3dc9b41adcdaad",
+  "image_id": 396903,
+  "seed_index": 0,
+  "seed": 2819806,
+  "prompt": "Small red propeller airplane sitting on an airport runway. ",
+  "path": "results/runs/adapter_dense/000000396903_s0.png",
+  "sha256": "3f7988adff6cf2502bf6df80e7d40bbf9b6962a47fbb7555775e41bbd378aa9d",
+  "latency_s": 1.9880085230106488,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

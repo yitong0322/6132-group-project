@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_erase25",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase25",
+    "strength": 1.5
+  },
+  "config_hash": "8fb8a2754192714bc32db360b571eff94829570c7be658ef8572cbbfe9dfb389",
+  "image_id": 260925,
+  "seed_index": 1,
+  "seed": 2547851,
+  "prompt": "A cat sitting on the hood of a car.",
+  "path": "results/runs/controlnet_erase25/000000260925_s1.png",
+  "sha256": "289a772bf9a87e2d6267bd1c101e538dbe64ced2b116b81d55c51642101e5aa1",
+  "latency_s": 2.7379175480018603,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

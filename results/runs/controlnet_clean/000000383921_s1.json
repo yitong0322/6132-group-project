@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_clean",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "clean",
+    "strength": 1.5
+  },
+  "config_hash": "66b43ec0d0e6b23b0522fd655cf1655236bdd2a53d75e7fff42de6022e9c484b",
+  "image_id": 383921,
+  "seed_index": 1,
+  "seed": 2793843,
+  "prompt": "A herd of elephants walking across a body of water.",
+  "path": "results/runs/controlnet_clean/000000383921_s1.png",
+  "sha256": "7e6caa317cc261e129591b944d148ae87a9bddf1104bb1dbfefac3fc579f4cc7",
+  "latency_s": 2.738845208004932,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

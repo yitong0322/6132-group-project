@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_erase50",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "22aaf1199ae8d9bf147f8b71f7b2196b68dded76b271f6f12b37f1a8956cefe6",
+  "image_id": 99039,
+  "seed_index": 1,
+  "seed": 2224079,
+  "prompt": "Plates  of food and glasses of wine sitting on a table",
+  "path": "results/runs/controlnet_erase50/000000099039_s1.png",
+  "sha256": "5fc5867c7cbc6da91e81b1b9dfbc4e6bd1966c7bbf5de78dda2f6fc22a3eddf5",
+  "latency_s": 2.7353102780034533,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

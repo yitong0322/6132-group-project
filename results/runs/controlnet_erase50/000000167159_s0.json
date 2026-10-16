@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_erase50",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "22aaf1199ae8d9bf147f8b71f7b2196b68dded76b271f6f12b37f1a8956cefe6",
+  "image_id": 167159,
+  "seed_index": 0,
+  "seed": 2360318,
+  "prompt": "a doll with a bonnet and a book on a pillow",
+  "path": "results/runs/controlnet_erase50/000000167159_s0.png",
+  "sha256": "5d3b383330049fb962e661bb6141f2f6510b00198fd7f04dfbc6397dace8590a",
+  "latency_s": 2.7351060009968933,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

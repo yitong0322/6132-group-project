@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_sparse",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "e591437800140077d0a3adb6b23eea9fd6dac35575bed9dfa31bd71572efb58f",
+  "image_id": 58384,
+  "seed_index": 0,
+  "seed": 2142768,
+  "prompt": "A herd of elephants standing next to each other.",
+  "path": "results/runs/adapter_sparse/000000058384_s0.png",
+  "sha256": "169450479d66ccd326cf1302cfa8972b1b1baacfe087c61bb3a6bc0ab8ba5d4c",
+  "latency_s": 1.9883627259987406,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

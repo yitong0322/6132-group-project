@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_2step",
+    "method": "lightning",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "c9f1d7562e2c721c6f9d933bd0ebaabec8feb143758b08fb930248cd7d3e3ae6",
+  "image_id": 407574,
+  "seed_index": 1,
+  "seed": 2841149,
+  "prompt": "A green stand holding several bananas for sale. ",
+  "path": "results/runs/lightning_2step/000000407574_s1.png",
+  "sha256": "67b326662cf2fa4041bbd487a99efa36e09bf2d2bb4a7dda308c13f393563602",
+  "latency_s": 1.446949573000893,
+  "peak_allocated_mib": 9948.7958984375,
+  "peak_reserved_mib": 12632.0
+}

@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_4step",
+    "method": "lcm",
+    "steps": 4,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "9ec22cf595f8b833bea186b1ab867b1ae0fab3debca422e4ad0a7028793290a0",
+  "image_id": 193743,
+  "seed_index": 0,
+  "seed": 2413486,
+  "prompt": "A man standing on a tennis court waves to someone. ",
+  "path": "results/runs/lcm_4step/000000193743_s0.png",
+  "sha256": "96947b9b71be1b52057395c276a14eed92d9ca55f64f6a6e4cb7464fd7129f00",
+  "latency_s": 1.8379526649951003,
+  "peak_allocated_mib": 9947.3427734375,
+  "peak_reserved_mib": 12650.0
+}

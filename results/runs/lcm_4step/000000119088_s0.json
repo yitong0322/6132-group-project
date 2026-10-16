@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_4step",
+    "method": "lcm",
+    "steps": 4,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "9ec22cf595f8b833bea186b1ab867b1ae0fab3debca422e4ad0a7028793290a0",
+  "image_id": 119088,
+  "seed_index": 0,
+  "seed": 2264176,
+  "prompt": "The men are up to their knees in the water.",
+  "path": "results/runs/lcm_4step/000000119088_s0.png",
+  "sha256": "9e7fe1deae4ec7b89d3a1054c4213a3ccf8088395ac9ce566ad27ba07a5127a8",
+  "latency_s": 1.8385407169989776,
+  "peak_allocated_mib": 9947.7177734375,
+  "peak_reserved_mib": 12650.0
+}

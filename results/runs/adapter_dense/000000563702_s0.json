@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_dense",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "114bbb8b7de882aa24fc41d9ba598b03037e7e4fd05b317cde3dc9b41adcdaad",
+  "image_id": 563702,
+  "seed_index": 0,
+  "seed": 3153404,
+  "prompt": "A fire fire truck parked in a parking lot.",
+  "path": "results/runs/adapter_dense/000000563702_s0.png",
+  "sha256": "aecf76e7e597688184efed775f7232aca45dfa15f85187d3f4e37b933c9fb534",
+  "latency_s": 1.987925763009116,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

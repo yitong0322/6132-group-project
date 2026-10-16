@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_dense",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "114bbb8b7de882aa24fc41d9ba598b03037e7e4fd05b317cde3dc9b41adcdaad",
+  "image_id": 159791,
+  "seed_index": 1,
+  "seed": 2345583,
+  "prompt": "A white refrigerator freezer covered in magnets and pictures.",
+  "path": "results/runs/adapter_dense/000000159791_s1.png",
+  "sha256": "5089c15ab3b3001074648ff54c37e255a25d89d8001a93dd48faeaa33d607723",
+  "latency_s": 1.9885807020036737,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

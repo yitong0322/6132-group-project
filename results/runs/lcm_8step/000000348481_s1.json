@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_8step",
+    "method": "lcm",
+    "steps": 8,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "feddce4cdbe9647508117b127ff6e71f47b840f02764b4ba859667a4e90c6edf",
+  "image_id": 348481,
+  "seed_index": 1,
+  "seed": 2722963,
+  "prompt": "A desk with various items that include cellphone, mouse and pocket change.",
+  "path": "results/runs/lcm_8step/000000348481_s1.png",
+  "sha256": "95eb66e2f47ab0f526c76da1174f457238534adb27801a241f309f279ca28cb2",
+  "latency_s": 2.607733480996103,
+  "peak_allocated_mib": 9948.0927734375,
+  "peak_reserved_mib": 12650.0
+}

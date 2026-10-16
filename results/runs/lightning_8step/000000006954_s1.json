@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_8step",
+    "method": "lightning",
+    "steps": 8,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "711af09a6d55e6cffce394b70a1f925c5621329067c780a2ae6a492787f97d3f",
+  "image_id": 6954,
+  "seed_index": 1,
+  "seed": 2039909,
+  "prompt": "A group of young children sitting in the grass.",
+  "path": "results/runs/lightning_8step/000000006954_s1.png",
+  "sha256": "0849efc6e1cdd074d01d903d5b0e4c202564f0193f6fe08e025933a3763ac849",
+  "latency_s": 2.5971136440057307,
+  "peak_allocated_mib": 9949.0458984375,
+  "peak_reserved_mib": 12632.0
+}

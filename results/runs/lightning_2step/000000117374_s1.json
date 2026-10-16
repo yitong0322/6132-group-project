@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_2step",
+    "method": "lightning",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "c9f1d7562e2c721c6f9d933bd0ebaabec8feb143758b08fb930248cd7d3e3ae6",
+  "image_id": 117374,
+  "seed_index": 1,
+  "seed": 2260749,
+  "prompt": "Two cats sitting in the dirt under a tree.",
+  "path": "results/runs/lightning_2step/000000117374_s1.png",
+  "sha256": "159a278eb4664691d1464ca1857627c7df957ea210332cf40c823c7546a53e1a",
+  "latency_s": 1.4454574179981137,
+  "peak_allocated_mib": 9950.7958984375,
+  "peak_reserved_mib": 12632.0
+}

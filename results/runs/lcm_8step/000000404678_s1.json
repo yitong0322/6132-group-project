@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_8step",
+    "method": "lcm",
+    "steps": 8,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "feddce4cdbe9647508117b127ff6e71f47b840f02764b4ba859667a4e90c6edf",
+  "image_id": 404678,
+  "seed_index": 1,
+  "seed": 2835357,
+  "prompt": "A family sitting down at a table for a meal.",
+  "path": "results/runs/lcm_8step/000000404678_s1.png",
+  "sha256": "2529d04ebd16fc5cbd9b9eeb25209e5ff74a59da68d428e92d8effe4b2ca7599",
+  "latency_s": 2.601608577009756,
+  "peak_allocated_mib": 9948.3427734375,
+  "peak_reserved_mib": 12650.0
+}

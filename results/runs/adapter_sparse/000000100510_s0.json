@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_sparse",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "e591437800140077d0a3adb6b23eea9fd6dac35575bed9dfa31bd71572efb58f",
+  "image_id": 100510,
+  "seed_index": 0,
+  "seed": 2227020,
+  "prompt": "an equestrian riding a horse jumping an obstacle ",
+  "path": "results/runs/adapter_sparse/000000100510_s0.png",
+  "sha256": "83ab28ec68fd75ec23b732d5e5d03aead28cd19229937652d928d93cf9eee3f9",
+  "latency_s": 1.9908726920111803,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

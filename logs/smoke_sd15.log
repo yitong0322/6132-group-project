@@ -1,0 +1,19 @@
+Loading pipeline components...:   0%|          | 0/5 [00:00<?, ?it/s]Loading pipeline components...:  20%|██        | 1/5 [00:00<00:00,  7.33it/s]Loading pipeline components...:  60%|██████    | 3/5 [00:00<00:00, 11.52it/s]Loading pipeline components...: 100%|██████████| 5/5 [00:00<00:00, 15.97it/s]
+START controlnet_clean remaining 2
+controlnet_clean 1 / 2 2.724s 3409MiB
+controlnet_clean 2 / 2 2.724s 3409MiB
+COMPLETE controlnet_clean
+An error occurred while trying to fetch /home/max/MSAI/6132/models/adapter: Error no file named diffusion_pytorch_model.safetensors found in directory /home/max/MSAI/6132/models/adapter.
+Defaulting to unsafe serialization. Pass `allow_pickle=False` to raise an error instead.
+Loading pipeline components...:   0%|          | 0/5 [00:00<?, ?it/s]Loading pipeline components...:  20%|██        | 1/5 [00:00<00:00,  8.49it/s]Loading pipeline components...: 100%|██████████| 5/5 [00:00<00:00, 24.98it/s]
+START adapter_clean remaining 2
+/home/max/MSAI/6132/.venv/lib/python3.10/site-packages/diffusers/pipelines/t2i_adapter/pipeline_stable_diffusion_adapter.py:511: FutureWarning: The decode_latents method is deprecated and will be removed in 1.0.0. Please use VaeImageProcessor.postprocess(...) instead
+  deprecate("decode_latents", "1.0.0", deprecation_message, standard_warn=False)
+adapter_clean 1 / 2 1.990s 2836MiB
+adapter_clean 2 / 2 1.994s 2836MiB
+COMPLETE adapter_clean
+Loading pipeline components...:   0%|          | 0/5 [00:00<?, ?it/s]Loading pipeline components...:  20%|██        | 1/5 [00:00<00:00,  7.44it/s]Loading pipeline components...: 100%|██████████| 5/5 [00:00<00:00, 23.17it/s]
+START sd15_30step remaining 2
+sd15_30step 1 / 2 1.988s 2675MiB
+sd15_30step 2 / 2 1.988s 2675MiB
+COMPLETE sd15_30step

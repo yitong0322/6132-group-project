@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_2step",
+    "method": "lightning",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "c9f1d7562e2c721c6f9d933bd0ebaabec8feb143758b08fb930248cd7d3e3ae6",
+  "image_id": 6954,
+  "seed_index": 0,
+  "seed": 2039908,
+  "prompt": "A group of young children sitting in the grass.",
+  "path": "results/runs/lightning_2step/000000006954_s0.png",
+  "sha256": "e91e816b3b4e5e87872b10602089a906cf4cc6eb1c8ddd74a287e685699b58fe",
+  "latency_s": 1.443662742007291,
+  "peak_allocated_mib": 9948.7958984375,
+  "peak_reserved_mib": 12632.0
+}

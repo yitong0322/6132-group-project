@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_8step",
+    "method": "lightning",
+    "steps": 8,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "711af09a6d55e6cffce394b70a1f925c5621329067c780a2ae6a492787f97d3f",
+  "image_id": 99039,
+  "seed_index": 1,
+  "seed": 2224079,
+  "prompt": "Plates  of food and glasses of wine sitting on a table",
+  "path": "results/runs/lightning_8step/000000099039_s1.png",
+  "sha256": "717b49850fe32da61351968945c3d6b12827bff03208c4b6b0d45c56176420ee",
+  "latency_s": 2.593930991992238,
+  "peak_allocated_mib": 9949.5458984375,
+  "peak_reserved_mib": 12632.0
+}

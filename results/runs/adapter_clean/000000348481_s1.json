@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_clean",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "clean",
+    "strength": 1.5
+  },
+  "config_hash": "9ba657d5c560196238df271ac941213dbe52470be0b52f57afa1fe86ef55ed19",
+  "image_id": 348481,
+  "seed_index": 1,
+  "seed": 2722963,
+  "prompt": "A desk with various items that include cellphone, mouse and pocket change.",
+  "path": "results/runs/adapter_clean/000000348481_s1.png",
+  "sha256": "18c2819075ca60d39f123810339486f9b3671f06cff4c6a26ca398a9acc59be6",
+  "latency_s": 1.993106740002986,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

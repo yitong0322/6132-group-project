@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_2step",
+    "method": "lcm",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "662eb0b62259031ebfd05061cc22cf9622a52f075eeb20943184e3e52cfbc947",
+  "image_id": 283412,
+  "seed_index": 0,
+  "seed": 2592824,
+  "prompt": "A little poodle puppy laying near a newspaper with a look of guilt.",
+  "path": "results/runs/lcm_2step/000000283412_s0.png",
+  "sha256": "f5523f9c652c76e407d3633906f18f2edcd4512a5c9bc9cd8322cb9bec3466c1",
+  "latency_s": 1.4450732749974122,
+  "peak_allocated_mib": 9947.5927734375,
+  "peak_reserved_mib": 12650.0
+}

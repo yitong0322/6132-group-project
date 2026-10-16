@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_dense",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "f25fcf61e38298c2c82909b445848fd59f39f4565e113adeded45d7fab51ac96",
+  "image_id": 131386,
+  "seed_index": 0,
+  "seed": 2288772,
+  "prompt": "A group of airplanes in the sky in formation. ",
+  "path": "results/runs/controlnet_dense/000000131386_s0.png",
+  "sha256": "841a00316290afaa91c451df3ec0d51f71429f7143fde1904fd81af3ce698488",
+  "latency_s": 2.7340052539948374,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

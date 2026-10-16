@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase50",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "896b5ee20f16dbe54a8a8a0f8cbb30f7dfda77457ef77ac9d5f01f8363335ce2",
+  "image_id": 381639,
+  "seed_index": 0,
+  "seed": 2789278,
+  "prompt": "A little girl walking along a row of orange cones.",
+  "path": "results/runs/adapter_erase50/000000381639_s0.png",
+  "sha256": "a39d209621e3e895120a3f981172eeb19259c07182f59a3b4d8dc0161dc3768e",
+  "latency_s": 1.9892221570044057,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

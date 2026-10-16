@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_clean",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "clean",
+    "strength": 1.5
+  },
+  "config_hash": "9ba657d5c560196238df271ac941213dbe52470be0b52f57afa1fe86ef55ed19",
+  "image_id": 473821,
+  "seed_index": 1,
+  "seed": 2973643,
+  "prompt": "A red couch next to a brown chair in a living room.",
+  "path": "results/runs/adapter_clean/000000473821_s1.png",
+  "sha256": "4d723bc6f0e761c9dc46d90714b0586e735718dd460273b8c20a1d8dd1cad15e",
+  "latency_s": 1.991794134999509,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

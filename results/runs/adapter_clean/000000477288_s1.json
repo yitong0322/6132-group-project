@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_clean",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "clean",
+    "strength": 1.5
+  },
+  "config_hash": "9ba657d5c560196238df271ac941213dbe52470be0b52f57afa1fe86ef55ed19",
+  "image_id": 477288,
+  "seed_index": 1,
+  "seed": 2980577,
+  "prompt": "Several men in costume gather together under their umbrellas.",
+  "path": "results/runs/adapter_clean/000000477288_s1.png",
+  "sha256": "bf5ec42dad03228629a7875c00474981cd9072b0613c29143abdf22e0faec825",
+  "latency_s": 1.9897385859949281,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

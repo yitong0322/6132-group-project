@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_clean",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "clean",
+    "strength": 1.5
+  },
+  "config_hash": "66b43ec0d0e6b23b0522fd655cf1655236bdd2a53d75e7fff42de6022e9c484b",
+  "image_id": 434204,
+  "seed_index": 0,
+  "seed": 2894408,
+  "prompt": "A man riding on a skateboard on the sidewalk.",
+  "path": "results/runs/controlnet_clean/000000434204_s0.png",
+  "sha256": "884416c3e4c0612f16a979741b6a23b51005aaf57c809639c0df6b415d4646f4",
+  "latency_s": 2.73913266499585,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

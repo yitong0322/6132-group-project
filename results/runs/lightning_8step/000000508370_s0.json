@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_8step",
+    "method": "lightning",
+    "steps": 8,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "711af09a6d55e6cffce394b70a1f925c5621329067c780a2ae6a492787f97d3f",
+  "image_id": 508370,
+  "seed_index": 0,
+  "seed": 3042740,
+  "prompt": "A bicycle parked on top of a baby dolls head.",
+  "path": "results/runs/lightning_8step/000000508370_s0.png",
+  "sha256": "9a3557c935284aeb8c0fde56638b473be00539bf7da1773d198c83ae5caa8a28",
+  "latency_s": 2.596462032001,
+  "peak_allocated_mib": 9950.5458984375,
+  "peak_reserved_mib": 12632.0
+}

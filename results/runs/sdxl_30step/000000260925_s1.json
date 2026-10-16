@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "sdxl_30step",
+    "method": "sdxl",
+    "steps": 30,
+    "resolution": 1024,
+    "guidance": 5.0,
+    "condition": "none"
+  },
+  "config_hash": "7f2ff1a362b25ed9a421756a7624dd1129e6797ecf34a7ec1fc39f2ba5c3a6df",
+  "image_id": 260925,
+  "seed_index": 1,
+  "seed": 2547851,
+  "prompt": "A cat sitting on the hood of a car.",
+  "path": "results/runs/sdxl_30step/000000260925_s1.png",
+  "sha256": "f35179f63b3b9cb0d054cd4bab73175c6d482adc527cde3e5065557f18d7af61",
+  "latency_s": 11.76461351699254,
+  "peak_allocated_mib": 9946.52978515625,
+  "peak_reserved_mib": 12896.0
+}

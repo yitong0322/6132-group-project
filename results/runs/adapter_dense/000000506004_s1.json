@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_dense",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "114bbb8b7de882aa24fc41d9ba598b03037e7e4fd05b317cde3dc9b41adcdaad",
+  "image_id": 506004,
+  "seed_index": 1,
+  "seed": 3038009,
+  "prompt": "The ferris wheel is located in the middle of the water.",
+  "path": "results/runs/adapter_dense/000000506004_s1.png",
+  "sha256": "fe1ad3bb4bab299a1b93511f5d651f1887a7f99c5e2216d081c2bb34c353fb18",
+  "latency_s": 1.9882687799981795,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

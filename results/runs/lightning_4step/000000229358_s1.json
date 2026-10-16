@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_4step",
+    "method": "lightning",
+    "steps": 4,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "16ac80513f831abd97c3f2a5ff13092269bfbb5f3406b2a8d454fc9d71c49fcd",
+  "image_id": 229358,
+  "seed_index": 1,
+  "seed": 2484717,
+  "prompt": "A man standing in front of a mirror in a room.",
+  "path": "results/runs/lightning_4step/000000229358_s1.png",
+  "sha256": "5fa2712a145e6bc13d01186b5b948c646039ddc197a43cd654704db2feab9918",
+  "latency_s": 1.8293563459883444,
+  "peak_allocated_mib": 9948.5458984375,
+  "peak_reserved_mib": 12632.0
+}

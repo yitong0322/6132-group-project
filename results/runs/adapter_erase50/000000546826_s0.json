@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase50",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "896b5ee20f16dbe54a8a8a0f8cbb30f7dfda77457ef77ac9d5f01f8363335ce2",
+  "image_id": 546826,
+  "seed_index": 0,
+  "seed": 3119652,
+  "prompt": "A pink and green marker, next to another object. ",
+  "path": "results/runs/adapter_erase50/000000546826_s0.png",
+  "sha256": "5d5877dc6e2f07712fac382869b00e6a3e64a76bad042dc65dc4ad8d24392a37",
+  "latency_s": 1.9880849879991729,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

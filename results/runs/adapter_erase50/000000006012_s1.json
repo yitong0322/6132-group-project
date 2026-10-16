@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase50",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "896b5ee20f16dbe54a8a8a0f8cbb30f7dfda77457ef77ac9d5f01f8363335ce2",
+  "image_id": 6012,
+  "seed_index": 1,
+  "seed": 2038025,
+  "prompt": "There are bananas around another piece of fruit. ",
+  "path": "results/runs/adapter_erase50/000000006012_s1.png",
+  "sha256": "9d10617b0158dd9bc766982937138e670c3f28cde3295b6b5e9ae2a7e5e8c116",
+  "latency_s": 1.9890401790034957,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_sparse",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "88986ea6e18a64cdcc4d2f2c7c574e63ac06733272a42dfa6d44b4ea528ac428",
+  "image_id": 38210,
+  "seed_index": 0,
+  "seed": 2102420,
+  "prompt": "a skier is prepared to go down a mountain.",
+  "path": "results/runs/controlnet_sparse/000000038210_s0.png",
+  "sha256": "e45503697850df234231662cb53a015a9077d49813e8c41cd3504fd6ceced15a",
+  "latency_s": 2.738555326999631,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_2step",
+    "method": "lcm",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "662eb0b62259031ebfd05061cc22cf9622a52f075eeb20943184e3e52cfbc947",
+  "image_id": 396903,
+  "seed_index": 1,
+  "seed": 2819807,
+  "prompt": "Small red propeller airplane sitting on an airport runway. ",
+  "path": "results/runs/lcm_2step/000000396903_s1.png",
+  "sha256": "0a64e30d805224483d2ef212fac63aac6ea1d8a1550100d8ae4112bfe7e4bb0a",
+  "latency_s": 1.4479162389907287,
+  "peak_allocated_mib": 9948.0927734375,
+  "peak_reserved_mib": 12650.0
+}

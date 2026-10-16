@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase50",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "896b5ee20f16dbe54a8a8a0f8cbb30f7dfda77457ef77ac9d5f01f8363335ce2",
+  "image_id": 213816,
+  "seed_index": 1,
+  "seed": 2453633,
+  "prompt": "a close up of a public transit train with its doors open",
+  "path": "results/runs/adapter_erase50/000000213816_s1.png",
+  "sha256": "e0faf36f9e5f7a834e8421d3ed83585d0f2ae91462a22874a6c756659dafa6ee",
+  "latency_s": 1.9878474849974737,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

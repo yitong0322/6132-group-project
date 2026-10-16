@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_clean",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "clean",
+    "strength": 1.5
+  },
+  "config_hash": "9ba657d5c560196238df271ac941213dbe52470be0b52f57afa1fe86ef55ed19",
+  "image_id": 142324,
+  "seed_index": 0,
+  "seed": 2310648,
+  "prompt": "A person on a motor bike on a street.",
+  "path": "results/runs/adapter_clean/000000142324_s0.png",
+  "sha256": "b05a914b6cc2a25413833d218fbdd27dd11f1040adca337671c16c750b71ce68",
+  "latency_s": 1.9903598300006706,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

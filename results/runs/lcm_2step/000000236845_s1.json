@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_2step",
+    "method": "lcm",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "662eb0b62259031ebfd05061cc22cf9622a52f075eeb20943184e3e52cfbc947",
+  "image_id": 236845,
+  "seed_index": 1,
+  "seed": 2499691,
+  "prompt": "a red and white sign a car and some buildings",
+  "path": "results/runs/lcm_2step/000000236845_s1.png",
+  "sha256": "5ebae154d92018ca34106af9f2f7fbdb3d2f7dc42a864c4e6885cceeb35179a0",
+  "latency_s": 1.4483247410098556,
+  "peak_allocated_mib": 9947.8427734375,
+  "peak_reserved_mib": 12650.0
+}

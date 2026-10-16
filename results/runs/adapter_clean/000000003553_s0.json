@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_clean",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "clean",
+    "strength": 1.5
+  },
+  "config_hash": "9ba657d5c560196238df271ac941213dbe52470be0b52f57afa1fe86ef55ed19",
+  "image_id": 3553,
+  "seed_index": 0,
+  "seed": 2033106,
+  "prompt": "a person skating on some pieces of wood ",
+  "path": "results/runs/adapter_clean/000000003553_s0.png",
+  "sha256": "9ec0a2cfaeaa88622ade3259ee140ae9032e4558d45b0407c115aad0a331c69c",
+  "latency_s": 1.9904940580017865,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

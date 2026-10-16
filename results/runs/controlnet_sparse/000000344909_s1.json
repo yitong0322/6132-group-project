@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_sparse",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "88986ea6e18a64cdcc4d2f2c7c574e63ac06733272a42dfa6d44b4ea528ac428",
+  "image_id": 344909,
+  "seed_index": 1,
+  "seed": 2715819,
+  "prompt": "A red and gold painted fire hydrant on the street",
+  "path": "results/runs/controlnet_sparse/000000344909_s1.png",
+  "sha256": "c9d3d26bf0e6147585bd2a6cdcbced6656e4794e418878f8573db02f4948aadc",
+  "latency_s": 2.734677706990624,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

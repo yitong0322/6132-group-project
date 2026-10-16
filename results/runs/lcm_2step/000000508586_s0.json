@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_2step",
+    "method": "lcm",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "662eb0b62259031ebfd05061cc22cf9622a52f075eeb20943184e3e52cfbc947",
+  "image_id": 508586,
+  "seed_index": 0,
+  "seed": 3043172,
+  "prompt": "Herd of zebra grazing on dried grasses in open field.",
+  "path": "results/runs/lcm_2step/000000508586_s0.png",
+  "sha256": "f595f4f2ebe0b1dfb22bab2a62516ac67f4ff541c356e058ffdcf2744282cb16",
+  "latency_s": 1.4451380489917938,
+  "peak_allocated_mib": 9947.8427734375,
+  "peak_reserved_mib": 12650.0
+}

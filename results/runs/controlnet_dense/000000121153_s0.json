@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_dense",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "f25fcf61e38298c2c82909b445848fd59f39f4565e113adeded45d7fab51ac96",
+  "image_id": 121153,
+  "seed_index": 0,
+  "seed": 2268306,
+  "prompt": "A white road sign suspended over a highway.",
+  "path": "results/runs/controlnet_dense/000000121153_s0.png",
+  "sha256": "84e6b7661c6a16d2c3dd99c2bd28a343f44e14cf632b0348d18219075bff7fde",
+  "latency_s": 2.734796959994128,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

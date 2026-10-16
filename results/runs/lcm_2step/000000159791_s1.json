@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_2step",
+    "method": "lcm",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "662eb0b62259031ebfd05061cc22cf9622a52f075eeb20943184e3e52cfbc947",
+  "image_id": 159791,
+  "seed_index": 1,
+  "seed": 2345583,
+  "prompt": "A white refrigerator freezer covered in magnets and pictures.",
+  "path": "results/runs/lcm_2step/000000159791_s1.png",
+  "sha256": "f4f342866991e37e9e631c47a0ed37e2319dee9da75dfd7bf7bec80ffccaa244",
+  "latency_s": 1.445797576001496,
+  "peak_allocated_mib": 9948.8427734375,
+  "peak_reserved_mib": 12650.0
+}

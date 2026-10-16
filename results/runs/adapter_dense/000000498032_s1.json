@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_dense",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "114bbb8b7de882aa24fc41d9ba598b03037e7e4fd05b317cde3dc9b41adcdaad",
+  "image_id": 498032,
+  "seed_index": 1,
+  "seed": 3022065,
+  "prompt": "A person standing in a room with a remote.",
+  "path": "results/runs/adapter_dense/000000498032_s1.png",
+  "sha256": "eb418d387ce19966b5ecfe3b4c9779882774c56aa6022e095dd374ff655a475f",
+  "latency_s": 1.9883236700115958,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

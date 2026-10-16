@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_clean",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "clean",
+    "strength": 1.5
+  },
+  "config_hash": "66b43ec0d0e6b23b0522fd655cf1655236bdd2a53d75e7fff42de6022e9c484b",
+  "image_id": 423506,
+  "seed_index": 1,
+  "seed": 2873013,
+  "prompt": "Two men smiling and taking a picture together. ",
+  "path": "results/runs/controlnet_clean/000000423506_s1.png",
+  "sha256": "6e475975b59754c82c58fae380b58fd1f72c9462e015943f645a2e62125d67a0",
+  "latency_s": 2.739465733990073,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_2step",
+    "method": "lightning",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "c9f1d7562e2c721c6f9d933bd0ebaabec8feb143758b08fb930248cd7d3e3ae6",
+  "image_id": 555050,
+  "seed_index": 0,
+  "seed": 3136100,
+  "prompt": "A car driving in an intersection, past a furniture shop. ",
+  "path": "results/runs/lightning_2step/000000555050_s0.png",
+  "sha256": "13f868a256b74a5f4aadfa5f765d9d790cd2099269a41410a9d375d854b6cfad",
+  "latency_s": 1.447286091002752,
+  "peak_allocated_mib": 9949.5458984375,
+  "peak_reserved_mib": 12632.0
+}

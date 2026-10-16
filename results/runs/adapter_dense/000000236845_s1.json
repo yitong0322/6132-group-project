@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_dense",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "114bbb8b7de882aa24fc41d9ba598b03037e7e4fd05b317cde3dc9b41adcdaad",
+  "image_id": 236845,
+  "seed_index": 1,
+  "seed": 2499691,
+  "prompt": "a red and white sign a car and some buildings",
+  "path": "results/runs/adapter_dense/000000236845_s1.png",
+  "sha256": "b2d0d1b8452a186076c21b3a230f18d36499c2b81672b38f85787c120e891f80",
+  "latency_s": 1.9880665919918101,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

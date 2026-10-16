@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_4step",
+    "method": "lcm",
+    "steps": 4,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "9ec22cf595f8b833bea186b1ab867b1ae0fab3debca422e4ad0a7028793290a0",
+  "image_id": 25986,
+  "seed_index": 1,
+  "seed": 2077973,
+  "prompt": "A bunch of items that are on a counter.",
+  "path": "results/runs/lcm_4step/000000025986_s1.png",
+  "sha256": "5aa3fe3f6479e1edec81712396f7f8717a158b6ceca541715585ebdd63da112c",
+  "latency_s": 1.8372120080020977,
+  "peak_allocated_mib": 9946.5927734375,
+  "peak_reserved_mib": 12650.0
+}

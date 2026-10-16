@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_sparse",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "e591437800140077d0a3adb6b23eea9fd6dac35575bed9dfa31bd71572efb58f",
+  "image_id": 416885,
+  "seed_index": 1,
+  "seed": 2859771,
+  "prompt": "Three pastry desserts and two glasses of wine are on a table. ",
+  "path": "results/runs/adapter_sparse/000000416885_s1.png",
+  "sha256": "629e00285032815b0d8bb18deec63dd69ad3ab5201eb0f673434b1b9513ea68d",
+  "latency_s": 1.9892539240099723,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

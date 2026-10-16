@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "images_verified": 3600,
+  "configurations": 18,
+  "unique_originals": 120,
+  "manifest_sha256": "c80448b54398c85edfba31eefbae477f0cb7380bc5d79e18e7cdcf0e4b49eab9",
+  "scope": "File integrity, coverage, finite metrics and protocol identities; not a full regeneration replication"
+}

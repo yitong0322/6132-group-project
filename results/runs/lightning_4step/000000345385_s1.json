@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_4step",
+    "method": "lightning",
+    "steps": 4,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "16ac80513f831abd97c3f2a5ff13092269bfbb5f3406b2a8d454fc9d71c49fcd",
+  "image_id": 345385,
+  "seed_index": 1,
+  "seed": 2716771,
+  "prompt": "Young couple happily snuggling on their bed together",
+  "path": "results/runs/lightning_4step/000000345385_s1.png",
+  "sha256": "c826a60757454e5b909ea95f2c071b32b162475ce73c512907ea496cd447f8fc",
+  "latency_s": 1.8253412449994357,
+  "peak_allocated_mib": 9949.0458984375,
+  "peak_reserved_mib": 12632.0
+}

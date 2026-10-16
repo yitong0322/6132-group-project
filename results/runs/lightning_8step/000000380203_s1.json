@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_8step",
+    "method": "lightning",
+    "steps": 8,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "711af09a6d55e6cffce394b70a1f925c5621329067c780a2ae6a492787f97d3f",
+  "image_id": 380203,
+  "seed_index": 1,
+  "seed": 2786407,
+  "prompt": "A white horse is out eating in a field",
+  "path": "results/runs/lightning_8step/000000380203_s1.png",
+  "sha256": "bebca485e33809b32952f2a8eb83ca1f3bb868d9fdfa2bb5970c8f417e1d2e69",
+  "latency_s": 2.587439416995039,
+  "peak_allocated_mib": 9949.0458984375,
+  "peak_reserved_mib": 12632.0
+}

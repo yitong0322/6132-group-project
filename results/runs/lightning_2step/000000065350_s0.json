@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_2step",
+    "method": "lightning",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "c9f1d7562e2c721c6f9d933bd0ebaabec8feb143758b08fb930248cd7d3e3ae6",
+  "image_id": 65350,
+  "seed_index": 0,
+  "seed": 2156700,
+  "prompt": "Kids are skateboarding at a skate park and one them has fallen down.",
+  "path": "results/runs/lightning_2step/000000065350_s0.png",
+  "sha256": "dd05de7fed408854d9851e86726ec4360579147da7c7097fd1ad9eca6ca07108",
+  "latency_s": 1.444071777004865,
+  "peak_allocated_mib": 9949.5458984375,
+  "peak_reserved_mib": 12632.0
+}

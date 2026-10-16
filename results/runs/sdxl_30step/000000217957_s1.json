@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "sdxl_30step",
+    "method": "sdxl",
+    "steps": 30,
+    "resolution": 1024,
+    "guidance": 5.0,
+    "condition": "none"
+  },
+  "config_hash": "7f2ff1a362b25ed9a421756a7624dd1129e6797ecf34a7ec1fc39f2ba5c3a6df",
+  "image_id": 217957,
+  "seed_index": 1,
+  "seed": 2461915,
+  "prompt": "A clock is shown with gold detailing around it.",
+  "path": "results/runs/sdxl_30step/000000217957_s1.png",
+  "sha256": "c1661dc1982aa7d434acb184a8a315097f0e3a83a612d49048d7629827f790a7",
+  "latency_s": 11.76672355500341,
+  "peak_allocated_mib": 9946.52978515625,
+  "peak_reserved_mib": 12896.0
+}

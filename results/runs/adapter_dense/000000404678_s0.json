@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_dense",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "114bbb8b7de882aa24fc41d9ba598b03037e7e4fd05b317cde3dc9b41adcdaad",
+  "image_id": 404678,
+  "seed_index": 0,
+  "seed": 2835356,
+  "prompt": "A family sitting down at a table for a meal.",
+  "path": "results/runs/adapter_dense/000000404678_s0.png",
+  "sha256": "1127f572a9f869c913bcaae3192ed72878e5dc4ba27bcfc62e925bedfdf9bb0c",
+  "latency_s": 1.98817691700242,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

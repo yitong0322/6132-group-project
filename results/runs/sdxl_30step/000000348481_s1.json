@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "sdxl_30step",
+    "method": "sdxl",
+    "steps": 30,
+    "resolution": 1024,
+    "guidance": 5.0,
+    "condition": "none"
+  },
+  "config_hash": "7f2ff1a362b25ed9a421756a7624dd1129e6797ecf34a7ec1fc39f2ba5c3a6df",
+  "image_id": 348481,
+  "seed_index": 1,
+  "seed": 2722963,
+  "prompt": "A desk with various items that include cellphone, mouse and pocket change.",
+  "path": "results/runs/sdxl_30step/000000348481_s1.png",
+  "sha256": "fc9a701b997355d38a65ac154b68226e13aa9d59cae5290eeadd00ae736e9f89",
+  "latency_s": 11.766924632989685,
+  "peak_allocated_mib": 9946.52978515625,
+  "peak_reserved_mib": 12896.0
+}

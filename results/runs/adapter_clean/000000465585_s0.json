@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_clean",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "clean",
+    "strength": 1.5
+  },
+  "config_hash": "9ba657d5c560196238df271ac941213dbe52470be0b52f57afa1fe86ef55ed19",
+  "image_id": 465585,
+  "seed_index": 0,
+  "seed": 2957170,
+  "prompt": "An aluminum pan full of chopped broccoli and carrots.",
+  "path": "results/runs/adapter_clean/000000465585_s0.png",
+  "sha256": "2e097db51f073329afe515e89a94e2fe24760788a7853e337b0bead5db766863",
+  "latency_s": 1.9933324259909568,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

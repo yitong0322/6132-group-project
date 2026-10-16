@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_4step",
+    "method": "lightning",
+    "steps": 4,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "16ac80513f831abd97c3f2a5ff13092269bfbb5f3406b2a8d454fc9d71c49fcd",
+  "image_id": 546826,
+  "seed_index": 1,
+  "seed": 3119653,
+  "prompt": "A pink and green marker, next to another object. ",
+  "path": "results/runs/lightning_4step/000000546826_s1.png",
+  "sha256": "93a46196e238971588bae6c6b18052ba670f30c32a8e4d95274679ff15811397",
+  "latency_s": 1.828343490997213,
+  "peak_allocated_mib": 9948.7958984375,
+  "peak_reserved_mib": 12632.0
+}

@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_2step",
+    "method": "lightning",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "c9f1d7562e2c721c6f9d933bd0ebaabec8feb143758b08fb930248cd7d3e3ae6",
+  "image_id": 131386,
+  "seed_index": 0,
+  "seed": 2288772,
+  "prompt": "A group of airplanes in the sky in formation. ",
+  "path": "results/runs/lightning_2step/000000131386_s0.png",
+  "sha256": "62be3c8daa94a797b3acc772ffdda5e61866a1d61f7f7852a2d1837a34752e0e",
+  "latency_s": 1.4460093739908189,
+  "peak_allocated_mib": 9949.0458984375,
+  "peak_reserved_mib": 12632.0
+}

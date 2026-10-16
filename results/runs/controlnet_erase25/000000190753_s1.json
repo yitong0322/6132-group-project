@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_erase25",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase25",
+    "strength": 1.5
+  },
+  "config_hash": "8fb8a2754192714bc32db360b571eff94829570c7be658ef8572cbbfe9dfb389",
+  "image_id": 190753,
+  "seed_index": 1,
+  "seed": 2407507,
+  "prompt": "There is a group of four men sitting on park benches.",
+  "path": "results/runs/controlnet_erase25/000000190753_s1.png",
+  "sha256": "471534098ed132bebee2969f5d6e372136c0ec183c485f18f3f364d8b340e617",
+  "latency_s": 2.7427089080010774,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

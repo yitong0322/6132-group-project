@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_clean",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "clean",
+    "strength": 1.5
+  },
+  "config_hash": "9ba657d5c560196238df271ac941213dbe52470be0b52f57afa1fe86ef55ed19",
+  "image_id": 375015,
+  "seed_index": 1,
+  "seed": 2776031,
+  "prompt": "A baby brown bear standing on top of a rock.",
+  "path": "results/runs/adapter_clean/000000375015_s1.png",
+  "sha256": "a9937591dfe2508e458ec9f71060b64c83805f366b9bf00d013dc52f1a5dc837",
+  "latency_s": 1.991779090007185,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

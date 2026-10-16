@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_sparse",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "88986ea6e18a64cdcc4d2f2c7c574e63ac06733272a42dfa6d44b4ea528ac428",
+  "image_id": 473821,
+  "seed_index": 0,
+  "seed": 2973642,
+  "prompt": "A red couch next to a brown chair in a living room.",
+  "path": "results/runs/controlnet_sparse/000000473821_s0.png",
+  "sha256": "99278f1a40554ee15c947283ebe78b5b4b734474062b40f2fb6ca99da7c1b187",
+  "latency_s": 2.735054892997141,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

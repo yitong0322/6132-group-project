@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_dense",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "f25fcf61e38298c2c82909b445848fd59f39f4565e113adeded45d7fab51ac96",
+  "image_id": 439854,
+  "seed_index": 0,
+  "seed": 2905708,
+  "prompt": "A man riding a skateboard along a sandy beach.",
+  "path": "results/runs/controlnet_dense/000000439854_s0.png",
+  "sha256": "b73b304babe192760ed2b2143beb9415c39809c503c11655824788d91980fdd5",
+  "latency_s": 2.733131118991878,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

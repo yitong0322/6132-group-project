@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_erase25",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase25",
+    "strength": 1.5
+  },
+  "config_hash": "8fb8a2754192714bc32db360b571eff94829570c7be658ef8572cbbfe9dfb389",
+  "image_id": 25986,
+  "seed_index": 0,
+  "seed": 2077972,
+  "prompt": "A bunch of items that are on a counter.",
+  "path": "results/runs/controlnet_erase25/000000025986_s0.png",
+  "sha256": "af4ade0e9ed6576284ae7e82311904b9560d8e5c66beb3a82e69110b246d52ef",
+  "latency_s": 2.739780806005001,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

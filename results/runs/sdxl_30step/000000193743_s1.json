@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "sdxl_30step",
+    "method": "sdxl",
+    "steps": 30,
+    "resolution": 1024,
+    "guidance": 5.0,
+    "condition": "none"
+  },
+  "config_hash": "7f2ff1a362b25ed9a421756a7624dd1129e6797ecf34a7ec1fc39f2ba5c3a6df",
+  "image_id": 193743,
+  "seed_index": 1,
+  "seed": 2413487,
+  "prompt": "A man standing on a tennis court waves to someone. ",
+  "path": "results/runs/sdxl_30step/000000193743_s1.png",
+  "sha256": "f41555a4a58bd401b0a822e0f909825542ddd8725528768bb97d494d967f12d2",
+  "latency_s": 11.765925834988593,
+  "peak_allocated_mib": 9946.52978515625,
+  "peak_reserved_mib": 12896.0
+}

@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_2step",
+    "method": "lightning",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "c9f1d7562e2c721c6f9d933bd0ebaabec8feb143758b08fb930248cd7d3e3ae6",
+  "image_id": 3553,
+  "seed_index": 1,
+  "seed": 2033107,
+  "prompt": "a person skating on some pieces of wood ",
+  "path": "results/runs/lightning_2step/000000003553_s1.png",
+  "sha256": "3cad8b044fdedb38ae9cf30b540982dd1f944297ec9850a4e93fca48bfa21a7c",
+  "latency_s": 1.4452640710078413,
+  "peak_allocated_mib": 9949.5458984375,
+  "peak_reserved_mib": 12632.0
+}

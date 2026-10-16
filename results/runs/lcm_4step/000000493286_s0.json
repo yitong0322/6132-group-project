@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_4step",
+    "method": "lcm",
+    "steps": 4,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "9ec22cf595f8b833bea186b1ab867b1ae0fab3debca422e4ad0a7028793290a0",
+  "image_id": 493286,
+  "seed_index": 0,
+  "seed": 3012572,
+  "prompt": "an old car in front of an old air plane",
+  "path": "results/runs/lcm_4step/000000493286_s0.png",
+  "sha256": "f51c5d63b067b0094aa98827284421bdc49324a4f9daac762963d08b188f974a",
+  "latency_s": 1.8371240989945363,
+  "peak_allocated_mib": 9946.5927734375,
+  "peak_reserved_mib": 12650.0
+}

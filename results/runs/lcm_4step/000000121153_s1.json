@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_4step",
+    "method": "lcm",
+    "steps": 4,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "9ec22cf595f8b833bea186b1ab867b1ae0fab3debca422e4ad0a7028793290a0",
+  "image_id": 121153,
+  "seed_index": 1,
+  "seed": 2268307,
+  "prompt": "A white road sign suspended over a highway.",
+  "path": "results/runs/lcm_4step/000000121153_s1.png",
+  "sha256": "bd4b24e2c9b5fd6744bcadfffda2fedb7305820b48593e807bd34e478a984f0c",
+  "latency_s": 1.8376603790093213,
+  "peak_allocated_mib": 9947.3427734375,
+  "peak_reserved_mib": 12650.0
+}

@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_2step",
+    "method": "lightning",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "c9f1d7562e2c721c6f9d933bd0ebaabec8feb143758b08fb930248cd7d3e3ae6",
+  "image_id": 2149,
+  "seed_index": 1,
+  "seed": 2030299,
+  "prompt": "A large white bowl of many green apples. ",
+  "path": "results/runs/lightning_2step/000000002149_s1.png",
+  "sha256": "e6584a313aa5cf1ca6c454e4a1a6120007de858d1479a7a3565260ddd4a0579a",
+  "latency_s": 1.4450679010042222,
+  "peak_allocated_mib": 9948.0458984375,
+  "peak_reserved_mib": 12632.0
+}

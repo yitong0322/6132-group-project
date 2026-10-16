@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_sparse",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "e591437800140077d0a3adb6b23eea9fd6dac35575bed9dfa31bd71572efb58f",
+  "image_id": 555050,
+  "seed_index": 0,
+  "seed": 3136100,
+  "prompt": "A car driving in an intersection, past a furniture shop. ",
+  "path": "results/runs/adapter_sparse/000000555050_s0.png",
+  "sha256": "408124bda304e94622aeeefc708609583291fdc9f977b257818fdff806b1bc38",
+  "latency_s": 1.988928291000775,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase50",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "896b5ee20f16dbe54a8a8a0f8cbb30f7dfda77457ef77ac9d5f01f8363335ce2",
+  "image_id": 217957,
+  "seed_index": 1,
+  "seed": 2461915,
+  "prompt": "A clock is shown with gold detailing around it.",
+  "path": "results/runs/adapter_erase50/000000217957_s1.png",
+  "sha256": "7b4610f53b6fb1c2c5023ee5e7c3f59125c4707be1ed5eb9dd5c09629ee2f43e",
+  "latency_s": 1.9892591730022104,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

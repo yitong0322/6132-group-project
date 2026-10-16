@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_clean",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "clean",
+    "strength": 1.5
+  },
+  "config_hash": "66b43ec0d0e6b23b0522fd655cf1655236bdd2a53d75e7fff42de6022e9c484b",
+  "image_id": 142324,
+  "seed_index": 0,
+  "seed": 2310648,
+  "prompt": "A person on a motor bike on a street.",
+  "path": "results/runs/controlnet_clean/000000142324_s0.png",
+  "sha256": "d4e53c31055abe8824e321256c2534dbbed3753cdda3350fe6f55ee0e0f8b3b6",
+  "latency_s": 2.7432623179920483,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

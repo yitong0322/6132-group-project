@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_8step",
+    "method": "lightning",
+    "steps": 8,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "711af09a6d55e6cffce394b70a1f925c5621329067c780a2ae6a492787f97d3f",
+  "image_id": 146831,
+  "seed_index": 1,
+  "seed": 2319663,
+  "prompt": "A person is riding a skateboard on a curved ramp.",
+  "path": "results/runs/lightning_8step/000000146831_s1.png",
+  "sha256": "bc5674e1340363f3157864a39d9e348edc65fe685b05b7a3fea47ad558fd1abc",
+  "latency_s": 2.587985098012723,
+  "peak_allocated_mib": 9949.0458984375,
+  "peak_reserved_mib": 12632.0
+}

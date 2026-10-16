@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase50",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "896b5ee20f16dbe54a8a8a0f8cbb30f7dfda77457ef77ac9d5f01f8363335ce2",
+  "image_id": 119088,
+  "seed_index": 1,
+  "seed": 2264177,
+  "prompt": "The men are up to their knees in the water.",
+  "path": "results/runs/adapter_erase50/000000119088_s1.png",
+  "sha256": "8735dc728b5c82c5960784042c02c9c5718f5e4c8b40381f09978a8b95c5b395",
+  "latency_s": 1.9886264009983279,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

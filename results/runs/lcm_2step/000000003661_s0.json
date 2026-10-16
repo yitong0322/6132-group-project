@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_2step",
+    "method": "lcm",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "662eb0b62259031ebfd05061cc22cf9622a52f075eeb20943184e3e52cfbc947",
+  "image_id": 3661,
+  "seed_index": 0,
+  "seed": 2033322,
+  "prompt": "A bunch of bananas sitting on top of a wooden table.",
+  "path": "results/runs/lcm_2step/000000003661_s0.png",
+  "sha256": "f78a1e7bc761b530cb41087871f6dca85ba55c734027c4f39d3f5a5d4d141317",
+  "latency_s": 1.4489183810073882,
+  "peak_allocated_mib": 9948.8427734375,
+  "peak_reserved_mib": 12650.0
+}

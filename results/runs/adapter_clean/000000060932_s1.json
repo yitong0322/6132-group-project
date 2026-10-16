@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_clean",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "clean",
+    "strength": 1.5
+  },
+  "config_hash": "9ba657d5c560196238df271ac941213dbe52470be0b52f57afa1fe86ef55ed19",
+  "image_id": 60932,
+  "seed_index": 1,
+  "seed": 2147865,
+  "prompt": "A group of people standing in a room.",
+  "path": "results/runs/adapter_clean/000000060932_s1.png",
+  "sha256": "4d72f2cd0901d73d57026c50437b6d85a0f9c0a9ec20b43575c5fb68f497b50f",
+  "latency_s": 1.9919247439975152,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

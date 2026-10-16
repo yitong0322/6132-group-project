@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase25",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase25",
+    "strength": 1.5
+  },
+  "config_hash": "80d457176300f341e45e2f76b044a50c847f1e3c3c84309a1df5ae1d17c970c5",
+  "image_id": 383921,
+  "seed_index": 0,
+  "seed": 2793842,
+  "prompt": "A herd of elephants walking across a body of water.",
+  "path": "results/runs/adapter_erase25/000000383921_s0.png",
+  "sha256": "a77eef64a3e091bf16c3af747721773902cd10dd92b873e21770f8e07d1f7d69",
+  "latency_s": 1.9890313369978685,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

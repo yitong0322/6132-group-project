@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_2step",
+    "method": "lightning",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "c9f1d7562e2c721c6f9d933bd0ebaabec8feb143758b08fb930248cd7d3e3ae6",
+  "image_id": 172856,
+  "seed_index": 1,
+  "seed": 2371713,
+  "prompt": "a stop sign and two brown and white street signs ",
+  "path": "results/runs/lightning_2step/000000172856_s1.png",
+  "sha256": "36d5f42689825fe9ec498421b15a4132e4b4cdb7fc54dc52b98a00a12c1bc6ca",
+  "latency_s": 1.446466440000222,
+  "peak_allocated_mib": 9950.0458984375,
+  "peak_reserved_mib": 12632.0
+}

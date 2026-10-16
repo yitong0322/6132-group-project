@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_erase25",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase25",
+    "strength": 1.5
+  },
+  "config_hash": "8fb8a2754192714bc32db360b571eff94829570c7be658ef8572cbbfe9dfb389",
+  "image_id": 498286,
+  "seed_index": 0,
+  "seed": 3022572,
+  "prompt": "a vety cute furry dog posing near a big sign.",
+  "path": "results/runs/controlnet_erase25/000000498286_s0.png",
+  "sha256": "8e956147c7e5f1b331f609829e0c929ba28b395a9f0fc0d54ef797f8401ebda7",
+  "latency_s": 2.738248965004459,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

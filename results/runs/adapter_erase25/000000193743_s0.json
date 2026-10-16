@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase25",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase25",
+    "strength": 1.5
+  },
+  "config_hash": "80d457176300f341e45e2f76b044a50c847f1e3c3c84309a1df5ae1d17c970c5",
+  "image_id": 193743,
+  "seed_index": 0,
+  "seed": 2413486,
+  "prompt": "A man standing on a tennis court waves to someone. ",
+  "path": "results/runs/adapter_erase25/000000193743_s0.png",
+  "sha256": "5d4b50946de50f653a228882a17c5cfbd47dd56c716977ae731cce8e0a5701af",
+  "latency_s": 1.9891169410111615,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

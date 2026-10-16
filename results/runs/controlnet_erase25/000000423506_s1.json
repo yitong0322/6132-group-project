@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_erase25",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase25",
+    "strength": 1.5
+  },
+  "config_hash": "8fb8a2754192714bc32db360b571eff94829570c7be658ef8572cbbfe9dfb389",
+  "image_id": 423506,
+  "seed_index": 1,
+  "seed": 2873013,
+  "prompt": "Two men smiling and taking a picture together. ",
+  "path": "results/runs/controlnet_erase25/000000423506_s1.png",
+  "sha256": "1f5084f32f360a274c64eda94b5b4cee0c9c3af9c5b66328411f82ab9ccbd4f0",
+  "latency_s": 2.73855036200257,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

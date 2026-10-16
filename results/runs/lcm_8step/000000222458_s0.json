@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_8step",
+    "method": "lcm",
+    "steps": 8,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "feddce4cdbe9647508117b127ff6e71f47b840f02764b4ba859667a4e90c6edf",
+  "image_id": 222458,
+  "seed_index": 0,
+  "seed": 2470916,
+  "prompt": "A woman in a coat walks along a snow covered sidewalk. ",
+  "path": "results/runs/lcm_8step/000000222458_s0.png",
+  "sha256": "68f39bc79d8e596c6119d4315c7574eb08da2333d6fef39e35a2e8f57c209143",
+  "latency_s": 2.60176518499793,
+  "peak_allocated_mib": 9946.7177734375,
+  "peak_reserved_mib": 12650.0
+}

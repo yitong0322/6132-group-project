@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_sparse",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "e591437800140077d0a3adb6b23eea9fd6dac35575bed9dfa31bd71572efb58f",
+  "image_id": 217957,
+  "seed_index": 1,
+  "seed": 2461915,
+  "prompt": "A clock is shown with gold detailing around it.",
+  "path": "results/runs/adapter_sparse/000000217957_s1.png",
+  "sha256": "fef414a470f3126df8b65361ad83e9d381d3f5b3a04bbf795b3943abb26e8fbf",
+  "latency_s": 1.9887703349959338,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

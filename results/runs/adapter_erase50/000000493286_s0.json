@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase50",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "896b5ee20f16dbe54a8a8a0f8cbb30f7dfda77457ef77ac9d5f01f8363335ce2",
+  "image_id": 493286,
+  "seed_index": 0,
+  "seed": 3012572,
+  "prompt": "an old car in front of an old air plane",
+  "path": "results/runs/adapter_erase50/000000493286_s0.png",
+  "sha256": "5c3c0e76ac8b331455a0ae48326c70b721965ccf51d0e4270a65eb649f94f95a",
+  "latency_s": 1.988876054994762,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

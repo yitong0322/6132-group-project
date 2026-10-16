@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_2step",
+    "method": "lightning",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "c9f1d7562e2c721c6f9d933bd0ebaabec8feb143758b08fb930248cd7d3e3ae6",
+  "image_id": 57760,
+  "seed_index": 1,
+  "seed": 2141521,
+  "prompt": "many people on a beach with a kite flying in the sky",
+  "path": "results/runs/lightning_2step/000000057760_s1.png",
+  "sha256": "5fcc250ce9c2e50143181bcb85352696f21cd21f60cfb3b33bf19bca2c81087f",
+  "latency_s": 1.4456055420014309,
+  "peak_allocated_mib": 9950.0458984375,
+  "peak_reserved_mib": 12632.0
+}

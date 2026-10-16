@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_4step",
+    "method": "lcm",
+    "steps": 4,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "9ec22cf595f8b833bea186b1ab867b1ae0fab3debca422e4ad0a7028793290a0",
+  "image_id": 423506,
+  "seed_index": 1,
+  "seed": 2873013,
+  "prompt": "Two men smiling and taking a picture together. ",
+  "path": "results/runs/lcm_4step/000000423506_s1.png",
+  "sha256": "78eb8781111ea46588b72f651ceea3539ad509243c052a0c460527e9b97750a9",
+  "latency_s": 1.8333822980057448,
+  "peak_allocated_mib": 9948.0927734375,
+  "peak_reserved_mib": 12650.0
+}

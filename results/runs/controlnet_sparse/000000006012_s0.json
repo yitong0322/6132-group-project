@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_sparse",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "88986ea6e18a64cdcc4d2f2c7c574e63ac06733272a42dfa6d44b4ea528ac428",
+  "image_id": 6012,
+  "seed_index": 0,
+  "seed": 2038024,
+  "prompt": "There are bananas around another piece of fruit. ",
+  "path": "results/runs/controlnet_sparse/000000006012_s0.png",
+  "sha256": "26672d90c49f6a1497cfbeb4ce61c375c4000e740a874ee69eac2c7f3620321c",
+  "latency_s": 2.739800709008705,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

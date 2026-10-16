@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_8step",
+    "method": "lcm",
+    "steps": 8,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "feddce4cdbe9647508117b127ff6e71f47b840f02764b4ba859667a4e90c6edf",
+  "image_id": 408830,
+  "seed_index": 1,
+  "seed": 2843661,
+  "prompt": "a colorful motorcycle sitting next to a fence ",
+  "path": "results/runs/lcm_8step/000000408830_s1.png",
+  "sha256": "750ddf37554a6d234ccc423bcfc2470da0375817ade6a35d6870dfecfb53b979",
+  "latency_s": 2.5999746120069176,
+  "peak_allocated_mib": 9948.0927734375,
+  "peak_reserved_mib": 12650.0
+}

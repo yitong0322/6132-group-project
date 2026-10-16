@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_dense",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "f25fcf61e38298c2c82909b445848fd59f39f4565e113adeded45d7fab51ac96",
+  "image_id": 555050,
+  "seed_index": 1,
+  "seed": 3136101,
+  "prompt": "A car driving in an intersection, past a furniture shop. ",
+  "path": "results/runs/controlnet_dense/000000555050_s1.png",
+  "sha256": "d0873314df6c0659b1b49bc9722aebe946944fe9f3f82ace87ae035f1fd2f71d",
+  "latency_s": 2.7328066500049317,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

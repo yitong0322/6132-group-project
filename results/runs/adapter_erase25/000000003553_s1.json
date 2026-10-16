@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase25",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase25",
+    "strength": 1.5
+  },
+  "config_hash": "80d457176300f341e45e2f76b044a50c847f1e3c3c84309a1df5ae1d17c970c5",
+  "image_id": 3553,
+  "seed_index": 1,
+  "seed": 2033107,
+  "prompt": "a person skating on some pieces of wood ",
+  "path": "results/runs/adapter_erase25/000000003553_s1.png",
+  "sha256": "44ddd79dee2ecf683eb7fcff0b3ad4d969998a48a5e058ebda8f9bf041a83a68",
+  "latency_s": 1.9888451420119964,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

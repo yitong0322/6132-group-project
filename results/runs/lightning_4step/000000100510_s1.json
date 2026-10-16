@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_4step",
+    "method": "lightning",
+    "steps": 4,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "16ac80513f831abd97c3f2a5ff13092269bfbb5f3406b2a8d454fc9d71c49fcd",
+  "image_id": 100510,
+  "seed_index": 1,
+  "seed": 2227021,
+  "prompt": "an equestrian riding a horse jumping an obstacle ",
+  "path": "results/runs/lightning_4step/000000100510_s1.png",
+  "sha256": "908fe5bee2962732686ba4644a6223f5b7df0356dbbff293787c58acb5398a9b",
+  "latency_s": 1.8254525880038273,
+  "peak_allocated_mib": 9949.5458984375,
+  "peak_reserved_mib": 12632.0
+}

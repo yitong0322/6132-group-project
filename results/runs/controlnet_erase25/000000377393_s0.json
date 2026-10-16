@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_erase25",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase25",
+    "strength": 1.5
+  },
+  "config_hash": "8fb8a2754192714bc32db360b571eff94829570c7be658ef8572cbbfe9dfb389",
+  "image_id": 377393,
+  "seed_index": 0,
+  "seed": 2780786,
+  "prompt": "Looking down at a beach area and boardwalk that has a circular walkway and clock tower.",
+  "path": "results/runs/controlnet_erase25/000000377393_s0.png",
+  "sha256": "95ed3d2a4d3f1bc33e4e771efe2bef630251e2524e74339ee5a5a98c72e48a06",
+  "latency_s": 2.742413302010391,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

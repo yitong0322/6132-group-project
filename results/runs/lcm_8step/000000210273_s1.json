@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_8step",
+    "method": "lcm",
+    "steps": 8,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "feddce4cdbe9647508117b127ff6e71f47b840f02764b4ba859667a4e90c6edf",
+  "image_id": 210273,
+  "seed_index": 1,
+  "seed": 2446547,
+  "prompt": "Buses and cars on interstate going both ways. ",
+  "path": "results/runs/lcm_8step/000000210273_s1.png",
+  "sha256": "673101550aabee5a23a689101eb8cf8f305510050be1a9a20900955915971e53",
+  "latency_s": 2.6091383789898828,
+  "peak_allocated_mib": 9948.5927734375,
+  "peak_reserved_mib": 12650.0
+}

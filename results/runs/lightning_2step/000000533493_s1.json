@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_2step",
+    "method": "lightning",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "c9f1d7562e2c721c6f9d933bd0ebaabec8feb143758b08fb930248cd7d3e3ae6",
+  "image_id": 533493,
+  "seed_index": 1,
+  "seed": 3092987,
+  "prompt": "Three men celebrating some kind of personal victory.",
+  "path": "results/runs/lightning_2step/000000533493_s1.png",
+  "sha256": "25951079e37e1848fbc187e560fa78bca9b0cff260c6e60ee6d6228a494affd0",
+  "latency_s": 1.4437155769992387,
+  "peak_allocated_mib": 9948.7958984375,
+  "peak_reserved_mib": 12632.0
+}

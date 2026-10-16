@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_2step",
+    "method": "lcm",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "662eb0b62259031ebfd05061cc22cf9622a52f075eeb20943184e3e52cfbc947",
+  "image_id": 400044,
+  "seed_index": 1,
+  "seed": 2826089,
+  "prompt": "A person riding a snowboard into the air next to a tall building.",
+  "path": "results/runs/lcm_2step/000000400044_s1.png",
+  "sha256": "82e7aaefa56a1c5b90d62c87603b0f31e7c2e8ea1d84223f4dd0c7022f7bf628",
+  "latency_s": 1.4480464410007698,
+  "peak_allocated_mib": 9947.8427734375,
+  "peak_reserved_mib": 12650.0
+}

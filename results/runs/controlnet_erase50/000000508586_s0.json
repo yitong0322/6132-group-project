@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_erase50",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "22aaf1199ae8d9bf147f8b71f7b2196b68dded76b271f6f12b37f1a8956cefe6",
+  "image_id": 508586,
+  "seed_index": 0,
+  "seed": 3043172,
+  "prompt": "Herd of zebra grazing on dried grasses in open field.",
+  "path": "results/runs/controlnet_erase50/000000508586_s0.png",
+  "sha256": "cfbaf5e99c40a70bf4a2f5ba95231178c0ac75e1fc615d2f53c9039a9427fd66",
+  "latency_s": 2.734960547008086,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

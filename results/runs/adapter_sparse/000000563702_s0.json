@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_sparse",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "e591437800140077d0a3adb6b23eea9fd6dac35575bed9dfa31bd71572efb58f",
+  "image_id": 563702,
+  "seed_index": 0,
+  "seed": 3153404,
+  "prompt": "A fire fire truck parked in a parking lot.",
+  "path": "results/runs/adapter_sparse/000000563702_s0.png",
+  "sha256": "328a69cfa5bf529900dacb3b00ca0ede6fec9241ee4d03126e988cb3839454aa",
+  "latency_s": 1.9878042400086997,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

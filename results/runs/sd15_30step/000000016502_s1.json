@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "sd15_30step",
+    "method": "sd15",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "none"
+  },
+  "config_hash": "50a25ea0626a66bb0ec90a9954c0e8703317fb3903621c472f0b82bcf8c26228",
+  "image_id": 16502,
+  "seed_index": 1,
+  "seed": 2059005,
+  "prompt": "A sheep standing on top of a rock. ",
+  "path": "results/runs/sd15_30step/000000016502_s1.png",
+  "sha256": "3526f6aa4a103b0a7cb15629623929e36eb95048f0e3530235eeba5b6482e9f0",
+  "latency_s": 1.9838988929986954,
+  "peak_allocated_mib": 2675.13818359375,
+  "peak_reserved_mib": 3238.0
+}

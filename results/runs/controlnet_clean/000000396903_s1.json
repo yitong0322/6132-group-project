@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_clean",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "clean",
+    "strength": 1.5
+  },
+  "config_hash": "66b43ec0d0e6b23b0522fd655cf1655236bdd2a53d75e7fff42de6022e9c484b",
+  "image_id": 396903,
+  "seed_index": 1,
+  "seed": 2819807,
+  "prompt": "Small red propeller airplane sitting on an airport runway. ",
+  "path": "results/runs/controlnet_clean/000000396903_s1.png",
+  "sha256": "2093b5363ec603e0c2764582e28e8d6749ec6d2d8d3c3dc685e5818e7c807c89",
+  "latency_s": 2.7380664240045007,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

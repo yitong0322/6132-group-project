@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "sdxl_30step",
+    "method": "sdxl",
+    "steps": 30,
+    "resolution": 1024,
+    "guidance": 5.0,
+    "condition": "none"
+  },
+  "config_hash": "7f2ff1a362b25ed9a421756a7624dd1129e6797ecf34a7ec1fc39f2ba5c3a6df",
+  "image_id": 237118,
+  "seed_index": 0,
+  "seed": 2500236,
+  "prompt": "A middle aged man takes a selfie in a mirror.",
+  "path": "results/runs/sdxl_30step/000000237118_s0.png",
+  "sha256": "9c69df3fad81dba627392f631977d606670a150642b4df75a8ac57b351e4dce8",
+  "latency_s": 11.7644320899999,
+  "peak_allocated_mib": 9946.52978515625,
+  "peak_reserved_mib": 12896.0
+}

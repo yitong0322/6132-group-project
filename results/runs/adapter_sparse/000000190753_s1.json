@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_sparse",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "e591437800140077d0a3adb6b23eea9fd6dac35575bed9dfa31bd71572efb58f",
+  "image_id": 190753,
+  "seed_index": 1,
+  "seed": 2407507,
+  "prompt": "There is a group of four men sitting on park benches.",
+  "path": "results/runs/adapter_sparse/000000190753_s1.png",
+  "sha256": "40d9f751c0f712d68c1bad4d19c9ece04ed39cf446e4da981bc29131e0144c12",
+  "latency_s": 1.988347848993726,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase25",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase25",
+    "strength": 1.5
+  },
+  "config_hash": "80d457176300f341e45e2f76b044a50c847f1e3c3c84309a1df5ae1d17c970c5",
+  "image_id": 99039,
+  "seed_index": 1,
+  "seed": 2224079,
+  "prompt": "Plates  of food and glasses of wine sitting on a table",
+  "path": "results/runs/adapter_erase25/000000099039_s1.png",
+  "sha256": "b37f363b2e42c8acbab405a4d45345ca76d5ac63593d96d1d69c0d20a9066e08",
+  "latency_s": 1.9907002940017264,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

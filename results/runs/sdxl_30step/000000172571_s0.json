@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "sdxl_30step",
+    "method": "sdxl",
+    "steps": 30,
+    "resolution": 1024,
+    "guidance": 5.0,
+    "condition": "none"
+  },
+  "config_hash": "7f2ff1a362b25ed9a421756a7624dd1129e6797ecf34a7ec1fc39f2ba5c3a6df",
+  "image_id": 172571,
+  "seed_index": 0,
+  "seed": 2371142,
+  "prompt": "A very thick pizza is on a plate with one piece taken.",
+  "path": "results/runs/sdxl_30step/000000172571_s0.png",
+  "sha256": "ea2b05981af0262c3c9b753e24ae55aeda3dffef89848fc581928ecce0c610f2",
+  "latency_s": 11.768720663007116,
+  "peak_allocated_mib": 9946.52978515625,
+  "peak_reserved_mib": 12896.0
+}

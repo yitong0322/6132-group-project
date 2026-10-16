@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase50",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "896b5ee20f16dbe54a8a8a0f8cbb30f7dfda77457ef77ac9d5f01f8363335ce2",
+  "image_id": 508586,
+  "seed_index": 1,
+  "seed": 3043173,
+  "prompt": "Herd of zebra grazing on dried grasses in open field.",
+  "path": "results/runs/adapter_erase50/000000508586_s1.png",
+  "sha256": "1d5022a94d2580e3fa5c1fc76e82e236d52b03ced02e6bc6fa3464ce8053a1f5",
+  "latency_s": 1.9897617240058025,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

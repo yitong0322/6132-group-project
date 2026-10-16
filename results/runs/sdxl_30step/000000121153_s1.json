@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "sdxl_30step",
+    "method": "sdxl",
+    "steps": 30,
+    "resolution": 1024,
+    "guidance": 5.0,
+    "condition": "none"
+  },
+  "config_hash": "7f2ff1a362b25ed9a421756a7624dd1129e6797ecf34a7ec1fc39f2ba5c3a6df",
+  "image_id": 121153,
+  "seed_index": 1,
+  "seed": 2268307,
+  "prompt": "A white road sign suspended over a highway.",
+  "path": "results/runs/sdxl_30step/000000121153_s1.png",
+  "sha256": "2b23c80f9082dfb57d7965c6e66aba57cb2699c9c694bc561a4b3794b7cc716f",
+  "latency_s": 11.763009738002438,
+  "peak_allocated_mib": 9946.52978515625,
+  "peak_reserved_mib": 12896.0
+}

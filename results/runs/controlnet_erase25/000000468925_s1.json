@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_erase25",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase25",
+    "strength": 1.5
+  },
+  "config_hash": "8fb8a2754192714bc32db360b571eff94829570c7be658ef8572cbbfe9dfb389",
+  "image_id": 468925,
+  "seed_index": 1,
+  "seed": 2963851,
+  "prompt": "a plate with bacon, eggs and hamburger topped with bananas",
+  "path": "results/runs/controlnet_erase25/000000468925_s1.png",
+  "sha256": "c4e29173b29ca88170cef4bb34a9e633a0cd56d322e69d822bf35f1013a5d306",
+  "latency_s": 2.7394743990007555,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

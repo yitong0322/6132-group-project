@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_4step",
+    "method": "lightning",
+    "steps": 4,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "16ac80513f831abd97c3f2a5ff13092269bfbb5f3406b2a8d454fc9d71c49fcd",
+  "image_id": 217957,
+  "seed_index": 0,
+  "seed": 2461914,
+  "prompt": "A clock is shown with gold detailing around it.",
+  "path": "results/runs/lightning_4step/000000217957_s0.png",
+  "sha256": "358e6de62c1dde3b538d310c61371a5c4a92a6652109b55c14e01ad9f28ca438",
+  "latency_s": 1.8276022009958979,
+  "peak_allocated_mib": 9950.5458984375,
+  "peak_reserved_mib": 12632.0
+}

@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_4step",
+    "method": "lcm",
+    "steps": 4,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "9ec22cf595f8b833bea186b1ab867b1ae0fab3debca422e4ad0a7028793290a0",
+  "image_id": 551794,
+  "seed_index": 1,
+  "seed": 3129589,
+  "prompt": "A man riding a motorcycle on the side of a road.",
+  "path": "results/runs/lcm_4step/000000551794_s1.png",
+  "sha256": "9a5d4a6075837557ae126a542c623b533e665a787da3b3a35b5b649b01a346cc",
+  "latency_s": 1.835082035002415,
+  "peak_allocated_mib": 9947.0927734375,
+  "peak_reserved_mib": 12650.0
+}

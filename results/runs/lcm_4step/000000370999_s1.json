@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_4step",
+    "method": "lcm",
+    "steps": 4,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "9ec22cf595f8b833bea186b1ab867b1ae0fab3debca422e4ad0a7028793290a0",
+  "image_id": 370999,
+  "seed_index": 1,
+  "seed": 2767999,
+  "prompt": "some little stones sitting around a dime ",
+  "path": "results/runs/lcm_4step/000000370999_s1.png",
+  "sha256": "bea24e87d88c5e78f74e7d4b21153ca1b14f594a9ddd1f7a371719f3e58221cf",
+  "latency_s": 1.8282324460014934,
+  "peak_allocated_mib": 9946.3427734375,
+  "peak_reserved_mib": 12648.0
+}

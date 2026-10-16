@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_8step",
+    "method": "lcm",
+    "steps": 8,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "feddce4cdbe9647508117b127ff6e71f47b840f02764b4ba859667a4e90c6edf",
+  "image_id": 100510,
+  "seed_index": 1,
+  "seed": 2227021,
+  "prompt": "an equestrian riding a horse jumping an obstacle ",
+  "path": "results/runs/lcm_8step/000000100510_s1.png",
+  "sha256": "b14a92fd780d3e868980d28813af3c5f00281e6ea361bbf074497cd5e6cc60ef",
+  "latency_s": 2.6087454090011306,
+  "peak_allocated_mib": 9946.3427734375,
+  "peak_reserved_mib": 12650.0
+}

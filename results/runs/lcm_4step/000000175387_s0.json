@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_4step",
+    "method": "lcm",
+    "steps": 4,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "9ec22cf595f8b833bea186b1ab867b1ae0fab3debca422e4ad0a7028793290a0",
+  "image_id": 175387,
+  "seed_index": 0,
+  "seed": 2376774,
+  "prompt": "Bathroom stall with green door in commercial business.",
+  "path": "results/runs/lcm_4step/000000175387_s0.png",
+  "sha256": "da3487ce842614f14b232890d783d0e6e8d833ad615fa6e83e439f2317120fbf",
+  "latency_s": 1.835460141999647,
+  "peak_allocated_mib": 9947.8427734375,
+  "peak_reserved_mib": 12650.0
+}

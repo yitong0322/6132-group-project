@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_8step",
+    "method": "lightning",
+    "steps": 8,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "711af09a6d55e6cffce394b70a1f925c5621329067c780a2ae6a492787f97d3f",
+  "image_id": 503855,
+  "seed_index": 0,
+  "seed": 3033710,
+  "prompt": "A grass yard area that has several open umbrellas laid on the grass and various people around the roadway area.\n\n",
+  "path": "results/runs/lightning_8step/000000503855_s0.png",
+  "sha256": "fe7d384bb638271bb76a10cc860ca37412ecd87f04a16c9489a1a84ee6e3b152",
+  "latency_s": 2.5871722290030448,
+  "peak_allocated_mib": 9949.0458984375,
+  "peak_reserved_mib": 12632.0
+}

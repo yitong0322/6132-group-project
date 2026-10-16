@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "sdxl_30step",
+    "method": "sdxl",
+    "steps": 30,
+    "resolution": 1024,
+    "guidance": 5.0,
+    "condition": "none"
+  },
+  "config_hash": "7f2ff1a362b25ed9a421756a7624dd1129e6797ecf34a7ec1fc39f2ba5c3a6df",
+  "image_id": 175387,
+  "seed_index": 1,
+  "seed": 2376775,
+  "prompt": "Bathroom stall with green door in commercial business.",
+  "path": "results/runs/sdxl_30step/000000175387_s1.png",
+  "sha256": "55f07f2fea39a17fafb2eb528632211687da13061910d913dde81d9a33860247",
+  "latency_s": 11.769600282001193,
+  "peak_allocated_mib": 9946.52978515625,
+  "peak_reserved_mib": 12896.0
+}

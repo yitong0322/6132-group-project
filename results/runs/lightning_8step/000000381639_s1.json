@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_8step",
+    "method": "lightning",
+    "steps": 8,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "711af09a6d55e6cffce394b70a1f925c5621329067c780a2ae6a492787f97d3f",
+  "image_id": 381639,
+  "seed_index": 1,
+  "seed": 2789279,
+  "prompt": "A little girl walking along a row of orange cones.",
+  "path": "results/runs/lightning_8step/000000381639_s1.png",
+  "sha256": "e8b3e71be71ad6897d3402ba9edfa4ec3cf271609aa9a41b4e4141729949c9c2",
+  "latency_s": 2.586477200995432,
+  "peak_allocated_mib": 9950.0458984375,
+  "peak_reserved_mib": 12632.0
+}

@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "sd15_30step",
+    "method": "sd15",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "none"
+  },
+  "config_hash": "50a25ea0626a66bb0ec90a9954c0e8703317fb3903621c472f0b82bcf8c26228",
+  "image_id": 65350,
+  "seed_index": 0,
+  "seed": 2156700,
+  "prompt": "Kids are skateboarding at a skate park and one them has fallen down.",
+  "path": "results/runs/sd15_30step/000000065350_s0.png",
+  "sha256": "6e1ec5d58c543a5b1b9b216128eae08fe33d389ea910bd77f40d83a4ea5ccaaa",
+  "latency_s": 1.9839357720047701,
+  "peak_allocated_mib": 2675.13818359375,
+  "peak_reserved_mib": 3238.0
+}

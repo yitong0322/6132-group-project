@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_4step",
+    "method": "lcm",
+    "steps": 4,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "9ec22cf595f8b833bea186b1ab867b1ae0fab3debca422e4ad0a7028793290a0",
+  "image_id": 6954,
+  "seed_index": 0,
+  "seed": 2039908,
+  "prompt": "A group of young children sitting in the grass.",
+  "path": "results/runs/lcm_4step/000000006954_s0.png",
+  "sha256": "0cf0c8167cef385406a9f1e6680d30f0eb9774cac5e29e1ed6c9206b24848f80",
+  "latency_s": 1.8575972139951773,
+  "peak_allocated_mib": 9947.3427734375,
+  "peak_reserved_mib": 12650.0
+}

@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "sd15_30step",
+    "method": "sd15",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "none"
+  },
+  "config_hash": "50a25ea0626a66bb0ec90a9954c0e8703317fb3903621c472f0b82bcf8c26228",
+  "image_id": 546826,
+  "seed_index": 1,
+  "seed": 3119653,
+  "prompt": "A pink and green marker, next to another object. ",
+  "path": "results/runs/sd15_30step/000000546826_s1.png",
+  "sha256": "58a4370f4c1f8999360e332c65b4e7a793a6fce15d4b87f1cd825b55b9a1aa00",
+  "latency_s": 1.9838237910007592,
+  "peak_allocated_mib": 2675.13818359375,
+  "peak_reserved_mib": 3238.0
+}

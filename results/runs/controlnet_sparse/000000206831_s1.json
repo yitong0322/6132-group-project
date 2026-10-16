@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_sparse",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "88986ea6e18a64cdcc4d2f2c7c574e63ac06733272a42dfa6d44b4ea528ac428",
+  "image_id": 206831,
+  "seed_index": 1,
+  "seed": 2439663,
+  "prompt": "A large brown dog holding a neon frisbee in his mouth.",
+  "path": "results/runs/controlnet_sparse/000000206831_s1.png",
+  "sha256": "5811a94f3e59e49ab01e40f39be45ba5eae5a9e929995b6afc7b0596d8f172ad",
+  "latency_s": 2.739304216011078,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

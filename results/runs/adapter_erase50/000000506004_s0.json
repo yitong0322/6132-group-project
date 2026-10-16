@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase50",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "896b5ee20f16dbe54a8a8a0f8cbb30f7dfda77457ef77ac9d5f01f8363335ce2",
+  "image_id": 506004,
+  "seed_index": 0,
+  "seed": 3038008,
+  "prompt": "The ferris wheel is located in the middle of the water.",
+  "path": "results/runs/adapter_erase50/000000506004_s0.png",
+  "sha256": "1e74914178ebc025c85ad635ebde68672b3305dd75ff3d4fa17af343dbf48147",
+  "latency_s": 1.989016690000426,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_8step",
+    "method": "lightning",
+    "steps": 8,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "711af09a6d55e6cffce394b70a1f925c5621329067c780a2ae6a492787f97d3f",
+  "image_id": 493286,
+  "seed_index": 1,
+  "seed": 3012573,
+  "prompt": "an old car in front of an old air plane",
+  "path": "results/runs/lightning_8step/000000493286_s1.png",
+  "sha256": "e213ab76f423e2d153730a3ce136f0e6ac6e15d7ff7d7c02009b409236634406",
+  "latency_s": 2.5950094449945027,
+  "peak_allocated_mib": 9950.2958984375,
+  "peak_reserved_mib": 12632.0
+}

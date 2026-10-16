@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_dense",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "f25fcf61e38298c2c82909b445848fd59f39f4565e113adeded45d7fab51ac96",
+  "image_id": 508370,
+  "seed_index": 0,
+  "seed": 3042740,
+  "prompt": "A bicycle parked on top of a baby dolls head.",
+  "path": "results/runs/controlnet_dense/000000508370_s0.png",
+  "sha256": "d22e4b34d045a20f7b20b42c535bb699359461fc73ba4294869e74f1adffabe5",
+  "latency_s": 2.7349076569953468,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

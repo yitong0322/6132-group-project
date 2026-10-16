@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_erase25",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase25",
+    "strength": 1.5
+  },
+  "config_hash": "8fb8a2754192714bc32db360b571eff94829570c7be658ef8572cbbfe9dfb389",
+  "image_id": 367818,
+  "seed_index": 1,
+  "seed": 2761637,
+  "prompt": "A woman in tight blue jeans standing next to a brown horse.",
+  "path": "results/runs/controlnet_erase25/000000367818_s1.png",
+  "sha256": "372f868b4f0197ecb25d2946fd5529d0707cf0f80a6d0989388abf9676534c94",
+  "latency_s": 2.7388360939949052,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

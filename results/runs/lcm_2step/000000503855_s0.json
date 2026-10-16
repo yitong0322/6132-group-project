@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_2step",
+    "method": "lcm",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "662eb0b62259031ebfd05061cc22cf9622a52f075eeb20943184e3e52cfbc947",
+  "image_id": 503855,
+  "seed_index": 0,
+  "seed": 3033710,
+  "prompt": "A grass yard area that has several open umbrellas laid on the grass and various people around the roadway area.\n\n",
+  "path": "results/runs/lcm_2step/000000503855_s0.png",
+  "sha256": "e163d6d5b91edb30f9e2ca719c61f8dee662c01e833dace19feb26148f31e18c",
+  "latency_s": 1.4500941110018175,
+  "peak_allocated_mib": 9947.8427734375,
+  "peak_reserved_mib": 12650.0
+}

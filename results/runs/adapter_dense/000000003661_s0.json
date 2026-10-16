@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_dense",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "114bbb8b7de882aa24fc41d9ba598b03037e7e4fd05b317cde3dc9b41adcdaad",
+  "image_id": 3661,
+  "seed_index": 0,
+  "seed": 2033322,
+  "prompt": "A bunch of bananas sitting on top of a wooden table.",
+  "path": "results/runs/adapter_dense/000000003661_s0.png",
+  "sha256": "22eea824e05a6240ddb32341c8f2b8e11683f11d5f68b05ace34a4fd9129ae63",
+  "latency_s": 1.9886795729980804,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

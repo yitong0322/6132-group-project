@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_dense",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "114bbb8b7de882aa24fc41d9ba598b03037e7e4fd05b317cde3dc9b41adcdaad",
+  "image_id": 379533,
+  "seed_index": 1,
+  "seed": 2785067,
+  "prompt": "A zebra grazing on a dry grass field next to elephants.",
+  "path": "results/runs/adapter_dense/000000379533_s1.png",
+  "sha256": "ba7c528fbc0633e987544824142c3d587fd5f205405e11d7c3f1212c7a1f7b8f",
+  "latency_s": 1.9884992670122301,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

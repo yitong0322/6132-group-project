@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase50",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "896b5ee20f16dbe54a8a8a0f8cbb30f7dfda77457ef77ac9d5f01f8363335ce2",
+  "image_id": 375015,
+  "seed_index": 1,
+  "seed": 2776031,
+  "prompt": "A baby brown bear standing on top of a rock.",
+  "path": "results/runs/adapter_erase50/000000375015_s1.png",
+  "sha256": "00c01f048dce423ab9a8e120da20f2eae0ec7479476642de26baade3ec9e9ee5",
+  "latency_s": 1.9881659700040473,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

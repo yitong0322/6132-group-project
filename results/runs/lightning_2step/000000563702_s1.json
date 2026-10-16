@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_2step",
+    "method": "lightning",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "c9f1d7562e2c721c6f9d933bd0ebaabec8feb143758b08fb930248cd7d3e3ae6",
+  "image_id": 563702,
+  "seed_index": 1,
+  "seed": 3153405,
+  "prompt": "A fire fire truck parked in a parking lot.",
+  "path": "results/runs/lightning_2step/000000563702_s1.png",
+  "sha256": "d7f7e1291455fec79b6bccd623f48de6ba89e83d07bb09a1c7e35c3fa781e45c",
+  "latency_s": 1.4433615340094548,
+  "peak_allocated_mib": 9950.2958984375,
+  "peak_reserved_mib": 12632.0
+}

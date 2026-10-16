@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase50",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "896b5ee20f16dbe54a8a8a0f8cbb30f7dfda77457ef77ac9d5f01f8363335ce2",
+  "image_id": 388056,
+  "seed_index": 1,
+  "seed": 2802113,
+  "prompt": "A baseball player holding a bat and getting ready for the pitch.",
+  "path": "results/runs/adapter_erase50/000000388056_s1.png",
+  "sha256": "bb5fd16b69078e02f633775917c52941d9fcc78c406540f0b1d4fb590d4aef6e",
+  "latency_s": 1.9886828410089947,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

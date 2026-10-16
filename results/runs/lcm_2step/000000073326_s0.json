@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_2step",
+    "method": "lcm",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "662eb0b62259031ebfd05061cc22cf9622a52f075eeb20943184e3e52cfbc947",
+  "image_id": 73326,
+  "seed_index": 0,
+  "seed": 2172652,
+  "prompt": "An open refrigerator including bottles of various food.",
+  "path": "results/runs/lcm_2step/000000073326_s0.png",
+  "sha256": "d830825ff5feaa1d6c7ff2c4489aaa7414db6091f55c52cddbb9e0bdeda6322a",
+  "latency_s": 1.4498212190082995,
+  "peak_allocated_mib": 9947.3427734375,
+  "peak_reserved_mib": 12650.0
+}

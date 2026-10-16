@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_8step",
+    "method": "lightning",
+    "steps": 8,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "711af09a6d55e6cffce394b70a1f925c5621329067c780a2ae6a492787f97d3f",
+  "image_id": 206831,
+  "seed_index": 1,
+  "seed": 2439663,
+  "prompt": "A large brown dog holding a neon frisbee in his mouth.",
+  "path": "results/runs/lightning_8step/000000206831_s1.png",
+  "sha256": "81def44e8c1f40a41e57c9e542458342dd5bd0615a535b11dd5684ab6b06d069",
+  "latency_s": 2.5874017070018454,
+  "peak_allocated_mib": 9947.2958984375,
+  "peak_reserved_mib": 12632.0
+}

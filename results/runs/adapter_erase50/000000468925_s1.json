@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase50",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "896b5ee20f16dbe54a8a8a0f8cbb30f7dfda77457ef77ac9d5f01f8363335ce2",
+  "image_id": 468925,
+  "seed_index": 1,
+  "seed": 2963851,
+  "prompt": "a plate with bacon, eggs and hamburger topped with bananas",
+  "path": "results/runs/adapter_erase50/000000468925_s1.png",
+  "sha256": "31bb9b0396a64eb857676d6f2f14129fa01e553c54915b4822a6dbc45da0e1d9",
+  "latency_s": 1.9886361899989424,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

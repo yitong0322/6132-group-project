@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_dense",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "f25fcf61e38298c2c82909b445848fd59f39f4565e113adeded45d7fab51ac96",
+  "image_id": 465585,
+  "seed_index": 0,
+  "seed": 2957170,
+  "prompt": "An aluminum pan full of chopped broccoli and carrots.",
+  "path": "results/runs/controlnet_dense/000000465585_s0.png",
+  "sha256": "60b9947ee8cdf7ccb495ab99a7af0a45a43c2dbdf859c078143a2de20359185f",
+  "latency_s": 2.7352735599997686,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

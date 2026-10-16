@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_clean",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "clean",
+    "strength": 1.5
+  },
+  "config_hash": "66b43ec0d0e6b23b0522fd655cf1655236bdd2a53d75e7fff42de6022e9c484b",
+  "image_id": 146831,
+  "seed_index": 1,
+  "seed": 2319663,
+  "prompt": "A person is riding a skateboard on a curved ramp.",
+  "path": "results/runs/controlnet_clean/000000146831_s1.png",
+  "sha256": "c72d21c08d259ea64a4cb60d461ad16cc4b2183c94f5abfbb4f6bf1f96278fa3",
+  "latency_s": 2.7445826400071383,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

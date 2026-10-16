@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_4step",
+    "method": "lcm",
+    "steps": 4,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "9ec22cf595f8b833bea186b1ab867b1ae0fab3debca422e4ad0a7028793290a0",
+  "image_id": 45596,
+  "seed_index": 0,
+  "seed": 2117192,
+  "prompt": "A view A large metal structure near the side of a building",
+  "path": "results/runs/lcm_4step/000000045596_s0.png",
+  "sha256": "9c8b238f375293670c137db40874eb5ece8ff885ac55f3fa91d6b757b10c2a95",
+  "latency_s": 1.8391797310032416,
+  "peak_allocated_mib": 9945.5927734375,
+  "peak_reserved_mib": 12650.0
+}

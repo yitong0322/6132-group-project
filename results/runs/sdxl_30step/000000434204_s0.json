@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "sdxl_30step",
+    "method": "sdxl",
+    "steps": 30,
+    "resolution": 1024,
+    "guidance": 5.0,
+    "condition": "none"
+  },
+  "config_hash": "7f2ff1a362b25ed9a421756a7624dd1129e6797ecf34a7ec1fc39f2ba5c3a6df",
+  "image_id": 434204,
+  "seed_index": 0,
+  "seed": 2894408,
+  "prompt": "A man riding on a skateboard on the sidewalk.",
+  "path": "results/runs/sdxl_30step/000000434204_s0.png",
+  "sha256": "3592a0280a2c75ddcf118bd3dc9e72ddc3aa9458d586b3ab245196bd9aa038dc",
+  "latency_s": 11.760662778004189,
+  "peak_allocated_mib": 9946.52978515625,
+  "peak_reserved_mib": 12896.0
+}

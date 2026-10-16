@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase50",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "896b5ee20f16dbe54a8a8a0f8cbb30f7dfda77457ef77ac9d5f01f8363335ce2",
+  "image_id": 100510,
+  "seed_index": 0,
+  "seed": 2227020,
+  "prompt": "an equestrian riding a horse jumping an obstacle ",
+  "path": "results/runs/adapter_erase50/000000100510_s0.png",
+  "sha256": "1251eb59824e347037113603825107555414c45a79a16bd74230d7afc3814a38",
+  "latency_s": 1.9893202139937785,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

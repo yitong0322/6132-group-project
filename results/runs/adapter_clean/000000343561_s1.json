@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_clean",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "clean",
+    "strength": 1.5
+  },
+  "config_hash": "9ba657d5c560196238df271ac941213dbe52470be0b52f57afa1fe86ef55ed19",
+  "image_id": 343561,
+  "seed_index": 1,
+  "seed": 2713123,
+  "prompt": "there are many bike riders racing in a street race",
+  "path": "results/runs/adapter_clean/000000343561_s1.png",
+  "sha256": "36d0ac7a7e5e0de562cfb4996d28cf45404bd462e21945ec32f01484f827268d",
+  "latency_s": 1.9926025919994572,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

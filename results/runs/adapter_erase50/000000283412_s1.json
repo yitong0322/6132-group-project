@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase50",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "896b5ee20f16dbe54a8a8a0f8cbb30f7dfda77457ef77ac9d5f01f8363335ce2",
+  "image_id": 283412,
+  "seed_index": 1,
+  "seed": 2592825,
+  "prompt": "A little poodle puppy laying near a newspaper with a look of guilt.",
+  "path": "results/runs/adapter_erase50/000000283412_s1.png",
+  "sha256": "0cb07726fe114966a97777d07944987849602a60a8b5117f37eeca1948f62a9f",
+  "latency_s": 1.9881577299966011,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

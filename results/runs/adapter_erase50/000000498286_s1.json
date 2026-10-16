@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase50",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "896b5ee20f16dbe54a8a8a0f8cbb30f7dfda77457ef77ac9d5f01f8363335ce2",
+  "image_id": 498286,
+  "seed_index": 1,
+  "seed": 3022573,
+  "prompt": "a vety cute furry dog posing near a big sign.",
+  "path": "results/runs/adapter_erase50/000000498286_s1.png",
+  "sha256": "da33276af58613eefa8e0f21e5899aee39a936d8d7a4bef68663a86e71e7a0b5",
+  "latency_s": 1.9883073329983745,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

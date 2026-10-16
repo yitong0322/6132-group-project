@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_dense",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "114bbb8b7de882aa24fc41d9ba598b03037e7e4fd05b317cde3dc9b41adcdaad",
+  "image_id": 383921,
+  "seed_index": 1,
+  "seed": 2793843,
+  "prompt": "A herd of elephants walking across a body of water.",
+  "path": "results/runs/adapter_dense/000000383921_s1.png",
+  "sha256": "8d46521d8644aeed79ad0d1e66e063b6371d9621f3003a919e9a61b0a690febe",
+  "latency_s": 1.9894284309993964,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

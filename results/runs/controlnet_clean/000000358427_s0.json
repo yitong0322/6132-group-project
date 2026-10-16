@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_clean",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "clean",
+    "strength": 1.5
+  },
+  "config_hash": "66b43ec0d0e6b23b0522fd655cf1655236bdd2a53d75e7fff42de6022e9c484b",
+  "image_id": 358427,
+  "seed_index": 0,
+  "seed": 2742854,
+  "prompt": "Two pieces of broccoli being held up on a fork",
+  "path": "results/runs/controlnet_clean/000000358427_s0.png",
+  "sha256": "1a4f4a6457288aa284048dfcaacc5286cb994968d1888e9c42ca1067f3ebc13c",
+  "latency_s": 2.7395577959978255,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

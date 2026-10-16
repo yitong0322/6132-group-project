@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_sparse",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "88986ea6e18a64cdcc4d2f2c7c574e63ac06733272a42dfa6d44b4ea528ac428",
+  "image_id": 370999,
+  "seed_index": 1,
+  "seed": 2767999,
+  "prompt": "some little stones sitting around a dime ",
+  "path": "results/runs/controlnet_sparse/000000370999_s1.png",
+  "sha256": "2ace39444679019d298f24fdb2c4ff41f8b118a49821704cb352f34b099eda85",
+  "latency_s": 2.7379361799976323,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

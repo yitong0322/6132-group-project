@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_4step",
+    "method": "lightning",
+    "steps": 4,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "16ac80513f831abd97c3f2a5ff13092269bfbb5f3406b2a8d454fc9d71c49fcd",
+  "image_id": 7108,
+  "seed_index": 1,
+  "seed": 2040217,
+  "prompt": "A herd of elephants walking away from a watering hole.",
+  "path": "results/runs/lightning_4step/000000007108_s1.png",
+  "sha256": "7d4cecef48b70c170068bab26bf116395f7f45613588facfae191c7cbd11d9d1",
+  "latency_s": 1.824339370999951,
+  "peak_allocated_mib": 9950.0458984375,
+  "peak_reserved_mib": 12632.0
+}

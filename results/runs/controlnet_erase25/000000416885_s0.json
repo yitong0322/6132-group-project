@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_erase25",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase25",
+    "strength": 1.5
+  },
+  "config_hash": "8fb8a2754192714bc32db360b571eff94829570c7be658ef8572cbbfe9dfb389",
+  "image_id": 416885,
+  "seed_index": 0,
+  "seed": 2859770,
+  "prompt": "Three pastry desserts and two glasses of wine are on a table. ",
+  "path": "results/runs/controlnet_erase25/000000416885_s0.png",
+  "sha256": "627b0513c8bd819f75bc824ad74224fd3017cc8f921ac1c018498eeee09390a4",
+  "latency_s": 2.7380281549994834,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

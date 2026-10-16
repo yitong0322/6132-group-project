@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_dense",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "f25fcf61e38298c2c82909b445848fd59f39f4565e113adeded45d7fab51ac96",
+  "image_id": 16502,
+  "seed_index": 0,
+  "seed": 2059004,
+  "prompt": "A sheep standing on top of a rock. ",
+  "path": "results/runs/controlnet_dense/000000016502_s0.png",
+  "sha256": "9fd130ab1faec2162b46fce72c8eacbfeb34f431770a91cc0eed9dce1540e235",
+  "latency_s": 2.7337031700008083,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

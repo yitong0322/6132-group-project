@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_2step",
+    "method": "lcm",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "662eb0b62259031ebfd05061cc22cf9622a52f075eeb20943184e3e52cfbc947",
+  "image_id": 313130,
+  "seed_index": 1,
+  "seed": 2652261,
+  "prompt": "a silver fridge sits in a room next to a microwave ",
+  "path": "results/runs/lcm_2step/000000313130_s1.png",
+  "sha256": "c9800e4bdd2994ed3b18023cb65d247753b22e531c27df00a2ce46203ab52ba9",
+  "latency_s": 1.456413132007583,
+  "peak_allocated_mib": 9946.5927734375,
+  "peak_reserved_mib": 12650.0
+}

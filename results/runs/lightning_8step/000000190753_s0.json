@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_8step",
+    "method": "lightning",
+    "steps": 8,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "711af09a6d55e6cffce394b70a1f925c5621329067c780a2ae6a492787f97d3f",
+  "image_id": 190753,
+  "seed_index": 0,
+  "seed": 2407506,
+  "prompt": "There is a group of four men sitting on park benches.",
+  "path": "results/runs/lightning_8step/000000190753_s0.png",
+  "sha256": "94c369045ec385f06699e73b0e9fc4f7ee0f85b8ae4a5f4f0d964851ca846ae2",
+  "latency_s": 2.5958587609929964,
+  "peak_allocated_mib": 9949.2958984375,
+  "peak_reserved_mib": 12632.0
+}

@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase50",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "896b5ee20f16dbe54a8a8a0f8cbb30f7dfda77457ef77ac9d5f01f8363335ce2",
+  "image_id": 477288,
+  "seed_index": 1,
+  "seed": 2980577,
+  "prompt": "Several men in costume gather together under their umbrellas.",
+  "path": "results/runs/adapter_erase50/000000477288_s1.png",
+  "sha256": "1697c95d19093032dae710c7998897f7569c7eb3474076f13da8019407d030af",
+  "latency_s": 1.9881120349891717,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_erase50",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "22aaf1199ae8d9bf147f8b71f7b2196b68dded76b271f6f12b37f1a8956cefe6",
+  "image_id": 508370,
+  "seed_index": 1,
+  "seed": 3042741,
+  "prompt": "A bicycle parked on top of a baby dolls head.",
+  "path": "results/runs/controlnet_erase50/000000508370_s1.png",
+  "sha256": "0b6a9fd29610869e8722a4c4c5eec7c0ea970c4a4afea72ce6e9b6e732e27784",
+  "latency_s": 2.734470514988061,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

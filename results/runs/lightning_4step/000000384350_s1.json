@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_4step",
+    "method": "lightning",
+    "steps": 4,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "16ac80513f831abd97c3f2a5ff13092269bfbb5f3406b2a8d454fc9d71c49fcd",
+  "image_id": 384350,
+  "seed_index": 1,
+  "seed": 2794701,
+  "prompt": "a white and red plane parked on a tarmac",
+  "path": "results/runs/lightning_4step/000000384350_s1.png",
+  "sha256": "618e48b56d56b93bb6b2dfdc064e1a907af144f8e9a4df0e72966ea333e5b37c",
+  "latency_s": 1.8290926159970695,
+  "peak_allocated_mib": 9949.2958984375,
+  "peak_reserved_mib": 12632.0
+}

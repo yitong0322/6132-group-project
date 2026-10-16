@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase25",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase25",
+    "strength": 1.5
+  },
+  "config_hash": "80d457176300f341e45e2f76b044a50c847f1e3c3c84309a1df5ae1d17c970c5",
+  "image_id": 3661,
+  "seed_index": 1,
+  "seed": 2033323,
+  "prompt": "A bunch of bananas sitting on top of a wooden table.",
+  "path": "results/runs/adapter_erase25/000000003661_s1.png",
+  "sha256": "b3dca21e8628d7f4a476455190ee718cb08e7a3534d2df6f8310a10b19089a4d",
+  "latency_s": 1.988500691993977,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

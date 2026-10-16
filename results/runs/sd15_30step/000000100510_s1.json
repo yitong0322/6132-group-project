@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "sd15_30step",
+    "method": "sd15",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "none"
+  },
+  "config_hash": "50a25ea0626a66bb0ec90a9954c0e8703317fb3903621c472f0b82bcf8c26228",
+  "image_id": 100510,
+  "seed_index": 1,
+  "seed": 2227021,
+  "prompt": "an equestrian riding a horse jumping an obstacle ",
+  "path": "results/runs/sd15_30step/000000100510_s1.png",
+  "sha256": "8f5915dadb056f35d72363456de418fbb41d5d473beb1e8cd26ccd9a2cb3fbb3",
+  "latency_s": 1.983378028991865,
+  "peak_allocated_mib": 2675.13818359375,
+  "peak_reserved_mib": 3238.0
+}

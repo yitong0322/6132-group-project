@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_erase50",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "22aaf1199ae8d9bf147f8b71f7b2196b68dded76b271f6f12b37f1a8956cefe6",
+  "image_id": 65350,
+  "seed_index": 1,
+  "seed": 2156701,
+  "prompt": "Kids are skateboarding at a skate park and one them has fallen down.",
+  "path": "results/runs/controlnet_erase50/000000065350_s1.png",
+  "sha256": "f4382a6a0f1639d3d27a41b70315217bfdec7ed0cdb048056171db65c02692a0",
+  "latency_s": 2.7354925659892615,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "sd15_30step",
+    "method": "sd15",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "none"
+  },
+  "config_hash": "50a25ea0626a66bb0ec90a9954c0e8703317fb3903621c472f0b82bcf8c26228",
+  "image_id": 388056,
+  "seed_index": 1,
+  "seed": 2802113,
+  "prompt": "A baseball player holding a bat and getting ready for the pitch.",
+  "path": "results/runs/sd15_30step/000000388056_s1.png",
+  "sha256": "9313f07f5570472110287001556d909b41e1d7cc26b632230c14439f2ef394ef",
+  "latency_s": 1.983531125006266,
+  "peak_allocated_mib": 2675.13818359375,
+  "peak_reserved_mib": 3238.0
+}

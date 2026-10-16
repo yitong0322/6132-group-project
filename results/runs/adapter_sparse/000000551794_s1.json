@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_sparse",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "e591437800140077d0a3adb6b23eea9fd6dac35575bed9dfa31bd71572efb58f",
+  "image_id": 551794,
+  "seed_index": 1,
+  "seed": 3129589,
+  "prompt": "A man riding a motorcycle on the side of a road.",
+  "path": "results/runs/adapter_sparse/000000551794_s1.png",
+  "sha256": "8474faab8ce59a056821343e6f8c89a0c4afc5546b2a66c073ca77da08aa87b5",
+  "latency_s": 1.9895988839998608,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

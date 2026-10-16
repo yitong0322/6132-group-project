@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_8step",
+    "method": "lightning",
+    "steps": 8,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "711af09a6d55e6cffce394b70a1f925c5621329067c780a2ae6a492787f97d3f",
+  "image_id": 16502,
+  "seed_index": 1,
+  "seed": 2059005,
+  "prompt": "A sheep standing on top of a rock. ",
+  "path": "results/runs/lightning_8step/000000016502_s1.png",
+  "sha256": "95ab2830f7b2f364c44bed31a47a8c0fcc5a321b3ebde61138cd599f99cf436c",
+  "latency_s": 2.5959094729914796,
+  "peak_allocated_mib": 9949.0458984375,
+  "peak_reserved_mib": 12632.0
+}

@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_clean",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "clean",
+    "strength": 1.5
+  },
+  "config_hash": "9ba657d5c560196238df271ac941213dbe52470be0b52f57afa1fe86ef55ed19",
+  "image_id": 260925,
+  "seed_index": 0,
+  "seed": 2547850,
+  "prompt": "A cat sitting on the hood of a car.",
+  "path": "results/runs/adapter_clean/000000260925_s0.png",
+  "sha256": "ae7d2ee70b55a6ffd495daab52323c45ffed0d5fc1baf07d06a8515acf8059eb",
+  "latency_s": 1.991004969997448,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

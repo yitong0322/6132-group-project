@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_sparse",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "88986ea6e18a64cdcc4d2f2c7c574e63ac06733272a42dfa6d44b4ea528ac428",
+  "image_id": 229358,
+  "seed_index": 1,
+  "seed": 2484717,
+  "prompt": "A man standing in front of a mirror in a room.",
+  "path": "results/runs/controlnet_sparse/000000229358_s1.png",
+  "sha256": "88e3cccf92a5a49744e2c8d87aaa7e9396c34f7b02b5021accc1f5bbd2ce35a5",
+  "latency_s": 2.742644925005152,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

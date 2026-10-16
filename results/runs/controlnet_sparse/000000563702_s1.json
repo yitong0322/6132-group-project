@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_sparse",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "88986ea6e18a64cdcc4d2f2c7c574e63ac06733272a42dfa6d44b4ea528ac428",
+  "image_id": 563702,
+  "seed_index": 1,
+  "seed": 3153405,
+  "prompt": "A fire fire truck parked in a parking lot.",
+  "path": "results/runs/controlnet_sparse/000000563702_s1.png",
+  "sha256": "41155679f0ac919b85d69179b6dbd05df05b3a1e28315b74c371e98b1e75722f",
+  "latency_s": 2.7438531809893902,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

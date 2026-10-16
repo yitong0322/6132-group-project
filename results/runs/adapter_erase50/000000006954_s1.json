@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase50",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "896b5ee20f16dbe54a8a8a0f8cbb30f7dfda77457ef77ac9d5f01f8363335ce2",
+  "image_id": 6954,
+  "seed_index": 1,
+  "seed": 2039909,
+  "prompt": "A group of young children sitting in the grass.",
+  "path": "results/runs/adapter_erase50/000000006954_s1.png",
+  "sha256": "1015fddb1c22beb0ca3ded3ffd9e6a410a0abb7f6913a51a9bc8a5f984952e24",
+  "latency_s": 1.9890676799986977,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

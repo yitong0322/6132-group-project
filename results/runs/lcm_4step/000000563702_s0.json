@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_4step",
+    "method": "lcm",
+    "steps": 4,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "9ec22cf595f8b833bea186b1ab867b1ae0fab3debca422e4ad0a7028793290a0",
+  "image_id": 563702,
+  "seed_index": 0,
+  "seed": 3153404,
+  "prompt": "A fire fire truck parked in a parking lot.",
+  "path": "results/runs/lcm_4step/000000563702_s0.png",
+  "sha256": "3ab03fdd87622b84d0213d938a01d0bd4b24cda705578c03ac288a4f587df3c7",
+  "latency_s": 1.8347070769959828,
+  "peak_allocated_mib": 9947.5927734375,
+  "peak_reserved_mib": 12650.0
+}

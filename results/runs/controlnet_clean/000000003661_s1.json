@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_clean",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "clean",
+    "strength": 1.5
+  },
+  "config_hash": "66b43ec0d0e6b23b0522fd655cf1655236bdd2a53d75e7fff42de6022e9c484b",
+  "image_id": 3661,
+  "seed_index": 1,
+  "seed": 2033323,
+  "prompt": "A bunch of bananas sitting on top of a wooden table.",
+  "path": "results/runs/controlnet_clean/000000003661_s1.png",
+  "sha256": "548a99a0b5eec993f48dfb31bc6ece16b0cdfce0ecaed86c76d05f6843af9e77",
+  "latency_s": 2.740079020994017,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_8step",
+    "method": "lcm",
+    "steps": 8,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "feddce4cdbe9647508117b127ff6e71f47b840f02764b4ba859667a4e90c6edf",
+  "image_id": 407614,
+  "seed_index": 0,
+  "seed": 2841228,
+  "prompt": "A smaller kitchen with a very decorated fridge. ",
+  "path": "results/runs/lcm_8step/000000407614_s0.png",
+  "sha256": "a38380d3bf58ef76ee90c81a0b0fa2dbd147d8c83bd9e29237738696030740a9",
+  "latency_s": 2.598838235993753,
+  "peak_allocated_mib": 9947.0927734375,
+  "peak_reserved_mib": 12650.0
+}

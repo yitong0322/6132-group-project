@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_dense",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "f25fcf61e38298c2c82909b445848fd59f39f4565e113adeded45d7fab51ac96",
+  "image_id": 206831,
+  "seed_index": 0,
+  "seed": 2439662,
+  "prompt": "A large brown dog holding a neon frisbee in his mouth.",
+  "path": "results/runs/controlnet_dense/000000206831_s0.png",
+  "sha256": "80d93a1234416e717223104a19820aaa4a05406ff450cb7439c9c5cf04aa2f50",
+  "latency_s": 2.7350210589938797,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

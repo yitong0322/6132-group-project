@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase25",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase25",
+    "strength": 1.5
+  },
+  "config_hash": "80d457176300f341e45e2f76b044a50c847f1e3c3c84309a1df5ae1d17c970c5",
+  "image_id": 15517,
+  "seed_index": 1,
+  "seed": 2057035,
+  "prompt": "Buses parked on a road outside a large bus station. ",
+  "path": "results/runs/adapter_erase25/000000015517_s1.png",
+  "sha256": "ece257e06822b41456bc3878eca96e9b26a285719bcf774e1616c676c1514e0b",
+  "latency_s": 1.9891842549986904,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

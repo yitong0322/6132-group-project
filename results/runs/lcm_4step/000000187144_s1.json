@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_4step",
+    "method": "lcm",
+    "steps": 4,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "9ec22cf595f8b833bea186b1ab867b1ae0fab3debca422e4ad0a7028793290a0",
+  "image_id": 187144,
+  "seed_index": 1,
+  "seed": 2400289,
+  "prompt": " A white bus parked at a stop next to a crowd.",
+  "path": "results/runs/lcm_4step/000000187144_s1.png",
+  "sha256": "214a0e166d971415619f9a3c1ade0e7beb3381a2c5a3b64f6afe17e10a5417ce",
+  "latency_s": 1.8423210620094324,
+  "peak_allocated_mib": 9947.8427734375,
+  "peak_reserved_mib": 12650.0
+}

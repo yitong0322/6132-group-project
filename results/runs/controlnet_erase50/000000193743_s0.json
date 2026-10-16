@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_erase50",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "22aaf1199ae8d9bf147f8b71f7b2196b68dded76b271f6f12b37f1a8956cefe6",
+  "image_id": 193743,
+  "seed_index": 0,
+  "seed": 2413486,
+  "prompt": "A man standing on a tennis court waves to someone. ",
+  "path": "results/runs/controlnet_erase50/000000193743_s0.png",
+  "sha256": "d5675c7d162551209a6ab57a77f066ddd17699b44add04b2579a03747572c4a0",
+  "latency_s": 2.7338908969977638,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

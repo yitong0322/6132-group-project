@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_erase25",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase25",
+    "strength": 1.5
+  },
+  "config_hash": "8fb8a2754192714bc32db360b571eff94829570c7be658ef8572cbbfe9dfb389",
+  "image_id": 2149,
+  "seed_index": 1,
+  "seed": 2030299,
+  "prompt": "A large white bowl of many green apples. ",
+  "path": "results/runs/controlnet_erase25/000000002149_s1.png",
+  "sha256": "f60c3cf7ea9528a8e4fd8a0e63cbe2b08434f1bccc31445fdef53520dae1cd60",
+  "latency_s": 2.738363365002442,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

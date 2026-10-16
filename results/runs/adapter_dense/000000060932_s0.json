@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_dense",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "114bbb8b7de882aa24fc41d9ba598b03037e7e4fd05b317cde3dc9b41adcdaad",
+  "image_id": 60932,
+  "seed_index": 0,
+  "seed": 2147864,
+  "prompt": "A group of people standing in a room.",
+  "path": "results/runs/adapter_dense/000000060932_s0.png",
+  "sha256": "1f060edcaebf406bd1d59eac3ed67f0fae1fd1303cf72c0dc720e36faf68697b",
+  "latency_s": 1.9881521439965582,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

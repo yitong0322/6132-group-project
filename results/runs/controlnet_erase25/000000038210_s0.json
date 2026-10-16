@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_erase25",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase25",
+    "strength": 1.5
+  },
+  "config_hash": "8fb8a2754192714bc32db360b571eff94829570c7be658ef8572cbbfe9dfb389",
+  "image_id": 38210,
+  "seed_index": 0,
+  "seed": 2102420,
+  "prompt": "a skier is prepared to go down a mountain.",
+  "path": "results/runs/controlnet_erase25/000000038210_s0.png",
+  "sha256": "5e4f8942f842fd0c5c9a9da9bef439ec6ac192015689d8d6a6721ecd1fa9be05",
+  "latency_s": 2.7374953270045808,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

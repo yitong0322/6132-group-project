@@ -1,0 +1,3 @@
+
+RUN START Fri Oct 16 01:02:34 2026
+{"path": "/home/max/MSAI/6132_handoff_20261016.zip", "sha256": "63ad172b32760822ddd60cf8e387134ff70c6906171d71918ee9f9909ce47382", "bytes": 3313092672, "files": 8470, "zip_crc_and_member_sha256": "PASS", "excluded": ["models/", ".venv/", "duplicate original zip", "COCO annotation archive zip"]}

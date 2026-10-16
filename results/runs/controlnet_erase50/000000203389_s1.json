@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_erase50",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "22aaf1199ae8d9bf147f8b71f7b2196b68dded76b271f6f12b37f1a8956cefe6",
+  "image_id": 203389,
+  "seed_index": 1,
+  "seed": 2432779,
+  "prompt": "A group of young people riding motorcycles near a river.",
+  "path": "results/runs/controlnet_erase50/000000203389_s1.png",
+  "sha256": "6a4c4a2524ed9f8f428877b2f2a5f19a4d9732da4dc3837d649576c004852fc0",
+  "latency_s": 2.734528738001245,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

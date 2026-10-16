@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_erase50",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "22aaf1199ae8d9bf147f8b71f7b2196b68dded76b271f6f12b37f1a8956cefe6",
+  "image_id": 206831,
+  "seed_index": 1,
+  "seed": 2439663,
+  "prompt": "A large brown dog holding a neon frisbee in his mouth.",
+  "path": "results/runs/controlnet_erase50/000000206831_s1.png",
+  "sha256": "33fb1d3c9d9a94993ee5dad02996589e328f149bb4228bc9090a7ad2a0446235",
+  "latency_s": 2.7343984940089285,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

@@ -1,0 +1,34 @@
+Loading pipeline components...:   0%|          | 0/7 [00:00<?, ?it/s]Loading pipeline components...:  43%|████▎     | 3/7 [00:00<00:00, 11.72it/s]Loading pipeline components...:  71%|███████▏  | 5/7 [00:00<00:00,  9.58it/s]Loading pipeline components...: 100%|██████████| 7/7 [00:00<00:00, 10.19it/s]Loading pipeline components...: 100%|██████████| 7/7 [00:00<00:00, 10.25it/s]
+No LoRA keys associated to CLIPTextModel found with the prefix='text_encoder'. This is safe to ignore if LoRA state dict didn't originally have any CLIPTextModel related params. You can also try specifying `prefix=None` to resolve the warning. Otherwise, open an issue if you think it's unexpected: https://github.com/huggingface/diffusers/issues/new
+No LoRA keys associated to CLIPTextModelWithProjection found with the prefix='text_encoder_2'. This is safe to ignore if LoRA state dict didn't originally have any CLIPTextModelWithProjection related params. You can also try specifying `prefix=None` to resolve the warning. Otherwise, open an issue if you think it's unexpected: https://github.com/huggingface/diffusers/issues/new
+The config attributes {'skip_prk_steps': True} were passed to LCMScheduler, but are not expected and will be ignored. Please verify your scheduler_config.json configuration file.
+START lcm_4step remaining 2
+lcm_4step 1 / 2 1.816s 9947MiB
+lcm_4step 2 / 2 1.811s 9948MiB
+COMPLETE lcm_4step
+Loading pipeline components...:   0%|          | 0/7 [00:00<?, ?it/s]Loading pipeline components...:  43%|████▎     | 3/7 [00:00<00:00, 16.39it/s]Loading pipeline components...:  71%|███████▏  | 5/7 [00:00<00:00, 16.26it/s]Loading pipeline components...: 100%|██████████| 7/7 [00:00<00:00, 14.79it/s]Loading pipeline components...: 100%|██████████| 7/7 [00:00<00:00, 15.22it/s]
+START sdxl_30step remaining 2
+sdxl_30step 1 / 2 11.738s 9947MiB
+sdxl_30step 2 / 2 11.738s 9947MiB
+COMPLETE sdxl_30step
+Loading pipeline components...:   0%|          | 0/6 [00:00<?, ?it/s]Loading pipeline components...:  17%|█▋        | 1/6 [00:00<00:00, 729.70it/s]
+Traceback (most recent call last):
+  File "/home/max/MSAI/6132/scripts/run_experiments.py", line 124, in <module>
+    if __name__=='__main__': main()
+  File "/home/max/MSAI/6132/scripts/run_experiments.py", line 112, in main
+    gc.collect(); torch.cuda.empty_cache(); pipe=load_pipeline(c); previous_key=key
+  File "/home/max/MSAI/6132/scripts/run_experiments.py", line 56, in load_pipeline
+    pipe=StableDiffusionControlNetPipeline.from_pretrained(str(MODEL/'sd15'),controlnet=control,**kw)
+  File "/home/max/MSAI/6132/.venv/lib/python3.10/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+  File "/home/max/MSAI/6132/.venv/lib/python3.10/site-packages/diffusers/pipelines/pipeline_utils.py", line 1025, in from_pretrained
+    loaded_sub_model = load_sub_model(
+  File "/home/max/MSAI/6132/.venv/lib/python3.10/site-packages/diffusers/pipelines/pipeline_loading_utils.py", line 852, in load_sub_model
+    loaded_sub_model = load_method(cached_folder, **loading_kwargs)
+  File "/home/max/MSAI/6132/.venv/lib/python3.10/site-packages/transformers/image_processing_base.py", line 209, in from_pretrained
+    image_processor_dict, kwargs = cls.get_image_processor_dict(pretrained_model_name_or_path, **kwargs)
+  File "/home/max/MSAI/6132/.venv/lib/python3.10/site-packages/transformers/image_processing_base.py", line 341, in get_image_processor_dict
+    resolved_image_processor_file = cached_file(
+  File "/home/max/MSAI/6132/.venv/lib/python3.10/site-packages/transformers/utils/hub.py", line 313, in cached_file
+    raise EnvironmentError(
+OSError: /home/max/MSAI/6132/models/sd15 does not appear to have a file named preprocessor_config.json. Checkout 'https://huggingface.co//home/max/MSAI/6132/models/sd15/tree/main' for available files.

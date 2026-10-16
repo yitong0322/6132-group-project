@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "sd15_30step",
+    "method": "sd15",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "none"
+  },
+  "config_hash": "50a25ea0626a66bb0ec90a9954c0e8703317fb3903621c472f0b82bcf8c26228",
+  "image_id": 465585,
+  "seed_index": 0,
+  "seed": 2957170,
+  "prompt": "An aluminum pan full of chopped broccoli and carrots.",
+  "path": "results/runs/sd15_30step/000000465585_s0.png",
+  "sha256": "4c0c12200670046c0112e6dac210a99b283f260c94d9ff98b5d87d0fe37806c6",
+  "latency_s": 1.9827485330024501,
+  "peak_allocated_mib": 2675.13818359375,
+  "peak_reserved_mib": 3238.0
+}

@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase50",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "896b5ee20f16dbe54a8a8a0f8cbb30f7dfda77457ef77ac9d5f01f8363335ce2",
+  "image_id": 142324,
+  "seed_index": 1,
+  "seed": 2310649,
+  "prompt": "A person on a motor bike on a street.",
+  "path": "results/runs/adapter_erase50/000000142324_s1.png",
+  "sha256": "990926f5dfef7f7dffe3a71ae84fc7e04865e41e11c26552af653ae0ea712673",
+  "latency_s": 1.988593446003506,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

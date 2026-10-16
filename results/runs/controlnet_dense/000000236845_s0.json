@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_dense",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "f25fcf61e38298c2c82909b445848fd59f39f4565e113adeded45d7fab51ac96",
+  "image_id": 236845,
+  "seed_index": 0,
+  "seed": 2499690,
+  "prompt": "a red and white sign a car and some buildings",
+  "path": "results/runs/controlnet_dense/000000236845_s0.png",
+  "sha256": "92d3b489ffc708f7c7ffbc8cfcbba6bf7b1e7a87c3726d7077b67fff043789d8",
+  "latency_s": 2.7354154549975647,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

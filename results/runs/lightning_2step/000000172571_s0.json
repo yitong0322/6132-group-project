@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_2step",
+    "method": "lightning",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "c9f1d7562e2c721c6f9d933bd0ebaabec8feb143758b08fb930248cd7d3e3ae6",
+  "image_id": 172571,
+  "seed_index": 0,
+  "seed": 2371142,
+  "prompt": "A very thick pizza is on a plate with one piece taken.",
+  "path": "results/runs/lightning_2step/000000172571_s0.png",
+  "sha256": "b4bdc9bc935e88a464843d528a8c1ac969ac40ece6d6bd45be2de9a0939f3152",
+  "latency_s": 1.4464208350109402,
+  "peak_allocated_mib": 9949.2958984375,
+  "peak_reserved_mib": 12632.0
+}

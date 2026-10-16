@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_erase25",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase25",
+    "strength": 1.5
+  },
+  "config_hash": "8fb8a2754192714bc32db360b571eff94829570c7be658ef8572cbbfe9dfb389",
+  "image_id": 400044,
+  "seed_index": 0,
+  "seed": 2826088,
+  "prompt": "A person riding a snowboard into the air next to a tall building.",
+  "path": "results/runs/controlnet_erase25/000000400044_s0.png",
+  "sha256": "289771b468e840aa7e677c5d658dff530d51fcb30b2bd4890eaaa4f6e98983ed",
+  "latency_s": 2.7380204660003074,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

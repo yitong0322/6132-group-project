@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_dense",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "f25fcf61e38298c2c82909b445848fd59f39f4565e113adeded45d7fab51ac96",
+  "image_id": 210273,
+  "seed_index": 1,
+  "seed": 2446547,
+  "prompt": "Buses and cars on interstate going both ways. ",
+  "path": "results/runs/controlnet_dense/000000210273_s1.png",
+  "sha256": "48ff89f07daa59ff8f167658e3e54246b9d1a9512c2561bdbe0882f6ce10163b",
+  "latency_s": 2.733779581001727,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

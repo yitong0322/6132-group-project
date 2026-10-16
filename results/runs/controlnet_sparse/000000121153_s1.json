@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_sparse",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "88986ea6e18a64cdcc4d2f2c7c574e63ac06733272a42dfa6d44b4ea528ac428",
+  "image_id": 121153,
+  "seed_index": 1,
+  "seed": 2268307,
+  "prompt": "A white road sign suspended over a highway.",
+  "path": "results/runs/controlnet_sparse/000000121153_s1.png",
+  "sha256": "d43a9d1976ccb71922e8c41376864b1925c19d814ab69a75495a8f2fba5bf5d8",
+  "latency_s": 2.7342527829896426,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

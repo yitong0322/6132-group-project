@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_dense",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "114bbb8b7de882aa24fc41d9ba598b03037e7e4fd05b317cde3dc9b41adcdaad",
+  "image_id": 377393,
+  "seed_index": 0,
+  "seed": 2780786,
+  "prompt": "Looking down at a beach area and boardwalk that has a circular walkway and clock tower.",
+  "path": "results/runs/adapter_dense/000000377393_s0.png",
+  "sha256": "517d84db7220d9db3050645a1501a8848eb0a91e4d83bc9c4e6545436dd48180",
+  "latency_s": 1.9879101950064069,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_8step",
+    "method": "lcm",
+    "steps": 8,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "feddce4cdbe9647508117b127ff6e71f47b840f02764b4ba859667a4e90c6edf",
+  "image_id": 237118,
+  "seed_index": 0,
+  "seed": 2500236,
+  "prompt": "A middle aged man takes a selfie in a mirror.",
+  "path": "results/runs/lcm_8step/000000237118_s0.png",
+  "sha256": "a36f5de7983b9e28af79288b21b0257b422c7d1d82fdcc61f87f347056f5ecf8",
+  "latency_s": 2.6088007369980915,
+  "peak_allocated_mib": 9948.8427734375,
+  "peak_reserved_mib": 12650.0
+}

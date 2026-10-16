@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "sd15_30step",
+    "method": "sd15",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "none"
+  },
+  "config_hash": "50a25ea0626a66bb0ec90a9954c0e8703317fb3903621c472f0b82bcf8c26228",
+  "image_id": 190753,
+  "seed_index": 0,
+  "seed": 2407506,
+  "prompt": "There is a group of four men sitting on park benches.",
+  "path": "results/runs/sd15_30step/000000190753_s0.png",
+  "sha256": "9541902421eb59c07d9626ed652d183da0301991562a4978df60d4f9e5d5a362",
+  "latency_s": 1.9829592449968914,
+  "peak_allocated_mib": 2675.13818359375,
+  "peak_reserved_mib": 3238.0
+}

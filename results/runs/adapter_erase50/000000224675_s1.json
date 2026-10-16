@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase50",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "896b5ee20f16dbe54a8a8a0f8cbb30f7dfda77457ef77ac9d5f01f8363335ce2",
+  "image_id": 224675,
+  "seed_index": 1,
+  "seed": 2475351,
+  "prompt": "A woman standing next to a man kneeling down on the ground.",
+  "path": "results/runs/adapter_erase50/000000224675_s1.png",
+  "sha256": "8599d9162cd3001fdc3efc4f4e8070dd4ea91e287df94e1fa985ea96ce66a2ad",
+  "latency_s": 1.9886995770066278,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

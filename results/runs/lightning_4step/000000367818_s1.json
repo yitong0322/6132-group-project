@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_4step",
+    "method": "lightning",
+    "steps": 4,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "16ac80513f831abd97c3f2a5ff13092269bfbb5f3406b2a8d454fc9d71c49fcd",
+  "image_id": 367818,
+  "seed_index": 1,
+  "seed": 2761637,
+  "prompt": "A woman in tight blue jeans standing next to a brown horse.",
+  "path": "results/runs/lightning_4step/000000367818_s1.png",
+  "sha256": "0346d8aa9a3f3678d0901867ed3160c7f313460862c095beb921bc48a907b432",
+  "latency_s": 1.8252510350139346,
+  "peak_allocated_mib": 9949.5458984375,
+  "peak_reserved_mib": 12632.0
+}

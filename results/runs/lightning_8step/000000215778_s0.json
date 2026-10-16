@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_8step",
+    "method": "lightning",
+    "steps": 8,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "711af09a6d55e6cffce394b70a1f925c5621329067c780a2ae6a492787f97d3f",
+  "image_id": 215778,
+  "seed_index": 0,
+  "seed": 2457556,
+  "prompt": "There is a lap top computer on the desk",
+  "path": "results/runs/lightning_8step/000000215778_s0.png",
+  "sha256": "a2c29d8e278b755f5c3c98ef8c2b1b0af92538d404a5825e61add3132ddc3e0b",
+  "latency_s": 2.587898566998774,
+  "peak_allocated_mib": 9948.0458984375,
+  "peak_reserved_mib": 12632.0
+}

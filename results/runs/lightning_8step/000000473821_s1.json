@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_8step",
+    "method": "lightning",
+    "steps": 8,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "711af09a6d55e6cffce394b70a1f925c5621329067c780a2ae6a492787f97d3f",
+  "image_id": 473821,
+  "seed_index": 1,
+  "seed": 2973643,
+  "prompt": "A red couch next to a brown chair in a living room.",
+  "path": "results/runs/lightning_8step/000000473821_s1.png",
+  "sha256": "b8c2a67d2253ada5831c0bf81f5b33142a8a440512545943c9dfb401d315496c",
+  "latency_s": 2.587562850996619,
+  "peak_allocated_mib": 9949.2958984375,
+  "peak_reserved_mib": 12632.0
+}

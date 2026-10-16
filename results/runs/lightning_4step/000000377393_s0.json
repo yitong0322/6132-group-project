@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_4step",
+    "method": "lightning",
+    "steps": 4,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "16ac80513f831abd97c3f2a5ff13092269bfbb5f3406b2a8d454fc9d71c49fcd",
+  "image_id": 377393,
+  "seed_index": 0,
+  "seed": 2780786,
+  "prompt": "Looking down at a beach area and boardwalk that has a circular walkway and clock tower.",
+  "path": "results/runs/lightning_4step/000000377393_s0.png",
+  "sha256": "9cda22efd504bfee167bf8cc03d56bb4db6d7c520143101bbcaceb4936486b7e",
+  "latency_s": 1.8254185179976048,
+  "peak_allocated_mib": 9949.7958984375,
+  "peak_reserved_mib": 12632.0
+}

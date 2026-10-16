@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase50",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "896b5ee20f16dbe54a8a8a0f8cbb30f7dfda77457ef77ac9d5f01f8363335ce2",
+  "image_id": 159791,
+  "seed_index": 1,
+  "seed": 2345583,
+  "prompt": "A white refrigerator freezer covered in magnets and pictures.",
+  "path": "results/runs/adapter_erase50/000000159791_s1.png",
+  "sha256": "0981272da8100dd5ccd526d7c1e7212ffb0fdded6d68737405f9bcb64e4cf147",
+  "latency_s": 1.990748658994562,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

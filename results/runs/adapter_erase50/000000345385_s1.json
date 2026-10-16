@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase50",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "896b5ee20f16dbe54a8a8a0f8cbb30f7dfda77457ef77ac9d5f01f8363335ce2",
+  "image_id": 345385,
+  "seed_index": 1,
+  "seed": 2716771,
+  "prompt": "Young couple happily snuggling on their bed together",
+  "path": "results/runs/adapter_erase50/000000345385_s1.png",
+  "sha256": "773f2f324eb673ee4f5248b22a3ec7aa3d2c55dade645a3aa315ddf57ba993f5",
+  "latency_s": 1.9889610620011808,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

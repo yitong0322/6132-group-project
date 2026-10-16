@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_sparse",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "e591437800140077d0a3adb6b23eea9fd6dac35575bed9dfa31bd71572efb58f",
+  "image_id": 498032,
+  "seed_index": 1,
+  "seed": 3022065,
+  "prompt": "A person standing in a room with a remote.",
+  "path": "results/runs/adapter_sparse/000000498032_s1.png",
+  "sha256": "40087ccbe9ef0d14a8456e57471e5879f332f7c72269d097b31991c37188d244",
+  "latency_s": 1.990363801989588,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

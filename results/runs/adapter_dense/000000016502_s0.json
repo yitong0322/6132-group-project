@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_dense",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "114bbb8b7de882aa24fc41d9ba598b03037e7e4fd05b317cde3dc9b41adcdaad",
+  "image_id": 16502,
+  "seed_index": 0,
+  "seed": 2059004,
+  "prompt": "A sheep standing on top of a rock. ",
+  "path": "results/runs/adapter_dense/000000016502_s0.png",
+  "sha256": "56f1686465592ed20fb89e77b8944a27dd48544acaa1f75e04c6049aab010e87",
+  "latency_s": 1.9881697110104142,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

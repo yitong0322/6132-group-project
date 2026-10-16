@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "unchanged_numerical_functions": [
+    "configs",
+    "load_pipeline",
+    "inputs",
+    "generate"
+  ],
+  "executed_source_sha256": "54c8b1b06371b569a0e50f35bb8d18413b08ba727bd5693b79a901a58b471c2c",
+  "handoff_source_sha256": "0e1ac12f6f4d2b08aaf2ccfe4d808c9e169c3b79030db5fde851e0e7a103cfe0",
+  "change": "Resume environment guard only; existing generation environment no longer overwritten"
+}

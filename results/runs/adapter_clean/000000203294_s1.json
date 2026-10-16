@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_clean",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "clean",
+    "strength": 1.5
+  },
+  "config_hash": "9ba657d5c560196238df271ac941213dbe52470be0b52f57afa1fe86ef55ed19",
+  "image_id": 203294,
+  "seed_index": 1,
+  "seed": 2432589,
+  "prompt": "A tour bus with a cats face painted on the front of it",
+  "path": "results/runs/adapter_clean/000000203294_s1.png",
+  "sha256": "6e837aa07341ffad23b7cc1121f2258f34a3f8ff30653552d9679a19249c67dd",
+  "latency_s": 1.9909963059908478,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

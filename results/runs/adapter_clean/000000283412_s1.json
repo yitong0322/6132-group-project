@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_clean",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "clean",
+    "strength": 1.5
+  },
+  "config_hash": "9ba657d5c560196238df271ac941213dbe52470be0b52f57afa1fe86ef55ed19",
+  "image_id": 283412,
+  "seed_index": 1,
+  "seed": 2592825,
+  "prompt": "A little poodle puppy laying near a newspaper with a look of guilt.",
+  "path": "results/runs/adapter_clean/000000283412_s1.png",
+  "sha256": "2449799128d5f481abef7293773d4f21f08d98106205e0a7236109fc1788704d",
+  "latency_s": 1.9903751969977748,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

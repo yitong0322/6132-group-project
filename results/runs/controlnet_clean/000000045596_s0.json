@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_clean",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "clean",
+    "strength": 1.5
+  },
+  "config_hash": "66b43ec0d0e6b23b0522fd655cf1655236bdd2a53d75e7fff42de6022e9c484b",
+  "image_id": 45596,
+  "seed_index": 0,
+  "seed": 2117192,
+  "prompt": "A view A large metal structure near the side of a building",
+  "path": "results/runs/controlnet_clean/000000045596_s0.png",
+  "sha256": "444d70bca5e388cba7da050816fd0e9c9449fcb8236e4aff20f06aad87f775ff",
+  "latency_s": 2.7420370659965556,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

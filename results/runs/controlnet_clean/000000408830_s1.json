@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_clean",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "clean",
+    "strength": 1.5
+  },
+  "config_hash": "66b43ec0d0e6b23b0522fd655cf1655236bdd2a53d75e7fff42de6022e9c484b",
+  "image_id": 408830,
+  "seed_index": 1,
+  "seed": 2843661,
+  "prompt": "a colorful motorcycle sitting next to a fence ",
+  "path": "results/runs/controlnet_clean/000000408830_s1.png",
+  "sha256": "c2fb7ff6a12b96e189ab9bbe3167661f4ef609fa359b16d4ee358958fe047081",
+  "latency_s": 2.739304225993692,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

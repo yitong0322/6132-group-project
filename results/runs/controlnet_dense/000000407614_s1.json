@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_dense",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "f25fcf61e38298c2c82909b445848fd59f39f4565e113adeded45d7fab51ac96",
+  "image_id": 407614,
+  "seed_index": 1,
+  "seed": 2841229,
+  "prompt": "A smaller kitchen with a very decorated fridge. ",
+  "path": "results/runs/controlnet_dense/000000407614_s1.png",
+  "sha256": "1efbc8a2315ee4482ef2a3e88537b9d69d738371a5ed00c217e650d4107d82ce",
+  "latency_s": 2.734440653992351,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

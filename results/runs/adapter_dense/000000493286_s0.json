@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_dense",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "114bbb8b7de882aa24fc41d9ba598b03037e7e4fd05b317cde3dc9b41adcdaad",
+  "image_id": 493286,
+  "seed_index": 0,
+  "seed": 3012572,
+  "prompt": "an old car in front of an old air plane",
+  "path": "results/runs/adapter_dense/000000493286_s0.png",
+  "sha256": "fb931c3777f767128023ebbcbfcc16c90c543afa23d2e5771ad8d855c174d130",
+  "latency_s": 1.9886899509874638,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

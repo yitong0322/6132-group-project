@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_2step",
+    "method": "lightning",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "c9f1d7562e2c721c6f9d933bd0ebaabec8feb143758b08fb930248cd7d3e3ae6",
+  "image_id": 465585,
+  "seed_index": 1,
+  "seed": 2957171,
+  "prompt": "An aluminum pan full of chopped broccoli and carrots.",
+  "path": "results/runs/lightning_2step/000000465585_s1.png",
+  "sha256": "5b0e169029ee842d49ed191faa35ed2427093c30e6e5de997b9e5f7201d773db",
+  "latency_s": 1.4452971840073587,
+  "peak_allocated_mib": 9948.5458984375,
+  "peak_reserved_mib": 12632.0
+}

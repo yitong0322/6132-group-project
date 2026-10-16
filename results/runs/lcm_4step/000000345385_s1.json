@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_4step",
+    "method": "lcm",
+    "steps": 4,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "9ec22cf595f8b833bea186b1ab867b1ae0fab3debca422e4ad0a7028793290a0",
+  "image_id": 345385,
+  "seed_index": 1,
+  "seed": 2716771,
+  "prompt": "Young couple happily snuggling on their bed together",
+  "path": "results/runs/lcm_4step/000000345385_s1.png",
+  "sha256": "c53826f6de16a9c00ae384abe520598a70eafe79c6236ca945b2673aed4a7248",
+  "latency_s": 1.838307755999267,
+  "peak_allocated_mib": 9947.5927734375,
+  "peak_reserved_mib": 12650.0
+}

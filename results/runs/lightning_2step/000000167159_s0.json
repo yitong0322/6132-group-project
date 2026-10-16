@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_2step",
+    "method": "lightning",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "c9f1d7562e2c721c6f9d933bd0ebaabec8feb143758b08fb930248cd7d3e3ae6",
+  "image_id": 167159,
+  "seed_index": 0,
+  "seed": 2360318,
+  "prompt": "a doll with a bonnet and a book on a pillow",
+  "path": "results/runs/lightning_2step/000000167159_s0.png",
+  "sha256": "92e4390e031ef9d18d96e09b6e556cc4c0d1147f77d9c01286c431516015696e",
+  "latency_s": 1.4464750189945335,
+  "peak_allocated_mib": 9949.0458984375,
+  "peak_reserved_mib": 12632.0
+}

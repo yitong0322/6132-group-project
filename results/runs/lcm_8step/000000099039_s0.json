@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_8step",
+    "method": "lcm",
+    "steps": 8,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "feddce4cdbe9647508117b127ff6e71f47b840f02764b4ba859667a4e90c6edf",
+  "image_id": 99039,
+  "seed_index": 0,
+  "seed": 2224078,
+  "prompt": "Plates  of food and glasses of wine sitting on a table",
+  "path": "results/runs/lcm_8step/000000099039_s0.png",
+  "sha256": "a271684e060f0afd40d7665f628ea464d558dc13e0be3963284eb98df23a421b",
+  "latency_s": 2.6090318870119518,
+  "peak_allocated_mib": 9948.0927734375,
+  "peak_reserved_mib": 12650.0
+}

@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_4step",
+    "method": "lcm",
+    "steps": 4,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "9ec22cf595f8b833bea186b1ab867b1ae0fab3debca422e4ad0a7028793290a0",
+  "image_id": 384350,
+  "seed_index": 1,
+  "seed": 2794701,
+  "prompt": "a white and red plane parked on a tarmac",
+  "path": "results/runs/lcm_4step/000000384350_s1.png",
+  "sha256": "483e38e6b639c731d03ef42df487d10d55c87a40b4d9c187d6511814bc39cec1",
+  "latency_s": 1.8414531690068543,
+  "peak_allocated_mib": 9947.5927734375,
+  "peak_reserved_mib": 12650.0
+}

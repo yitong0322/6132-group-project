@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_dense",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "f25fcf61e38298c2c82909b445848fd59f39f4565e113adeded45d7fab51ac96",
+  "image_id": 25986,
+  "seed_index": 1,
+  "seed": 2077973,
+  "prompt": "A bunch of items that are on a counter.",
+  "path": "results/runs/controlnet_dense/000000025986_s1.png",
+  "sha256": "c5dd33e020f15293d7d766eba94837f117b699773f27c9b9164855d3db0d3207",
+  "latency_s": 2.733708536994527,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase25",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase25",
+    "strength": 1.5
+  },
+  "config_hash": "80d457176300f341e45e2f76b044a50c847f1e3c3c84309a1df5ae1d17c970c5",
+  "image_id": 215778,
+  "seed_index": 1,
+  "seed": 2457557,
+  "prompt": "There is a lap top computer on the desk",
+  "path": "results/runs/adapter_erase25/000000215778_s1.png",
+  "sha256": "9b6ec35670c32cfdab4373b8e2794a3a207c839ed40393262c6c6b2d5e807cea",
+  "latency_s": 1.9896939229947748,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

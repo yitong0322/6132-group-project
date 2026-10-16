@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_erase25",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase25",
+    "strength": 1.5
+  },
+  "config_hash": "8fb8a2754192714bc32db360b571eff94829570c7be658ef8572cbbfe9dfb389",
+  "image_id": 381639,
+  "seed_index": 0,
+  "seed": 2789278,
+  "prompt": "A little girl walking along a row of orange cones.",
+  "path": "results/runs/controlnet_erase25/000000381639_s0.png",
+  "sha256": "49da86e2cac6fe56fce3253527881c6533b1818ca614d4aa25447a1e332f379a",
+  "latency_s": 2.7404188020009315,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

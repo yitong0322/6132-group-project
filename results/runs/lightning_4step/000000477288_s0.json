@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_4step",
+    "method": "lightning",
+    "steps": 4,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "16ac80513f831abd97c3f2a5ff13092269bfbb5f3406b2a8d454fc9d71c49fcd",
+  "image_id": 477288,
+  "seed_index": 0,
+  "seed": 2980576,
+  "prompt": "Several men in costume gather together under their umbrellas.",
+  "path": "results/runs/lightning_4step/000000477288_s0.png",
+  "sha256": "1f97a0ee2635e28bb0d15a2c633bde7c61cc7f3b6a6e9293bf210c36df7a8657",
+  "latency_s": 1.8247746879933402,
+  "peak_allocated_mib": 9949.5458984375,
+  "peak_reserved_mib": 12632.0
+}

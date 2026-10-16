@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_sparse",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "e591437800140077d0a3adb6b23eea9fd6dac35575bed9dfa31bd71572efb58f",
+  "image_id": 115898,
+  "seed_index": 0,
+  "seed": 2257796,
+  "prompt": "A man in black wetsuit on white surfboard riding wave.",
+  "path": "results/runs/adapter_sparse/000000115898_s0.png",
+  "sha256": "a9dd3c9d716a45eaa5378d637449de6d2a2036b439db3da2a7348bae5f5fc1e1",
+  "latency_s": 1.9885106369911227,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

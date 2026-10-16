@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_dense",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "f25fcf61e38298c2c82909b445848fd59f39f4565e113adeded45d7fab51ac96",
+  "image_id": 416885,
+  "seed_index": 0,
+  "seed": 2859770,
+  "prompt": "Three pastry desserts and two glasses of wine are on a table. ",
+  "path": "results/runs/controlnet_dense/000000416885_s0.png",
+  "sha256": "537d3b3044faa944e81f825f53d8bff0cc42785067f72f7b0c4fb7e2572ff41e",
+  "latency_s": 2.7344817650009645,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

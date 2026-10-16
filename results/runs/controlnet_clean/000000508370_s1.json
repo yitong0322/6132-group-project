@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_clean",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "clean",
+    "strength": 1.5
+  },
+  "config_hash": "66b43ec0d0e6b23b0522fd655cf1655236bdd2a53d75e7fff42de6022e9c484b",
+  "image_id": 508370,
+  "seed_index": 1,
+  "seed": 3042741,
+  "prompt": "A bicycle parked on top of a baby dolls head.",
+  "path": "results/runs/controlnet_clean/000000508370_s1.png",
+  "sha256": "0450852c24170f41ee713c5656c910e6ac5caba05a8882714f6c6e94544280f0",
+  "latency_s": 2.7411447369959205,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

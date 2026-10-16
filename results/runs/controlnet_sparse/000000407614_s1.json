@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_sparse",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "88986ea6e18a64cdcc4d2f2c7c574e63ac06733272a42dfa6d44b4ea528ac428",
+  "image_id": 407614,
+  "seed_index": 1,
+  "seed": 2841229,
+  "prompt": "A smaller kitchen with a very decorated fridge. ",
+  "path": "results/runs/controlnet_sparse/000000407614_s1.png",
+  "sha256": "4141ae4f7e141866afa07d2b792610ef07fb0acf7adb7cde79e87202720d6253",
+  "latency_s": 2.736096644002828,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

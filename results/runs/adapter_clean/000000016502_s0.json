@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_clean",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "clean",
+    "strength": 1.5
+  },
+  "config_hash": "9ba657d5c560196238df271ac941213dbe52470be0b52f57afa1fe86ef55ed19",
+  "image_id": 16502,
+  "seed_index": 0,
+  "seed": 2059004,
+  "prompt": "A sheep standing on top of a rock. ",
+  "path": "results/runs/adapter_clean/000000016502_s0.png",
+  "sha256": "ca1daf74a023f8721f64dcdb14707d54aff9125898eae9bddb6942f5c931f0d3",
+  "latency_s": 1.9912429469986819,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_2step",
+    "method": "lightning",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "c9f1d7562e2c721c6f9d933bd0ebaabec8feb143758b08fb930248cd7d3e3ae6",
+  "image_id": 462576,
+  "seed_index": 1,
+  "seed": 2951153,
+  "prompt": "a plate of breakfast food sits on a table",
+  "path": "results/runs/lightning_2step/000000462576_s1.png",
+  "sha256": "6b33c078f60cb2f0812188c4a43ff103c6eaa2884668ace7a500a0632b3100cd",
+  "latency_s": 1.4456907979911193,
+  "peak_allocated_mib": 9950.0458984375,
+  "peak_reserved_mib": 12632.0
+}

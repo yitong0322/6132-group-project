@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_8step",
+    "method": "lcm",
+    "steps": 8,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "feddce4cdbe9647508117b127ff6e71f47b840f02764b4ba859667a4e90c6edf",
+  "image_id": 172856,
+  "seed_index": 0,
+  "seed": 2371712,
+  "prompt": "a stop sign and two brown and white street signs ",
+  "path": "results/runs/lcm_8step/000000172856_s0.png",
+  "sha256": "2d0aa7845cd6f2bbe8547c11209da1c7922fda5fd933b2ba7b53b620322d48a4",
+  "latency_s": 2.608186839002883,
+  "peak_allocated_mib": 9947.0927734375,
+  "peak_reserved_mib": 12650.0
+}

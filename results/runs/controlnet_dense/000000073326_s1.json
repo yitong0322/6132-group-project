@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_dense",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "f25fcf61e38298c2c82909b445848fd59f39f4565e113adeded45d7fab51ac96",
+  "image_id": 73326,
+  "seed_index": 1,
+  "seed": 2172653,
+  "prompt": "An open refrigerator including bottles of various food.",
+  "path": "results/runs/controlnet_dense/000000073326_s1.png",
+  "sha256": "41fb7d3dffb6d7a621dacd8d0bb12718b926d8462d743e3f82a3ee1e7e148559",
+  "latency_s": 2.732926230004523,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

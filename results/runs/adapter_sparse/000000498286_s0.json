@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_sparse",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "e591437800140077d0a3adb6b23eea9fd6dac35575bed9dfa31bd71572efb58f",
+  "image_id": 498286,
+  "seed_index": 0,
+  "seed": 3022572,
+  "prompt": "a vety cute furry dog posing near a big sign.",
+  "path": "results/runs/adapter_sparse/000000498286_s0.png",
+  "sha256": "b95226c6b21de4f39eac187a6f8797d6e885c00695c390326323739b26876b1e",
+  "latency_s": 1.9880603680066997,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

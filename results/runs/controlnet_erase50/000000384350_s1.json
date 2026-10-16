@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_erase50",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "22aaf1199ae8d9bf147f8b71f7b2196b68dded76b271f6f12b37f1a8956cefe6",
+  "image_id": 384350,
+  "seed_index": 1,
+  "seed": 2794701,
+  "prompt": "a white and red plane parked on a tarmac",
+  "path": "results/runs/controlnet_erase50/000000384350_s1.png",
+  "sha256": "f7842a3ee6f63717cb198ed395cdc0f2e0b4a2b01480f701761173d6d1c949b3",
+  "latency_s": 2.735459311006707,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "sd15_30step",
+    "method": "sd15",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "none"
+  },
+  "config_hash": "50a25ea0626a66bb0ec90a9954c0e8703317fb3903621c472f0b82bcf8c26228",
+  "image_id": 477288,
+  "seed_index": 1,
+  "seed": 2980577,
+  "prompt": "Several men in costume gather together under their umbrellas.",
+  "path": "results/runs/sd15_30step/000000477288_s1.png",
+  "sha256": "033dc3ad2b29eebfcbeaefdcf80f972c9139a4e7d44c25f2fc4432245a12ea5d",
+  "latency_s": 1.9829893249989254,
+  "peak_allocated_mib": 2675.13818359375,
+  "peak_reserved_mib": 3238.0
+}

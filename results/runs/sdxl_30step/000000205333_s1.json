@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "sdxl_30step",
+    "method": "sdxl",
+    "steps": 30,
+    "resolution": 1024,
+    "guidance": 5.0,
+    "condition": "none"
+  },
+  "config_hash": "7f2ff1a362b25ed9a421756a7624dd1129e6797ecf34a7ec1fc39f2ba5c3a6df",
+  "image_id": 205333,
+  "seed_index": 1,
+  "seed": 2436667,
+  "prompt": "A pair of skiers on the top of a ski slope with clouds and large mountain in the background.",
+  "path": "results/runs/sdxl_30step/000000205333_s1.png",
+  "sha256": "ac46b7b13ee0ddc09b1c90f0510baaf4f567d5c835f1ab3f368fb19be05b71f1",
+  "latency_s": 11.76174981299846,
+  "peak_allocated_mib": 9947.27978515625,
+  "peak_reserved_mib": 12896.0
+}

@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "sdxl_30step",
+    "method": "sdxl",
+    "steps": 30,
+    "resolution": 1024,
+    "guidance": 5.0,
+    "condition": "none"
+  },
+  "config_hash": "7f2ff1a362b25ed9a421756a7624dd1129e6797ecf34a7ec1fc39f2ba5c3a6df",
+  "image_id": 343561,
+  "seed_index": 1,
+  "seed": 2713123,
+  "prompt": "there are many bike riders racing in a street race",
+  "path": "results/runs/sdxl_30step/000000343561_s1.png",
+  "sha256": "57dc879be080e2697564d5aaddd55bb8a8de3d19e08f6ac1492b54839b4871e9",
+  "latency_s": 11.762306839009398,
+  "peak_allocated_mib": 9947.27978515625,
+  "peak_reserved_mib": 12896.0
+}

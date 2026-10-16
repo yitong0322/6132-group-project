@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_sparse",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "e591437800140077d0a3adb6b23eea9fd6dac35575bed9dfa31bd71572efb58f",
+  "image_id": 549738,
+  "seed_index": 0,
+  "seed": 3125476,
+  "prompt": "A kite is flying in a clear sky.",
+  "path": "results/runs/adapter_sparse/000000549738_s0.png",
+  "sha256": "0922ca90a81cda211d221eae99cfa4a4619f6587bc06795478516148f54e6786",
+  "latency_s": 1.9894763679913012,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

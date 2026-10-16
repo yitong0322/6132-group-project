@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_4step",
+    "method": "lcm",
+    "steps": 4,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "9ec22cf595f8b833bea186b1ab867b1ae0fab3debca422e4ad0a7028793290a0",
+  "image_id": 380203,
+  "seed_index": 1,
+  "seed": 2786407,
+  "prompt": "A white horse is out eating in a field",
+  "path": "results/runs/lcm_4step/000000380203_s1.png",
+  "sha256": "9b090621e67e25a6a4a62b095c3f6f2ad59b4471a7b14668321f021d811e3651",
+  "latency_s": 1.83022673499363,
+  "peak_allocated_mib": 9947.7177734375,
+  "peak_reserved_mib": 12650.0
+}

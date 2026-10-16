@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "sd15_30step",
+    "method": "sd15",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "none"
+  },
+  "config_hash": "50a25ea0626a66bb0ec90a9954c0e8703317fb3903621c472f0b82bcf8c26228",
+  "image_id": 213816,
+  "seed_index": 1,
+  "seed": 2453633,
+  "prompt": "a close up of a public transit train with its doors open",
+  "path": "results/runs/sd15_30step/000000213816_s1.png",
+  "sha256": "7151d118ea541e5566fa20b95e134fc946785524a99c7f6d3d9d7a52bb0de4a5",
+  "latency_s": 1.9829672680061776,
+  "peak_allocated_mib": 2675.13818359375,
+  "peak_reserved_mib": 3238.0
+}

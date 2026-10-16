@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase25",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase25",
+    "strength": 1.5
+  },
+  "config_hash": "80d457176300f341e45e2f76b044a50c847f1e3c3c84309a1df5ae1d17c970c5",
+  "image_id": 117374,
+  "seed_index": 1,
+  "seed": 2260749,
+  "prompt": "Two cats sitting in the dirt under a tree.",
+  "path": "results/runs/adapter_erase25/000000117374_s1.png",
+  "sha256": "00059208174716ccf56edeb8546722a1ea17169521bb6113f8d82139a3548b3d",
+  "latency_s": 1.9898884680005722,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_2step",
+    "method": "lightning",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "c9f1d7562e2c721c6f9d933bd0ebaabec8feb143758b08fb930248cd7d3e3ae6",
+  "image_id": 439854,
+  "seed_index": 1,
+  "seed": 2905709,
+  "prompt": "A man riding a skateboard along a sandy beach.",
+  "path": "results/runs/lightning_2step/000000439854_s1.png",
+  "sha256": "ea8c6e2b568877dfb37cc7c1bd9b3f19bc6768ff9e120f9a816ac9cc0fe9d17c",
+  "latency_s": 1.446023961994797,
+  "peak_allocated_mib": 9948.7958984375,
+  "peak_reserved_mib": 12632.0
+}

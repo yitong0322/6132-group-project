@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "sdxl_30step",
+    "method": "sdxl",
+    "steps": 30,
+    "resolution": 1024,
+    "guidance": 5.0,
+    "condition": "none"
+  },
+  "config_hash": "7f2ff1a362b25ed9a421756a7624dd1129e6797ecf34a7ec1fc39f2ba5c3a6df",
+  "image_id": 146831,
+  "seed_index": 0,
+  "seed": 2319662,
+  "prompt": "A person is riding a skateboard on a curved ramp.",
+  "path": "results/runs/sdxl_30step/000000146831_s0.png",
+  "sha256": "9f6c7df9269bceb97635853720c62278d78d6165a657f321cb42dbeb099951c3",
+  "latency_s": 11.761937046001549,
+  "peak_allocated_mib": 9946.52978515625,
+  "peak_reserved_mib": 12894.0
+}

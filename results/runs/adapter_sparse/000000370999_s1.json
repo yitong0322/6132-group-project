@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_sparse",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "e591437800140077d0a3adb6b23eea9fd6dac35575bed9dfa31bd71572efb58f",
+  "image_id": 370999,
+  "seed_index": 1,
+  "seed": 2767999,
+  "prompt": "some little stones sitting around a dime ",
+  "path": "results/runs/adapter_sparse/000000370999_s1.png",
+  "sha256": "24a479f9ce0b02bd3c53bbf3a8d079ef4a54885b79f05b38ee03b52f7a4a8b63",
+  "latency_s": 1.9892703219957184,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

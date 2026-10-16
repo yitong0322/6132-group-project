@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_2step",
+    "method": "lcm",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "662eb0b62259031ebfd05061cc22cf9622a52f075eeb20943184e3e52cfbc947",
+  "image_id": 506004,
+  "seed_index": 1,
+  "seed": 3038009,
+  "prompt": "The ferris wheel is located in the middle of the water.",
+  "path": "results/runs/lcm_2step/000000506004_s1.png",
+  "sha256": "0c2caa9c1c1e96f95654bb6a9b744c30fa45b5f3d83de8ef554c7e84de319368",
+  "latency_s": 1.4498883399937768,
+  "peak_allocated_mib": 9947.0927734375,
+  "peak_reserved_mib": 12650.0
+}

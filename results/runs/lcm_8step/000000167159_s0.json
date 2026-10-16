@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_8step",
+    "method": "lcm",
+    "steps": 8,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "feddce4cdbe9647508117b127ff6e71f47b840f02764b4ba859667a4e90c6edf",
+  "image_id": 167159,
+  "seed_index": 0,
+  "seed": 2360318,
+  "prompt": "a doll with a bonnet and a book on a pillow",
+  "path": "results/runs/lcm_8step/000000167159_s0.png",
+  "sha256": "3ea19993abba834f302e4686667122bd3da9dd16f79077e96efb5b5441d439bb",
+  "latency_s": 2.5990131930011557,
+  "peak_allocated_mib": 9948.3427734375,
+  "peak_reserved_mib": 12650.0
+}

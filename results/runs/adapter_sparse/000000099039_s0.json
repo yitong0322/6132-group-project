@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_sparse",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "e591437800140077d0a3adb6b23eea9fd6dac35575bed9dfa31bd71572efb58f",
+  "image_id": 99039,
+  "seed_index": 0,
+  "seed": 2224078,
+  "prompt": "Plates  of food and glasses of wine sitting on a table",
+  "path": "results/runs/adapter_sparse/000000099039_s0.png",
+  "sha256": "e93ed876893b115555bc38a3e2acdba55e0a135bdf2650e78b610056ca76f20c",
+  "latency_s": 1.988560193000012,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

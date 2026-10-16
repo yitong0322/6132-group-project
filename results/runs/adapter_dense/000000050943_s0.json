@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_dense",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "114bbb8b7de882aa24fc41d9ba598b03037e7e4fd05b317cde3dc9b41adcdaad",
+  "image_id": 50943,
+  "seed_index": 0,
+  "seed": 2127886,
+  "prompt": "A person riding a wave on top of a surfboard.",
+  "path": "results/runs/adapter_dense/000000050943_s0.png",
+  "sha256": "c97f473d322fc5f73ec6c0f61853b449633866282c7ad57f15ef8b2fd0b72ab8",
+  "latency_s": 1.9880475609970745,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

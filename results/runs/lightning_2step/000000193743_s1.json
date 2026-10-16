@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_2step",
+    "method": "lightning",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "c9f1d7562e2c721c6f9d933bd0ebaabec8feb143758b08fb930248cd7d3e3ae6",
+  "image_id": 193743,
+  "seed_index": 1,
+  "seed": 2413487,
+  "prompt": "A man standing on a tennis court waves to someone. ",
+  "path": "results/runs/lightning_2step/000000193743_s1.png",
+  "sha256": "cf1e5d27fbe6b341789c46ad8bf808528640b4f2ed1cc9d16628607be51a2952",
+  "latency_s": 1.444831015993259,
+  "peak_allocated_mib": 9948.5458984375,
+  "peak_reserved_mib": 12632.0
+}

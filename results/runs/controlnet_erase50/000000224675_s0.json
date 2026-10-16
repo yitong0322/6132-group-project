@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_erase50",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "22aaf1199ae8d9bf147f8b71f7b2196b68dded76b271f6f12b37f1a8956cefe6",
+  "image_id": 224675,
+  "seed_index": 0,
+  "seed": 2475350,
+  "prompt": "A woman standing next to a man kneeling down on the ground.",
+  "path": "results/runs/controlnet_erase50/000000224675_s0.png",
+  "sha256": "976cae6f9acc4a8bc2febf6850d539987521d219ce6bd8c8f67ca42bf0e2a14d",
+  "latency_s": 2.7359511210088385,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

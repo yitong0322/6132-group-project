@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_dense",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "f25fcf61e38298c2c82909b445848fd59f39f4565e113adeded45d7fab51ac96",
+  "image_id": 119088,
+  "seed_index": 0,
+  "seed": 2264176,
+  "prompt": "The men are up to their knees in the water.",
+  "path": "results/runs/controlnet_dense/000000119088_s0.png",
+  "sha256": "566444d3960c74b030bb66e323e920edd8f90465984e3bfb8f13573f727f0326",
+  "latency_s": 2.734614098997554,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

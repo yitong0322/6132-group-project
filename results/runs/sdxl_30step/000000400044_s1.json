@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "sdxl_30step",
+    "method": "sdxl",
+    "steps": 30,
+    "resolution": 1024,
+    "guidance": 5.0,
+    "condition": "none"
+  },
+  "config_hash": "7f2ff1a362b25ed9a421756a7624dd1129e6797ecf34a7ec1fc39f2ba5c3a6df",
+  "image_id": 400044,
+  "seed_index": 1,
+  "seed": 2826089,
+  "prompt": "A person riding a snowboard into the air next to a tall building.",
+  "path": "results/runs/sdxl_30step/000000400044_s1.png",
+  "sha256": "4d7ee6cc8c5596194fbe70d05d18524e3570c007d927a2a301d7dad07c767514",
+  "latency_s": 11.763390131003689,
+  "peak_allocated_mib": 9946.52978515625,
+  "peak_reserved_mib": 12896.0
+}

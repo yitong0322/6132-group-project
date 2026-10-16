@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_sparse",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "e591437800140077d0a3adb6b23eea9fd6dac35575bed9dfa31bd71572efb58f",
+  "image_id": 313130,
+  "seed_index": 1,
+  "seed": 2652261,
+  "prompt": "a silver fridge sits in a room next to a microwave ",
+  "path": "results/runs/adapter_sparse/000000313130_s1.png",
+  "sha256": "b6908497b04c90243c94c06b006b4fe9243f004d251ed417a2d49b41b6c6f6f7",
+  "latency_s": 1.9880547590000788,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

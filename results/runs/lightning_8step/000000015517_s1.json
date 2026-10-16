@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_8step",
+    "method": "lightning",
+    "steps": 8,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "711af09a6d55e6cffce394b70a1f925c5621329067c780a2ae6a492787f97d3f",
+  "image_id": 15517,
+  "seed_index": 1,
+  "seed": 2057035,
+  "prompt": "Buses parked on a road outside a large bus station. ",
+  "path": "results/runs/lightning_8step/000000015517_s1.png",
+  "sha256": "9c2c67371b24f86e57e1e7d4e83103d7290d88873503e3647b16945c7402e9dd",
+  "latency_s": 2.5962662449892377,
+  "peak_allocated_mib": 9950.5458984375,
+  "peak_reserved_mib": 12632.0
+}

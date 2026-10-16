@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_erase25",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase25",
+    "strength": 1.5
+  },
+  "config_hash": "8fb8a2754192714bc32db360b571eff94829570c7be658ef8572cbbfe9dfb389",
+  "image_id": 379533,
+  "seed_index": 0,
+  "seed": 2785066,
+  "prompt": "A zebra grazing on a dry grass field next to elephants.",
+  "path": "results/runs/controlnet_erase25/000000379533_s0.png",
+  "sha256": "1aeeea6c6def2764ca51ff794fc356b6631491042dd8b764369a37ac75414ecb",
+  "latency_s": 2.7404446750006173,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

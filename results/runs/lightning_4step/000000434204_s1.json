@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_4step",
+    "method": "lightning",
+    "steps": 4,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "16ac80513f831abd97c3f2a5ff13092269bfbb5f3406b2a8d454fc9d71c49fcd",
+  "image_id": 434204,
+  "seed_index": 1,
+  "seed": 2894409,
+  "prompt": "A man riding on a skateboard on the sidewalk.",
+  "path": "results/runs/lightning_4step/000000434204_s1.png",
+  "sha256": "eab6c1856302d3af8304f275a9ce1837358a0c5e218cf4a30781267902d06f68",
+  "latency_s": 1.830936631988152,
+  "peak_allocated_mib": 9949.2958984375,
+  "peak_reserved_mib": 12632.0
+}

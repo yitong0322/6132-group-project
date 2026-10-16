@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_dense",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "f25fcf61e38298c2c82909b445848fd59f39f4565e113adeded45d7fab51ac96",
+  "image_id": 380203,
+  "seed_index": 0,
+  "seed": 2786406,
+  "prompt": "A white horse is out eating in a field",
+  "path": "results/runs/controlnet_dense/000000380203_s0.png",
+  "sha256": "4eca255e86cf5e7c45d282da569681d6c10eb3d1806c2deffe9ba819d8c2e9b1",
+  "latency_s": 2.7325256729964167,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

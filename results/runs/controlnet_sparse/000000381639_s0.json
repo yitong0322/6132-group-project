@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_sparse",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "88986ea6e18a64cdcc4d2f2c7c574e63ac06733272a42dfa6d44b4ea528ac428",
+  "image_id": 381639,
+  "seed_index": 0,
+  "seed": 2789278,
+  "prompt": "A little girl walking along a row of orange cones.",
+  "path": "results/runs/controlnet_sparse/000000381639_s0.png",
+  "sha256": "50df4f50877297851e04a3cae6276c5922d209fa9ae2db54701a3f066259fcf2",
+  "latency_s": 2.7356580540072173,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

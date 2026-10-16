@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_4step",
+    "method": "lcm",
+    "steps": 4,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "9ec22cf595f8b833bea186b1ab867b1ae0fab3debca422e4ad0a7028793290a0",
+  "image_id": 229358,
+  "seed_index": 1,
+  "seed": 2484717,
+  "prompt": "A man standing in front of a mirror in a room.",
+  "path": "results/runs/lcm_4step/000000229358_s1.png",
+  "sha256": "54492195a966a3e681801b3b793f0739b2c4c013157ced5f7a5a32a6d181cd39",
+  "latency_s": 1.8312681750103366,
+  "peak_allocated_mib": 9947.3427734375,
+  "peak_reserved_mib": 12650.0
+}

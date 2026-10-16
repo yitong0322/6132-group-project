@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_dense",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "f25fcf61e38298c2c82909b445848fd59f39f4565e113adeded45d7fab51ac96",
+  "image_id": 213816,
+  "seed_index": 0,
+  "seed": 2453632,
+  "prompt": "a close up of a public transit train with its doors open",
+  "path": "results/runs/controlnet_dense/000000213816_s0.png",
+  "sha256": "288bf29e3461ab77cc3ae8cd5935ed8ea704de325bac9df400db0b6174749ed1",
+  "latency_s": 2.733907468005782,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

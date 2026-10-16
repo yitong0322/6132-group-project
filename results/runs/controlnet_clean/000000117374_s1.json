@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_clean",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "clean",
+    "strength": 1.5
+  },
+  "config_hash": "66b43ec0d0e6b23b0522fd655cf1655236bdd2a53d75e7fff42de6022e9c484b",
+  "image_id": 117374,
+  "seed_index": 1,
+  "seed": 2260749,
+  "prompt": "Two cats sitting in the dirt under a tree.",
+  "path": "results/runs/controlnet_clean/000000117374_s1.png",
+  "sha256": "64e97fa247f2a9885aaf671d14701f0a1525b15ffb3781c2807f4a9e99987830",
+  "latency_s": 2.7428797549946466,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

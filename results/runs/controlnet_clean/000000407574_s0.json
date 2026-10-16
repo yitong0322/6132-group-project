@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_clean",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "clean",
+    "strength": 1.5
+  },
+  "config_hash": "66b43ec0d0e6b23b0522fd655cf1655236bdd2a53d75e7fff42de6022e9c484b",
+  "image_id": 407574,
+  "seed_index": 0,
+  "seed": 2841148,
+  "prompt": "A green stand holding several bananas for sale. ",
+  "path": "results/runs/controlnet_clean/000000407574_s0.png",
+  "sha256": "1f81d0beb2e0674833667baf9735a98274f66168becc7c430d1068c02966d515",
+  "latency_s": 2.7406253420049325,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_dense",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "f25fcf61e38298c2c82909b445848fd59f39f4565e113adeded45d7fab51ac96",
+  "image_id": 359540,
+  "seed_index": 0,
+  "seed": 2745080,
+  "prompt": "A baseball player swinging and missing the ball.",
+  "path": "results/runs/controlnet_dense/000000359540_s0.png",
+  "sha256": "bde9cbba94ae5f8932b824d75ea5faa1696f7cf0262e6a7e9f681cc381f5fc05",
+  "latency_s": 2.734433281002566,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

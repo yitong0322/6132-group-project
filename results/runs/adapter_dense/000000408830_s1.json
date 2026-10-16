@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_dense",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "114bbb8b7de882aa24fc41d9ba598b03037e7e4fd05b317cde3dc9b41adcdaad",
+  "image_id": 408830,
+  "seed_index": 1,
+  "seed": 2843661,
+  "prompt": "a colorful motorcycle sitting next to a fence ",
+  "path": "results/runs/adapter_dense/000000408830_s1.png",
+  "sha256": "7f01d56faef5e30feeab7a081eca67b6d0f8dde7a1016c3a3c4670eb5904a25e",
+  "latency_s": 1.9878591230080929,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

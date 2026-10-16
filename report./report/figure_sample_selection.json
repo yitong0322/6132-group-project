@@ -1,0 +1,15 @@
+{
+  "fixed_images": [
+    313130,
+    533493,
+    370999
+  ],
+  "quantile_images": [
+    50943,
+    167159,
+    503855,
+    229358,
+    222458
+  ],
+  "quantile_rule": "Adapter erase50 reference F1, mean across seeds; quantiles 0,25,50,75,100%; display seed 0"
+}

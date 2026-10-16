@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_2step",
+    "method": "lcm",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "662eb0b62259031ebfd05061cc22cf9622a52f075eeb20943184e3e52cfbc947",
+  "image_id": 381639,
+  "seed_index": 1,
+  "seed": 2789279,
+  "prompt": "A little girl walking along a row of orange cones.",
+  "path": "results/runs/lcm_2step/000000381639_s1.png",
+  "sha256": "f10cc508d8191880ed86522826b919cb442186f99bc954582da2f903b433c3c1",
+  "latency_s": 1.4492150120058795,
+  "peak_allocated_mib": 9947.8427734375,
+  "peak_reserved_mib": 12650.0
+}

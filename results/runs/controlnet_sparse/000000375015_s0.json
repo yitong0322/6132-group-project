@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_sparse",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "88986ea6e18a64cdcc4d2f2c7c574e63ac06733272a42dfa6d44b4ea528ac428",
+  "image_id": 375015,
+  "seed_index": 0,
+  "seed": 2776030,
+  "prompt": "A baby brown bear standing on top of a rock.",
+  "path": "results/runs/controlnet_sparse/000000375015_s0.png",
+  "sha256": "6b5a9f402e312e3fb40fc29186e21a1e4f4f728ed7f7f6bc57fc7ad1e6629714",
+  "latency_s": 2.7381489950057585,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

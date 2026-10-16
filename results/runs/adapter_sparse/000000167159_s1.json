@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_sparse",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "e591437800140077d0a3adb6b23eea9fd6dac35575bed9dfa31bd71572efb58f",
+  "image_id": 167159,
+  "seed_index": 1,
+  "seed": 2360319,
+  "prompt": "a doll with a bonnet and a book on a pillow",
+  "path": "results/runs/adapter_sparse/000000167159_s1.png",
+  "sha256": "caf4f2852b2f6480b08833fbbcc0761eaf4b4c0fc16c00414eeb2172193a58ce",
+  "latency_s": 1.988211952993879,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_dense",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "f25fcf61e38298c2c82909b445848fd59f39f4565e113adeded45d7fab51ac96",
+  "image_id": 506004,
+  "seed_index": 1,
+  "seed": 3038009,
+  "prompt": "The ferris wheel is located in the middle of the water.",
+  "path": "results/runs/controlnet_dense/000000506004_s1.png",
+  "sha256": "5f3fda9088ed02eaafda7ab4d05f5c011c115f306368fe3d97cc50cbda9b1ea2",
+  "latency_s": 2.7362849039927823,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

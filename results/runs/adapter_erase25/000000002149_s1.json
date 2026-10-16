@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase25",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase25",
+    "strength": 1.5
+  },
+  "config_hash": "80d457176300f341e45e2f76b044a50c847f1e3c3c84309a1df5ae1d17c970c5",
+  "image_id": 2149,
+  "seed_index": 1,
+  "seed": 2030299,
+  "prompt": "A large white bowl of many green apples. ",
+  "path": "results/runs/adapter_erase25/000000002149_s1.png",
+  "sha256": "aeb1c729b3aa269c368ac2a0c0fc265724a5fb7837cf2951eb98de71cdd72fa6",
+  "latency_s": 1.9887641870009247,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

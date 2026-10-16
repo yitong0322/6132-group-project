@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_dense",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "114bbb8b7de882aa24fc41d9ba598b03037e7e4fd05b317cde3dc9b41adcdaad",
+  "image_id": 416885,
+  "seed_index": 0,
+  "seed": 2859770,
+  "prompt": "Three pastry desserts and two glasses of wine are on a table. ",
+  "path": "results/runs/adapter_dense/000000416885_s0.png",
+  "sha256": "7d8cc0e990bd0b43e8a2e1ec7920f4f72c09ea6f59051fceb087a13d8f0b2888",
+  "latency_s": 1.9892333950119792,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

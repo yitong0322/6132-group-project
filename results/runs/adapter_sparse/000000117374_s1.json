@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_sparse",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "e591437800140077d0a3adb6b23eea9fd6dac35575bed9dfa31bd71572efb58f",
+  "image_id": 117374,
+  "seed_index": 1,
+  "seed": 2260749,
+  "prompt": "Two cats sitting in the dirt under a tree.",
+  "path": "results/runs/adapter_sparse/000000117374_s1.png",
+  "sha256": "af592ddf12161103cac19e33c3f1df130732484db2616ec82f7554f0efb53012",
+  "latency_s": 1.9881628560106037,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

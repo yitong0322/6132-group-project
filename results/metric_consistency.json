@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "scope": "KID cached-feature aggregation versus official TorchMetrics class; first seed of LCM 4-step",
+  "mean": 0.0006243061516241744,
+  "std": 0.0013970124785723567,
+  "real_feature_mean_norm": 19.317656760152474,
+  "fake_feature_mean_norm": 19.49188131942965,
+  "max_difference": 4.336808689942018e-19
+}

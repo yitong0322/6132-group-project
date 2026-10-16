@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_erase25",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase25",
+    "strength": 1.5
+  },
+  "config_hash": "8fb8a2754192714bc32db360b571eff94829570c7be658ef8572cbbfe9dfb389",
+  "image_id": 57760,
+  "seed_index": 1,
+  "seed": 2141521,
+  "prompt": "many people on a beach with a kite flying in the sky",
+  "path": "results/runs/controlnet_erase25/000000057760_s1.png",
+  "sha256": "66a866804c2a5c21c2c0a223754a4f4e186486acc8a4b53a2cb0d4415239f53e",
+  "latency_s": 2.7379105360014364,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

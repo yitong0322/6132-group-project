@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_4step",
+    "method": "lightning",
+    "steps": 4,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "16ac80513f831abd97c3f2a5ff13092269bfbb5f3406b2a8d454fc9d71c49fcd",
+  "image_id": 404678,
+  "seed_index": 1,
+  "seed": 2835357,
+  "prompt": "A family sitting down at a table for a meal.",
+  "path": "results/runs/lightning_4step/000000404678_s1.png",
+  "sha256": "86dbce82dad1d9e98c73d21d21cb20df1ead91f7cd7142b13c32e363ee34b960",
+  "latency_s": 1.8295246769994264,
+  "peak_allocated_mib": 9950.0458984375,
+  "peak_reserved_mib": 12632.0
+}

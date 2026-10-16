@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_8step",
+    "method": "lcm",
+    "steps": 8,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "feddce4cdbe9647508117b127ff6e71f47b840f02764b4ba859667a4e90c6edf",
+  "image_id": 484893,
+  "seed_index": 0,
+  "seed": 2995786,
+  "prompt": "A couple of kids petting sheep inside of a corral",
+  "path": "results/runs/lcm_8step/000000484893_s0.png",
+  "sha256": "20ee49350b1ae313dd2db9b8f9d05421d87779683d025514b88b8e8fe1084b09",
+  "latency_s": 2.6026906379993306,
+  "peak_allocated_mib": 9947.0927734375,
+  "peak_reserved_mib": 12650.0
+}

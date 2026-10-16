@@ -1,0 +1,14 @@
+STAGE_START tests
+STAGE_END tests exit 0 elapsed 3.0663092136383057
+STAGE_START smoke_lightning
+STAGE_END smoke_lightning exit 0 elapsed 28.358206033706665
+STAGE_START generation
+STAGE_END generation exit 0 elapsed 10644.964788198471
+STAGE_START evaluation
+STAGE_END evaluation exit 0 elapsed 122.46889305114746
+STAGE_START verification
+STAGE_END verification exit 0 elapsed 10.736149311065674
+STAGE_START report
+STAGE_END report exit 0 elapsed 3.150623321533203
+STAGE_START package
+STAGE_END package exit 0 elapsed 63.70438361167908

@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_sparse",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "88986ea6e18a64cdcc4d2f2c7c574e63ac06733272a42dfa6d44b4ea528ac428",
+  "image_id": 109916,
+  "seed_index": 0,
+  "seed": 2245832,
+  "prompt": "Twp cake pans sitting and cooling on the stove",
+  "path": "results/runs/controlnet_sparse/000000109916_s0.png",
+  "sha256": "bf68b4e9aa98b01ee0f8105d35a32f10c32f325750e63e1f426f85331da09b2b",
+  "latency_s": 2.7328635070007294,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

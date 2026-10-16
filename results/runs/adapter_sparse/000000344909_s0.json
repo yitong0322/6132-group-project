@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_sparse",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "e591437800140077d0a3adb6b23eea9fd6dac35575bed9dfa31bd71572efb58f",
+  "image_id": 344909,
+  "seed_index": 0,
+  "seed": 2715818,
+  "prompt": "A red and gold painted fire hydrant on the street",
+  "path": "results/runs/adapter_sparse/000000344909_s0.png",
+  "sha256": "0f7766812989ac72048e97b60b0161f84b7b519a82486e9741c801dde27b4fb8",
+  "latency_s": 1.990489867006545,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

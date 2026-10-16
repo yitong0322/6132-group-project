@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_2step",
+    "method": "lcm",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "662eb0b62259031ebfd05061cc22cf9622a52f075eeb20943184e3e52cfbc947",
+  "image_id": 60932,
+  "seed_index": 1,
+  "seed": 2147865,
+  "prompt": "A group of people standing in a room.",
+  "path": "results/runs/lcm_2step/000000060932_s1.png",
+  "sha256": "68cc34475959e73456ef4a248046bf042a2a5b306f0c1754a47bdf0f3ced9d49",
+  "latency_s": 1.4492939629999455,
+  "peak_allocated_mib": 9947.8427734375,
+  "peak_reserved_mib": 12650.0
+}

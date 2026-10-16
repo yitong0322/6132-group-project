@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_dense",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "114bbb8b7de882aa24fc41d9ba598b03037e7e4fd05b317cde3dc9b41adcdaad",
+  "image_id": 57760,
+  "seed_index": 1,
+  "seed": 2141521,
+  "prompt": "many people on a beach with a kite flying in the sky",
+  "path": "results/runs/adapter_dense/000000057760_s1.png",
+  "sha256": "38c14420dbba77625affae46071d1da9ea8738248753564b4aef0945f3bf77f0",
+  "latency_s": 1.9887016380089335,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

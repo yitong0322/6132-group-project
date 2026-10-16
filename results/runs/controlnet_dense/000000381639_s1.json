@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_dense",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "f25fcf61e38298c2c82909b445848fd59f39f4565e113adeded45d7fab51ac96",
+  "image_id": 381639,
+  "seed_index": 1,
+  "seed": 2789279,
+  "prompt": "A little girl walking along a row of orange cones.",
+  "path": "results/runs/controlnet_dense/000000381639_s1.png",
+  "sha256": "afca5b7d3e4dd88c9a17c2c585a9baa7152026a8eba962d7e4e1ea76770e5b66",
+  "latency_s": 2.7334965519985417,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

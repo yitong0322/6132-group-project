@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_sparse",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "88986ea6e18a64cdcc4d2f2c7c574e63ac06733272a42dfa6d44b4ea528ac428",
+  "image_id": 167159,
+  "seed_index": 1,
+  "seed": 2360319,
+  "prompt": "a doll with a bonnet and a book on a pillow",
+  "path": "results/runs/controlnet_sparse/000000167159_s1.png",
+  "sha256": "f80d6ee05f3afaebeaf23775e2e61f197a18a10140cfdd61e152c1ecb2df8b1d",
+  "latency_s": 2.738171464006882,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

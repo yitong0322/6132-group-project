@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "sdxl_30step",
+    "method": "sdxl",
+    "steps": 30,
+    "resolution": 1024,
+    "guidance": 5.0,
+    "condition": "none"
+  },
+  "config_hash": "7f2ff1a362b25ed9a421756a7624dd1129e6797ecf34a7ec1fc39f2ba5c3a6df",
+  "image_id": 25986,
+  "seed_index": 1,
+  "seed": 2077973,
+  "prompt": "A bunch of items that are on a counter.",
+  "path": "results/runs/sdxl_30step/000000025986_s1.png",
+  "sha256": "d27f8c89b3417a3c10ff65f3b20a2833e81b7429d70d8b9a92bc8d51843ccc9d",
+  "latency_s": 11.757828894988052,
+  "peak_allocated_mib": 9946.52978515625,
+  "peak_reserved_mib": 12896.0
+}

@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_dense",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "f25fcf61e38298c2c82909b445848fd59f39f4565e113adeded45d7fab51ac96",
+  "image_id": 229358,
+  "seed_index": 0,
+  "seed": 2484716,
+  "prompt": "A man standing in front of a mirror in a room.",
+  "path": "results/runs/controlnet_dense/000000229358_s0.png",
+  "sha256": "c8d537e57775b5fea7de6fe0029d04a0145a6875c8c6501e0900bc57346dca92",
+  "latency_s": 2.7335659179952927,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

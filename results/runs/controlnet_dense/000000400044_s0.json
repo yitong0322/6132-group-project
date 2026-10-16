@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_dense",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "f25fcf61e38298c2c82909b445848fd59f39f4565e113adeded45d7fab51ac96",
+  "image_id": 400044,
+  "seed_index": 0,
+  "seed": 2826088,
+  "prompt": "A person riding a snowboard into the air next to a tall building.",
+  "path": "results/runs/controlnet_dense/000000400044_s0.png",
+  "sha256": "a66c6e85f422a35b59a7587dfa35e75f81e8807b74fc64e4c818834bf68c3595",
+  "latency_s": 2.7334199249889934,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

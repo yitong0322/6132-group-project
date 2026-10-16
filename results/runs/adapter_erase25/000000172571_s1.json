@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase25",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase25",
+    "strength": 1.5
+  },
+  "config_hash": "80d457176300f341e45e2f76b044a50c847f1e3c3c84309a1df5ae1d17c970c5",
+  "image_id": 172571,
+  "seed_index": 1,
+  "seed": 2371143,
+  "prompt": "A very thick pizza is on a plate with one piece taken.",
+  "path": "results/runs/adapter_erase25/000000172571_s1.png",
+  "sha256": "4e6b3b43e47b2847ff8dd42284f9ad1f584493fb7269e5601b9392fc2e73185a",
+  "latency_s": 1.9884289879992139,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

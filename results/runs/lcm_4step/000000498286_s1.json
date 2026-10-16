@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_4step",
+    "method": "lcm",
+    "steps": 4,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "9ec22cf595f8b833bea186b1ab867b1ae0fab3debca422e4ad0a7028793290a0",
+  "image_id": 498286,
+  "seed_index": 1,
+  "seed": 3022573,
+  "prompt": "a vety cute furry dog posing near a big sign.",
+  "path": "results/runs/lcm_4step/000000498286_s1.png",
+  "sha256": "c374e2923124885738d5d515f450fe324f4719da46a8de31684864fa78d42869",
+  "latency_s": 1.8370539329916937,
+  "peak_allocated_mib": 9947.0927734375,
+  "peak_reserved_mib": 12650.0
+}

@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_sparse",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "88986ea6e18a64cdcc4d2f2c7c574e63ac06733272a42dfa6d44b4ea528ac428",
+  "image_id": 58384,
+  "seed_index": 0,
+  "seed": 2142768,
+  "prompt": "A herd of elephants standing next to each other.",
+  "path": "results/runs/controlnet_sparse/000000058384_s0.png",
+  "sha256": "a4fbf69cc34d3eba3fb93e8dd01408dda7c06c1ee9916cde93e51003eaca1169",
+  "latency_s": 2.7402308820019243,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

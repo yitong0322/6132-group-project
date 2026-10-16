@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_erase50",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "22aaf1199ae8d9bf147f8b71f7b2196b68dded76b271f6f12b37f1a8956cefe6",
+  "image_id": 493286,
+  "seed_index": 0,
+  "seed": 3012572,
+  "prompt": "an old car in front of an old air plane",
+  "path": "results/runs/controlnet_erase50/000000493286_s0.png",
+  "sha256": "6918ad5e7b36f7ea2d00f44a53116dcf54469d072f9282c227da997cf83d57c7",
+  "latency_s": 2.7335257069935324,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_erase50",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "22aaf1199ae8d9bf147f8b71f7b2196b68dded76b271f6f12b37f1a8956cefe6",
+  "image_id": 498032,
+  "seed_index": 0,
+  "seed": 3022064,
+  "prompt": "A person standing in a room with a remote.",
+  "path": "results/runs/controlnet_erase50/000000498032_s0.png",
+  "sha256": "e4da8710e8832a06a0ebebe184055c1833299ee1ea52d2cce81e2eed8ac9b0af",
+  "latency_s": 2.7351030110003194,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

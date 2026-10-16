@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase50",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "896b5ee20f16dbe54a8a8a0f8cbb30f7dfda77457ef77ac9d5f01f8363335ce2",
+  "image_id": 313130,
+  "seed_index": 1,
+  "seed": 2652261,
+  "prompt": "a silver fridge sits in a room next to a microwave ",
+  "path": "results/runs/adapter_erase50/000000313130_s1.png",
+  "sha256": "2c88fe325c3959d1ffca8d39f016362fb19d9feef4bb26eef33c92775d3d2d5a",
+  "latency_s": 1.9908638390043052,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

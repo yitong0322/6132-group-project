@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_4step",
+    "method": "lcm",
+    "steps": 4,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "9ec22cf595f8b833bea186b1ab867b1ae0fab3debca422e4ad0a7028793290a0",
+  "image_id": 555050,
+  "seed_index": 0,
+  "seed": 3136100,
+  "prompt": "A car driving in an intersection, past a furniture shop. ",
+  "path": "results/runs/lcm_4step/000000555050_s0.png",
+  "sha256": "d169253c63346ff5636272f829dca1c36db4cedbf2f2f9dabbec9a3c27205425",
+  "latency_s": 1.835064662998775,
+  "peak_allocated_mib": 9948.3427734375,
+  "peak_reserved_mib": 12650.0
+}

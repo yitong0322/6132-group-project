@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase50",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "896b5ee20f16dbe54a8a8a0f8cbb30f7dfda77457ef77ac9d5f01f8363335ce2",
+  "image_id": 407614,
+  "seed_index": 0,
+  "seed": 2841228,
+  "prompt": "A smaller kitchen with a very decorated fridge. ",
+  "path": "results/runs/adapter_erase50/000000407614_s0.png",
+  "sha256": "6beee0f4bfbf7a3a131f7d811c42f516ec86b5dc5142aee35a7566ca67fb4cd0",
+  "latency_s": 1.9900397189921932,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_dense",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "114bbb8b7de882aa24fc41d9ba598b03037e7e4fd05b317cde3dc9b41adcdaad",
+  "image_id": 484893,
+  "seed_index": 0,
+  "seed": 2995786,
+  "prompt": "A couple of kids petting sheep inside of a corral",
+  "path": "results/runs/adapter_dense/000000484893_s0.png",
+  "sha256": "9b32efca26cb9d5a5159849582e9b5c8324cb60d473d52f7250c64dbe63179e5",
+  "latency_s": 1.9889521950099152,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

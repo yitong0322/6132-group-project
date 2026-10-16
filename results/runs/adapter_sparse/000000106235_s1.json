@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_sparse",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "e591437800140077d0a3adb6b23eea9fd6dac35575bed9dfa31bd71572efb58f",
+  "image_id": 106235,
+  "seed_index": 1,
+  "seed": 2238471,
+  "prompt": "A living room featuring a comfortable seating arrangement of chairs and tables.",
+  "path": "results/runs/adapter_sparse/000000106235_s1.png",
+  "sha256": "d7421eb3e15dc256f5dd091f26b8d6f8115e943fedfc1d311c673f08dbb89620",
+  "latency_s": 1.9909505270043155,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

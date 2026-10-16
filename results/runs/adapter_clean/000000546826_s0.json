@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_clean",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "clean",
+    "strength": 1.5
+  },
+  "config_hash": "9ba657d5c560196238df271ac941213dbe52470be0b52f57afa1fe86ef55ed19",
+  "image_id": 546826,
+  "seed_index": 0,
+  "seed": 3119652,
+  "prompt": "A pink and green marker, next to another object. ",
+  "path": "results/runs/adapter_clean/000000546826_s0.png",
+  "sha256": "2e3fcf81e5abeee12b8defbea0119eb913e3ca335726a0d9fd9a9930461e11c4",
+  "latency_s": 1.9918805000052089,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

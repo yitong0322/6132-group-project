@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_2step",
+    "method": "lightning",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "c9f1d7562e2c721c6f9d933bd0ebaabec8feb143758b08fb930248cd7d3e3ae6",
+  "image_id": 498286,
+  "seed_index": 1,
+  "seed": 3022573,
+  "prompt": "a vety cute furry dog posing near a big sign.",
+  "path": "results/runs/lightning_2step/000000498286_s1.png",
+  "sha256": "d998c524474bb534ad4231ea8568a347ee97e1f47490a958fcc942093264fad3",
+  "latency_s": 1.445649257992045,
+  "peak_allocated_mib": 9948.5458984375,
+  "peak_reserved_mib": 12632.0
+}

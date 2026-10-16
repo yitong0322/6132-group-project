@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_clean",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "clean",
+    "strength": 1.5
+  },
+  "config_hash": "9ba657d5c560196238df271ac941213dbe52470be0b52f57afa1fe86ef55ed19",
+  "image_id": 65350,
+  "seed_index": 0,
+  "seed": 2156700,
+  "prompt": "Kids are skateboarding at a skate park and one them has fallen down.",
+  "path": "results/runs/adapter_clean/000000065350_s0.png",
+  "sha256": "8efd6dd2e20fe6fedee461e1be0707b4f7c4b2cdade76e9afb6aee23190f5c78",
+  "latency_s": 1.9921461949998047,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

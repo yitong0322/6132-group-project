@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase25",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase25",
+    "strength": 1.5
+  },
+  "config_hash": "80d457176300f341e45e2f76b044a50c847f1e3c3c84309a1df5ae1d17c970c5",
+  "image_id": 210273,
+  "seed_index": 0,
+  "seed": 2446546,
+  "prompt": "Buses and cars on interstate going both ways. ",
+  "path": "results/runs/adapter_erase25/000000210273_s0.png",
+  "sha256": "b92a845cb3eb0001f93613ecced1f50a8c4183d428800367a871c50ec41ba4c8",
+  "latency_s": 1.9897691730002407,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

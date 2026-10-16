@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase25",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase25",
+    "strength": 1.5
+  },
+  "config_hash": "80d457176300f341e45e2f76b044a50c847f1e3c3c84309a1df5ae1d17c970c5",
+  "image_id": 237118,
+  "seed_index": 0,
+  "seed": 2500236,
+  "prompt": "A middle aged man takes a selfie in a mirror.",
+  "path": "results/runs/adapter_erase25/000000237118_s0.png",
+  "sha256": "6f23ca018a6d356107dde4f8c51799b64ec6930ec372667bb7891bf446e590c7",
+  "latency_s": 1.9886804520065198,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

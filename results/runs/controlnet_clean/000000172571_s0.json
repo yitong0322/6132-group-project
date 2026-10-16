@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_clean",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "clean",
+    "strength": 1.5
+  },
+  "config_hash": "66b43ec0d0e6b23b0522fd655cf1655236bdd2a53d75e7fff42de6022e9c484b",
+  "image_id": 172571,
+  "seed_index": 0,
+  "seed": 2371142,
+  "prompt": "A very thick pizza is on a plate with one piece taken.",
+  "path": "results/runs/controlnet_clean/000000172571_s0.png",
+  "sha256": "1c9b6f03d964373d273fc56a935a6b41665eed9fb6a68efcd8e69ce85f8f475a",
+  "latency_s": 2.7392439800023567,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

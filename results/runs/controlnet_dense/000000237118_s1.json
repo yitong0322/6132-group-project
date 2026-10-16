@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_dense",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "f25fcf61e38298c2c82909b445848fd59f39f4565e113adeded45d7fab51ac96",
+  "image_id": 237118,
+  "seed_index": 1,
+  "seed": 2500237,
+  "prompt": "A middle aged man takes a selfie in a mirror.",
+  "path": "results/runs/controlnet_dense/000000237118_s1.png",
+  "sha256": "ba8f9bda07589a02b5ca684db0e1c73c17244e5dc0e47f84a01d656129d732e0",
+  "latency_s": 2.7362690919981105,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

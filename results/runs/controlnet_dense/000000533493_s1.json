@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_dense",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "f25fcf61e38298c2c82909b445848fd59f39f4565e113adeded45d7fab51ac96",
+  "image_id": 533493,
+  "seed_index": 1,
+  "seed": 3092987,
+  "prompt": "Three men celebrating some kind of personal victory.",
+  "path": "results/runs/controlnet_dense/000000533493_s1.png",
+  "sha256": "18a1b44d70e174c8abdf9b0b3ad3232f64bdb0658f4f43084431105248e9824b",
+  "latency_s": 2.733157353999559,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

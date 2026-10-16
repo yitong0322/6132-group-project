@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_dense",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "f25fcf61e38298c2c82909b445848fd59f39f4565e113adeded45d7fab51ac96",
+  "image_id": 65350,
+  "seed_index": 0,
+  "seed": 2156700,
+  "prompt": "Kids are skateboarding at a skate park and one them has fallen down.",
+  "path": "results/runs/controlnet_dense/000000065350_s0.png",
+  "sha256": "2aabfb9719554e5e51c078de6e474b6e5c45aa84826a10cf4d0d8e193b0bb6f0",
+  "latency_s": 2.734601770993322,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

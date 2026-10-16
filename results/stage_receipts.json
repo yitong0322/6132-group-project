@@ -1,0 +1,51 @@
+[
+  {
+    "stage": "tests",
+    "start": 1792072941.621062,
+    "end": 1792072944.6870923,
+    "exit_code": 0,
+    "log": "logs/tests.log"
+  },
+  {
+    "stage": "smoke_lightning",
+    "start": 1792072944.6874065,
+    "end": 1792072973.0452528,
+    "exit_code": 0,
+    "log": "logs/smoke_lightning.log"
+  },
+  {
+    "stage": "generation",
+    "start": 1792072973.04565,
+    "end": 1792083617.9974117,
+    "exit_code": 0,
+    "log": "logs/generation.log"
+  },
+  {
+    "stage": "evaluation",
+    "start": 1792083618.0108454,
+    "end": 1792083740.477977,
+    "exit_code": 0,
+    "log": "logs/evaluation.log"
+  },
+  {
+    "stage": "verification",
+    "start": 1792083740.4797685,
+    "end": 1792083751.1944945,
+    "exit_code": 0,
+    "log": "logs/verification.log"
+  },
+  {
+    "stage": "report",
+    "start": 1792083751.215949,
+    "end": 1792083754.3663437,
+    "exit_code": 0,
+    "log": "logs/report.log"
+  },
+  {
+    "stage": "package",
+    "start": 1792083754.3666086,
+    "end": 1792083818.049962,
+    "exit_code": 0,
+    "log": "logs/package.log"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_8step",
+    "method": "lcm",
+    "steps": 8,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "feddce4cdbe9647508117b127ff6e71f47b840f02764b4ba859667a4e90c6edf",
+  "image_id": 57760,
+  "seed_index": 0,
+  "seed": 2141520,
+  "prompt": "many people on a beach with a kite flying in the sky",
+  "path": "results/runs/lcm_8step/000000057760_s0.png",
+  "sha256": "2edb0a08ab203030d3e15867f1ea1ab22b9d432b5928e23c69605b53655d7db1",
+  "latency_s": 2.6025867010030197,
+  "peak_allocated_mib": 9947.3427734375,
+  "peak_reserved_mib": 12650.0
+}

@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase50",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "896b5ee20f16dbe54a8a8a0f8cbb30f7dfda77457ef77ac9d5f01f8363335ce2",
+  "image_id": 344909,
+  "seed_index": 1,
+  "seed": 2715819,
+  "prompt": "A red and gold painted fire hydrant on the street",
+  "path": "results/runs/adapter_erase50/000000344909_s1.png",
+  "sha256": "77ce8d61a800c1790d987471a9fd6621837b3f0c6029f00b53ac6a3147d65b4a",
+  "latency_s": 1.9898480010015192,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

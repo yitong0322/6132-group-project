@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_dense",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "114bbb8b7de882aa24fc41d9ba598b03037e7e4fd05b317cde3dc9b41adcdaad",
+  "image_id": 344909,
+  "seed_index": 1,
+  "seed": 2715819,
+  "prompt": "A red and gold painted fire hydrant on the street",
+  "path": "results/runs/adapter_dense/000000344909_s1.png",
+  "sha256": "9231b216d0ff1f8ed1e91010f6005c3439fe8bffc842e528e9fc26d6c66ed68f",
+  "latency_s": 1.9880741439992562,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

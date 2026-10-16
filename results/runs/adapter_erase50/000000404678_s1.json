@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase50",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "896b5ee20f16dbe54a8a8a0f8cbb30f7dfda77457ef77ac9d5f01f8363335ce2",
+  "image_id": 404678,
+  "seed_index": 1,
+  "seed": 2835357,
+  "prompt": "A family sitting down at a table for a meal.",
+  "path": "results/runs/adapter_erase50/000000404678_s1.png",
+  "sha256": "94d0d40bccaa7a87e814ad12a0e24d8f4781d4af6aff914b0856a7514b6b315f",
+  "latency_s": 1.9904998389974935,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

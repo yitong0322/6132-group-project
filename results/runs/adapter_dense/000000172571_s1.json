@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_dense",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "114bbb8b7de882aa24fc41d9ba598b03037e7e4fd05b317cde3dc9b41adcdaad",
+  "image_id": 172571,
+  "seed_index": 1,
+  "seed": 2371143,
+  "prompt": "A very thick pizza is on a plate with one piece taken.",
+  "path": "results/runs/adapter_dense/000000172571_s1.png",
+  "sha256": "c23cada56b6a7427e300c600be6b3e058dba5cf1c4c553ede84254f571df61a7",
+  "latency_s": 1.9882890269946074,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

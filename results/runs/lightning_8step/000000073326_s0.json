@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_8step",
+    "method": "lightning",
+    "steps": 8,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "711af09a6d55e6cffce394b70a1f925c5621329067c780a2ae6a492787f97d3f",
+  "image_id": 73326,
+  "seed_index": 0,
+  "seed": 2172652,
+  "prompt": "An open refrigerator including bottles of various food.",
+  "path": "results/runs/lightning_8step/000000073326_s0.png",
+  "sha256": "e9480b6e95084b1f8350a2217ad558214feae5119eb04a15aba7869a9856a129",
+  "latency_s": 2.595888240990462,
+  "peak_allocated_mib": 9949.0458984375,
+  "peak_reserved_mib": 12632.0
+}

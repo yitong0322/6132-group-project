@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_erase50",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "22aaf1199ae8d9bf147f8b71f7b2196b68dded76b271f6f12b37f1a8956cefe6",
+  "image_id": 237118,
+  "seed_index": 0,
+  "seed": 2500236,
+  "prompt": "A middle aged man takes a selfie in a mirror.",
+  "path": "results/runs/controlnet_erase50/000000237118_s0.png",
+  "sha256": "d7ea6907f3b3d55831fdb3ec3849365c5255db8a51821f5c293256c14300444d",
+  "latency_s": 2.734516131997225,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

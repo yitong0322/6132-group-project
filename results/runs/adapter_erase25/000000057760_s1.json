@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase25",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase25",
+    "strength": 1.5
+  },
+  "config_hash": "80d457176300f341e45e2f76b044a50c847f1e3c3c84309a1df5ae1d17c970c5",
+  "image_id": 57760,
+  "seed_index": 1,
+  "seed": 2141521,
+  "prompt": "many people on a beach with a kite flying in the sky",
+  "path": "results/runs/adapter_erase25/000000057760_s1.png",
+  "sha256": "0545474466a2141baa7c8e404fd3cba489873aa47aa82a35896762d0a53799c5",
+  "latency_s": 1.9884549389971653,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

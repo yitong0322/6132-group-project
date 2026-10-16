@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_dense",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "114bbb8b7de882aa24fc41d9ba598b03037e7e4fd05b317cde3dc9b41adcdaad",
+  "image_id": 477288,
+  "seed_index": 1,
+  "seed": 2980577,
+  "prompt": "Several men in costume gather together under their umbrellas.",
+  "path": "results/runs/adapter_dense/000000477288_s1.png",
+  "sha256": "25a28617a0dd19991602379ba8c90c46506899923ca9aaf893d6e60b0033ad2f",
+  "latency_s": 1.9884652089967858,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

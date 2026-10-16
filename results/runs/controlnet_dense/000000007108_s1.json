@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_dense",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "f25fcf61e38298c2c82909b445848fd59f39f4565e113adeded45d7fab51ac96",
+  "image_id": 7108,
+  "seed_index": 1,
+  "seed": 2040217,
+  "prompt": "A herd of elephants walking away from a watering hole.",
+  "path": "results/runs/controlnet_dense/000000007108_s1.png",
+  "sha256": "209b1108ead279c0877fed2bdb8f9ad79ab4bce0e4ab1610ee36eedae59242f6",
+  "latency_s": 2.7340102960006334,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

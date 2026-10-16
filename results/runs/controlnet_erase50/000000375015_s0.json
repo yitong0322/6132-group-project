@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_erase50",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "22aaf1199ae8d9bf147f8b71f7b2196b68dded76b271f6f12b37f1a8956cefe6",
+  "image_id": 375015,
+  "seed_index": 0,
+  "seed": 2776030,
+  "prompt": "A baby brown bear standing on top of a rock.",
+  "path": "results/runs/controlnet_erase50/000000375015_s0.png",
+  "sha256": "a8ac6e3497b23070eeb19400ec48629a1c44b89c4fdffafadce0565ca8a1bbf3",
+  "latency_s": 2.7340126810013317,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

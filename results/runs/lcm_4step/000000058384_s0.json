@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_4step",
+    "method": "lcm",
+    "steps": 4,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "9ec22cf595f8b833bea186b1ab867b1ae0fab3debca422e4ad0a7028793290a0",
+  "image_id": 58384,
+  "seed_index": 0,
+  "seed": 2142768,
+  "prompt": "A herd of elephants standing next to each other.",
+  "path": "results/runs/lcm_4step/000000058384_s0.png",
+  "sha256": "00a3279780afce6928cba28d6c2216d095dc5d31d5d682cde910c396587ae3f4",
+  "latency_s": 1.836761109996587,
+  "peak_allocated_mib": 9946.3427734375,
+  "peak_reserved_mib": 12650.0
+}

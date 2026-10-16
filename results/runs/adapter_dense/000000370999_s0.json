@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_dense",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "114bbb8b7de882aa24fc41d9ba598b03037e7e4fd05b317cde3dc9b41adcdaad",
+  "image_id": 370999,
+  "seed_index": 0,
+  "seed": 2767998,
+  "prompt": "some little stones sitting around a dime ",
+  "path": "results/runs/adapter_dense/000000370999_s0.png",
+  "sha256": "d5aba0b2ffe037b9d70aa6987e530f72b55bdb28f83bd0973b2ced55b6b15b9b",
+  "latency_s": 1.98885083499772,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

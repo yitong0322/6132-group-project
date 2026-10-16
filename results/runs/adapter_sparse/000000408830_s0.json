@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_sparse",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "e591437800140077d0a3adb6b23eea9fd6dac35575bed9dfa31bd71572efb58f",
+  "image_id": 408830,
+  "seed_index": 0,
+  "seed": 2843660,
+  "prompt": "a colorful motorcycle sitting next to a fence ",
+  "path": "results/runs/adapter_sparse/000000408830_s0.png",
+  "sha256": "ed9c21665172f90d6356a0e8b7c665a8ca6366dce3ec21671901848accb3085a",
+  "latency_s": 1.989386656001443,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

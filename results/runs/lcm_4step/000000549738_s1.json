@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_4step",
+    "method": "lcm",
+    "steps": 4,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "9ec22cf595f8b833bea186b1ab867b1ae0fab3debca422e4ad0a7028793290a0",
+  "image_id": 549738,
+  "seed_index": 1,
+  "seed": 3125477,
+  "prompt": "A kite is flying in a clear sky.",
+  "path": "results/runs/lcm_4step/000000549738_s1.png",
+  "sha256": "3e8c3cb50e359168a9ff442f794f429803ebdea2b8f95c41b6c703089efb8000",
+  "latency_s": 1.8370058800064726,
+  "peak_allocated_mib": 9948.0927734375,
+  "peak_reserved_mib": 12650.0
+}

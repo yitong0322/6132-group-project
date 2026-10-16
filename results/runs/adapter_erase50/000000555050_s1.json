@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase50",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "896b5ee20f16dbe54a8a8a0f8cbb30f7dfda77457ef77ac9d5f01f8363335ce2",
+  "image_id": 555050,
+  "seed_index": 1,
+  "seed": 3136101,
+  "prompt": "A car driving in an intersection, past a furniture shop. ",
+  "path": "results/runs/adapter_erase50/000000555050_s1.png",
+  "sha256": "4817548696cbb818d658abe5e9afec13985456f167f3fccf51415ef7d7520076",
+  "latency_s": 1.9883756980125327,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

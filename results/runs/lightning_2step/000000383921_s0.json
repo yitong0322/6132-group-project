@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_2step",
+    "method": "lightning",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "c9f1d7562e2c721c6f9d933bd0ebaabec8feb143758b08fb930248cd7d3e3ae6",
+  "image_id": 383921,
+  "seed_index": 0,
+  "seed": 2793842,
+  "prompt": "A herd of elephants walking across a body of water.",
+  "path": "results/runs/lightning_2step/000000383921_s0.png",
+  "sha256": "23912f8717b22a81e72cf10366375b97069dbb07e61a26e83c10ebdd69d1c1fe",
+  "latency_s": 1.4456103529955726,
+  "peak_allocated_mib": 9949.7958984375,
+  "peak_reserved_mib": 12632.0
+}

@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_sparse",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "e591437800140077d0a3adb6b23eea9fd6dac35575bed9dfa31bd71572efb58f",
+  "image_id": 3553,
+  "seed_index": 1,
+  "seed": 2033107,
+  "prompt": "a person skating on some pieces of wood ",
+  "path": "results/runs/adapter_sparse/000000003553_s1.png",
+  "sha256": "18b8b2602caabaeceb9494cc131f2646c2887973478c7062fe1550813957c648",
+  "latency_s": 1.9901207799994154,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

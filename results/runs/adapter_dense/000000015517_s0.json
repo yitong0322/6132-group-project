@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_dense",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "114bbb8b7de882aa24fc41d9ba598b03037e7e4fd05b317cde3dc9b41adcdaad",
+  "image_id": 15517,
+  "seed_index": 0,
+  "seed": 2057034,
+  "prompt": "Buses parked on a road outside a large bus station. ",
+  "path": "results/runs/adapter_dense/000000015517_s0.png",
+  "sha256": "27485921eb54430583334d50ba7ea6d50fcf6c23a3f8f55c17fe48f458e824df",
+  "latency_s": 1.9897169519972522,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

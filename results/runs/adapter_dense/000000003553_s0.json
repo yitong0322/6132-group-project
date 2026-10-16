@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_dense",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "114bbb8b7de882aa24fc41d9ba598b03037e7e4fd05b317cde3dc9b41adcdaad",
+  "image_id": 3553,
+  "seed_index": 0,
+  "seed": 2033106,
+  "prompt": "a person skating on some pieces of wood ",
+  "path": "results/runs/adapter_dense/000000003553_s0.png",
+  "sha256": "60c52ae7555f10a5cb16c9c86d256329ef084586b760f7517d1db822ee10d65d",
+  "latency_s": 1.988142539994442,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

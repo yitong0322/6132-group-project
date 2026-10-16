@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase25",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase25",
+    "strength": 1.5
+  },
+  "config_hash": "80d457176300f341e45e2f76b044a50c847f1e3c3c84309a1df5ae1d17c970c5",
+  "image_id": 203389,
+  "seed_index": 1,
+  "seed": 2432779,
+  "prompt": "A group of young people riding motorcycles near a river.",
+  "path": "results/runs/adapter_erase25/000000203389_s1.png",
+  "sha256": "67c86a334150e042dcd162cb3014280b90c2784f6634899ea0bb563fe97ffca7",
+  "latency_s": 1.988624678007909,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

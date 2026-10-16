@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_4step",
+    "method": "lcm",
+    "steps": 4,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "9ec22cf595f8b833bea186b1ab867b1ae0fab3debca422e4ad0a7028793290a0",
+  "image_id": 482800,
+  "seed_index": 1,
+  "seed": 2991601,
+  "prompt": "an image of three people playing Frisbee outside",
+  "path": "results/runs/lcm_4step/000000482800_s1.png",
+  "sha256": "cc33b7f498a35e160ef6978a3032bc1b30755ecfcf5f00333841ee58c96c2216",
+  "latency_s": 1.8327382679999573,
+  "peak_allocated_mib": 9948.0927734375,
+  "peak_reserved_mib": 12650.0
+}

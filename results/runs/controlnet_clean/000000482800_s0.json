@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_clean",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "clean",
+    "strength": 1.5
+  },
+  "config_hash": "66b43ec0d0e6b23b0522fd655cf1655236bdd2a53d75e7fff42de6022e9c484b",
+  "image_id": 482800,
+  "seed_index": 0,
+  "seed": 2991600,
+  "prompt": "an image of three people playing Frisbee outside",
+  "path": "results/runs/controlnet_clean/000000482800_s0.png",
+  "sha256": "3439ccf50c108ff4190b71978812a133365c3fc62b4e424e981c5c411c93842a",
+  "latency_s": 2.7399294120114064,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

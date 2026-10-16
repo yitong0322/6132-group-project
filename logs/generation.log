@@ -1,0 +1,433 @@
+
+RUN START Thu Oct 15 22:02:53 2026
+Loading pipeline components...:   0%|          | 0/7 [00:00<?, ?it/s]Loading pipeline components...:  43%|████▎     | 3/7 [00:00<00:00, 18.15it/s]Loading pipeline components...:  71%|███████▏  | 5/7 [00:00<00:00, 14.68it/s]Loading pipeline components...: 100%|██████████| 7/7 [00:00<00:00,  8.73it/s]Loading pipeline components...: 100%|██████████| 7/7 [00:00<00:00, 10.13it/s]
+No LoRA keys associated to CLIPTextModel found with the prefix='text_encoder'. This is safe to ignore if LoRA state dict didn't originally have any CLIPTextModel related params. You can also try specifying `prefix=None` to resolve the warning. Otherwise, open an issue if you think it's unexpected: https://github.com/huggingface/diffusers/issues/new
+No LoRA keys associated to CLIPTextModelWithProjection found with the prefix='text_encoder_2'. This is safe to ignore if LoRA state dict didn't originally have any CLIPTextModelWithProjection related params. You can also try specifying `prefix=None` to resolve the warning. Otherwise, open an issue if you think it's unexpected: https://github.com/huggingface/diffusers/issues/new
+The config attributes {'skip_prk_steps': True} were passed to LCMScheduler, but are not expected and will be ignored. Please verify your scheduler_config.json configuration file.
+START lcm_4step remaining 200
+lcm_4step 1 / 200 1.823s 9947MiB
+lcm_4step 11 / 200 1.829s 9947MiB
+lcm_4step 21 / 200 1.832s 9948MiB
+lcm_4step 31 / 200 1.849s 9948MiB
+lcm_4step 41 / 200 1.837s 9947MiB
+lcm_4step 51 / 200 1.835s 9948MiB
+lcm_4step 61 / 200 1.837s 9948MiB
+lcm_4step 71 / 200 1.839s 9948MiB
+lcm_4step 81 / 200 1.837s 9948MiB
+lcm_4step 91 / 200 1.839s 9948MiB
+lcm_4step 101 / 200 1.840s 9948MiB
+lcm_4step 111 / 200 1.836s 9947MiB
+lcm_4step 121 / 200 1.837s 9948MiB
+lcm_4step 131 / 200 1.840s 9948MiB
+lcm_4step 141 / 200 1.835s 9948MiB
+lcm_4step 151 / 200 1.836s 9948MiB
+lcm_4step 161 / 200 1.848s 9949MiB
+lcm_4step 171 / 200 1.854s 9948MiB
+lcm_4step 181 / 200 1.839s 9948MiB
+lcm_4step 191 / 200 1.845s 9947MiB
+lcm_4step 200 / 200 1.843s 9948MiB
+COMPLETE lcm_4step
+START lcm_2step remaining 200
+lcm_2step 1 / 200 1.453s 9948MiB
+lcm_2step 11 / 200 1.445s 9948MiB
+lcm_2step 21 / 200 1.448s 9948MiB
+lcm_2step 31 / 200 1.445s 9947MiB
+lcm_2step 41 / 200 1.448s 9949MiB
+lcm_2step 51 / 200 1.448s 9948MiB
+lcm_2step 61 / 200 1.447s 9948MiB
+lcm_2step 71 / 200 1.448s 9948MiB
+lcm_2step 81 / 200 1.446s 9949MiB
+lcm_2step 91 / 200 1.449s 9947MiB
+lcm_2step 101 / 200 1.447s 9949MiB
+lcm_2step 111 / 200 1.449s 9948MiB
+lcm_2step 121 / 200 1.448s 9947MiB
+lcm_2step 131 / 200 1.447s 9948MiB
+lcm_2step 141 / 200 1.449s 9948MiB
+lcm_2step 151 / 200 1.449s 9948MiB
+lcm_2step 161 / 200 1.450s 9948MiB
+lcm_2step 171 / 200 1.448s 9948MiB
+lcm_2step 181 / 200 1.451s 9947MiB
+lcm_2step 191 / 200 1.447s 9948MiB
+lcm_2step 200 / 200 1.448s 9948MiB
+COMPLETE lcm_2step
+START lcm_8step remaining 200
+lcm_8step 1 / 200 2.611s 9948MiB
+lcm_8step 11 / 200 2.611s 9947MiB
+lcm_8step 21 / 200 2.608s 9948MiB
+lcm_8step 31 / 200 2.608s 9948MiB
+lcm_8step 41 / 200 2.606s 9949MiB
+lcm_8step 51 / 200 2.604s 9949MiB
+lcm_8step 61 / 200 2.604s 9948MiB
+lcm_8step 71 / 200 2.602s 9947MiB
+lcm_8step 81 / 200 2.600s 9947MiB
+lcm_8step 91 / 200 2.603s 9948MiB
+lcm_8step 101 / 200 2.599s 9948MiB
+lcm_8step 111 / 200 2.601s 9947MiB
+lcm_8step 121 / 200 2.599s 9948MiB
+lcm_8step 131 / 200 2.599s 9948MiB
+lcm_8step 141 / 200 2.599s 9948MiB
+lcm_8step 151 / 200 2.609s 9947MiB
+lcm_8step 161 / 200 2.610s 9949MiB
+lcm_8step 171 / 200 2.609s 9947MiB
+lcm_8step 181 / 200 2.611s 9948MiB
+lcm_8step 191 / 200 2.608s 9947MiB
+lcm_8step 200 / 200 2.600s 9947MiB
+COMPLETE lcm_8step
+/home/max/MSAI/6132/.venv/lib/python3.10/site-packages/diffusers/configuration_utils.py:250: FutureWarning: It is deprecated to pass a pretrained model name or path to `from_config`.If you were trying to load a model, please use <class 'diffusers.models.unets.unet_2d_condition.UNet2DConditionModel'>.load_config(...) followed by <class 'diffusers.models.unets.unet_2d_condition.UNet2DConditionModel'>.from_config(...) instead. Otherwise, please make sure to pass a configuration dictionary instead. This functionality will be removed in v1.0.0.
+  deprecate("config-passed-as-path", "1.0.0", deprecation_message, standard_warn=False)
+Loading pipeline components...:   0%|          | 0/7 [00:00<?, ?it/s]Loading pipeline components...:  43%|████▎     | 3/7 [00:00<00:00, 14.62it/s]Loading pipeline components...:  71%|███████▏  | 5/7 [00:00<00:00, 13.61it/s]Loading pipeline components...: 100%|██████████| 7/7 [00:00<00:00, 18.09it/s]
+START lightning_4step remaining 200
+lightning_4step 1 / 200 1.827s 9950MiB
+lightning_4step 11 / 200 1.828s 9951MiB
+lightning_4step 21 / 200 1.825s 9949MiB
+lightning_4step 31 / 200 1.825s 9950MiB
+lightning_4step 41 / 200 1.825s 9951MiB
+lightning_4step 51 / 200 1.830s 9949MiB
+lightning_4step 61 / 200 1.826s 9948MiB
+lightning_4step 71 / 200 1.826s 9949MiB
+lightning_4step 81 / 200 1.830s 9949MiB
+lightning_4step 91 / 200 1.826s 9949MiB
+lightning_4step 101 / 200 1.830s 9950MiB
+lightning_4step 111 / 200 1.830s 9949MiB
+lightning_4step 121 / 200 1.826s 9951MiB
+lightning_4step 131 / 200 1.826s 9951MiB
+lightning_4step 141 / 200 1.826s 9949MiB
+lightning_4step 151 / 200 1.825s 9949MiB
+lightning_4step 161 / 200 1.830s 9950MiB
+lightning_4step 171 / 200 1.826s 9949MiB
+lightning_4step 181 / 200 1.825s 9950MiB
+lightning_4step 191 / 200 1.826s 9948MiB
+lightning_4step 200 / 200 1.825s 9950MiB
+COMPLETE lightning_4step
+Loading pipeline components...:   0%|          | 0/7 [00:00<?, ?it/s]Loading pipeline components...:  43%|████▎     | 3/7 [00:00<00:00, 12.82it/s]Loading pipeline components...:  71%|███████▏  | 5/7 [00:00<00:00, 12.46it/s]Loading pipeline components...: 100%|██████████| 7/7 [00:00<00:00, 16.60it/s]
+START lightning_2step remaining 200
+lightning_2step 1 / 200 1.443s 9950MiB
+lightning_2step 11 / 200 1.443s 9951MiB
+lightning_2step 21 / 200 1.446s 9949MiB
+lightning_2step 31 / 200 1.444s 9950MiB
+lightning_2step 41 / 200 1.446s 9951MiB
+lightning_2step 51 / 200 1.443s 9949MiB
+lightning_2step 61 / 200 1.447s 9948MiB
+lightning_2step 71 / 200 1.445s 9949MiB
+lightning_2step 81 / 200 1.446s 9949MiB
+lightning_2step 91 / 200 1.447s 9949MiB
+lightning_2step 101 / 200 1.448s 9950MiB
+lightning_2step 111 / 200 1.446s 9949MiB
+lightning_2step 121 / 200 1.446s 9951MiB
+lightning_2step 131 / 200 1.446s 9951MiB
+lightning_2step 141 / 200 1.446s 9949MiB
+lightning_2step 151 / 200 1.446s 9949MiB
+lightning_2step 161 / 200 1.444s 9950MiB
+lightning_2step 171 / 200 1.445s 9949MiB
+lightning_2step 181 / 200 1.443s 9950MiB
+lightning_2step 191 / 200 1.446s 9948MiB
+lightning_2step 200 / 200 1.445s 9950MiB
+COMPLETE lightning_2step
+Loading pipeline components...:   0%|          | 0/7 [00:00<?, ?it/s]Loading pipeline components...:  43%|████▎     | 3/7 [00:00<00:00,  4.67it/s]Loading pipeline components...:  71%|███████▏  | 5/7 [00:00<00:00,  6.77it/s]Loading pipeline components...: 100%|██████████| 7/7 [00:00<00:00,  8.41it/s]
+START lightning_8step remaining 200
+lightning_8step 1 / 200 2.586s 9950MiB
+lightning_8step 11 / 200 2.587s 9951MiB
+lightning_8step 21 / 200 2.587s 9949MiB
+lightning_8step 31 / 200 2.588s 9950MiB
+lightning_8step 41 / 200 2.588s 9951MiB
+lightning_8step 51 / 200 2.589s 9949MiB
+lightning_8step 61 / 200 2.588s 9948MiB
+lightning_8step 71 / 200 2.588s 9949MiB
+lightning_8step 81 / 200 2.597s 9949MiB
+lightning_8step 91 / 200 2.596s 9949MiB
+lightning_8step 101 / 200 2.596s 9950MiB
+lightning_8step 111 / 200 2.597s 9949MiB
+lightning_8step 121 / 200 2.596s 9951MiB
+lightning_8step 131 / 200 2.598s 9951MiB
+lightning_8step 141 / 200 2.594s 9949MiB
+lightning_8step 151 / 200 2.589s 9949MiB
+lightning_8step 161 / 200 2.587s 9950MiB
+lightning_8step 171 / 200 2.587s 9949MiB
+lightning_8step 181 / 200 2.586s 9950MiB
+lightning_8step 191 / 200 2.587s 9948MiB
+lightning_8step 200 / 200 2.593s 9950MiB
+COMPLETE lightning_8step
+Loading pipeline components...:   0%|          | 0/7 [00:00<?, ?it/s]Loading pipeline components...:  43%|████▎     | 3/7 [00:00<00:00, 20.01it/s]Loading pipeline components...:  86%|████████▌ | 6/7 [00:00<00:00, 19.55it/s]Loading pipeline components...: 100%|██████████| 7/7 [00:00<00:00, 10.71it/s]
+START sdxl_30step remaining 200
+sdxl_30step 1 / 200 11.764s 9947MiB
+sdxl_30step 11 / 200 11.764s 9947MiB
+sdxl_30step 21 / 200 11.760s 9947MiB
+sdxl_30step 31 / 200 11.758s 9947MiB
+sdxl_30step 41 / 200 11.763s 9947MiB
+sdxl_30step 51 / 200 11.760s 9947MiB
+sdxl_30step 61 / 200 11.759s 9947MiB
+sdxl_30step 71 / 200 11.762s 9947MiB
+sdxl_30step 81 / 200 11.764s 9947MiB
+sdxl_30step 91 / 200 11.764s 9947MiB
+sdxl_30step 101 / 200 11.764s 9947MiB
+sdxl_30step 111 / 200 11.763s 9947MiB
+sdxl_30step 121 / 200 11.767s 9947MiB
+sdxl_30step 131 / 200 11.763s 9947MiB
+sdxl_30step 141 / 200 11.767s 9947MiB
+sdxl_30step 151 / 200 11.747s 9947MiB
+sdxl_30step 161 / 200 11.769s 9947MiB
+sdxl_30step 171 / 200 11.761s 9947MiB
+sdxl_30step 181 / 200 11.765s 9947MiB
+sdxl_30step 191 / 200 11.765s 9947MiB
+sdxl_30step 200 / 200 11.760s 9947MiB
+COMPLETE sdxl_30step
+Loading pipeline components...:   0%|          | 0/5 [00:00<?, ?it/s]Loading pipeline components...:  80%|████████  | 4/5 [00:00<00:00, 18.27it/s]Loading pipeline components...: 100%|██████████| 5/5 [00:00<00:00, 14.08it/s]
+START controlnet_clean remaining 200
+controlnet_clean 1 / 200 2.739s 3410MiB
+controlnet_clean 11 / 200 2.741s 3410MiB
+controlnet_clean 21 / 200 2.741s 3410MiB
+controlnet_clean 31 / 200 2.740s 3410MiB
+controlnet_clean 41 / 200 2.739s 3410MiB
+controlnet_clean 51 / 200 2.741s 3410MiB
+controlnet_clean 61 / 200 2.741s 3410MiB
+controlnet_clean 71 / 200 2.740s 3410MiB
+controlnet_clean 81 / 200 2.739s 3410MiB
+controlnet_clean 91 / 200 2.739s 3410MiB
+controlnet_clean 101 / 200 2.739s 3410MiB
+controlnet_clean 111 / 200 2.740s 3410MiB
+controlnet_clean 121 / 200 2.739s 3410MiB
+controlnet_clean 131 / 200 2.739s 3410MiB
+controlnet_clean 141 / 200 2.740s 3410MiB
+controlnet_clean 151 / 200 2.739s 3410MiB
+controlnet_clean 161 / 200 2.741s 3410MiB
+controlnet_clean 171 / 200 2.742s 3410MiB
+controlnet_clean 181 / 200 2.740s 3410MiB
+controlnet_clean 191 / 200 2.737s 3410MiB
+controlnet_clean 200 / 200 2.738s 3410MiB
+COMPLETE controlnet_clean
+START controlnet_erase25 remaining 200
+controlnet_erase25 1 / 200 2.740s 3410MiB
+controlnet_erase25 11 / 200 2.740s 3410MiB
+controlnet_erase25 21 / 200 2.738s 3410MiB
+controlnet_erase25 31 / 200 2.737s 3410MiB
+controlnet_erase25 41 / 200 2.741s 3410MiB
+controlnet_erase25 51 / 200 2.741s 3410MiB
+controlnet_erase25 61 / 200 2.741s 3410MiB
+controlnet_erase25 71 / 200 2.741s 3410MiB
+controlnet_erase25 81 / 200 2.742s 3410MiB
+controlnet_erase25 91 / 200 2.743s 3410MiB
+controlnet_erase25 101 / 200 2.738s 3410MiB
+controlnet_erase25 111 / 200 2.739s 3410MiB
+controlnet_erase25 121 / 200 2.738s 3410MiB
+controlnet_erase25 131 / 200 2.741s 3410MiB
+controlnet_erase25 141 / 200 2.739s 3410MiB
+controlnet_erase25 151 / 200 2.740s 3410MiB
+controlnet_erase25 161 / 200 2.740s 3410MiB
+controlnet_erase25 171 / 200 2.741s 3410MiB
+controlnet_erase25 181 / 200 2.738s 3410MiB
+controlnet_erase25 191 / 200 2.738s 3410MiB
+controlnet_erase25 200 / 200 2.738s 3410MiB
+COMPLETE controlnet_erase25
+START controlnet_erase50 remaining 200
+controlnet_erase50 1 / 200 2.739s 3410MiB
+controlnet_erase50 11 / 200 2.736s 3410MiB
+controlnet_erase50 21 / 200 2.734s 3410MiB
+controlnet_erase50 31 / 200 2.736s 3410MiB
+controlnet_erase50 41 / 200 2.733s 3410MiB
+controlnet_erase50 51 / 200 2.735s 3410MiB
+controlnet_erase50 61 / 200 2.734s 3410MiB
+controlnet_erase50 71 / 200 2.738s 3410MiB
+controlnet_erase50 81 / 200 2.736s 3410MiB
+controlnet_erase50 91 / 200 2.735s 3410MiB
+controlnet_erase50 101 / 200 2.734s 3410MiB
+controlnet_erase50 111 / 200 2.734s 3410MiB
+controlnet_erase50 121 / 200 2.736s 3410MiB
+controlnet_erase50 131 / 200 2.735s 3410MiB
+controlnet_erase50 141 / 200 2.735s 3410MiB
+controlnet_erase50 151 / 200 2.736s 3410MiB
+controlnet_erase50 161 / 200 2.735s 3410MiB
+controlnet_erase50 171 / 200 2.735s 3410MiB
+controlnet_erase50 181 / 200 2.735s 3410MiB
+controlnet_erase50 191 / 200 2.740s 3410MiB
+controlnet_erase50 200 / 200 2.736s 3410MiB
+COMPLETE controlnet_erase50
+START controlnet_sparse remaining 200
+controlnet_sparse 1 / 200 2.735s 3410MiB
+controlnet_sparse 11 / 200 2.738s 3410MiB
+controlnet_sparse 21 / 200 2.738s 3410MiB
+controlnet_sparse 31 / 200 2.739s 3410MiB
+controlnet_sparse 41 / 200 2.742s 3410MiB
+controlnet_sparse 51 / 200 2.738s 3410MiB
+controlnet_sparse 61 / 200 2.739s 3410MiB
+controlnet_sparse 71 / 200 2.740s 3410MiB
+controlnet_sparse 81 / 200 2.739s 3410MiB
+controlnet_sparse 91 / 200 2.740s 3410MiB
+controlnet_sparse 101 / 200 2.738s 3410MiB
+controlnet_sparse 111 / 200 2.735s 3410MiB
+controlnet_sparse 121 / 200 2.734s 3410MiB
+controlnet_sparse 131 / 200 2.733s 3410MiB
+controlnet_sparse 141 / 200 2.736s 3410MiB
+controlnet_sparse 151 / 200 2.736s 3410MiB
+controlnet_sparse 161 / 200 2.736s 3410MiB
+controlnet_sparse 171 / 200 2.733s 3410MiB
+controlnet_sparse 181 / 200 2.734s 3410MiB
+controlnet_sparse 191 / 200 2.734s 3410MiB
+controlnet_sparse 200 / 200 2.734s 3410MiB
+COMPLETE controlnet_sparse
+START controlnet_dense remaining 200
+controlnet_dense 1 / 200 2.735s 3410MiB
+controlnet_dense 11 / 200 2.734s 3410MiB
+controlnet_dense 21 / 200 2.733s 3410MiB
+controlnet_dense 31 / 200 2.733s 3410MiB
+controlnet_dense 41 / 200 2.734s 3410MiB
+controlnet_dense 51 / 200 2.735s 3410MiB
+controlnet_dense 61 / 200 2.733s 3410MiB
+controlnet_dense 71 / 200 2.735s 3410MiB
+controlnet_dense 81 / 200 2.736s 3410MiB
+controlnet_dense 91 / 200 2.733s 3410MiB
+controlnet_dense 101 / 200 2.733s 3410MiB
+controlnet_dense 111 / 200 2.733s 3410MiB
+controlnet_dense 121 / 200 2.735s 3410MiB
+controlnet_dense 131 / 200 2.733s 3410MiB
+controlnet_dense 141 / 200 2.733s 3410MiB
+controlnet_dense 151 / 200 2.734s 3410MiB
+controlnet_dense 161 / 200 2.733s 3410MiB
+controlnet_dense 171 / 200 2.733s 3410MiB
+controlnet_dense 181 / 200 2.735s 3410MiB
+controlnet_dense 191 / 200 2.734s 3410MiB
+controlnet_dense 200 / 200 2.735s 3410MiB
+COMPLETE controlnet_dense
+An error occurred while trying to fetch /home/max/MSAI/6132/models/adapter: Error no file named diffusion_pytorch_model.safetensors found in directory /home/max/MSAI/6132/models/adapter.
+Defaulting to unsafe serialization. Pass `allow_pickle=False` to raise an error instead.
+Loading pipeline components...:   0%|          | 0/5 [00:00<?, ?it/s]Loading pipeline components...:  80%|████████  | 4/5 [00:00<00:00, 22.70it/s]Loading pipeline components...: 100%|██████████| 5/5 [00:00<00:00, 22.81it/s]
+START adapter_clean remaining 200
+/home/max/MSAI/6132/.venv/lib/python3.10/site-packages/diffusers/pipelines/t2i_adapter/pipeline_stable_diffusion_adapter.py:511: FutureWarning: The decode_latents method is deprecated and will be removed in 1.0.0. Please use VaeImageProcessor.postprocess(...) instead
+  deprecate("decode_latents", "1.0.0", deprecation_message, standard_warn=False)
+adapter_clean 1 / 200 1.993s 2835MiB
+adapter_clean 11 / 200 1.992s 2835MiB
+adapter_clean 21 / 200 1.991s 2835MiB
+adapter_clean 31 / 200 1.991s 2835MiB
+adapter_clean 41 / 200 1.991s 2835MiB
+adapter_clean 51 / 200 1.991s 2835MiB
+adapter_clean 61 / 200 1.995s 2835MiB
+adapter_clean 71 / 200 1.992s 2835MiB
+adapter_clean 81 / 200 1.990s 2835MiB
+adapter_clean 91 / 200 1.990s 2835MiB
+adapter_clean 101 / 200 1.993s 2835MiB
+adapter_clean 111 / 200 1.992s 2835MiB
+adapter_clean 121 / 200 1.991s 2835MiB
+adapter_clean 131 / 200 1.993s 2835MiB
+adapter_clean 141 / 200 1.991s 2835MiB
+adapter_clean 151 / 200 1.992s 2835MiB
+adapter_clean 161 / 200 1.991s 2835MiB
+adapter_clean 171 / 200 1.991s 2835MiB
+adapter_clean 181 / 200 1.992s 2835MiB
+adapter_clean 191 / 200 1.994s 2835MiB
+adapter_clean 200 / 200 1.990s 2835MiB
+COMPLETE adapter_clean
+START adapter_erase25 remaining 200
+adapter_erase25 1 / 200 1.993s 2835MiB
+adapter_erase25 11 / 200 1.988s 2835MiB
+adapter_erase25 21 / 200 1.988s 2835MiB
+adapter_erase25 31 / 200 1.988s 2835MiB
+adapter_erase25 41 / 200 1.988s 2835MiB
+adapter_erase25 51 / 200 1.991s 2835MiB
+adapter_erase25 61 / 200 1.989s 2835MiB
+adapter_erase25 71 / 200 1.990s 2835MiB
+adapter_erase25 81 / 200 1.989s 2835MiB
+adapter_erase25 91 / 200 1.989s 2835MiB
+adapter_erase25 101 / 200 1.990s 2835MiB
+adapter_erase25 111 / 200 1.990s 2835MiB
+adapter_erase25 121 / 200 1.988s 2835MiB
+adapter_erase25 131 / 200 1.989s 2835MiB
+adapter_erase25 141 / 200 1.989s 2835MiB
+adapter_erase25 151 / 200 1.988s 2835MiB
+adapter_erase25 161 / 200 1.988s 2835MiB
+adapter_erase25 171 / 200 1.990s 2835MiB
+adapter_erase25 181 / 200 1.989s 2835MiB
+adapter_erase25 191 / 200 1.988s 2835MiB
+adapter_erase25 200 / 200 1.989s 2835MiB
+COMPLETE adapter_erase25
+START adapter_erase50 remaining 200
+adapter_erase50 1 / 200 1.991s 2835MiB
+adapter_erase50 11 / 200 1.989s 2835MiB
+adapter_erase50 21 / 200 1.989s 2835MiB
+adapter_erase50 31 / 200 1.988s 2835MiB
+adapter_erase50 41 / 200 1.988s 2835MiB
+adapter_erase50 51 / 200 1.991s 2835MiB
+adapter_erase50 61 / 200 1.990s 2835MiB
+adapter_erase50 71 / 200 1.989s 2835MiB
+adapter_erase50 81 / 200 1.988s 2835MiB
+adapter_erase50 91 / 200 1.989s 2835MiB
+adapter_erase50 101 / 200 1.990s 2835MiB
+adapter_erase50 111 / 200 1.989s 2835MiB
+adapter_erase50 121 / 200 1.989s 2835MiB
+adapter_erase50 131 / 200 1.990s 2835MiB
+adapter_erase50 141 / 200 1.988s 2835MiB
+adapter_erase50 151 / 200 1.989s 2835MiB
+adapter_erase50 161 / 200 1.989s 2835MiB
+adapter_erase50 171 / 200 1.989s 2835MiB
+adapter_erase50 181 / 200 1.989s 2835MiB
+adapter_erase50 191 / 200 1.989s 2835MiB
+adapter_erase50 200 / 200 1.989s 2835MiB
+COMPLETE adapter_erase50
+START adapter_sparse remaining 200
+adapter_sparse 1 / 200 1.990s 2835MiB
+adapter_sparse 11 / 200 1.988s 2835MiB
+adapter_sparse 21 / 200 1.988s 2835MiB
+adapter_sparse 31 / 200 1.989s 2835MiB
+adapter_sparse 41 / 200 1.988s 2835MiB
+adapter_sparse 51 / 200 1.988s 2835MiB
+adapter_sparse 61 / 200 1.991s 2835MiB
+adapter_sparse 71 / 200 1.990s 2835MiB
+adapter_sparse 81 / 200 1.990s 2835MiB
+adapter_sparse 91 / 200 1.988s 2835MiB
+adapter_sparse 101 / 200 1.988s 2835MiB
+adapter_sparse 111 / 200 1.990s 2835MiB
+adapter_sparse 121 / 200 1.991s 2835MiB
+adapter_sparse 131 / 200 1.989s 2835MiB
+adapter_sparse 141 / 200 1.989s 2835MiB
+adapter_sparse 151 / 200 1.990s 2835MiB
+adapter_sparse 161 / 200 1.990s 2835MiB
+adapter_sparse 171 / 200 1.990s 2835MiB
+adapter_sparse 181 / 200 1.988s 2835MiB
+adapter_sparse 191 / 200 1.988s 2835MiB
+adapter_sparse 200 / 200 1.990s 2835MiB
+COMPLETE adapter_sparse
+START adapter_dense remaining 200
+adapter_dense 1 / 200 1.989s 2835MiB
+adapter_dense 11 / 200 1.989s 2835MiB
+adapter_dense 21 / 200 1.988s 2835MiB
+adapter_dense 31 / 200 1.990s 2835MiB
+adapter_dense 41 / 200 1.988s 2835MiB
+adapter_dense 51 / 200 1.988s 2835MiB
+adapter_dense 61 / 200 1.989s 2835MiB
+adapter_dense 71 / 200 1.989s 2835MiB
+adapter_dense 81 / 200 1.990s 2835MiB
+adapter_dense 91 / 200 1.990s 2835MiB
+adapter_dense 101 / 200 1.988s 2835MiB
+adapter_dense 111 / 200 1.989s 2835MiB
+adapter_dense 121 / 200 1.988s 2835MiB
+adapter_dense 131 / 200 1.989s 2835MiB
+adapter_dense 141 / 200 1.988s 2835MiB
+adapter_dense 151 / 200 1.988s 2835MiB
+adapter_dense 161 / 200 1.989s 2835MiB
+adapter_dense 171 / 200 1.989s 2835MiB
+adapter_dense 181 / 200 1.989s 2835MiB
+adapter_dense 191 / 200 1.990s 2835MiB
+adapter_dense 200 / 200 1.989s 2835MiB
+COMPLETE adapter_dense
+Loading pipeline components...:   0%|          | 0/5 [00:00<?, ?it/s]Loading pipeline components...:  80%|████████  | 4/5 [00:00<00:00, 26.61it/s]Loading pipeline components...: 100%|██████████| 5/5 [00:00<00:00, 26.26it/s]
+START sd15_30step remaining 200
+sd15_30step 1 / 200 1.984s 2675MiB
+sd15_30step 11 / 200 1.983s 2675MiB
+sd15_30step 21 / 200 1.983s 2675MiB
+sd15_30step 31 / 200 1.983s 2675MiB
+sd15_30step 41 / 200 1.984s 2675MiB
+sd15_30step 51 / 200 1.984s 2675MiB
+sd15_30step 61 / 200 1.983s 2675MiB
+sd15_30step 71 / 200 1.984s 2675MiB
+sd15_30step 81 / 200 1.983s 2675MiB
+sd15_30step 91 / 200 1.983s 2675MiB
+sd15_30step 101 / 200 1.984s 2675MiB
+sd15_30step 111 / 200 1.983s 2675MiB
+sd15_30step 121 / 200 1.983s 2675MiB
+sd15_30step 131 / 200 1.983s 2675MiB
+sd15_30step 141 / 200 1.984s 2675MiB
+sd15_30step 151 / 200 1.983s 2675MiB
+sd15_30step 161 / 200 1.983s 2675MiB
+sd15_30step 171 / 200 1.984s 2675MiB
+sd15_30step 181 / 200 1.986s 2675MiB
+sd15_30step 191 / 200 1.983s 2675MiB
+sd15_30step 200 / 200 1.984s 2675MiB
+COMPLETE sd15_30step

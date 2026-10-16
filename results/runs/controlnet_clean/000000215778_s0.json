@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_clean",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "clean",
+    "strength": 1.5
+  },
+  "config_hash": "66b43ec0d0e6b23b0522fd655cf1655236bdd2a53d75e7fff42de6022e9c484b",
+  "image_id": 215778,
+  "seed_index": 0,
+  "seed": 2457556,
+  "prompt": "There is a lap top computer on the desk",
+  "path": "results/runs/controlnet_clean/000000215778_s0.png",
+  "sha256": "b8ced187f1a4e986e1b9f819c08ea2d2a846562a80224ac625b6026bc238c687",
+  "latency_s": 2.740949979008292,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

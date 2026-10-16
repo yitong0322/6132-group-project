@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_erase25",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase25",
+    "strength": 1.5
+  },
+  "config_hash": "8fb8a2754192714bc32db360b571eff94829570c7be658ef8572cbbfe9dfb389",
+  "image_id": 482800,
+  "seed_index": 0,
+  "seed": 2991600,
+  "prompt": "an image of three people playing Frisbee outside",
+  "path": "results/runs/controlnet_erase25/000000482800_s0.png",
+  "sha256": "b923e4c65c5f82d4e9d53b7934d35ef5b7016a68acf60fa95c041ed9386d2596",
+  "latency_s": 2.7390564819943393,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

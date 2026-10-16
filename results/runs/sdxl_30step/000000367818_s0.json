@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "sdxl_30step",
+    "method": "sdxl",
+    "steps": 30,
+    "resolution": 1024,
+    "guidance": 5.0,
+    "condition": "none"
+  },
+  "config_hash": "7f2ff1a362b25ed9a421756a7624dd1129e6797ecf34a7ec1fc39f2ba5c3a6df",
+  "image_id": 367818,
+  "seed_index": 0,
+  "seed": 2761636,
+  "prompt": "A woman in tight blue jeans standing next to a brown horse.",
+  "path": "results/runs/sdxl_30step/000000367818_s0.png",
+  "sha256": "31ad2309f52059367a5127a7490c9c4e199f56d9767a38e92cd93439b774bb41",
+  "latency_s": 11.761880284000654,
+  "peak_allocated_mib": 9946.52978515625,
+  "peak_reserved_mib": 12896.0
+}

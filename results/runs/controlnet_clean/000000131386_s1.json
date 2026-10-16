@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_clean",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "clean",
+    "strength": 1.5
+  },
+  "config_hash": "66b43ec0d0e6b23b0522fd655cf1655236bdd2a53d75e7fff42de6022e9c484b",
+  "image_id": 131386,
+  "seed_index": 1,
+  "seed": 2288773,
+  "prompt": "A group of airplanes in the sky in formation. ",
+  "path": "results/runs/controlnet_clean/000000131386_s1.png",
+  "sha256": "92a4bf1cd2d137894e72bc61fbf4fead8ad8a3b2914be446fe0661b9cdebab2f",
+  "latency_s": 2.741438425000524,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

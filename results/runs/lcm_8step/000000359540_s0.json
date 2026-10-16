@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_8step",
+    "method": "lcm",
+    "steps": 8,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "feddce4cdbe9647508117b127ff6e71f47b840f02764b4ba859667a4e90c6edf",
+  "image_id": 359540,
+  "seed_index": 0,
+  "seed": 2745080,
+  "prompt": "A baseball player swinging and missing the ball.",
+  "path": "results/runs/lcm_8step/000000359540_s0.png",
+  "sha256": "d1180bcc87abb8882bf8e741152390fc9266aefd1d59668072a877ea44edeb1c",
+  "latency_s": 2.5989891740027815,
+  "peak_allocated_mib": 9948.0927734375,
+  "peak_reserved_mib": 12650.0
+}

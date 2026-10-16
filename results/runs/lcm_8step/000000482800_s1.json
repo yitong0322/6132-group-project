@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_8step",
+    "method": "lcm",
+    "steps": 8,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "feddce4cdbe9647508117b127ff6e71f47b840f02764b4ba859667a4e90c6edf",
+  "image_id": 482800,
+  "seed_index": 1,
+  "seed": 2991601,
+  "prompt": "an image of three people playing Frisbee outside",
+  "path": "results/runs/lcm_8step/000000482800_s1.png",
+  "sha256": "39c22b574b757cdd0ad4310b41d13398f9cfe34097998296237a82c5027b3e0d",
+  "latency_s": 2.6092505259875907,
+  "peak_allocated_mib": 9947.5927734375,
+  "peak_reserved_mib": 12650.0
+}

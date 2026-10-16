@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_dense",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "f25fcf61e38298c2c82909b445848fd59f39f4565e113adeded45d7fab51ac96",
+  "image_id": 3661,
+  "seed_index": 0,
+  "seed": 2033322,
+  "prompt": "A bunch of bananas sitting on top of a wooden table.",
+  "path": "results/runs/controlnet_dense/000000003661_s0.png",
+  "sha256": "03b24d7d7cd36db9b0c49264e369db0c1050d609c815ce3b2a1e0745ebc2c760",
+  "latency_s": 2.7331770720047643,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

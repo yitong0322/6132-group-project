@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_4step",
+    "method": "lightning",
+    "steps": 4,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "16ac80513f831abd97c3f2a5ff13092269bfbb5f3406b2a8d454fc9d71c49fcd",
+  "image_id": 482800,
+  "seed_index": 0,
+  "seed": 2991600,
+  "prompt": "an image of three people playing Frisbee outside",
+  "path": "results/runs/lightning_4step/000000482800_s0.png",
+  "sha256": "4820b7e7b72545f963080defec8d0d6f38e076c7cd53aa6f41b246fd37d3738a",
+  "latency_s": 1.8299374839989468,
+  "peak_allocated_mib": 9949.0458984375,
+  "peak_reserved_mib": 12632.0
+}

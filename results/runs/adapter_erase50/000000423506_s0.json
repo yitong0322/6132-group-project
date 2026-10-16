@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase50",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "896b5ee20f16dbe54a8a8a0f8cbb30f7dfda77457ef77ac9d5f01f8363335ce2",
+  "image_id": 423506,
+  "seed_index": 0,
+  "seed": 2873012,
+  "prompt": "Two men smiling and taking a picture together. ",
+  "path": "results/runs/adapter_erase50/000000423506_s0.png",
+  "sha256": "8aeb381dda75c3e303f24aafe62d4d727143d98ad68dc4f595de3aa63600bc99",
+  "latency_s": 1.9892910530033987,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

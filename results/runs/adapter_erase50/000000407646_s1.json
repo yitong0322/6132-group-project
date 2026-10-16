@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase50",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "896b5ee20f16dbe54a8a8a0f8cbb30f7dfda77457ef77ac9d5f01f8363335ce2",
+  "image_id": 407646,
+  "seed_index": 1,
+  "seed": 2841293,
+  "prompt": "A man playing tennis who is about to return a serve.",
+  "path": "results/runs/adapter_erase50/000000407646_s1.png",
+  "sha256": "8218a4aa89e8b0ce4d72737b3dd188ba7edf574fcadb7f7317f5b7f7f9f76560",
+  "latency_s": 1.9899320480035385,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

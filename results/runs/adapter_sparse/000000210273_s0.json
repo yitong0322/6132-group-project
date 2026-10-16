@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_sparse",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "e591437800140077d0a3adb6b23eea9fd6dac35575bed9dfa31bd71572efb58f",
+  "image_id": 210273,
+  "seed_index": 0,
+  "seed": 2446546,
+  "prompt": "Buses and cars on interstate going both ways. ",
+  "path": "results/runs/adapter_sparse/000000210273_s0.png",
+  "sha256": "53f722036ac6bb4067de93cda0e02a6acb64b1bc4c06293c776e712b83a8641a",
+  "latency_s": 1.9896983490034472,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

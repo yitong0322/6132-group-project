@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_sparse",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "e591437800140077d0a3adb6b23eea9fd6dac35575bed9dfa31bd71572efb58f",
+  "image_id": 57760,
+  "seed_index": 0,
+  "seed": 2141520,
+  "prompt": "many people on a beach with a kite flying in the sky",
+  "path": "results/runs/adapter_sparse/000000057760_s0.png",
+  "sha256": "c4f94014f3dd1465868c3daa2b2c80494df58509ed238d1ac33ead78025c887b",
+  "latency_s": 1.9885764710052172,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "sd15_30step",
+    "method": "sd15",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "none"
+  },
+  "config_hash": "50a25ea0626a66bb0ec90a9954c0e8703317fb3903621c472f0b82bcf8c26228",
+  "image_id": 206831,
+  "seed_index": 0,
+  "seed": 2439662,
+  "prompt": "A large brown dog holding a neon frisbee in his mouth.",
+  "path": "results/runs/sd15_30step/000000206831_s0.png",
+  "sha256": "fe5e6877df4e0a8cb741ba06d731eb20d34fbc08c6804b929433dca0cc04731d",
+  "latency_s": 1.9842986010044115,
+  "peak_allocated_mib": 2675.13818359375,
+  "peak_reserved_mib": 3238.0
+}

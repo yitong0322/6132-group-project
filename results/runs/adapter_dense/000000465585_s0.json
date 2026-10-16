@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_dense",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "114bbb8b7de882aa24fc41d9ba598b03037e7e4fd05b317cde3dc9b41adcdaad",
+  "image_id": 465585,
+  "seed_index": 0,
+  "seed": 2957170,
+  "prompt": "An aluminum pan full of chopped broccoli and carrots.",
+  "path": "results/runs/adapter_dense/000000465585_s0.png",
+  "sha256": "e3e2c5c179edaa8a5e350deed697424a8ed223ca19aab1716c03511aef6b9536",
+  "latency_s": 1.988259983001626,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

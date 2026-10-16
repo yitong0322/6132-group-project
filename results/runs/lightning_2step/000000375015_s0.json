@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_2step",
+    "method": "lightning",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "c9f1d7562e2c721c6f9d933bd0ebaabec8feb143758b08fb930248cd7d3e3ae6",
+  "image_id": 375015,
+  "seed_index": 0,
+  "seed": 2776030,
+  "prompt": "A baby brown bear standing on top of a rock.",
+  "path": "results/runs/lightning_2step/000000375015_s0.png",
+  "sha256": "047fb9c92df2b92e9f7ef46058ee02d5a0deff1ddd4cc0c15e4dc4ce0e2dcbea",
+  "latency_s": 1.4458170060097473,
+  "peak_allocated_mib": 9949.0458984375,
+  "peak_reserved_mib": 12632.0
+}

@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_4step",
+    "method": "lcm",
+    "steps": 4,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "9ec22cf595f8b833bea186b1ab867b1ae0fab3debca422e4ad0a7028793290a0",
+  "image_id": 217957,
+  "seed_index": 1,
+  "seed": 2461915,
+  "prompt": "A clock is shown with gold detailing around it.",
+  "path": "results/runs/lcm_4step/000000217957_s1.png",
+  "sha256": "256e526dceb21db470abacd01308f4cb6b1b29e14e97339c3592c0c2f514b43e",
+  "latency_s": 1.8440831610059831,
+  "peak_allocated_mib": 9947.3427734375,
+  "peak_reserved_mib": 12650.0
+}

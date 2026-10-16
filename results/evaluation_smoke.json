@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "test": "CPU evaluation smoke, not formal metrics",
+  "max_caption_tokens": 23,
+  "captions_over_77": 0,
+  "inception_shape": [
+    1,
+    2048
+  ],
+  "clip_smoke_score": 23.482221603393555
+}

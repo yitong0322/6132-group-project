@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_sparse",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "e591437800140077d0a3adb6b23eea9fd6dac35575bed9dfa31bd71572efb58f",
+  "image_id": 358427,
+  "seed_index": 0,
+  "seed": 2742854,
+  "prompt": "Two pieces of broccoli being held up on a fork",
+  "path": "results/runs/adapter_sparse/000000358427_s0.png",
+  "sha256": "8759de87bded9c3a53b955b8aac5f26304c0a50f531ed67af2264f0764ebfd96",
+  "latency_s": 1.9896244370029308,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

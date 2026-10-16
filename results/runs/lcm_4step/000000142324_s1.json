@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_4step",
+    "method": "lcm",
+    "steps": 4,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "9ec22cf595f8b833bea186b1ab867b1ae0fab3debca422e4ad0a7028793290a0",
+  "image_id": 142324,
+  "seed_index": 1,
+  "seed": 2310649,
+  "prompt": "A person on a motor bike on a street.",
+  "path": "results/runs/lcm_4step/000000142324_s1.png",
+  "sha256": "7200b1113ea9e1ddedc79636061901620a25b979c02ff10d3b0a2c08274a2ac7",
+  "latency_s": 1.835927003994584,
+  "peak_allocated_mib": 9947.3427734375,
+  "peak_reserved_mib": 12650.0
+}

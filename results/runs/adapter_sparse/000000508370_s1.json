@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_sparse",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "e591437800140077d0a3adb6b23eea9fd6dac35575bed9dfa31bd71572efb58f",
+  "image_id": 508370,
+  "seed_index": 1,
+  "seed": 3042741,
+  "prompt": "A bicycle parked on top of a baby dolls head.",
+  "path": "results/runs/adapter_sparse/000000508370_s1.png",
+  "sha256": "36ec91aba6181e2af5dfa9a39bd347bb983bfcc2a77c253bf8a84e278ead57a5",
+  "latency_s": 1.9906054250022862,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

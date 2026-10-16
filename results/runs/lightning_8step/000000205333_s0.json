@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_8step",
+    "method": "lightning",
+    "steps": 8,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "711af09a6d55e6cffce394b70a1f925c5621329067c780a2ae6a492787f97d3f",
+  "image_id": 205333,
+  "seed_index": 0,
+  "seed": 2436666,
+  "prompt": "A pair of skiers on the top of a ski slope with clouds and large mountain in the background.",
+  "path": "results/runs/lightning_8step/000000205333_s0.png",
+  "sha256": "535b4206937b53ca6e4399caee7e85efb12208e065e43ed8bbb6b07298f60c0c",
+  "latency_s": 2.5958919880067697,
+  "peak_allocated_mib": 9948.5458984375,
+  "peak_reserved_mib": 12632.0
+}

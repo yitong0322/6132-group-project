@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_dense",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "114bbb8b7de882aa24fc41d9ba598b03037e7e4fd05b317cde3dc9b41adcdaad",
+  "image_id": 549738,
+  "seed_index": 1,
+  "seed": 3125477,
+  "prompt": "A kite is flying in a clear sky.",
+  "path": "results/runs/adapter_dense/000000549738_s1.png",
+  "sha256": "f1b2990bcccf7cd931f904b0d0c3a76068d20942a4b66e1c382f31110624e01e",
+  "latency_s": 1.989102670995635,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

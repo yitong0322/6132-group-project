@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_clean",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "clean",
+    "strength": 1.5
+  },
+  "config_hash": "66b43ec0d0e6b23b0522fd655cf1655236bdd2a53d75e7fff42de6022e9c484b",
+  "image_id": 404678,
+  "seed_index": 1,
+  "seed": 2835357,
+  "prompt": "A family sitting down at a table for a meal.",
+  "path": "results/runs/controlnet_clean/000000404678_s1.png",
+  "sha256": "0ba3cc548c2447cbda83703b24b39c3627a73c66cd2eb9e433fe31c4090f5311",
+  "latency_s": 2.7385166399908485,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "sdxl_30step",
+    "method": "sdxl",
+    "steps": 30,
+    "resolution": 1024,
+    "guidance": 5.0,
+    "condition": "none"
+  },
+  "config_hash": "7f2ff1a362b25ed9a421756a7624dd1129e6797ecf34a7ec1fc39f2ba5c3a6df",
+  "image_id": 380203,
+  "seed_index": 1,
+  "seed": 2786407,
+  "prompt": "A white horse is out eating in a field",
+  "path": "results/runs/sdxl_30step/000000380203_s1.png",
+  "sha256": "d23db645f821e1208569dc774dcd4715f6232ce1aca3ac7dd5761f8199bc6f6e",
+  "latency_s": 11.757838916993933,
+  "peak_allocated_mib": 9946.52978515625,
+  "peak_reserved_mib": 12896.0
+}

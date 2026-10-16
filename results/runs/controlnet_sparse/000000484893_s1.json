@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_sparse",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "88986ea6e18a64cdcc4d2f2c7c574e63ac06733272a42dfa6d44b4ea528ac428",
+  "image_id": 484893,
+  "seed_index": 1,
+  "seed": 2995787,
+  "prompt": "A couple of kids petting sheep inside of a corral",
+  "path": "results/runs/controlnet_sparse/000000484893_s1.png",
+  "sha256": "3b2f7b97b101d8017248a78580e6c5abe396d6b8b1a2da379e4114a01b3a6d6e",
+  "latency_s": 2.737822656999924,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

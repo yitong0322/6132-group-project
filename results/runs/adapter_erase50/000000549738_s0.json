@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase50",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "896b5ee20f16dbe54a8a8a0f8cbb30f7dfda77457ef77ac9d5f01f8363335ce2",
+  "image_id": 549738,
+  "seed_index": 0,
+  "seed": 3125476,
+  "prompt": "A kite is flying in a clear sky.",
+  "path": "results/runs/adapter_erase50/000000549738_s0.png",
+  "sha256": "d1f9e7f39beff35c087e0c4185d2b603a2d425cb42dbf05c51ded100d067320e",
+  "latency_s": 1.989998318007565,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

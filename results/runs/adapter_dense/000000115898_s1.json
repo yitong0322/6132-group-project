@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_dense",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "114bbb8b7de882aa24fc41d9ba598b03037e7e4fd05b317cde3dc9b41adcdaad",
+  "image_id": 115898,
+  "seed_index": 1,
+  "seed": 2257797,
+  "prompt": "A man in black wetsuit on white surfboard riding wave.",
+  "path": "results/runs/adapter_dense/000000115898_s1.png",
+  "sha256": "bc68c0bbe2d35796a9daf00319a5735fc34951914e9b91fae525ce84d9c9ad36",
+  "latency_s": 1.9879471659951378,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

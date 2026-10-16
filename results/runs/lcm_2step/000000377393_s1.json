@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_2step",
+    "method": "lcm",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "662eb0b62259031ebfd05061cc22cf9622a52f075eeb20943184e3e52cfbc947",
+  "image_id": 377393,
+  "seed_index": 1,
+  "seed": 2780787,
+  "prompt": "Looking down at a beach area and boardwalk that has a circular walkway and clock tower.",
+  "path": "results/runs/lcm_2step/000000377393_s1.png",
+  "sha256": "98689688b9d5b1182814b69433de855f36f63d6cffd290674686a705711e5982",
+  "latency_s": 1.4476458400022238,
+  "peak_allocated_mib": 9946.3427734375,
+  "peak_reserved_mib": 12650.0
+}

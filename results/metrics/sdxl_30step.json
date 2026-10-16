@@ -1,0 +1,1044 @@
+{
+  "summary": {
+    "config": {
+      "name": "sdxl_30step",
+      "method": "sdxl",
+      "steps": 30,
+      "resolution": 1024,
+      "guidance": 5.0,
+      "condition": "none"
+    },
+    "n_originals": 100,
+    "n_generated": 200,
+    "kid_mean": -0.0010115746906545087,
+    "kid_by_seed": [
+      {
+        "mean": -0.0005206313227431547,
+        "subset_std": 0.0013870838739133784,
+        "subsets": 100,
+        "subset_size": 50
+      },
+      {
+        "mean": -0.0015025180585658627,
+        "subset_std": 0.0014001833115105272,
+        "subsets": 100,
+        "subset_size": 50
+      }
+    ],
+    "latency_mean_s": 11.761860673125266,
+    "latency_median_s": 11.762142457504524,
+    "latency_p95_s": 11.767233353242045,
+    "throughput_images_per_s": 0.0850205616093468,
+    "peak_allocated_mib_max": 9948.02978515625,
+    "peak_allocated_mib_mean": 9946.57853515625,
+    "metric_protocol": "v1: CLIP ViT-B/32 100*max(0,cos); KID Inception2048 polynomial degree3 gamma1/2048 coef1; 100 subsets of 50 per seed; KID raw units; timing excludes I/O/loading/metrics; 3 warmups per config",
+    "clip_score_mean": 31.289053201675415,
+    "clip_score_ci95": [
+      30.78747432422638,
+      31.806569482564925
+    ],
+    "clip_score_n_originals": 100
+  },
+  "per_image": [
+    {
+      "image_id": 313130,
+      "seed_index": 0,
+      "clip_score": 30.026382446289062
+    },
+    {
+      "image_id": 313130,
+      "seed_index": 1,
+      "clip_score": 29.015737533569336
+    },
+    {
+      "image_id": 533493,
+      "seed_index": 0,
+      "clip_score": 24.924264907836914
+    },
+    {
+      "image_id": 533493,
+      "seed_index": 1,
+      "clip_score": 28.266489028930664
+    },
+    {
+      "image_id": 370999,
+      "seed_index": 0,
+      "clip_score": 26.358901977539062
+    },
+    {
+      "image_id": 370999,
+      "seed_index": 1,
+      "clip_score": 25.01826286315918
+    },
+    {
+      "image_id": 484893,
+      "seed_index": 0,
+      "clip_score": 33.79238510131836
+    },
+    {
+      "image_id": 484893,
+      "seed_index": 1,
+      "clip_score": 33.07821273803711
+    },
+    {
+      "image_id": 99039,
+      "seed_index": 0,
+      "clip_score": 28.80758285522461
+    },
+    {
+      "image_id": 99039,
+      "seed_index": 1,
+      "clip_score": 29.097110748291016
+    },
+    {
+      "image_id": 213816,
+      "seed_index": 0,
+      "clip_score": 29.32613182067871
+    },
+    {
+      "image_id": 213816,
+      "seed_index": 1,
+      "clip_score": 29.42136573791504
+    },
+    {
+      "image_id": 465585,
+      "seed_index": 0,
+      "clip_score": 33.38103485107422
+    },
+    {
+      "image_id": 465585,
+      "seed_index": 1,
+      "clip_score": 35.47721862792969
+    },
+    {
+      "image_id": 468925,
+      "seed_index": 0,
+      "clip_score": 35.06586456298828
+    },
+    {
+      "image_id": 468925,
+      "seed_index": 1,
+      "clip_score": 35.31228256225586
+    },
+    {
+      "image_id": 546826,
+      "seed_index": 0,
+      "clip_score": 31.625112533569336
+    },
+    {
+      "image_id": 546826,
+      "seed_index": 1,
+      "clip_score": 32.62907409667969
+    },
+    {
+      "image_id": 283412,
+      "seed_index": 0,
+      "clip_score": 38.12020492553711
+    },
+    {
+      "image_id": 283412,
+      "seed_index": 1,
+      "clip_score": 35.34809494018555
+    },
+    {
+      "image_id": 375015,
+      "seed_index": 0,
+      "clip_score": 32.165409088134766
+    },
+    {
+      "image_id": 375015,
+      "seed_index": 1,
+      "clip_score": 33.49909973144531
+    },
+    {
+      "image_id": 498286,
+      "seed_index": 0,
+      "clip_score": 31.45480728149414
+    },
+    {
+      "image_id": 498286,
+      "seed_index": 1,
+      "clip_score": 29.84819793701172
+    },
+    {
+      "image_id": 146831,
+      "seed_index": 0,
+      "clip_score": 29.3454532623291
+    },
+    {
+      "image_id": 146831,
+      "seed_index": 1,
+      "clip_score": 30.898374557495117
+    },
+    {
+      "image_id": 477288,
+      "seed_index": 0,
+      "clip_score": 38.25968551635742
+    },
+    {
+      "image_id": 477288,
+      "seed_index": 1,
+      "clip_score": 37.73982620239258
+    },
+    {
+      "image_id": 2149,
+      "seed_index": 0,
+      "clip_score": 32.5635986328125
+    },
+    {
+      "image_id": 2149,
+      "seed_index": 1,
+      "clip_score": 30.940181732177734
+    },
+    {
+      "image_id": 38210,
+      "seed_index": 0,
+      "clip_score": 29.821998596191406
+    },
+    {
+      "image_id": 38210,
+      "seed_index": 1,
+      "clip_score": 28.369617462158203
+    },
+    {
+      "image_id": 117374,
+      "seed_index": 0,
+      "clip_score": 33.819122314453125
+    },
+    {
+      "image_id": 117374,
+      "seed_index": 1,
+      "clip_score": 29.9161434173584
+    },
+    {
+      "image_id": 416885,
+      "seed_index": 0,
+      "clip_score": 32.60087203979492
+    },
+    {
+      "image_id": 416885,
+      "seed_index": 1,
+      "clip_score": 32.66746139526367
+    },
+    {
+      "image_id": 377393,
+      "seed_index": 0,
+      "clip_score": 34.175933837890625
+    },
+    {
+      "image_id": 377393,
+      "seed_index": 1,
+      "clip_score": 29.7419376373291
+    },
+    {
+      "image_id": 359540,
+      "seed_index": 0,
+      "clip_score": 31.527175903320312
+    },
+    {
+      "image_id": 359540,
+      "seed_index": 1,
+      "clip_score": 31.264972686767578
+    },
+    {
+      "image_id": 16502,
+      "seed_index": 0,
+      "clip_score": 33.294189453125
+    },
+    {
+      "image_id": 16502,
+      "seed_index": 1,
+      "clip_score": 32.54136276245117
+    },
+    {
+      "image_id": 45596,
+      "seed_index": 0,
+      "clip_score": 25.31329917907715
+    },
+    {
+      "image_id": 45596,
+      "seed_index": 1,
+      "clip_score": 23.1920108795166
+    },
+    {
+      "image_id": 383921,
+      "seed_index": 0,
+      "clip_score": 33.468544006347656
+    },
+    {
+      "image_id": 383921,
+      "seed_index": 1,
+      "clip_score": 33.225830078125
+    },
+    {
+      "image_id": 229358,
+      "seed_index": 0,
+      "clip_score": 28.832916259765625
+    },
+    {
+      "image_id": 229358,
+      "seed_index": 1,
+      "clip_score": 29.055797576904297
+    },
+    {
+      "image_id": 407646,
+      "seed_index": 0,
+      "clip_score": 31.56241226196289
+    },
+    {
+      "image_id": 407646,
+      "seed_index": 1,
+      "clip_score": 30.15761947631836
+    },
+    {
+      "image_id": 563702,
+      "seed_index": 0,
+      "clip_score": 26.06428337097168
+    },
+    {
+      "image_id": 563702,
+      "seed_index": 1,
+      "clip_score": 29.060850143432617
+    },
+    {
+      "image_id": 388056,
+      "seed_index": 0,
+      "clip_score": 27.743011474609375
+    },
+    {
+      "image_id": 388056,
+      "seed_index": 1,
+      "clip_score": 26.294919967651367
+    },
+    {
+      "image_id": 159791,
+      "seed_index": 0,
+      "clip_score": 33.536277770996094
+    },
+    {
+      "image_id": 159791,
+      "seed_index": 1,
+      "clip_score": 35.468994140625
+    },
+    {
+      "image_id": 380203,
+      "seed_index": 0,
+      "clip_score": 32.7446174621582
+    },
+    {
+      "image_id": 380203,
+      "seed_index": 1,
+      "clip_score": 32.227325439453125
+    },
+    {
+      "image_id": 25986,
+      "seed_index": 0,
+      "clip_score": 29.32693099975586
+    },
+    {
+      "image_id": 25986,
+      "seed_index": 1,
+      "clip_score": 29.702383041381836
+    },
+    {
+      "image_id": 215778,
+      "seed_index": 0,
+      "clip_score": 26.001258850097656
+    },
+    {
+      "image_id": 215778,
+      "seed_index": 1,
+      "clip_score": 25.81401824951172
+    },
+    {
+      "image_id": 367818,
+      "seed_index": 0,
+      "clip_score": 33.52213668823242
+    },
+    {
+      "image_id": 367818,
+      "seed_index": 1,
+      "clip_score": 33.467071533203125
+    },
+    {
+      "image_id": 237118,
+      "seed_index": 0,
+      "clip_score": 26.263273239135742
+    },
+    {
+      "image_id": 237118,
+      "seed_index": 1,
+      "clip_score": 31.912675857543945
+    },
+    {
+      "image_id": 58384,
+      "seed_index": 0,
+      "clip_score": 30.570215225219727
+    },
+    {
+      "image_id": 58384,
+      "seed_index": 1,
+      "clip_score": 30.04254722595215
+    },
+    {
+      "image_id": 115898,
+      "seed_index": 0,
+      "clip_score": 31.760704040527344
+    },
+    {
+      "image_id": 115898,
+      "seed_index": 1,
+      "clip_score": 33.214996337890625
+    },
+    {
+      "image_id": 6012,
+      "seed_index": 0,
+      "clip_score": 31.07112693786621
+    },
+    {
+      "image_id": 6012,
+      "seed_index": 1,
+      "clip_score": 30.742008209228516
+    },
+    {
+      "image_id": 508586,
+      "seed_index": 0,
+      "clip_score": 31.656112670898438
+    },
+    {
+      "image_id": 508586,
+      "seed_index": 1,
+      "clip_score": 30.829303741455078
+    },
+    {
+      "image_id": 142324,
+      "seed_index": 0,
+      "clip_score": 30.342132568359375
+    },
+    {
+      "image_id": 142324,
+      "seed_index": 1,
+      "clip_score": 30.136049270629883
+    },
+    {
+      "image_id": 206831,
+      "seed_index": 0,
+      "clip_score": 32.63074493408203
+    },
+    {
+      "image_id": 206831,
+      "seed_index": 1,
+      "clip_score": 33.45067596435547
+    },
+    {
+      "image_id": 203389,
+      "seed_index": 0,
+      "clip_score": 33.8079719543457
+    },
+    {
+      "image_id": 203389,
+      "seed_index": 1,
+      "clip_score": 34.65800476074219
+    },
+    {
+      "image_id": 203294,
+      "seed_index": 0,
+      "clip_score": 33.53575897216797
+    },
+    {
+      "image_id": 203294,
+      "seed_index": 1,
+      "clip_score": 36.00126647949219
+    },
+    {
+      "image_id": 408830,
+      "seed_index": 0,
+      "clip_score": 32.5279655456543
+    },
+    {
+      "image_id": 408830,
+      "seed_index": 1,
+      "clip_score": 31.331214904785156
+    },
+    {
+      "image_id": 434204,
+      "seed_index": 0,
+      "clip_score": 31.365983963012695
+    },
+    {
+      "image_id": 434204,
+      "seed_index": 1,
+      "clip_score": 31.392887115478516
+    },
+    {
+      "image_id": 193743,
+      "seed_index": 0,
+      "clip_score": 34.672393798828125
+    },
+    {
+      "image_id": 193743,
+      "seed_index": 1,
+      "clip_score": 30.718040466308594
+    },
+    {
+      "image_id": 19109,
+      "seed_index": 0,
+      "clip_score": 33.56306076049805
+    },
+    {
+      "image_id": 19109,
+      "seed_index": 1,
+      "clip_score": 30.832576751708984
+    },
+    {
+      "image_id": 190753,
+      "seed_index": 0,
+      "clip_score": 33.38285827636719
+    },
+    {
+      "image_id": 190753,
+      "seed_index": 1,
+      "clip_score": 31.524097442626953
+    },
+    {
+      "image_id": 345385,
+      "seed_index": 0,
+      "clip_score": 28.47275161743164
+    },
+    {
+      "image_id": 345385,
+      "seed_index": 1,
+      "clip_score": 30.23578453063965
+    },
+    {
+      "image_id": 3661,
+      "seed_index": 0,
+      "clip_score": 28.456493377685547
+    },
+    {
+      "image_id": 3661,
+      "seed_index": 1,
+      "clip_score": 27.30339813232422
+    },
+    {
+      "image_id": 404678,
+      "seed_index": 0,
+      "clip_score": 29.25542640686035
+    },
+    {
+      "image_id": 404678,
+      "seed_index": 1,
+      "clip_score": 30.292341232299805
+    },
+    {
+      "image_id": 167159,
+      "seed_index": 0,
+      "clip_score": 33.70090103149414
+    },
+    {
+      "image_id": 167159,
+      "seed_index": 1,
+      "clip_score": 37.10954284667969
+    },
+    {
+      "image_id": 60932,
+      "seed_index": 0,
+      "clip_score": 27.121240615844727
+    },
+    {
+      "image_id": 60932,
+      "seed_index": 1,
+      "clip_score": 28.629112243652344
+    },
+    {
+      "image_id": 493286,
+      "seed_index": 0,
+      "clip_score": 31.643760681152344
+    },
+    {
+      "image_id": 493286,
+      "seed_index": 1,
+      "clip_score": 33.067344665527344
+    },
+    {
+      "image_id": 131386,
+      "seed_index": 0,
+      "clip_score": 31.67511749267578
+    },
+    {
+      "image_id": 131386,
+      "seed_index": 1,
+      "clip_score": 29.850017547607422
+    },
+    {
+      "image_id": 551794,
+      "seed_index": 0,
+      "clip_score": 28.960853576660156
+    },
+    {
+      "image_id": 551794,
+      "seed_index": 1,
+      "clip_score": 29.723268508911133
+    },
+    {
+      "image_id": 236845,
+      "seed_index": 0,
+      "clip_score": 26.76396942138672
+    },
+    {
+      "image_id": 236845,
+      "seed_index": 1,
+      "clip_score": 23.20317268371582
+    },
+    {
+      "image_id": 482800,
+      "seed_index": 0,
+      "clip_score": 34.923736572265625
+    },
+    {
+      "image_id": 482800,
+      "seed_index": 1,
+      "clip_score": 35.93002700805664
+    },
+    {
+      "image_id": 210273,
+      "seed_index": 0,
+      "clip_score": 27.398765563964844
+    },
+    {
+      "image_id": 210273,
+      "seed_index": 1,
+      "clip_score": 28.151548385620117
+    },
+    {
+      "image_id": 555050,
+      "seed_index": 0,
+      "clip_score": 31.300535202026367
+    },
+    {
+      "image_id": 555050,
+      "seed_index": 1,
+      "clip_score": 28.053749084472656
+    },
+    {
+      "image_id": 172856,
+      "seed_index": 0,
+      "clip_score": 30.995500564575195
+    },
+    {
+      "image_id": 172856,
+      "seed_index": 1,
+      "clip_score": 28.8277587890625
+    },
+    {
+      "image_id": 400044,
+      "seed_index": 0,
+      "clip_score": 31.94737434387207
+    },
+    {
+      "image_id": 400044,
+      "seed_index": 1,
+      "clip_score": 34.581424713134766
+    },
+    {
+      "image_id": 508370,
+      "seed_index": 0,
+      "clip_score": 36.3466796875
+    },
+    {
+      "image_id": 508370,
+      "seed_index": 1,
+      "clip_score": 35.38068771362305
+    },
+    {
+      "image_id": 205333,
+      "seed_index": 0,
+      "clip_score": 31.856351852416992
+    },
+    {
+      "image_id": 205333,
+      "seed_index": 1,
+      "clip_score": 31.161636352539062
+    },
+    {
+      "image_id": 121153,
+      "seed_index": 0,
+      "clip_score": 27.545547485351562
+    },
+    {
+      "image_id": 121153,
+      "seed_index": 1,
+      "clip_score": 29.112407684326172
+    },
+    {
+      "image_id": 498032,
+      "seed_index": 0,
+      "clip_score": 30.20050811767578
+    },
+    {
+      "image_id": 498032,
+      "seed_index": 1,
+      "clip_score": 29.534704208374023
+    },
+    {
+      "image_id": 439854,
+      "seed_index": 0,
+      "clip_score": 33.5337028503418
+    },
+    {
+      "image_id": 439854,
+      "seed_index": 1,
+      "clip_score": 28.19253158569336
+    },
+    {
+      "image_id": 549738,
+      "seed_index": 0,
+      "clip_score": 31.203567504882812
+    },
+    {
+      "image_id": 549738,
+      "seed_index": 1,
+      "clip_score": 32.17188262939453
+    },
+    {
+      "image_id": 100510,
+      "seed_index": 0,
+      "clip_score": 29.5989933013916
+    },
+    {
+      "image_id": 100510,
+      "seed_index": 1,
+      "clip_score": 29.90019989013672
+    },
+    {
+      "image_id": 224675,
+      "seed_index": 0,
+      "clip_score": 32.40917205810547
+    },
+    {
+      "image_id": 224675,
+      "seed_index": 1,
+      "clip_score": 31.361557006835938
+    },
+    {
+      "image_id": 109916,
+      "seed_index": 0,
+      "clip_score": 31.23291778564453
+    },
+    {
+      "image_id": 109916,
+      "seed_index": 1,
+      "clip_score": 31.531957626342773
+    },
+    {
+      "image_id": 106235,
+      "seed_index": 0,
+      "clip_score": 28.89623260498047
+    },
+    {
+      "image_id": 106235,
+      "seed_index": 1,
+      "clip_score": 29.077747344970703
+    },
+    {
+      "image_id": 175387,
+      "seed_index": 0,
+      "clip_score": 33.5687370300293
+    },
+    {
+      "image_id": 175387,
+      "seed_index": 1,
+      "clip_score": 34.388893127441406
+    },
+    {
+      "image_id": 379533,
+      "seed_index": 0,
+      "clip_score": 33.22359085083008
+    },
+    {
+      "image_id": 379533,
+      "seed_index": 1,
+      "clip_score": 31.0142822265625
+    },
+    {
+      "image_id": 407614,
+      "seed_index": 0,
+      "clip_score": 34.12887954711914
+    },
+    {
+      "image_id": 407614,
+      "seed_index": 1,
+      "clip_score": 28.920644760131836
+    },
+    {
+      "image_id": 423506,
+      "seed_index": 0,
+      "clip_score": 29.899412155151367
+    },
+    {
+      "image_id": 423506,
+      "seed_index": 1,
+      "clip_score": 30.604999542236328
+    },
+    {
+      "image_id": 7108,
+      "seed_index": 0,
+      "clip_score": 33.46324157714844
+    },
+    {
+      "image_id": 7108,
+      "seed_index": 1,
+      "clip_score": 33.29136276245117
+    },
+    {
+      "image_id": 381639,
+      "seed_index": 0,
+      "clip_score": 35.21067428588867
+    },
+    {
+      "image_id": 381639,
+      "seed_index": 1,
+      "clip_score": 38.55632400512695
+    },
+    {
+      "image_id": 344909,
+      "seed_index": 0,
+      "clip_score": 37.120174407958984
+    },
+    {
+      "image_id": 344909,
+      "seed_index": 1,
+      "clip_score": 34.235374450683594
+    },
+    {
+      "image_id": 73326,
+      "seed_index": 0,
+      "clip_score": 30.275524139404297
+    },
+    {
+      "image_id": 73326,
+      "seed_index": 1,
+      "clip_score": 28.715116500854492
+    },
+    {
+      "image_id": 65350,
+      "seed_index": 0,
+      "clip_score": 31.133825302124023
+    },
+    {
+      "image_id": 65350,
+      "seed_index": 1,
+      "clip_score": 31.31612205505371
+    },
+    {
+      "image_id": 503855,
+      "seed_index": 0,
+      "clip_score": 34.31935119628906
+    },
+    {
+      "image_id": 503855,
+      "seed_index": 1,
+      "clip_score": 29.770160675048828
+    },
+    {
+      "image_id": 407574,
+      "seed_index": 0,
+      "clip_score": 34.217262268066406
+    },
+    {
+      "image_id": 407574,
+      "seed_index": 1,
+      "clip_score": 33.47361755371094
+    },
+    {
+      "image_id": 473821,
+      "seed_index": 0,
+      "clip_score": 28.785541534423828
+    },
+    {
+      "image_id": 473821,
+      "seed_index": 1,
+      "clip_score": 29.25105094909668
+    },
+    {
+      "image_id": 260925,
+      "seed_index": 0,
+      "clip_score": 33.3138542175293
+    },
+    {
+      "image_id": 260925,
+      "seed_index": 1,
+      "clip_score": 32.70869827270508
+    },
+    {
+      "image_id": 384350,
+      "seed_index": 0,
+      "clip_score": 28.656219482421875
+    },
+    {
+      "image_id": 384350,
+      "seed_index": 1,
+      "clip_score": 31.817296981811523
+    },
+    {
+      "image_id": 6954,
+      "seed_index": 0,
+      "clip_score": 35.81198501586914
+    },
+    {
+      "image_id": 6954,
+      "seed_index": 1,
+      "clip_score": 32.251976013183594
+    },
+    {
+      "image_id": 506004,
+      "seed_index": 0,
+      "clip_score": 29.952733993530273
+    },
+    {
+      "image_id": 506004,
+      "seed_index": 1,
+      "clip_score": 33.48875427246094
+    },
+    {
+      "image_id": 50943,
+      "seed_index": 0,
+      "clip_score": 28.585508346557617
+    },
+    {
+      "image_id": 50943,
+      "seed_index": 1,
+      "clip_score": 26.10320472717285
+    },
+    {
+      "image_id": 172571,
+      "seed_index": 0,
+      "clip_score": 28.6310977935791
+    },
+    {
+      "image_id": 172571,
+      "seed_index": 1,
+      "clip_score": 30.3625431060791
+    },
+    {
+      "image_id": 57760,
+      "seed_index": 0,
+      "clip_score": 32.94896697998047
+    },
+    {
+      "image_id": 57760,
+      "seed_index": 1,
+      "clip_score": 32.19845962524414
+    },
+    {
+      "image_id": 358427,
+      "seed_index": 0,
+      "clip_score": 35.87356948852539
+    },
+    {
+      "image_id": 358427,
+      "seed_index": 1,
+      "clip_score": 33.15583801269531
+    },
+    {
+      "image_id": 119088,
+      "seed_index": 0,
+      "clip_score": 28.532943725585938
+    },
+    {
+      "image_id": 119088,
+      "seed_index": 1,
+      "clip_score": 27.542198181152344
+    },
+    {
+      "image_id": 222458,
+      "seed_index": 0,
+      "clip_score": 34.765464782714844
+    },
+    {
+      "image_id": 222458,
+      "seed_index": 1,
+      "clip_score": 33.595497131347656
+    },
+    {
+      "image_id": 348481,
+      "seed_index": 0,
+      "clip_score": 31.091646194458008
+    },
+    {
+      "image_id": 348481,
+      "seed_index": 1,
+      "clip_score": 26.758390426635742
+    },
+    {
+      "image_id": 462576,
+      "seed_index": 0,
+      "clip_score": 28.102094650268555
+    },
+    {
+      "image_id": 462576,
+      "seed_index": 1,
+      "clip_score": 31.795961380004883
+    },
+    {
+      "image_id": 343561,
+      "seed_index": 0,
+      "clip_score": 29.377689361572266
+    },
+    {
+      "image_id": 343561,
+      "seed_index": 1,
+      "clip_score": 30.049020767211914
+    },
+    {
+      "image_id": 15517,
+      "seed_index": 0,
+      "clip_score": 33.715003967285156
+    },
+    {
+      "image_id": 15517,
+      "seed_index": 1,
+      "clip_score": 35.024051666259766
+    },
+    {
+      "image_id": 217957,
+      "seed_index": 0,
+      "clip_score": 33.42014694213867
+    },
+    {
+      "image_id": 217957,
+      "seed_index": 1,
+      "clip_score": 34.04779052734375
+    },
+    {
+      "image_id": 187144,
+      "seed_index": 0,
+      "clip_score": 32.0925178527832
+    },
+    {
+      "image_id": 187144,
+      "seed_index": 1,
+      "clip_score": 30.217504501342773
+    },
+    {
+      "image_id": 396903,
+      "seed_index": 0,
+      "clip_score": 30.7119197845459
+    },
+    {
+      "image_id": 396903,
+      "seed_index": 1,
+      "clip_score": 29.711795806884766
+    },
+    {
+      "image_id": 3553,
+      "seed_index": 0,
+      "clip_score": 33.568092346191406
+    },
+    {
+      "image_id": 3553,
+      "seed_index": 1,
+      "clip_score": 30.855846405029297
+    }
+  ]
+}

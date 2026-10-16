@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_dense",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "f25fcf61e38298c2c82909b445848fd59f39f4565e113adeded45d7fab51ac96",
+  "image_id": 3553,
+  "seed_index": 1,
+  "seed": 2033107,
+  "prompt": "a person skating on some pieces of wood ",
+  "path": "results/runs/controlnet_dense/000000003553_s1.png",
+  "sha256": "c879c31e6b7a05e357bfe0740102a694d07d6729dbb9d90844b693c33a75a052",
+  "latency_s": 2.734743257999071,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

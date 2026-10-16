@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_8step",
+    "method": "lcm",
+    "steps": 8,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "feddce4cdbe9647508117b127ff6e71f47b840f02764b4ba859667a4e90c6edf",
+  "image_id": 358427,
+  "seed_index": 0,
+  "seed": 2742854,
+  "prompt": "Two pieces of broccoli being held up on a fork",
+  "path": "results/runs/lcm_8step/000000358427_s0.png",
+  "sha256": "0b1e4a5d0fc45885c66c593884a84dfca5d3d37a7b8a2dc2049ef538047930d6",
+  "latency_s": 2.6099875880026957,
+  "peak_allocated_mib": 9948.0927734375,
+  "peak_reserved_mib": 12650.0
+}

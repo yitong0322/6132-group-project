@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_erase50",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "22aaf1199ae8d9bf147f8b71f7b2196b68dded76b271f6f12b37f1a8956cefe6",
+  "image_id": 131386,
+  "seed_index": 1,
+  "seed": 2288773,
+  "prompt": "A group of airplanes in the sky in formation. ",
+  "path": "results/runs/controlnet_erase50/000000131386_s1.png",
+  "sha256": "3c73fbec76bbc8a6a293727a808c9f08c8cee61b415a5bec174175b8acf5a87e",
+  "latency_s": 2.7342506389977643,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

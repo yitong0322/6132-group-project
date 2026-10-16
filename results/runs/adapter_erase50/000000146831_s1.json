@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase50",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "896b5ee20f16dbe54a8a8a0f8cbb30f7dfda77457ef77ac9d5f01f8363335ce2",
+  "image_id": 146831,
+  "seed_index": 1,
+  "seed": 2319663,
+  "prompt": "A person is riding a skateboard on a curved ramp.",
+  "path": "results/runs/adapter_erase50/000000146831_s1.png",
+  "sha256": "fa57188cf571dde7a2508633c521d5acfd443ebe787d01805fc14e2b595b54f7",
+  "latency_s": 1.989615787009825,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

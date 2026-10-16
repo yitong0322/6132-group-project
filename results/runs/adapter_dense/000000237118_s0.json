@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_dense",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "114bbb8b7de882aa24fc41d9ba598b03037e7e4fd05b317cde3dc9b41adcdaad",
+  "image_id": 237118,
+  "seed_index": 0,
+  "seed": 2500236,
+  "prompt": "A middle aged man takes a selfie in a mirror.",
+  "path": "results/runs/adapter_dense/000000237118_s0.png",
+  "sha256": "e0746e1f27d427522350660958de80185c4df6169dbcd15248cfddac33030b8e",
+  "latency_s": 1.9880292660091072,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

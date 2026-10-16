@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_8step",
+    "method": "lcm",
+    "steps": 8,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "feddce4cdbe9647508117b127ff6e71f47b840f02764b4ba859667a4e90c6edf",
+  "image_id": 213816,
+  "seed_index": 1,
+  "seed": 2453633,
+  "prompt": "a close up of a public transit train with its doors open",
+  "path": "results/runs/lcm_8step/000000213816_s1.png",
+  "sha256": "d90a700445848bbe588d4e61c00925428f2431712cbf80038aaea3358bde8ba2",
+  "latency_s": 2.6026824099972146,
+  "peak_allocated_mib": 9948.5927734375,
+  "peak_reserved_mib": 12650.0
+}

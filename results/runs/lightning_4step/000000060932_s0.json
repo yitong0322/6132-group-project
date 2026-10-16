@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_4step",
+    "method": "lightning",
+    "steps": 4,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "16ac80513f831abd97c3f2a5ff13092269bfbb5f3406b2a8d454fc9d71c49fcd",
+  "image_id": 60932,
+  "seed_index": 0,
+  "seed": 2147864,
+  "prompt": "A group of people standing in a room.",
+  "path": "results/runs/lightning_4step/000000060932_s0.png",
+  "sha256": "da112187bfdf13f98822d8b2f3c903c912b3b65b1fba338c8ee5a4dbcfc4d541",
+  "latency_s": 1.8295395489985822,
+  "peak_allocated_mib": 9950.0458984375,
+  "peak_reserved_mib": 12632.0
+}

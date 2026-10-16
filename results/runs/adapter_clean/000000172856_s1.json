@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_clean",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "clean",
+    "strength": 1.5
+  },
+  "config_hash": "9ba657d5c560196238df271ac941213dbe52470be0b52f57afa1fe86ef55ed19",
+  "image_id": 172856,
+  "seed_index": 1,
+  "seed": 2371713,
+  "prompt": "a stop sign and two brown and white street signs ",
+  "path": "results/runs/adapter_clean/000000172856_s1.png",
+  "sha256": "2bff84c59065640f3fd901a7204eba29c0b7ff647d1f1830dcc0a018c10aa3bd",
+  "latency_s": 1.9924940569908358,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

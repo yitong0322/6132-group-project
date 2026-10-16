@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_2step",
+    "method": "lcm",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "662eb0b62259031ebfd05061cc22cf9622a52f075eeb20943184e3e52cfbc947",
+  "image_id": 172571,
+  "seed_index": 0,
+  "seed": 2371142,
+  "prompt": "A very thick pizza is on a plate with one piece taken.",
+  "path": "results/runs/lcm_2step/000000172571_s0.png",
+  "sha256": "9dba05e99f5ff0ea65d36ee4585521fe6d682df4190bc5fa441ae7a15e33f709",
+  "latency_s": 1.4461314759973902,
+  "peak_allocated_mib": 9947.8427734375,
+  "peak_reserved_mib": 12650.0
+}

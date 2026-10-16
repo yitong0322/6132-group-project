@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_2step",
+    "method": "lightning",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "c9f1d7562e2c721c6f9d933bd0ebaabec8feb143758b08fb930248cd7d3e3ae6",
+  "image_id": 224675,
+  "seed_index": 1,
+  "seed": 2475351,
+  "prompt": "A woman standing next to a man kneeling down on the ground.",
+  "path": "results/runs/lightning_2step/000000224675_s1.png",
+  "sha256": "a759d26a07f8ec800e25db1f89ac48f1d9b8da07d84d2649d79f1e7b40d80daf",
+  "latency_s": 1.4437171339959605,
+  "peak_allocated_mib": 9949.5458984375,
+  "peak_reserved_mib": 12632.0
+}

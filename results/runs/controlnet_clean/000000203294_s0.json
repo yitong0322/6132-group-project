@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_clean",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "clean",
+    "strength": 1.5
+  },
+  "config_hash": "66b43ec0d0e6b23b0522fd655cf1655236bdd2a53d75e7fff42de6022e9c484b",
+  "image_id": 203294,
+  "seed_index": 0,
+  "seed": 2432588,
+  "prompt": "A tour bus with a cats face painted on the front of it",
+  "path": "results/runs/controlnet_clean/000000203294_s0.png",
+  "sha256": "8851d73ccf4ac9a0e6ed9b533293e55d2aa86419bf455d31685345a46f91718b",
+  "latency_s": 2.7392316710029263,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

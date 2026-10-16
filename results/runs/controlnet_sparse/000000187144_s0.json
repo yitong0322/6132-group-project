@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_sparse",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "88986ea6e18a64cdcc4d2f2c7c574e63ac06733272a42dfa6d44b4ea528ac428",
+  "image_id": 187144,
+  "seed_index": 0,
+  "seed": 2400288,
+  "prompt": " A white bus parked at a stop next to a crowd.",
+  "path": "results/runs/controlnet_sparse/000000187144_s0.png",
+  "sha256": "9c26962ffe0d29cbf623039ee4dae0820511e252ff441b97322c3d4d5b551c80",
+  "latency_s": 2.7336415109894006,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

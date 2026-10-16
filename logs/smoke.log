@@ -1,0 +1,19 @@
+Loading pipeline components...:   0%|          | 0/7 [00:00<?, ?it/s]Loading pipeline components...:   0%|          | 0/7 [00:00<?, ?it/s]
+Traceback (most recent call last):
+  File "/home/max/MSAI/6132/scripts/run_experiments.py", line 124, in <module>
+    if __name__=='__main__': main()
+  File "/home/max/MSAI/6132/scripts/run_experiments.py", line 112, in main
+    gc.collect(); torch.cuda.empty_cache(); pipe=load_pipeline(c); previous_key=key
+  File "/home/max/MSAI/6132/scripts/run_experiments.py", line 46, in load_pipeline
+    pipe=StableDiffusionXLPipeline.from_pretrained(str(MODEL/'sdxl'),add_watermarker=False,**kw)
+  File "/home/max/MSAI/6132/.venv/lib/python3.10/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+  File "/home/max/MSAI/6132/.venv/lib/python3.10/site-packages/diffusers/pipelines/pipeline_utils.py", line 1025, in from_pretrained
+    loaded_sub_model = load_sub_model(
+  File "/home/max/MSAI/6132/.venv/lib/python3.10/site-packages/diffusers/pipelines/pipeline_loading_utils.py", line 849, in load_sub_model
+    loaded_sub_model = load_method(os.path.join(cached_folder, name), **loading_kwargs)
+  File "/home/max/MSAI/6132/.venv/lib/python3.10/site-packages/transformers/modeling_utils.py", line 262, in _wrapper
+    return func(*args, **kwargs)
+  File "/home/max/MSAI/6132/.venv/lib/python3.10/site-packages/transformers/modeling_utils.py", line 3808, in from_pretrained
+    raise EnvironmentError(
+OSError: Error no file named pytorch_model.bin, model.safetensors, tf_model.h5, model.ckpt.index or flax_model.msgpack found in directory /home/max/MSAI/6132/models/sdxl/text_encoder_2.

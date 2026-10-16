@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_2step",
+    "method": "lightning",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "c9f1d7562e2c721c6f9d933bd0ebaabec8feb143758b08fb930248cd7d3e3ae6",
+  "image_id": 237118,
+  "seed_index": 1,
+  "seed": 2500237,
+  "prompt": "A middle aged man takes a selfie in a mirror.",
+  "path": "results/runs/lightning_2step/000000237118_s1.png",
+  "sha256": "67495478c8095794c7d2537db8b13830a9b1ca0d7c55dd57954e6d447c303dbd",
+  "latency_s": 1.446173946998897,
+  "peak_allocated_mib": 9949.2958984375,
+  "peak_reserved_mib": 12632.0
+}

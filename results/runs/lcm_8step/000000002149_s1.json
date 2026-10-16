@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_8step",
+    "method": "lcm",
+    "steps": 8,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "feddce4cdbe9647508117b127ff6e71f47b840f02764b4ba859667a4e90c6edf",
+  "image_id": 2149,
+  "seed_index": 1,
+  "seed": 2030299,
+  "prompt": "A large white bowl of many green apples. ",
+  "path": "results/runs/lcm_8step/000000002149_s1.png",
+  "sha256": "312468c036e40149197fa2be03a642e3fcbd58267a19092b46bd8819723461cb",
+  "latency_s": 2.5998752740124473,
+  "peak_allocated_mib": 9947.0927734375,
+  "peak_reserved_mib": 12650.0
+}

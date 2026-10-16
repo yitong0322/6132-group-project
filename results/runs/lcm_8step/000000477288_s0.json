@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_8step",
+    "method": "lcm",
+    "steps": 8,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "feddce4cdbe9647508117b127ff6e71f47b840f02764b4ba859667a4e90c6edf",
+  "image_id": 477288,
+  "seed_index": 0,
+  "seed": 2980576,
+  "prompt": "Several men in costume gather together under their umbrellas.",
+  "path": "results/runs/lcm_8step/000000477288_s0.png",
+  "sha256": "daaff124a57fea563cc520b524ee7edfe3b3ff13e05d97031c479bf735e2653e",
+  "latency_s": 2.599427993001882,
+  "peak_allocated_mib": 9947.0927734375,
+  "peak_reserved_mib": 12650.0
+}

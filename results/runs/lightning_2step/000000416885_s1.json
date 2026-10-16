@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_2step",
+    "method": "lightning",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "c9f1d7562e2c721c6f9d933bd0ebaabec8feb143758b08fb930248cd7d3e3ae6",
+  "image_id": 416885,
+  "seed_index": 1,
+  "seed": 2859771,
+  "prompt": "Three pastry desserts and two glasses of wine are on a table. ",
+  "path": "results/runs/lightning_2step/000000416885_s1.png",
+  "sha256": "81a23f5522b61793029d09df8eb56934b3da753dc0e550f9464d88ee6dd7e391",
+  "latency_s": 1.4456507779977983,
+  "peak_allocated_mib": 9949.2958984375,
+  "peak_reserved_mib": 12632.0
+}

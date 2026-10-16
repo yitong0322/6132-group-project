@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_sparse",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "e591437800140077d0a3adb6b23eea9fd6dac35575bed9dfa31bd71572efb58f",
+  "image_id": 484893,
+  "seed_index": 1,
+  "seed": 2995787,
+  "prompt": "A couple of kids petting sheep inside of a corral",
+  "path": "results/runs/adapter_sparse/000000484893_s1.png",
+  "sha256": "df55f64be45f38b06d19ba150c1fd9c8b9e11325022c9962e5e5b9b89893d789",
+  "latency_s": 1.9885348140087444,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

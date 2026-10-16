@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_dense",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "f25fcf61e38298c2c82909b445848fd59f39f4565e113adeded45d7fab51ac96",
+  "image_id": 498286,
+  "seed_index": 1,
+  "seed": 3022573,
+  "prompt": "a vety cute furry dog posing near a big sign.",
+  "path": "results/runs/controlnet_dense/000000498286_s1.png",
+  "sha256": "85495029529a5df813a460ac8b94e931dd6ff62513400d8c0df941be50fb2b5a",
+  "latency_s": 2.7331837519886903,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_4step",
+    "method": "lcm",
+    "steps": 4,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "9ec22cf595f8b833bea186b1ab867b1ae0fab3debca422e4ad0a7028793290a0",
+  "image_id": 407646,
+  "seed_index": 0,
+  "seed": 2841292,
+  "prompt": "A man playing tennis who is about to return a serve.",
+  "path": "results/runs/lcm_4step/000000407646_s0.png",
+  "sha256": "59dbdf1f80d6f6b0ced5302a184c517c71b94e80c8cc96e5f0ffd72df87a107c",
+  "latency_s": 1.8305418599920813,
+  "peak_allocated_mib": 9947.3427734375,
+  "peak_reserved_mib": 12650.0
+}

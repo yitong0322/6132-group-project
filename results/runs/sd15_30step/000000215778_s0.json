@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "sd15_30step",
+    "method": "sd15",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "none"
+  },
+  "config_hash": "50a25ea0626a66bb0ec90a9954c0e8703317fb3903621c472f0b82bcf8c26228",
+  "image_id": 215778,
+  "seed_index": 0,
+  "seed": 2457556,
+  "prompt": "There is a lap top computer on the desk",
+  "path": "results/runs/sd15_30step/000000215778_s0.png",
+  "sha256": "56051f3a78239a100078b76cdb81de11c82c978f18bb0f0b694262f345137bc7",
+  "latency_s": 1.9827261809987249,
+  "peak_allocated_mib": 2675.13818359375,
+  "peak_reserved_mib": 3238.0
+}

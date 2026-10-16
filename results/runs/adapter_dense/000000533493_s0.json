@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_dense",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "114bbb8b7de882aa24fc41d9ba598b03037e7e4fd05b317cde3dc9b41adcdaad",
+  "image_id": 533493,
+  "seed_index": 0,
+  "seed": 3092986,
+  "prompt": "Three men celebrating some kind of personal victory.",
+  "path": "results/runs/adapter_dense/000000533493_s0.png",
+  "sha256": "3620efc88a61a397fa7bfb3042f24321e38a7f657a59576faa62b730d971287b",
+  "latency_s": 1.98936535899702,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_2step",
+    "method": "lightning",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "c9f1d7562e2c721c6f9d933bd0ebaabec8feb143758b08fb930248cd7d3e3ae6",
+  "image_id": 106235,
+  "seed_index": 0,
+  "seed": 2238470,
+  "prompt": "A living room featuring a comfortable seating arrangement of chairs and tables.",
+  "path": "results/runs/lightning_2step/000000106235_s0.png",
+  "sha256": "97557d522aec7072b93186ab90407fe7ce152d65f0e8e27ce0388cbbcd40fea3",
+  "latency_s": 1.446247936997679,
+  "peak_allocated_mib": 9950.0458984375,
+  "peak_reserved_mib": 12632.0
+}

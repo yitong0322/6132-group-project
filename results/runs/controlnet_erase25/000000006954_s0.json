@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_erase25",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase25",
+    "strength": 1.5
+  },
+  "config_hash": "8fb8a2754192714bc32db360b571eff94829570c7be658ef8572cbbfe9dfb389",
+  "image_id": 6954,
+  "seed_index": 0,
+  "seed": 2039908,
+  "prompt": "A group of young children sitting in the grass.",
+  "path": "results/runs/controlnet_erase25/000000006954_s0.png",
+  "sha256": "de4951dae1488e719cb2678a2f0c09fd38fb0a1fae792cf4edd81170a4a9a988",
+  "latency_s": 2.7380395469954237,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

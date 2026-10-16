@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase50",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "896b5ee20f16dbe54a8a8a0f8cbb30f7dfda77457ef77ac9d5f01f8363335ce2",
+  "image_id": 484893,
+  "seed_index": 1,
+  "seed": 2995787,
+  "prompt": "A couple of kids petting sheep inside of a corral",
+  "path": "results/runs/adapter_erase50/000000484893_s1.png",
+  "sha256": "8b41a8fecf235e060894db7a9c0873f4b66852b10f569b650e57861b186568b9",
+  "latency_s": 1.9902032739919377,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_8step",
+    "method": "lcm",
+    "steps": 8,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "feddce4cdbe9647508117b127ff6e71f47b840f02764b4ba859667a4e90c6edf",
+  "image_id": 6012,
+  "seed_index": 1,
+  "seed": 2038025,
+  "prompt": "There are bananas around another piece of fruit. ",
+  "path": "results/runs/lcm_8step/000000006012_s1.png",
+  "sha256": "450b4cb840774f5337f5f424f52a6ac1e30a6092f8b742802a91c73e6432b835",
+  "latency_s": 2.5994904740073252,
+  "peak_allocated_mib": 9947.8427734375,
+  "peak_reserved_mib": 12650.0
+}

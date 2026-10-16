@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_erase25",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase25",
+    "strength": 1.5
+  },
+  "config_hash": "8fb8a2754192714bc32db360b571eff94829570c7be658ef8572cbbfe9dfb389",
+  "image_id": 187144,
+  "seed_index": 0,
+  "seed": 2400288,
+  "prompt": " A white bus parked at a stop next to a crowd.",
+  "path": "results/runs/controlnet_erase25/000000187144_s0.png",
+  "sha256": "800fd0148b02b9f7ab4d7222feba8550e56bfdd00385419ef46bea79be90c388",
+  "latency_s": 2.7382003770035226,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

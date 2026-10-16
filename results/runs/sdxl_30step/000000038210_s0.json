@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "sdxl_30step",
+    "method": "sdxl",
+    "steps": 30,
+    "resolution": 1024,
+    "guidance": 5.0,
+    "condition": "none"
+  },
+  "config_hash": "7f2ff1a362b25ed9a421756a7624dd1129e6797ecf34a7ec1fc39f2ba5c3a6df",
+  "image_id": 38210,
+  "seed_index": 0,
+  "seed": 2102420,
+  "prompt": "a skier is prepared to go down a mountain.",
+  "path": "results/runs/sdxl_30step/000000038210_s0.png",
+  "sha256": "be4c8448f81d1a2c5dc1ada80c9d69f35d582b9dd9ce1f95aca9255f263e6690",
+  "latency_s": 11.7584067889984,
+  "peak_allocated_mib": 9946.52978515625,
+  "peak_reserved_mib": 12896.0
+}

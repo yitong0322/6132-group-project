@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "sdxl_30step",
+    "method": "sdxl",
+    "steps": 30,
+    "resolution": 1024,
+    "guidance": 5.0,
+    "condition": "none"
+  },
+  "config_hash": "7f2ff1a362b25ed9a421756a7624dd1129e6797ecf34a7ec1fc39f2ba5c3a6df",
+  "image_id": 283412,
+  "seed_index": 0,
+  "seed": 2592824,
+  "prompt": "A little poodle puppy laying near a newspaper with a look of guilt.",
+  "path": "results/runs/sdxl_30step/000000283412_s0.png",
+  "sha256": "8ad05c5ad52167c0978dda5ef2c50a4aa5dde92594117bb802f53124ac3cc262",
+  "latency_s": 11.763582321000285,
+  "peak_allocated_mib": 9946.52978515625,
+  "peak_reserved_mib": 12894.0
+}

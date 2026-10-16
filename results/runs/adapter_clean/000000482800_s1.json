@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_clean",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "clean",
+    "strength": 1.5
+  },
+  "config_hash": "9ba657d5c560196238df271ac941213dbe52470be0b52f57afa1fe86ef55ed19",
+  "image_id": 482800,
+  "seed_index": 1,
+  "seed": 2991601,
+  "prompt": "an image of three people playing Frisbee outside",
+  "path": "results/runs/adapter_clean/000000482800_s1.png",
+  "sha256": "3216afdb2b7d78634f74bc5819f6705384920150986c37bbde4bcaf51783a5d0",
+  "latency_s": 1.9907621830061544,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

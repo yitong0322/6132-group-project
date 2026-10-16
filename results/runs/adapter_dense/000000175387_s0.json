@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_dense",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "114bbb8b7de882aa24fc41d9ba598b03037e7e4fd05b317cde3dc9b41adcdaad",
+  "image_id": 175387,
+  "seed_index": 0,
+  "seed": 2376774,
+  "prompt": "Bathroom stall with green door in commercial business.",
+  "path": "results/runs/adapter_dense/000000175387_s0.png",
+  "sha256": "f169434f001ed356fff7539a2d1520059aae34d8a0a9d4b300b88439827fcfad",
+  "latency_s": 1.9884920799959218,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase25",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase25",
+    "strength": 1.5
+  },
+  "config_hash": "80d457176300f341e45e2f76b044a50c847f1e3c3c84309a1df5ae1d17c970c5",
+  "image_id": 396903,
+  "seed_index": 0,
+  "seed": 2819806,
+  "prompt": "Small red propeller airplane sitting on an airport runway. ",
+  "path": "results/runs/adapter_erase25/000000396903_s0.png",
+  "sha256": "015b6d7cd0e68d7f6418f70d0990954e1b59f764f84ec7eda4170b10fb0e3c1e",
+  "latency_s": 1.9899009560031118,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

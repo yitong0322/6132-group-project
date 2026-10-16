@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "sd15_30step",
+    "method": "sd15",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "none"
+  },
+  "config_hash": "50a25ea0626a66bb0ec90a9954c0e8703317fb3903621c472f0b82bcf8c26228",
+  "image_id": 407646,
+  "seed_index": 0,
+  "seed": 2841292,
+  "prompt": "A man playing tennis who is about to return a serve.",
+  "path": "results/runs/sd15_30step/000000407646_s0.png",
+  "sha256": "b687a79973562d9004c53e10c7bc5ef5812258395ce6eddd13cb3829073724e6",
+  "latency_s": 1.98372338199988,
+  "peak_allocated_mib": 2675.13818359375,
+  "peak_reserved_mib": 3238.0
+}

@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_dense",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "f25fcf61e38298c2c82909b445848fd59f39f4565e113adeded45d7fab51ac96",
+  "image_id": 6012,
+  "seed_index": 0,
+  "seed": 2038024,
+  "prompt": "There are bananas around another piece of fruit. ",
+  "path": "results/runs/controlnet_dense/000000006012_s0.png",
+  "sha256": "7d7cdbd497c5dddc99d04acc4a63e119faf454592ca1c0c2e1e50f0d4fb4341f",
+  "latency_s": 2.7350035879935604,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

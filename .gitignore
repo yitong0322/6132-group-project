@@ -1,0 +1,13 @@
+.venv/
+models/
+__pycache__/
+**/__MACOSX/
+.DS_Store
+*.zip
+data/edges/
+data/reference_1024/
+data/reference_512/
+results/features/
+results/runs/**/*.png
+results/smoke/
+results/active_process.json

@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_2step",
+    "method": "lightning",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "c9f1d7562e2c721c6f9d933bd0ebaabec8feb143758b08fb930248cd7d3e3ae6",
+  "image_id": 121153,
+  "seed_index": 0,
+  "seed": 2268306,
+  "prompt": "A white road sign suspended over a highway.",
+  "path": "results/runs/lightning_2step/000000121153_s0.png",
+  "sha256": "498c7880346654c378f364cc70a7f4adf7f8eab8842e066a331af1c4598518cc",
+  "latency_s": 1.4457888869947055,
+  "peak_allocated_mib": 9949.5458984375,
+  "peak_reserved_mib": 12632.0
+}

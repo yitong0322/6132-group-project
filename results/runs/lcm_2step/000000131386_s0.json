@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_2step",
+    "method": "lcm",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "662eb0b62259031ebfd05061cc22cf9622a52f075eeb20943184e3e52cfbc947",
+  "image_id": 131386,
+  "seed_index": 0,
+  "seed": 2288772,
+  "prompt": "A group of airplanes in the sky in formation. ",
+  "path": "results/runs/lcm_2step/000000131386_s0.png",
+  "sha256": "141e7be0ea0f41ee8e44b222e5669c0c09a7b0c6f775c2fde19138726a3384fb",
+  "latency_s": 1.4467977330059512,
+  "peak_allocated_mib": 9947.0927734375,
+  "peak_reserved_mib": 12650.0
+}

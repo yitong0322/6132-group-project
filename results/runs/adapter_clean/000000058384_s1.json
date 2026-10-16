@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_clean",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "clean",
+    "strength": 1.5
+  },
+  "config_hash": "9ba657d5c560196238df271ac941213dbe52470be0b52f57afa1fe86ef55ed19",
+  "image_id": 58384,
+  "seed_index": 1,
+  "seed": 2142769,
+  "prompt": "A herd of elephants standing next to each other.",
+  "path": "results/runs/adapter_clean/000000058384_s1.png",
+  "sha256": "27e4eec96c3fcfdc4fbf414d3f1794247f1c6b468d00819a5c6d291d8e541fb0",
+  "latency_s": 1.9918936159956502,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase50",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "896b5ee20f16dbe54a8a8a0f8cbb30f7dfda77457ef77ac9d5f01f8363335ce2",
+  "image_id": 462576,
+  "seed_index": 1,
+  "seed": 2951153,
+  "prompt": "a plate of breakfast food sits on a table",
+  "path": "results/runs/adapter_erase50/000000462576_s1.png",
+  "sha256": "7b9cb72070f65bf8f0b9d25f19289be9ed4ae9fd36660e55ec755f3ef33940f2",
+  "latency_s": 1.9896160890057217,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_clean",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "clean",
+    "strength": 1.5
+  },
+  "config_hash": "66b43ec0d0e6b23b0522fd655cf1655236bdd2a53d75e7fff42de6022e9c484b",
+  "image_id": 508586,
+  "seed_index": 0,
+  "seed": 3043172,
+  "prompt": "Herd of zebra grazing on dried grasses in open field.",
+  "path": "results/runs/controlnet_clean/000000508586_s0.png",
+  "sha256": "9e814b43219e0a09b3663d0bf76585c9758185a6bcd86687d912a8079feb6fe2",
+  "latency_s": 2.74195015199075,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

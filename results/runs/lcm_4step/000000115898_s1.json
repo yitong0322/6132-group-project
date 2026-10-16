@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_4step",
+    "method": "lcm",
+    "steps": 4,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "9ec22cf595f8b833bea186b1ab867b1ae0fab3debca422e4ad0a7028793290a0",
+  "image_id": 115898,
+  "seed_index": 1,
+  "seed": 2257797,
+  "prompt": "A man in black wetsuit on white surfboard riding wave.",
+  "path": "results/runs/lcm_4step/000000115898_s1.png",
+  "sha256": "bbd66d949bf89cc32ce0e8604f68fb81c86da3a574b0a026b648a39d5263b025",
+  "latency_s": 1.839190596001572,
+  "peak_allocated_mib": 9947.3427734375,
+  "peak_reserved_mib": 12650.0
+}

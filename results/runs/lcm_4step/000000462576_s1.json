@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_4step",
+    "method": "lcm",
+    "steps": 4,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "9ec22cf595f8b833bea186b1ab867b1ae0fab3debca422e4ad0a7028793290a0",
+  "image_id": 462576,
+  "seed_index": 1,
+  "seed": 2951153,
+  "prompt": "a plate of breakfast food sits on a table",
+  "path": "results/runs/lcm_4step/000000462576_s1.png",
+  "sha256": "4aae122f1a97c9eb52c0524163fd96c8830468e50d875d9778e59d3f07e9065e",
+  "latency_s": 1.8427587220066926,
+  "peak_allocated_mib": 9947.3427734375,
+  "peak_reserved_mib": 12650.0
+}

@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_dense",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "f25fcf61e38298c2c82909b445848fd59f39f4565e113adeded45d7fab51ac96",
+  "image_id": 109916,
+  "seed_index": 1,
+  "seed": 2245833,
+  "prompt": "Twp cake pans sitting and cooling on the stove",
+  "path": "results/runs/controlnet_dense/000000109916_s1.png",
+  "sha256": "b5f1ead9e191f763173cdaaa1d3078f226c52e118be9b5b0e49ae16cf6a83da2",
+  "latency_s": 2.733791164995637,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

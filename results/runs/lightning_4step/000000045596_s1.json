@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_4step",
+    "method": "lightning",
+    "steps": 4,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "16ac80513f831abd97c3f2a5ff13092269bfbb5f3406b2a8d454fc9d71c49fcd",
+  "image_id": 45596,
+  "seed_index": 1,
+  "seed": 2117193,
+  "prompt": "A view A large metal structure near the side of a building",
+  "path": "results/runs/lightning_4step/000000045596_s1.png",
+  "sha256": "e118e9287c11587f498d04485f0845d8cd0509fec729c78eb18350850989b3d2",
+  "latency_s": 1.8246061059908243,
+  "peak_allocated_mib": 9949.2958984375,
+  "peak_reserved_mib": 12632.0
+}

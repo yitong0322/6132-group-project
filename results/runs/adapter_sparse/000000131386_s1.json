@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_sparse",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "e591437800140077d0a3adb6b23eea9fd6dac35575bed9dfa31bd71572efb58f",
+  "image_id": 131386,
+  "seed_index": 1,
+  "seed": 2288773,
+  "prompt": "A group of airplanes in the sky in formation. ",
+  "path": "results/runs/adapter_sparse/000000131386_s1.png",
+  "sha256": "412b6b7194a55391bd26b20b0ed6fbcd3ab9caf8abedafc478b0a8d8128f3ec1",
+  "latency_s": 1.988003425009083,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

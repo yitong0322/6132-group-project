@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "sdxl_30step",
+    "method": "sdxl",
+    "steps": 30,
+    "resolution": 1024,
+    "guidance": 5.0,
+    "condition": "none"
+  },
+  "config_hash": "7f2ff1a362b25ed9a421756a7624dd1129e6797ecf34a7ec1fc39f2ba5c3a6df",
+  "image_id": 555050,
+  "seed_index": 0,
+  "seed": 3136100,
+  "prompt": "A car driving in an intersection, past a furniture shop. ",
+  "path": "results/runs/sdxl_30step/000000555050_s0.png",
+  "sha256": "46d09498437c9858a72b08bfb2d8def471c1fa719c1f72cffd67c7b0225007e6",
+  "latency_s": 11.761642291996395,
+  "peak_allocated_mib": 9946.52978515625,
+  "peak_reserved_mib": 12896.0
+}

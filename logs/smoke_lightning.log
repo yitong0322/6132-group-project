@@ -1,0 +1,9 @@
+
+RUN START Thu Oct 15 22:02:24 2026
+/home/max/MSAI/6132/.venv/lib/python3.10/site-packages/diffusers/configuration_utils.py:250: FutureWarning: It is deprecated to pass a pretrained model name or path to `from_config`.If you were trying to load a model, please use <class 'diffusers.models.unets.unet_2d_condition.UNet2DConditionModel'>.load_config(...) followed by <class 'diffusers.models.unets.unet_2d_condition.UNet2DConditionModel'>.from_config(...) instead. Otherwise, please make sure to pass a configuration dictionary instead. This functionality will be removed in v1.0.0.
+  deprecate("config-passed-as-path", "1.0.0", deprecation_message, standard_warn=False)
+Loading pipeline components...:   0%|          | 0/7 [00:00<?, ?it/s]Loading pipeline components...:  29%|██▊       | 2/7 [00:00<00:00, 12.96it/s]Loading pipeline components...:  86%|████████▌ | 6/7 [00:00<00:00, 17.69it/s]Loading pipeline components...: 100%|██████████| 7/7 [00:00<00:00, 18.27it/s]
+START lightning_4step remaining 2
+lightning_4step 1 / 2 1.821s 9947MiB
+lightning_4step 2 / 2 1.824s 9948MiB
+COMPLETE lightning_4step

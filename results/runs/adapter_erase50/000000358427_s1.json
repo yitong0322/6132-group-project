@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase50",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "896b5ee20f16dbe54a8a8a0f8cbb30f7dfda77457ef77ac9d5f01f8363335ce2",
+  "image_id": 358427,
+  "seed_index": 1,
+  "seed": 2742855,
+  "prompt": "Two pieces of broccoli being held up on a fork",
+  "path": "results/runs/adapter_erase50/000000358427_s1.png",
+  "sha256": "f18c03b4f54f7c778df27132f1e11b885f563c0b58ec8ded18aa01a207716126",
+  "latency_s": 1.9881711630005157,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_dense",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "114bbb8b7de882aa24fc41d9ba598b03037e7e4fd05b317cde3dc9b41adcdaad",
+  "image_id": 73326,
+  "seed_index": 0,
+  "seed": 2172652,
+  "prompt": "An open refrigerator including bottles of various food.",
+  "path": "results/runs/adapter_dense/000000073326_s0.png",
+  "sha256": "a12347317df2a30084b2b96674986a34a02890047f666ca48705fb4f39ccd085",
+  "latency_s": 1.9885707789944718,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

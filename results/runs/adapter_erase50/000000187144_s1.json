@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase50",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "896b5ee20f16dbe54a8a8a0f8cbb30f7dfda77457ef77ac9d5f01f8363335ce2",
+  "image_id": 187144,
+  "seed_index": 1,
+  "seed": 2400289,
+  "prompt": " A white bus parked at a stop next to a crowd.",
+  "path": "results/runs/adapter_erase50/000000187144_s1.png",
+  "sha256": "2691ab4ba784ec2e8cdbb2fc59cfb3a994432a6d93f559c9fa15e8d5d07b3eff",
+  "latency_s": 1.9886855209915666,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

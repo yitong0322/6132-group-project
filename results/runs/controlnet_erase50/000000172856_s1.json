@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_erase50",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "22aaf1199ae8d9bf147f8b71f7b2196b68dded76b271f6f12b37f1a8956cefe6",
+  "image_id": 172856,
+  "seed_index": 1,
+  "seed": 2371713,
+  "prompt": "a stop sign and two brown and white street signs ",
+  "path": "results/runs/controlnet_erase50/000000172856_s1.png",
+  "sha256": "a5924d8e74cc6c932e6ddec95568f0c7b37341ef073b90be6a415a4c0c32b30a",
+  "latency_s": 2.73520821800048,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

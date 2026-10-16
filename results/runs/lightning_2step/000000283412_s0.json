@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_2step",
+    "method": "lightning",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "c9f1d7562e2c721c6f9d933bd0ebaabec8feb143758b08fb930248cd7d3e3ae6",
+  "image_id": 283412,
+  "seed_index": 0,
+  "seed": 2592824,
+  "prompt": "A little poodle puppy laying near a newspaper with a look of guilt.",
+  "path": "results/runs/lightning_2step/000000283412_s0.png",
+  "sha256": "1dc8c59621b90aaabf7f109ad1e980f7688d7549897548cc20e8ff02a35892c8",
+  "latency_s": 1.4433117440057686,
+  "peak_allocated_mib": 9949.0458984375,
+  "peak_reserved_mib": 12632.0
+}

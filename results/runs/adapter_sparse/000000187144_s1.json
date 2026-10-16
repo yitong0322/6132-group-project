@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_sparse",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "e591437800140077d0a3adb6b23eea9fd6dac35575bed9dfa31bd71572efb58f",
+  "image_id": 187144,
+  "seed_index": 1,
+  "seed": 2400289,
+  "prompt": " A white bus parked at a stop next to a crowd.",
+  "path": "results/runs/adapter_sparse/000000187144_s1.png",
+  "sha256": "1897410a17a3c2e0c6240ad442946cf554c9aa7e9654c4d0b107bf33d49045c1",
+  "latency_s": 1.9904104660090525,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

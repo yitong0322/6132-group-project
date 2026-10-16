@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_4step",
+    "method": "lcm",
+    "steps": 4,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "9ec22cf595f8b833bea186b1ab867b1ae0fab3debca422e4ad0a7028793290a0",
+  "image_id": 546826,
+  "seed_index": 1,
+  "seed": 3119653,
+  "prompt": "A pink and green marker, next to another object. ",
+  "path": "results/runs/lcm_4step/000000546826_s1.png",
+  "sha256": "14823d16868c9f426ca6362b60323b18a82b791566124fcb7adf1ebfee2ad0b7",
+  "latency_s": 1.82917376999103,
+  "peak_allocated_mib": 9946.8427734375,
+  "peak_reserved_mib": 12650.0
+}

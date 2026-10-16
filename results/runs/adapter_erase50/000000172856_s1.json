@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase50",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "896b5ee20f16dbe54a8a8a0f8cbb30f7dfda77457ef77ac9d5f01f8363335ce2",
+  "image_id": 172856,
+  "seed_index": 1,
+  "seed": 2371713,
+  "prompt": "a stop sign and two brown and white street signs ",
+  "path": "results/runs/adapter_erase50/000000172856_s1.png",
+  "sha256": "a3b66d1dd4a5da62b99bbddce9604325dee2916fa02dfb2965c6949774bffcd4",
+  "latency_s": 1.9879616840044037,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

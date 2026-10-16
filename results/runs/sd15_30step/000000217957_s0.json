@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "sd15_30step",
+    "method": "sd15",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "none"
+  },
+  "config_hash": "50a25ea0626a66bb0ec90a9954c0e8703317fb3903621c472f0b82bcf8c26228",
+  "image_id": 217957,
+  "seed_index": 0,
+  "seed": 2461914,
+  "prompt": "A clock is shown with gold detailing around it.",
+  "path": "results/runs/sd15_30step/000000217957_s0.png",
+  "sha256": "64a0a2c0cb9aee52870eebe8cd5048a54397dbaa8d96798db2394cd369c0c2ad",
+  "latency_s": 1.9836414629971841,
+  "peak_allocated_mib": 2675.13818359375,
+  "peak_reserved_mib": 3238.0
+}

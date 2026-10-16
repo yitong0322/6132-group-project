@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_dense",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "f25fcf61e38298c2c82909b445848fd59f39f4565e113adeded45d7fab51ac96",
+  "image_id": 15517,
+  "seed_index": 0,
+  "seed": 2057034,
+  "prompt": "Buses parked on a road outside a large bus station. ",
+  "path": "results/runs/controlnet_dense/000000015517_s0.png",
+  "sha256": "f3ede3cfe769b269036b09fac8e6d50ca3ac49f92c12d9d1dc2578ac33ba15ff",
+  "latency_s": 2.7336467370041646,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

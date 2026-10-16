@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_sparse",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "e591437800140077d0a3adb6b23eea9fd6dac35575bed9dfa31bd71572efb58f",
+  "image_id": 482800,
+  "seed_index": 1,
+  "seed": 2991601,
+  "prompt": "an image of three people playing Frisbee outside",
+  "path": "results/runs/adapter_sparse/000000482800_s1.png",
+  "sha256": "e57acb1d1fa3175a6c5d74fd21eb265112decf34e30b26b9f557405c438867ac",
+  "latency_s": 1.9881983669911278,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

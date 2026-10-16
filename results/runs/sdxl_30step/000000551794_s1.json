@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "sdxl_30step",
+    "method": "sdxl",
+    "steps": 30,
+    "resolution": 1024,
+    "guidance": 5.0,
+    "condition": "none"
+  },
+  "config_hash": "7f2ff1a362b25ed9a421756a7624dd1129e6797ecf34a7ec1fc39f2ba5c3a6df",
+  "image_id": 551794,
+  "seed_index": 1,
+  "seed": 3129589,
+  "prompt": "A man riding a motorcycle on the side of a road.",
+  "path": "results/runs/sdxl_30step/000000551794_s1.png",
+  "sha256": "ebc9e3f19fa36942f710b591a2a15a6fcf8f79ea933ccf46ae87fffd760a277c",
+  "latency_s": 11.765868913003942,
+  "peak_allocated_mib": 9946.52978515625,
+  "peak_reserved_mib": 12896.0
+}

@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_8step",
+    "method": "lightning",
+    "steps": 8,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "711af09a6d55e6cffce394b70a1f925c5621329067c780a2ae6a492787f97d3f",
+  "image_id": 344909,
+  "seed_index": 0,
+  "seed": 2715818,
+  "prompt": "A red and gold painted fire hydrant on the street",
+  "path": "results/runs/lightning_8step/000000344909_s0.png",
+  "sha256": "3b21c7596edaa8b7fed6f2837e9c3be7cd0e47f9cfa6d7fb7ccc80efdb276005",
+  "latency_s": 2.596371301988256,
+  "peak_allocated_mib": 9950.0458984375,
+  "peak_reserved_mib": 12632.0
+}

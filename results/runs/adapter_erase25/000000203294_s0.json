@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase25",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase25",
+    "strength": 1.5
+  },
+  "config_hash": "80d457176300f341e45e2f76b044a50c847f1e3c3c84309a1df5ae1d17c970c5",
+  "image_id": 203294,
+  "seed_index": 0,
+  "seed": 2432588,
+  "prompt": "A tour bus with a cats face painted on the front of it",
+  "path": "results/runs/adapter_erase25/000000203294_s0.png",
+  "sha256": "855eb31a8939ff3854a1dc2f7c7c51c5fde5c32a7500de90033ab8c804191f6e",
+  "latency_s": 1.9894672939990414,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

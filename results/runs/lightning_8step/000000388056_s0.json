@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_8step",
+    "method": "lightning",
+    "steps": 8,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "711af09a6d55e6cffce394b70a1f925c5621329067c780a2ae6a492787f97d3f",
+  "image_id": 388056,
+  "seed_index": 0,
+  "seed": 2802112,
+  "prompt": "A baseball player holding a bat and getting ready for the pitch.",
+  "path": "results/runs/lightning_8step/000000388056_s0.png",
+  "sha256": "9d91a4ebc3fc80fd5f98d59028e7768a2de1d2f4a401635c9dede337fb978ba9",
+  "latency_s": 2.5880703430011636,
+  "peak_allocated_mib": 9949.2958984375,
+  "peak_reserved_mib": 12632.0
+}

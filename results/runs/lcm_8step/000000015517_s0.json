@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_8step",
+    "method": "lcm",
+    "steps": 8,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "feddce4cdbe9647508117b127ff6e71f47b840f02764b4ba859667a4e90c6edf",
+  "image_id": 15517,
+  "seed_index": 0,
+  "seed": 2057034,
+  "prompt": "Buses parked on a road outside a large bus station. ",
+  "path": "results/runs/lcm_8step/000000015517_s0.png",
+  "sha256": "9ee70e9d9ee1090aed153b58dd0d3328efbff5793bf249d7b02b1af4e43f5909",
+  "latency_s": 2.608433707995573,
+  "peak_allocated_mib": 9947.0927734375,
+  "peak_reserved_mib": 12650.0
+}

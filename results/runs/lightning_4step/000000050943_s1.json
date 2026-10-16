@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_4step",
+    "method": "lightning",
+    "steps": 4,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "16ac80513f831abd97c3f2a5ff13092269bfbb5f3406b2a8d454fc9d71c49fcd",
+  "image_id": 50943,
+  "seed_index": 1,
+  "seed": 2127887,
+  "prompt": "A person riding a wave on top of a surfboard.",
+  "path": "results/runs/lightning_4step/000000050943_s1.png",
+  "sha256": "9985a225d6bee3a75d55ba7a8f55828b38273484e0eec17a85c8a439b54d9a5e",
+  "latency_s": 1.8256527740013553,
+  "peak_allocated_mib": 9948.7958984375,
+  "peak_reserved_mib": 12632.0
+}

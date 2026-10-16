@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lightning_2step",
+    "method": "lightning",
+    "steps": 2,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "c9f1d7562e2c721c6f9d933bd0ebaabec8feb143758b08fb930248cd7d3e3ae6",
+  "image_id": 407614,
+  "seed_index": 0,
+  "seed": 2841228,
+  "prompt": "A smaller kitchen with a very decorated fridge. ",
+  "path": "results/runs/lightning_2step/000000407614_s0.png",
+  "sha256": "28000e151e7741ef346c43fd1600dfdeb854813dc79123f8241cd31ba404e4a5",
+  "latency_s": 1.4458472580008674,
+  "peak_allocated_mib": 9950.0458984375,
+  "peak_reserved_mib": 12632.0
+}

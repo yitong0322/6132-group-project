@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_erase25",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase25",
+    "strength": 1.5
+  },
+  "config_hash": "8fb8a2754192714bc32db360b571eff94829570c7be658ef8572cbbfe9dfb389",
+  "image_id": 109916,
+  "seed_index": 1,
+  "seed": 2245833,
+  "prompt": "Twp cake pans sitting and cooling on the stove",
+  "path": "results/runs/controlnet_erase25/000000109916_s1.png",
+  "sha256": "99261e96538fdefd7b1b5ab7fdac0805f8120d914ef3dbc9fec35f1216266010",
+  "latency_s": 2.7394865670066793,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

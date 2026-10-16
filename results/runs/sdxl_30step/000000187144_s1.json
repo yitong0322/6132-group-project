@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "sdxl_30step",
+    "method": "sdxl",
+    "steps": 30,
+    "resolution": 1024,
+    "guidance": 5.0,
+    "condition": "none"
+  },
+  "config_hash": "7f2ff1a362b25ed9a421756a7624dd1129e6797ecf34a7ec1fc39f2ba5c3a6df",
+  "image_id": 187144,
+  "seed_index": 1,
+  "seed": 2400289,
+  "prompt": " A white bus parked at a stop next to a crowd.",
+  "path": "results/runs/sdxl_30step/000000187144_s1.png",
+  "sha256": "4f836ac27b7f3565ff594bb73caec90f080fedce069ca5a32e8ddadb40163bec",
+  "latency_s": 11.763476851992891,
+  "peak_allocated_mib": 9946.52978515625,
+  "peak_reserved_mib": 12896.0
+}

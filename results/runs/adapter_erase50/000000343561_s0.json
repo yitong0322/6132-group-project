@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_erase50",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "erase50",
+    "strength": 1.5
+  },
+  "config_hash": "896b5ee20f16dbe54a8a8a0f8cbb30f7dfda77457ef77ac9d5f01f8363335ce2",
+  "image_id": 343561,
+  "seed_index": 0,
+  "seed": 2713122,
+  "prompt": "there are many bike riders racing in a street race",
+  "path": "results/runs/adapter_erase50/000000343561_s0.png",
+  "sha256": "73dd3faf2397da70d7e457673313d6bf9235efc165362aa629466d60e64f6ff1",
+  "latency_s": 1.9893344830052229,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

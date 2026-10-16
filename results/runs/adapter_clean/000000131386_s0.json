@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_clean",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "clean",
+    "strength": 1.5
+  },
+  "config_hash": "9ba657d5c560196238df271ac941213dbe52470be0b52f57afa1fe86ef55ed19",
+  "image_id": 131386,
+  "seed_index": 0,
+  "seed": 2288772,
+  "prompt": "A group of airplanes in the sky in formation. ",
+  "path": "results/runs/adapter_clean/000000131386_s0.png",
+  "sha256": "af5d1b2bb352bf413a5a708021fff49123d39f0fb1df99e6832be5bf2f0813ad",
+  "latency_s": 1.9908903400064446,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

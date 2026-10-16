@@ -1,0 +1,20 @@
+{
+  "config": {
+    "name": "lcm_8step",
+    "method": "lcm",
+    "steps": 8,
+    "resolution": 1024,
+    "guidance": 0.0,
+    "condition": "none"
+  },
+  "config_hash": "feddce4cdbe9647508117b127ff6e71f47b840f02764b4ba859667a4e90c6edf",
+  "image_id": 106235,
+  "seed_index": 1,
+  "seed": 2238471,
+  "prompt": "A living room featuring a comfortable seating arrangement of chairs and tables.",
+  "path": "results/runs/lcm_8step/000000106235_s1.png",
+  "sha256": "b73b2758e8bef06330dbbc75f44609b47184ec948214e836fe272867081cc684",
+  "latency_s": 2.5998035879892996,
+  "peak_allocated_mib": 9946.3427734375,
+  "peak_reserved_mib": 12650.0
+}

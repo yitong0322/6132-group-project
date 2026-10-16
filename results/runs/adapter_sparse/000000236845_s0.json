@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "adapter_sparse",
+    "method": "adapter",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "e591437800140077d0a3adb6b23eea9fd6dac35575bed9dfa31bd71572efb58f",
+  "image_id": 236845,
+  "seed_index": 0,
+  "seed": 2499690,
+  "prompt": "a red and white sign a car and some buildings",
+  "path": "results/runs/adapter_sparse/000000236845_s0.png",
+  "sha256": "4387f3b40b023eefe0971f8a340d66abbb81f50d9460f0d753c45ecfa5f559d1",
+  "latency_s": 1.9892475840024417,
+  "peak_allocated_mib": 2835.39892578125,
+  "peak_reserved_mib": 3418.0
+}

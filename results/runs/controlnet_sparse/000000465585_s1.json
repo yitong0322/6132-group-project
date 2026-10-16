@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_sparse",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "sparse",
+    "strength": 1.5
+  },
+  "config_hash": "88986ea6e18a64cdcc4d2f2c7c574e63ac06733272a42dfa6d44b4ea528ac428",
+  "image_id": 465585,
+  "seed_index": 1,
+  "seed": 2957171,
+  "prompt": "An aluminum pan full of chopped broccoli and carrots.",
+  "path": "results/runs/controlnet_sparse/000000465585_s1.png",
+  "sha256": "c919fcd0326c66b45477675492e7de53f543cd2764d6208a2be5a559b9348070",
+  "latency_s": 2.735276592997252,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_clean",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "clean",
+    "strength": 1.5
+  },
+  "config_hash": "66b43ec0d0e6b23b0522fd655cf1655236bdd2a53d75e7fff42de6022e9c484b",
+  "image_id": 407646,
+  "seed_index": 0,
+  "seed": 2841292,
+  "prompt": "A man playing tennis who is about to return a serve.",
+  "path": "results/runs/controlnet_clean/000000407646_s0.png",
+  "sha256": "940edc98e80366fbc2661a9be55f20b96c3e6c42ba11278ca6a53c335df28f4b",
+  "latency_s": 2.738241486993502,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}

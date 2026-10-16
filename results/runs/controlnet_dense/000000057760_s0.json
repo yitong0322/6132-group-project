@@ -1,0 +1,21 @@
+{
+  "config": {
+    "name": "controlnet_dense",
+    "method": "controlnet",
+    "steps": 30,
+    "resolution": 512,
+    "guidance": 7.5,
+    "condition": "dense",
+    "strength": 1.5
+  },
+  "config_hash": "f25fcf61e38298c2c82909b445848fd59f39f4565e113adeded45d7fab51ac96",
+  "image_id": 57760,
+  "seed_index": 0,
+  "seed": 2141520,
+  "prompt": "many people on a beach with a kite flying in the sky",
+  "path": "results/runs/controlnet_dense/000000057760_s0.png",
+  "sha256": "964f19881df7c09173c81f7eca2595a274691d49a58b19140b468adbb8eb5e4c",
+  "latency_s": 2.7331894209928578,
+  "peak_allocated_mib": 3410.2314453125,
+  "peak_reserved_mib": 4002.0
+}
