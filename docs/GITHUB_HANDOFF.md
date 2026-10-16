@@ -1,6 +1,6 @@
 # GitHub交接
 
-本仓库包含两个研究方向：SDXL少步加速（LCM-LoRA、SDXL-Lightning），以及SD1.5边缘控制（ControlNet、T2I-Adapter）。实验结果见EXPERIMENT_REPORT.md。
+这是一个项目，共4个method：LCM-LoRA（SDXL）、SDXL-Lightning、ControlNet Canny、T2I-Adapter Canny；另外包含原生SDXL和SD1.5两个基线。不同步数和边缘条件合计18组配置。实验结果见EXPERIMENT_REPORT.md。
 
 Git保存代码、依赖锁、文档、原图、冻结清单、逐图JSON收据、指标和历史报告。生成PNG、处理后的参考图/边缘与特征缓存在Release完整交接包中；模型权重和虚拟环境不包含，按README下载和安装。
 

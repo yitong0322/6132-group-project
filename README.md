@@ -1,4 +1,6 @@
-# 图像生成实验与同学交接
+# 6132 Group Project：图像生成实验与同学交接
+
+这是一个项目，共4个method：LCM-LoRA、SDXL-Lightning、ControlNet Canny、T2I-Adapter Canny，另有SDXL与SD1.5两个基线。
 
 本项目在本机 RTX 5060 Ti 16GB 上比较 LCM-LoRA（SDXL）与 SDXL-Lightning，并在同一新抽取 COCO 子集上重跑 ControlNet Canny、T2I-Adapter Canny，补齐共同指标。保留原生 SDXL 与 SD 1.5 基线。仅推理与评测，不训练或蒸馏模型。
 
